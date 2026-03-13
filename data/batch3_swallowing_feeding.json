@@ -1,0 +1,400 @@
+[
+  {
+    "id": "mcneill-dysphagia",
+    "name_en": "McNeill Dysphagia Therapy Programme (MDTP)",
+    "name_zh": "麥克尼爾吞咽障礙治療方案",
+    "domain": "swallowing",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "MDTP is an exercise-based dysphagia rehabilitation programme that uses progressive resistance swallowing exercises to strengthen swallowing musculature. The programme follows principles of exercise science including overload, specificity, and progressive resistance. It is particularly effective for patients with head and neck cancer and neurogenic dysphagia.",
+    "description_zh": "麥克尼爾吞咽障礙治療方案是一個基於運動的吞咽障礙康復計劃，使用漸進阻力吞咽練習來強化吞咽肌肉組織。該計劃遵循運動科學原則，包括超負荷、特異性和漸進阻力。對頭頸部癌症和神經性吞咽障礙患者特別有效。",
+    "target_population": "Adults with neurogenic or structural dysphagia, particularly post-head and neck cancer treatment",
+    "activities": [
+      "Progressive resistance swallowing with varied bolus sizes",
+      "Effortful swallow exercise sets",
+      "Hyoid and laryngeal range of motion exercises"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs; strong exercise science theoretical basis",
+    "reference": "Carnaby-Mann, G., & Crary, M. A. (2010). McNeill dysphagia therapy program: A case-control study. Archives of Physical Medicine and Rehabilitation, 91(5), 743–749. https://doi.org/10.1016/j.apmr.2010.01.013",
+    "procedure": [
+      "Conduct baseline assessment: videofluoroscopic swallow study (VFSS) or fiberoptic endoscopic evaluation of swallowing (FEES) to identify swallowing deficits",
+      "Determine starting resistance level based on patient's current swallowing strength and tolerance",
+      "Instruct patient in effortful swallow technique: swallow hard, squeezing all muscles",
+      "Progress through bolus hierarchy: start with saliva swallows, advance to water, then thickened liquids, purees, and solid foods",
+      "Implement progressive resistance: gradually increase bolus size and viscosity as patient demonstrates improved strength",
+      "Practice sessions: 3 sets of 10 swallows per session, 3 times daily, minimum 5 days per week",
+      "Monitor for signs of fatigue, aspiration, or decreased tolerance during exercises",
+      "Re-assess swallowing function bi-weekly using instrumental assessment to track progress and adjust exercise parameters"
+    ]
+  },
+  {
+    "id": "shaker-exercise",
+    "name_en": "Shaker Exercise (Head Lift Exercise)",
+    "name_zh": "謝克抬頭練習",
+    "domain": "swallowing",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "The Shaker exercise strengthens the suprahyoid musculature to improve opening of the upper oesophageal sphincter during swallowing. The exercise involves sustained and repetitive head lifts while lying supine. It has been shown to reduce aspiration and improve UES opening in patients with dysphagia following stroke and other neurological conditions.",
+    "description_zh": "謝克練習強化舌骨上肌群以改善吞咽時上食道括約肌的開放。練習涉及仰臥位的持續和重複性抬頭動作。已被證明可減少誤吸並改善中風和其他神經系統疾病後吞咽障礙患者的上食道括約肌開放。",
+    "target_population": "Adults with dysphagia due to reduced UES opening, particularly post-stroke",
+    "activities": [
+      "Sustained head lift (60 seconds) in supine position",
+      "Repetitive head lifts (30 repetitions) in supine",
+      "Home practice programme three times daily"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "RCT by Shaker et al.; replicated in multiple studies",
+    "reference": "Shaker, R., Easterling, C., Kern, M., Nitschke, T., Massey, B., Daniels, S., Grande, B., Kazandjian, M., & Dikeman, K. (2002). Rehabilitation of swallowing by exercise in tube-fed patients with pharyngeal dysphagia secondary to abnormal UES opening. Gastroenterology, 122(5), 1314–1321. https://doi.org/10.1053/gast.2002.32999",
+    "procedure": [
+      "Position patient lying flat on back (supine) on firm surface without pillow",
+      "Instruct sustained head lift: lift head to look at toes while keeping shoulders flat, hold for 60 seconds",
+      "Allow 60-second rest period after sustained lift",
+      "Instruct repetitive head lifts: lift head to look at toes, lower, repeat 30 times consecutively",
+      "Allow another 60-second rest period",
+      "Repeat the entire sequence (1 sustained + 30 repetitive lifts) three times per session",
+      "Complete exercise protocol three times daily (morning, afternoon, evening) for 6 weeks",
+      "Monitor for neck strain, dizziness, or cardiovascular symptoms; discontinue if contraindications arise",
+      "Re-assess UES opening and swallow function after 6-week protocol completion"
+    ]
+  },
+  {
+    "id": "expiratory-muscle-strength-training",
+    "name_en": "Expiratory Muscle Strength Training (EMST)",
+    "name_zh": "呼氣肌肉力量訓練",
+    "domain": "swallowing",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "EMST uses a pressure threshold device to strengthen expiratory and submental muscles involved in airway protection and swallowing. By training expiratory pressure, the treatment secondarily strengthens the suprahyoid muscles that open the UES. It has been studied in Parkinson's disease, multiple sclerosis, and post-stroke dysphagia.",
+    "description_zh": "呼氣肌肉力量訓練使用壓力閾值裝置來強化參與氣道保護和吞咽的呼氣和下頜下肌肉。通過訓練呼氣壓力，治療間接強化了打開上食道括約肌的舌骨上肌肉。已在帕金森病、多發性硬化症和中風後吞咽障礙中進行研究。",
+    "target_population": "Adults with neurogenic dysphagia, particularly Parkinson's disease and multiple sclerosis",
+    "activities": [
+      "EMST device use at 75% maximum expiratory pressure",
+      "5 sets of 5 breaths daily, 5 days per week",
+      "Progressive resistance increase over 4-week programme"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs; strong evidence for Parkinson's population",
+    "reference": "Troche, M. S., Okun, M. S., Rosenbek, J. C., Musson, N., Fernandez, H. H., Rodriguez, R., Romrell, J., Pitts, T., Wheeler-Hegland, K. M., & Sapienza, C. M. (2010). Aspiration and swallowing in Parkinson disease and rehabilitation with EMST. Neurology, 75(21), 1912–1919. https://doi.org/10.1212/WNL.0b013e3181fef877",
+    "procedure": [
+      "Conduct baseline assessment: measure maximum expiratory pressure (MEP) using pressure manometer",
+      "Set EMST device threshold to 75% of patient's MEP (calibrate device accordingly)",
+      "Instruct patient technique: seal lips firmly around mouthpiece, inhale deeply, then exhale forcefully through device",
+      "Complete 5 breaths per set with 30-second rest between breaths",
+      "Perform 5 sets per session with 1-minute rest between sets (total 25 breaths per session)",
+      "Schedule training 5 days per week for 4 weeks minimum",
+      "Re-test MEP weekly and increase device threshold to maintain 75% intensity as strength improves",
+      "Monitor for hyperventilation, dizziness, or excessive fatigue during training",
+      "Assess swallowing outcomes (penetration-aspiration scale scores) at 4-week intervals"
+    ]
+  },
+  {
+    "id": "mendelsohn-maneuver",
+    "name_en": "Mendelsohn Manoeuvre",
+    "name_zh": "門德爾松操作法",
+    "domain": "swallowing",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "The Mendelsohn manoeuvre is a volitional technique where the patient consciously holds the larynx in its elevated position during the swallow to prolong UES opening. It can be used both as a compensatory strategy during meals and as an exercise to strengthen swallowing musculature. Biofeedback (surface EMG or manometry) is often used to teach the technique.",
+    "description_zh": "門德爾松操作法是一種意志控制技術，患者在吞咽過程中有意識地保持喉部在其抬高位置，以延長上食道括約肌的開放。它既可作為進餐時的補償策略，也可作為強化吞咽肌肉組織的練習。表面肌電圖或壓力測定法的生物反饋通常用於教授此技術。",
+    "target_population": "Adults with dysphagia due to reduced laryngeal elevation or UES dysfunction",
+    "activities": [
+      "Mendelsohn hold during dry swallow practice",
+      "sEMG biofeedback to confirm laryngeal hold",
+      "Application during thin liquid and puree swallows"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Multiple controlled studies; widely used clinically",
+    "reference": "Lazarus, C., Logemann, J. A., Shi, G., Kahrilas, P. J., Pelzer, H., Kleinjan, K., & Ferrara, P. (2002). Does laryngeal elevation contribute to pharyngoesophageal segment opening during swallowing? Archives of Otolaryngology–Head and Neck Surgery, 128(4), 423–428. https://doi.org/10.1001/archotol.128.4.423",
+    "procedure": [
+      "Teach laryngeal palpation: place patient's hand on larynx to feel upward movement during swallow",
+      "Demonstrate normal swallow: patient swallows saliva while feeling larynx rise and fall",
+      "Instruct Mendelsohn hold: swallow normally, but hold larynx in elevated position for 2-3 seconds at peak of swallow",
+      "Apply surface electromyography (sEMG) biofeedback to submental muscles if available for visual confirmation of prolonged muscle contraction",
+      "Practice dry swallows with hold: 10 repetitions, focusing on sustained laryngeal elevation",
+      "Progress to liquid swallows: use small sips (5ml) of water while maintaining hold technique",
+      "Advance to varied textures: practice with purees, soft solids, ensuring consistent hold across textures",
+      "Integrate into functional eating: cue patient to use technique during meals for specific difficult textures",
+      "Monitor for fatigue and ensure adequate rest between practice trials"
+    ]
+  },
+  {
+    "id": "neuromuscular-electrical-stimulation",
+    "name_en": "Neuromuscular Electrical Stimulation (NMES/VitalStim)",
+    "name_zh": "神經肌肉電刺激治療",
+    "domain": "swallowing",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "NMES applies electrical current to the muscles of the throat to stimulate contraction and strengthen swallowing musculature, typically combined with voluntary swallowing practice. VitalStim is the most widely used NMES device specifically approved for dysphagia. Evidence is mixed, with some studies showing benefit and others showing no advantage over exercise alone.",
+    "description_zh": "神經肌肉電刺激將電流施加到喉部肌肉以刺激收縮和強化吞咽肌肉組織，通常與自願吞咽練習相結合。VitalStim是專門批准用於吞咽障礙的最廣泛使用的神經肌肉電刺激設備。證據不一，部分研究顯示有益，而其他研究則顯示與單獨練習相比沒有優勢。",
+    "target_population": "Adults with neurogenic dysphagia; used adjunctively with swallowing therapy",
+    "activities": [
+      "NMES electrode placement on submental/thyrohyoid muscles",
+      "Electrical stimulation combined with effortful swallow",
+      "Progressive parameter adjustment over treatment course"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Mixed RCT evidence; FDA-cleared but efficacy debate ongoing",
+    "reference": "Humbert, I. A., Michou, E., MacRae, P. R., & Crujido, L. (2012). Electrical stimulation and swallowing: How much do we know? Seminars in Speech and Language, 33(3), 203–216. https://doi.org/10.1055/s-0032-1320040",
+    "procedure": [
+      "Identify electrode placement sites: submental muscle group (below chin) and/or thyrohyoid region (above larynx)",
+      "Clean skin thoroughly with alcohol wipe; apply conductive gel to electrodes",
+      "Place electrodes bilaterally on target muscle groups according to manufacturer protocol",
+      "Start with low current intensity (typically 3-5 mA); gradually increase to patient tolerance level (visible muscle contraction without pain)",
+      "Set stimulation parameters: frequency 30-80 Hz, pulse width 300-700 microseconds per device specifications",
+      "Apply stimulation during swallowing exercises: cue patient to perform effortful swallows or saliva swallows during stimulation cycles",
+      "Treatment duration: 60-minute session including rest periods, typically 5 days per week for 3-4 weeks",
+      "Monitor skin for irritation, adjust electrode placement if needed",
+      "Document patient tolerance, stimulation parameters, and swallowing performance during and after treatment",
+      "Combine NMES with traditional swallowing therapy exercises for optimal outcomes"
+    ]
+  },
+  {
+    "id": "chin-tuck-against-resistance",
+    "name_en": "Chin Tuck Against Resistance (CTAR)",
+    "name_zh": "頸部前屈抗阻練習",
+    "domain": "swallowing",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "CTAR strengthens the suprahyoid muscles by having the patient perform chin tucks against a resistance ball held between the chin and sternum. This exercise has been proposed as a more comfortable and accessible alternative to the Shaker head lift exercise. Studies have shown similar effects on suprahyoid muscle strength and hyolaryngeal excursion.",
+    "description_zh": "頸部前屈抗阻練習通過讓患者將下巴對著夾在下巴和胸骨之間的阻力球進行頸部前屈來強化舌骨上肌肉。此練習被提議為謝克抬頭練習更舒適且更易獲得的替代方案。研究表明對舌骨上肌肉力量和喉舌骨活動度有相似效果。",
+    "target_population": "Adults with dysphagia due to reduced suprahyoid muscle strength",
+    "activities": [
+      "Sustained CTAR (30 seconds) against rubber ball",
+      "Repetitive CTAR (30 reps) against rubber ball",
+      "Progressive resistance increase as strength improves"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Multiple controlled studies; comparable to Shaker exercise",
+    "reference": "Yoon, W. L., Khoo, J. K., & Rickard Liow, S. J. (2014). Chin tuck against resistance (CTAR): New method for enhancing suprahyoid muscle activity using a Shaker-inspired exercise. Dysphagia, 29(2), 243–248. https://doi.org/10.1007/s00455-013-9494-8",
+    "procedure": [
+      "Position patient seated upright with neutral head alignment",
+      "Place rubber ball (approximately 5-8 cm diameter) under patient's chin against upper chest",
+      "Instruct patient to press chin down firmly against ball while maintaining pressure for 60 seconds (sustained hold)",
+      "Allow 60-second rest period",
+      "Instruct repetitive chin presses: press and release against ball 30 times consecutively",
+      "Allow another 60-second rest",
+      "Repeat entire sequence (1 sustained + 30 repetitive) three times per session",
+      "Complete protocol three times daily for 6-8 weeks",
+      "Monitor for jaw discomfort, neck strain, or temporomandibular joint pain",
+      "Progress resistance by using firmer ball or increasing hold duration as strength improves"
+    ]
+  },
+  {
+    "id": "sequential-oral-sensory",
+    "name_en": "Sequential Oral Sensory Approach (SOS)",
+    "name_zh": "序列口腔感覺進食法",
+    "domain": "feeding",
+    "age_groups": [
+      "infant",
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "The SOS Approach to Feeding is a transdisciplinary programme that addresses the full range of reasons why children have feeding difficulties, from sensory to motor to behavioural factors. Intervention follows a systematic hierarchy of steps from tolerating food in the room to eating it. It uses a play-based, child-led approach to reduce anxiety and expand food repertoire.",
+    "description_zh": "序列口腔感覺進食法是一個跨學科計劃，解決兒童進食困難的全部原因，從感覺到運動再到行為因素。介入遵循從容忍食物在房間裡到進食的系統性步驟層次。使用以遊戲為基礎、以兒童為主導的方法來減少焦慮並擴大食物種類。",
+    "target_population": "Infants and children with feeding disorders, food selectivity, sensory-based feeding difficulties",
+    "activities": [
+      "Food play hierarchy (tolerate → interact → smell → touch → taste)",
+      "Structured mealtime routine with preferred and non-preferred foods",
+      "Sensory desensitisation activities outside mealtime"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Clinical and case study evidence; widely used; RCT evidence emerging",
+    "reference": "Toomey, K. A., & Ross, E. S. (2011). SOS approach to feeding. Perspectives on Swallowing and Swallowing Disorders, 20(3), 82–87. https://doi.org/10.1044/sasd20.3.82",
+    "procedure": [
+      "Assess baseline oral sensory function: test two-point discrimination, light touch, and texture recognition",
+      "Begin with thermal stimulation: apply cold stimulus (iced swab or laryngeal mirror) to lips, tongue, and buccal surfaces bilaterally",
+      "Progress to tactile stimulation: use varying textures (soft brush, textured spoon, NUK brush) to stimulate oral structures in systematic sequence",
+      "Apply pressure-based input: gentle massage to gums, palate, and tongue using gloved finger or oral motor tool",
+      "Introduce taste stimulation: present small amounts of varied tastes (sweet, sour, salty, bitter) to heighten oral awareness",
+      "Pair sensory input with oral motor movement: after each sensory stimulus, cue tongue lateralization, lip rounding, or jaw movement",
+      "Progress through food textures: once tolerance improves, introduce actual food tastes and textures during therapy",
+      "Monitor for gag reflex, adverse reactions, or oral hypersensitivity throughout session",
+      "Educate caregivers in home sensory program for daily carryover between therapy sessions"
+    ]
+  },
+  {
+    "id": "get-permission-approach",
+    "name_en": "Get Permission Approach (Chatoor)",
+    "name_zh": "獲得許可進食法（查圖爾）",
+    "domain": "feeding",
+    "age_groups": [
+      "infant",
+      "toddler"
+    ],
+    "description_en": "The Get Permission Approach is an infant and toddler feeding intervention that targets infantile anorexia and sensory food aversion by restructuring parent-child feeding interactions. Clinicians help parents read and respond to the infant's hunger and satiety cues, reducing pressure and control. The intervention improves dyadic feeding and child food intake.",
+    "description_zh": "獲得許可進食法是針對嬰幼兒厭食症和感覺性食物厭惡的嬰幼兒進食介入，通過重組親子進食互動。治療師幫助家長讀取和回應嬰兒的飢餓和飽足感信號，減少壓力和控制。介入改善了二元進食和兒童食物攝入量。",
+    "target_population": "Infants and toddlers with infantile anorexia, sensory food aversion, or feeding relationship problems",
+    "activities": [
+      "Parent coaching on infant hunger/satiety cue recognition",
+      "Restructuring mealtime to remove pressure and coercion",
+      "Video feedback of feeding interactions"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Controlled studies by Chatoor; clinical consensus",
+    "reference": "Chatoor, I. (2009). Diagnosis and treatment of feeding disorders in infants, toddlers, and young children. Zero to Three.",
+    "procedure": [
+      "Establish rapport: sit at child's eye level, engage in brief play or conversation to build trust",
+      "Explain activity in developmentally appropriate language: 'We're going to try a new food together. Is that okay with you?'",
+      "Present food without pressure: place food on table or plate within child's reach but do not force interaction",
+      "Ask explicit permission before each step: 'Can I put this on your plate?' 'May I touch your hand with this?'",
+      "Honor child's 'no': if child refuses, acknowledge their choice and wait or offer alternative",
+      "Use graduated exposure: progress from looking, to touching, to smelling, to tasting only when child gives permission for each step",
+      "Model eating behavior: therapist or caregiver tastes food first, describes sensory properties enthusiastically",
+      "Reinforce brave behavior: praise child's willingness to engage at any level, even if they don't eat the food",
+      "End session positively: close with preferred activity or food to maintain positive association with mealtimes"
+    ]
+  },
+  {
+    "id": "division-of-responsibility",
+    "name_en": "Division of Responsibility in Feeding (Satter)",
+    "name_zh": "進食分責模式（薩特）",
+    "domain": "feeding",
+    "age_groups": [
+      "infant",
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Ellyn Satter's Division of Responsibility model assigns distinct roles to parent and child: the parent is responsible for what, when, and where food is offered; the child decides whether and how much to eat. This approach reduces mealtime conflict and promotes intuitive eating and healthy feeding relationships. It is widely used as a framework for preventing and treating childhood feeding problems.",
+    "description_zh": "艾琳·薩特的進食分責模式為家長和兒童分配不同角色：家長負責提供什麼食物、何時和在哪裡進食；兒童決定是否進食及進食多少。此方法減少進餐時間衝突，促進直覺飲食和健康的進食關係。廣泛用於預防和治療兒童進食問題的框架。",
+    "target_population": "Infants through school-age children with feeding difficulties; also preventive use",
+    "activities": [
+      "Parent education on DoR framework",
+      "Structured family meals without pressure or bribing",
+      "Variety exposure through 'food chaining' principles"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Strong theoretical framework; clinical evidence and expert consensus",
+    "reference": "Satter, E. (2000). Child of mine: Feeding with love and good sense. Bull Publishing.",
+    "procedure": [
+      "Educate caregivers on role division: parents decide WHAT food is offered, WHEN, and WHERE; child decides WHETHER to eat and HOW MUCH",
+      "Establish structured meal and snack schedule: 3 meals and 2-3 snacks at consistent times daily",
+      "Create family-style serving: present all foods (including new/non-preferred) in serving dishes; allow child to self-serve",
+      "Remove pressure: do not coax, bribe, praise eating, or restrict amounts; maintain neutral affect about child's intake",
+      "Limit meal duration: allow 20-30 minutes for meals; remove food calmly when time is up regardless of intake",
+      "Provide balanced food options: include at least one familiar/preferred food at each meal alongside new or non-preferred foods",
+      "Close kitchen between meals: offer only water between scheduled eating times to build appetite",
+      "Model healthy eating: parents eat same foods, demonstrating enjoyment without commenting on child's choices",
+      "Monitor growth and development: track weight and height regularly to ensure adequate nutrition within child-led intake approach"
+    ]
+  },
+  {
+    "id": "food-chaining",
+    "name_en": "Food Chaining",
+    "name_zh": "食物鏈接法",
+    "domain": "feeding",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Food chaining is a systematic approach to expanding a selective eater's food repertoire by making small, sequential changes to accepted foods. Each new food is linked to a preferred food through gradual modifications in taste, texture, temperature, or appearance. The goal is to build a bridge from preferred foods to nutritionally varied eating.",
+    "description_zh": "食物鏈接法是一種通過對接受的食物進行小而漸進的改變，系統性擴大偏食者食物種類的方法。通過在口味、質地、溫度或外觀上的逐漸修改，每種新食物都與偏好食物相連接。目標是從偏好食物建立橋梁，達到營養多樣化的飲食。",
+    "target_population": "Toddlers and school-age children with food selectivity or limited food repertoire",
+    "activities": [
+      "Mapping preferred food chains and identifying small modifications",
+      "Systematic introduction of 'chained' foods at mealtimes",
+      "Reinforcement and celebration of small acceptance steps"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Clinical evidence and case studies; widely practised",
+    "reference": "Fraker, C., Fishbein, M., Cox, S., & Walbert, L. (2007). Food chaining: The proven 6-step plan to stop picky eating, solve feeding problems, and expand your child's diet. Da Capo Press.",
+    "procedure": [
+      "Conduct food preference inventory: identify all currently accepted foods and categorize by taste, texture, temperature, and color",
+      "Analyze accepted foods: determine common characteristics (e.g., all crunchy, all beige, all salty)",
+      "Map food chain pathway: create progression of small modifications from accepted food toward target food",
+      "Introduce first chain link: present food that differs by only ONE characteristic from accepted food (e.g., if child eats chicken nuggets, try fish sticks with similar breading)",
+      "Use familiar presentation: serve new chain food on same plate, at same time, in same setting as accepted food",
+      "Allow exploration without pressure: child may look, touch, smell, lick, or spit out new food; all interactions count as progress",
+      "Repeat exposure: present same chain food 10-15 times before determining acceptance or need to modify chain",
+      "Progress chain: once child accepts current link, introduce next small variation (e.g., change shape, brand, or cooking method slightly)",
+      "Document chain pathway: track which modifications were accepted or rejected to inform future food introductions",
+      "Celebrate wins: acknowledge child's bravery in trying foods at each chain step, reinforcing exploratory behavior"
+    ]
+  },
+  {
+    "id": "neonatal-oral-motor",
+    "name_en": "Neonatal Oral Motor Assessment and Intervention",
+    "name_zh": "新生兒口腔運動評估與介入",
+    "domain": "feeding",
+    "age_groups": [
+      "infant"
+    ],
+    "description_en": "Neonatal oral motor intervention supports preterm and medically fragile infants in developing safe and efficient oral feeding through non-nutritive sucking, pacing, and sensory stimulation. Clinicians assess oral motor skills, state regulation, and swallowing safety before advancing oral feeding. Intervention is delivered in the NICU setting in collaboration with the medical team.",
+    "description_zh": "新生兒口腔運動介入通過非營養性吸吮、節奏調整和感覺刺激，支持早產和醫療脆弱的嬰兒發展安全有效的口腔進食。治療師在推進口腔進食前評估口腔運動技能、狀態調節和吞咽安全性。介入在新生兒重症監護室環境中與醫療團隊合作進行。",
+    "target_population": "Preterm infants and medically fragile neonates in NICU settings",
+    "activities": [
+      "Non-nutritive sucking facilitation with pacifier",
+      "Oral stimulation programme (cheek, lip, gum stimulation)",
+      "Pacing techniques during bottle feeding"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs for preterm infant oral feeding; systematic reviews available",
+    "reference": "Lessen, B. S. (2011). Effect of the premature infant oral motor intervention on feeding progression and length of stay in preterm infants. Advances in Neonatal Care, 11(2), 129–139. https://doi.org/10.1097/ANC.0b013e31820ac0a2",
+    "procedure": [
+      "Assess infant's readiness: check for behavioral feeding cues (rooting, sucking on hands, alertness) and physiological stability",
+      "Position infant appropriately: semi-upright position (45-60 degrees) with head and neck in neutral alignment, supported in therapist's or caregiver's arm",
+      "Provide pre-feeding oral stimulation: gentle stroking of cheeks, lips, and gums to increase oral awareness and prepare for feeding",
+      "Support jaw stability: use external jaw support (thumb under chin, index finger on cheek) to assist with jaw grading during suck",
+      "Pace feeding: allow infant to suck-swallow-breathe in coordinated pattern; tip bottle down or remove nipple every 3-5 sucks to enforce breaks",
+      "Monitor for stress cues: watch for color change, increased work of breathing, gagging, coughing, or loss of coordination; stop and provide break if signs emerge",
+      "Provide chin and cheek support as needed: facilitate lip seal and effective suck pattern through gentle external support",
+      "Progress to self-regulation: gradually reduce external support as infant demonstrates improved coordination and endurance",
+      "Document intake, duration, and physiological tolerance: track volume consumed, feeding time, oxygen saturation, and adverse events each session"
+    ]
+  },
+  {
+    "id": "behavioral-feeding-intervention",
+    "name_en": "Behavioural Feeding Intervention",
+    "name_zh": "行為進食介入法",
+    "domain": "feeding",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Behavioural feeding interventions use applied behaviour analysis principles including escape extinction, differential reinforcement, and stimulus fading to treat severe paediatric feeding disorders. Intensive programmes (typically 8 hours/day over 2–3 weeks) are used for children who refuse all or nearly all foods. These approaches are highly effective but require careful ethical implementation.",
+    "description_zh": "行為進食介入使用應用行為分析原則，包括逃避消除、差異性強化和刺激消退，治療嚴重的兒科進食障礙。密集計劃（通常每天8小時，持續2至3週）用於拒絕所有或幾乎所有食物的兒童。這些方法非常有效，但需要謹慎的倫理實施。",
+    "target_population": "Children with severe paediatric feeding disorders, food refusal, or medically-based feeding problems",
+    "activities": [
+      "Escape extinction procedure during food presentation",
+      "Differential reinforcement of acceptance responses",
+      "Stimulus fading of texture and volume"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong RCT and single-case experimental evidence; ASHA-endorsed for severe cases",
+    "reference": "Linscheid, T. R. (2006). Behavioral treatments for pediatric feeding disorders. Behavior Modification, 30(1), 6–23. https://doi.org/10.1177/0145445505282165",
+    "procedure": [
+      "Conduct functional behavior assessment: identify antecedents (food type, texture, setting) and consequences (escape, attention) maintaining feeding refusal",
+      "Establish baseline: measure current intake, variety of foods accepted, meal duration, and frequency of refusal behaviors",
+      "Define target behaviors: specify measurable goals (e.g., accepts 3 bites of non-preferred food, sits at table for 15 minutes)",
+      "Implement escape extinction: present bite, use gentle physical guidance if needed, do not remove demand when child refuses; wait for acceptance",
+      "Use differential reinforcement: provide high-value reinforcer (praise, preferred activity, token) immediately following bite acceptance or appropriate mealtime behavior",
+      "Manage challenging behaviors: use planned ignoring for minor protests; use redirection or time-out for aggression; return to task after brief break",
+      "Fade prompts systematically: reduce physical guidance to verbal cue to visual cue to independent as child's compliance increases",
+      "Generalize across settings: once skills emerge in therapy, train caregivers to implement protocol at home during family meals",
+      "Monitor safety and ethics: ensure child is medically cleared for behavioral feeding; collaborate with medical team; stop if signs of aspiration or medical distress",
+      "Track progress with data: graph daily intake, food variety, and refusal behaviors to evaluate treatment effectiveness and adjust protocol as needed"
+    ]
+  }
+]
