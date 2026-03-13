@@ -1,0 +1,433 @@
+[
+  {
+    "id": "thermal-tactile-application",
+    "name_en": "Thermal-Tactile Application (TTA)",
+    "name_zh": "冷熱觸覺刺激法",
+    "domain": "swallowing",
+    "age_groups": [
+      "infant",
+      "toddler",
+      "preschool",
+      "school_age",
+      "adult"
+    ],
+    "description_en": "A technique using thermal and tactile stimulation to increase oral and pharyngeal awareness prior to swallowing. Involves applying a cold stimulus to the anterior faucial arches to heighten sensory awareness and trigger the swallow reflex more efficiently.",
+    "description_zh": "利用冷熱與觸覺刺激提升口腔及咽部感知，促進吞嚥反射的技術。通過對前咽弓施加冷刺激，增強感覺意識並更有效地觸發吞嚥反射。",
+    "target_population": "Individuals with delayed or absent swallow reflex, reduced oral-pharyngeal sensitivity",
+    "activities": [
+      "Apply cold laryngeal mirror to anterior faucial arches",
+      "Present small bolus immediately after stimulation",
+      "Repeat stimulation 5-10 times before each meal"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Mixed evidence; some studies show reduced swallow delay, others show limited carryover effects",
+    "reference": "Rosenbek, J. C., Robbins, J. A., Roecker, E. B., Coyle, J. L., & Wood, J. L. (1996). A penetration-aspiration scale. Dysphagia, 11(2), 93-98. https://doi.org/10.1007/BF00417897",
+    "procedure": [
+      "Chill laryngeal mirror in ice water for 10 seconds to achieve cold temperature for thermal stimulation",
+      "Position patient upright at 90 degrees with head in neutral position for optimal swallow mechanics",
+      "Apply cold mirror tip to anterior faucial pillar with 5-6 firm downward strokes on each side",
+      "Immediately after thermal stimulation, instruct patient to swallow saliva or small bolus to elicit swallow reflex",
+      "Complete 5-10 stimulation cycles per session (bilateral stimulation followed by swallow attempt)",
+      "Document swallow latency (time from cue to swallow initiation) and any change in swallow trigger",
+      "Perform bilateral stimulation (both sides of oral cavity) to maximize sensory input to swallowing centers",
+      "Reassess swallow function with clinical or instrumental assessment after 2-3 weeks to evaluate efficacy"
+    ]
+  },
+  {
+    "id": "tongue-pressure-training-iowa",
+    "name_en": "Tongue Pressure Training (Iowa Oral Performance Instrument)",
+    "name_zh": "舌壓訓練法",
+    "domain": "swallowing",
+    "age_groups": [
+      "preschool",
+      "school_age",
+      "adult"
+    ],
+    "description_en": "A progressive resistance training program using the Iowa Oral Performance Instrument (IOPI) to strengthen tongue muscles. Improves tongue-palate contact pressures necessary for safe and efficient swallowing through systematic, measured exercises.",
+    "description_zh": "使用愛荷華口腔表現儀器（IOPI）進行漸進式阻力訓練，強化舌部肌肉。通過系統化、可測量的練習，改善安全有效吞嚥所需的舌腭接觸壓力。",
+    "target_population": "Post-stroke dysphagia, age-related weakness, tongue weakness affecting bolus control",
+    "activities": [
+      "Measure baseline maximum tongue pressure with IOPI",
+      "Practice tongue presses at 60-80% of maximum pressure",
+      "Complete 3 sets of 10 repetitions daily, 5-7 days per week"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong evidence for improving tongue strength; moderate evidence for functional swallowing outcomes",
+    "reference": "Robbins, J., Kays, S. A., Gangnon, R. E., Hind, J. A., Hewitt, A. L., Gentry, L. R., & Taylor, A. J. (2007). The effects of lingual exercise in stroke patients with dysphagia. Archives of Physical Medicine and Rehabilitation, 88(2), 150-158. https://doi.org/10.1016/j.apmr.2006.11.002",
+    "procedure": [
+      "Calibrate Iowa Oral Performance Instrument (IOPI) and ensure bulb is positioned correctly against hard palate",
+      "Measure baseline Maximum Isometric Tongue Pressure (MITPr) with 3 trials, record highest value in kPa",
+      "Set training target at 60-80% of baseline MITPr to provide adequate resistance without fatigue",
+      "Instruct patient to compress bulb against hard palate and hold at target pressure for 1 second",
+      "Complete 3 sets of 10 repetitions per session with 1-minute rest between sets to prevent muscle fatigue",
+      "Advance target pressure by 5-10% when patient achieves 30 consecutive successful repetitions at current level",
+      "Reassess MITPr every 2 weeks to track strength gains and adjust training intensity accordingly",
+      "Monitor for signs of muscle fatigue or discomfort; reduce intensity if patient unable to complete full protocol"
+    ]
+  },
+  {
+    "id": "iddsi-texture-modification",
+    "name_en": "Diet Texture Modification (IDDSI Framework)",
+    "name_zh": "飲食質感調整（IDDSI框架）",
+    "domain": "swallowing",
+    "age_groups": [
+      "infant",
+      "toddler",
+      "preschool",
+      "school_age",
+      "adult"
+    ],
+    "description_en": "The International Dysphagia Diet Standardisation Initiative (IDDSI) provides a global standardized framework for describing texture-modified foods and thickened liquids. Uses evidence-based levels (0-7) to ensure safe and consistent diet recommendations across settings.",
+    "description_zh": "國際吞嚥障礙飲食標準化倡議（IDDSI）提供全球標準化框架，描述質感調整食物和增稠液體。使用實證為本的等級（0-7），確保跨環境的安全一致飲食建議。",
+    "target_population": "Individuals with dysphagia requiring modified food textures or liquid consistency",
+    "activities": [
+      "Assess swallowing ability and determine appropriate IDDSI level",
+      "Educate caregivers on IDDSI testing methods (fork drip test, spoon tilt test)",
+      "Monitor tolerance and adjust texture levels as swallowing improves"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "International consensus framework with extensive validation and global adoption",
+    "reference": "Cichero, J. A., Lam, P., Steele, C. M., Hanson, B., Chen, J., Dantas, R. O., ... & Pillay, M. (2017). Development of international terminology and definitions for texture-modified foods and thickened fluids used in dysphagia management: The IDDSI framework. Dysphagia, 32(2), 293-314. https://doi.org/10.1007/s00455-016-9758-y",
+    "procedure": [
+      "Complete comprehensive clinical swallow assessment to identify unsafe textures and physiological deficits",
+      "Determine appropriate IDDSI level (0-7) for liquids and foods based on swallow safety and efficiency findings",
+      "Consult with registered dietitian to ensure modified textures meet nutritional needs and patient preferences",
+      "Trial recommended IDDSI texture level with patient using syringe or flow test to verify consistency",
+      "Educate patient and family on IDDSI framework, preparation methods, and testing procedures using provided tools",
+      "Document recommended texture levels in care plan and communicate to all care team members and food service",
+      "Reassess swallow function every 4-6 weeks or with clinical change to determine if texture upgrade is warranted",
+      "Trial texture upgrade (move toward less restrictive level) when instrumental or clinical evidence supports improved safety"
+    ]
+  },
+  {
+    "id": "supraglottic-swallow",
+    "name_en": "Supraglottic Swallow Maneuver",
+    "name_zh": "聲門上吞嚥法",
+    "domain": "swallowing",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "A voluntary swallow technique designed to close the vocal folds before and during the swallow to prevent aspiration. The patient holds their breath, swallows, then coughs immediately after to clear any residue from the laryngeal vestibule.",
+    "description_zh": "一種自主吞嚥技術，旨在吞嚥前後閉合聲帶以防止誤吸。患者屏住呼吸、吞嚥，然後立即咳嗽以清除喉前庭殘留物。",
+    "target_population": "Individuals with reduced airway closure, risk of aspiration during the swallow",
+    "activities": [
+      "Inhale and hold breath tightly",
+      "Swallow while continuing to hold breath",
+      "Cough immediately after swallowing to clear airway"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Well-established technique with evidence for reducing aspiration in specific populations",
+    "reference": "Martin, B. J., Logemann, J. A., Shaker, R., & Dodds, W. J. (1993). Normal laryngeal valving patterns during three breath-hold maneuvers: A pilot investigation. Dysphagia, 8(1), 11-20. https://doi.org/10.1007/BF01351472",
+    "procedure": [
+      "Confirm patient is alert, able to follow multi-step commands, and has adequate respiratory function for breath-holding",
+      "Explain 3-step sequence: take breath and hold it, swallow while holding breath, then cough immediately after swallowing",
+      "Practice breath-hold in isolation for 3-5 seconds to ensure patient can achieve and sustain airway closure",
+      "Practice complete dry swallow sequence (breath-hold, swallow, cough) without bolus until patient demonstrates mastery",
+      "Introduce small bolus (3-5ml) and practice full sequence with food/liquid to apply technique functionally",
+      "Monitor for signs of laryngeal penetration or aspiration (throat clearing, cough, wet vocal quality) during trials",
+      "Complete 5-10 practice trials per session with rest breaks to prevent fatigue and maintain technique quality",
+      "Schedule instrumental reassessment (FEES or VFSS) after 4-6 weeks of practice to document reduced aspiration"
+    ]
+  },
+  {
+    "id": "effortful-swallow",
+    "name_en": "Effortful Swallow",
+    "name_zh": "用力吞嚥法",
+    "domain": "swallowing",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "A compensatory technique that increases posterior tongue base retraction and pharyngeal pressure during swallowing. Patients are instructed to squeeze hard with all swallowing muscles to improve bolus clearance and reduce pharyngeal residue.",
+    "description_zh": "一種代償技術，增加吞嚥時舌根後縮和咽部壓力。指導患者用力收縮所有吞嚥肌肉，以改善食團清除並減少咽部殘留。",
+    "target_population": "Reduced tongue base retraction, pharyngeal residue, weak pharyngeal contraction",
+    "activities": [
+      "Instruct patient to swallow as hard as possible",
+      "Squeeze all muscles in throat and mouth during swallow",
+      "Practice with saliva first, then progress to food/liquid"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Evidence supports increased pharyngeal pressures and tongue base movement",
+    "reference": "Hind, J. A., Nicosia, M. A., Roecker, E. B., Carnes, M. L., & Robbins, J. (2001). Comparison of effortful and noneffortful swallows in healthy middle-aged and older adults. Archives of Physical Medicine and Rehabilitation, 82(12), 1661-1665. https://doi.org/10.1053/apmr.2001.28006",
+    "procedure": [
+      "Explain rationale: increased effort recruits more muscle activity to improve bolus clearance and reduce residue",
+      "Demonstrate maximum squeeze maneuver by showing exaggerated facial/neck tension during swallow",
+      "Begin with dry swallows, asking patient to rate effort on 1-10 scale and aim for 8-10 effort level",
+      "Introduce 5ml bolus and instruct patient to swallow with hard squeeze, thinking squeeze all the way down",
+      "Complete 3 sets of 5 effortful swallows per session with 30-second rest between sets",
+      "Gradually advance bolus size and texture as patient maintains effortful technique with smaller volumes",
+      "Monitor for excessive tension or fatigue; cue patient to focus effort on pharyngeal squeeze not neck muscles",
+      "Reassess pharyngeal residue using FEES or VFSS after 6-8 weeks to document improved clearance"
+    ]
+  },
+  {
+    "id": "masako-maneuver",
+    "name_en": "Masako Maneuver (Tongue-Hold Swallow)",
+    "name_zh": "正子吞嚥法（舌持法）",
+    "domain": "swallowing",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "An exercise designed to strengthen pharyngeal wall muscles by having the patient hold their tongue between their teeth while swallowing. This prevents tongue base retraction and increases the workload on the pharyngeal constrictors.",
+    "description_zh": "通過讓患者在吞嚥時將舌頭置於牙齒之間，以強化咽壁肌肉的運動。這防止舌根後縮，增加咽收縮肌的工作負荷。",
+    "target_population": "Reduced pharyngeal wall movement, pharyngeal residue in valleculae or pyriform sinuses",
+    "activities": [
+      "Hold tongue gently between front teeth",
+      "Attempt to swallow saliva while maintaining tongue position",
+      "Complete 10 repetitions, 3 times daily (exercise only, not for food/liquid)"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Evidence shows increased pharyngeal wall activation; limited evidence for functional outcomes",
+    "reference": "Fujiu, M., & Logemann, J. A. (1996). Effect of a tongue-holding maneuver on posterior pharyngeal wall movement during deglutition. American Journal of Speech-Language Pathology, 5(1), 23-30. https://doi.org/10.1044/1058-0360.0501.23",
+    "procedure": [
+      "Explain rationale: holding tongue forward during swallow strengthens posterior pharyngeal wall contraction",
+      "Note contraindications: tongue weakness, reduced base of tongue retraction, post-glossectomy patients",
+      "Practice tongue protrusion: patient gently bites tongue between teeth to maintain forward position",
+      "Perform dry swallows with tongue held gently between teeth, ensuring patient feels pharyngeal contraction",
+      "Complete 5-10 swallows per set for 2-3 sets per session, with rest breaks to minimize tongue fatigue",
+      "Monitor for tongue discomfort, soreness, or inability to maintain position; reduce repetitions if needed",
+      "Emphasize this is exercise only, not a compensatory strategy - never use with food or liquid",
+      "Reassess with FEES or VFSS after 6-8 weeks of strengthening to evaluate improved pharyngeal wall movement"
+    ]
+  },
+  {
+    "id": "pharyngeal-strengthening",
+    "name_en": "Pharyngeal Strengthening Exercises",
+    "name_zh": "咽部強化訓練",
+    "domain": "swallowing",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "A series of exercises targeting pharyngeal musculature to improve swallow strength and coordination. Includes resistance exercises, isometric holds, and functional swallowing tasks designed to enhance pharyngeal constriction and bolus clearance.",
+    "description_zh": "針對咽部肌肉組織的系列訓練，改善吞嚥力量和協調性。包括阻力訓練、等長收縮及功能性吞嚥任務，旨在增強咽部收縮和食團清除能力。",
+    "target_population": "Pharyngeal weakness, reduced pharyngeal constriction, post-radiation therapy",
+    "activities": [
+      "Gargle exercises with sustained vocalization",
+      "Yawn and hold to stretch pharyngeal muscles",
+      "Progressive resistance swallowing with varied bolus sizes"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Emerging evidence for pharyngeal strengthening protocols; more research needed",
+    "reference": "Shaker, R., Easterling, C., Kern, M., Nitschke, T., Massey, B., Daniels, S., ... & Dikeman, K. (2002). Rehabilitation of swallowing by exercise in tube-fed patients with pharyngeal dysphagia secondary to abnormal UES opening. Gastroenterology, 122(5), 1314-1321. https://doi.org/10.1053/gast.2002.32999",
+    "procedure": [
+      "Complete instrumental assessment (FEES or VFSS) to identify specific pharyngeal weakness (base of tongue, pharyngeal wall, UES opening)",
+      "Select targeted exercises based on deficit: Masako for pharyngeal wall, effortful swallow for BOT, Mendelsohn for UES",
+      "Establish baseline measures using validated tools (PAS score, residue rating, pharyngeal constriction measures)",
+      "Introduce exercises as dry swallow practice only, ensuring patient understands proper technique and muscle target",
+      "Prescribe home exercise programme: 3 sets of 10 repetitions twice daily (morning and evening) for consistency",
+      "Monitor for muscle fatigue, soreness, or decreased performance; adjust intensity or repetitions as needed",
+      "Schedule instrumental reassessment every 6-8 weeks to measure physiological change and guide programme progression",
+      "Modify exercise programme based on reassessment findings: advance intensity, change exercises, or introduce functional practice"
+    ]
+  },
+  {
+    "id": "tube-weaning-graz",
+    "name_en": "Tube Weaning (Graz Model / Netcoaching)",
+    "name_zh": "管飼脫離訓練",
+    "domain": "feeding",
+    "age_groups": [
+      "infant",
+      "toddler",
+      "preschool"
+    ],
+    "description_en": "A systematic approach to weaning children from tube feeding developed in Graz, Austria. Emphasizes hunger provocation, parent empowerment, and multidisciplinary support to transition from enteral to oral feeding while monitoring nutritional status and growth.",
+    "description_zh": "一種系統化的兒童管飼脫離方法，源自奧地利格拉茨。強調飢餓刺激、家長賦能及多學科支持，在監測營養狀況和成長的同時，從腸道餵養過渡到口腔餵養。",
+    "target_population": "Children dependent on tube feeding with medical stability for oral transition",
+    "activities": [
+      "Gradual reduction of tube feeding volume to stimulate hunger",
+      "Parent coaching on responsive feeding and managing tube dependency",
+      "Multidisciplinary monitoring of weight, hydration, and oral intake"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong evidence from multiple centers; high success rates with structured protocol",
+    "reference": "Dunitz-Scheer, M., Levine, A., Roth, Y., Kratky, E., Beckenbach, H., Kuschnig, A., ... & Scheer, P. J. (2009). Prevention and treatment of tube dependency in infancy and early childhood. ICAN: Infant, Child, & Adolescent Nutrition, 1(2), 73-82. https://doi.org/10.1177/1941406409333209",
+    "procedure": [
+      "Obtain comprehensive history: tube duration, previous oral feeding attempts, medical comorbidities, developmental level",
+      "Assess oral feeding potential: oral motor skills, swallow safety, hunger cues, behavioral readiness for oral intake",
+      "Establish baseline oral intake diary for 3-5 days: document all oral attempts, volume, textures, behaviors",
+      "Implement hunger-based feeding schedule: reduce tube feeding volume by 10-20% to create mild hunger without malnutrition",
+      "Offer oral feeding in pressure-free, play-based environment during peak hunger times (before scheduled tube feeds)",
+      "Gradually shift caloric balance from tube to oral: increase oral opportunities and decrease tube volumes systematically",
+      "Monitor weight weekly with dietitian oversight; ensure weight remains stable or shows controlled growth during weaning",
+      "Discharge tube feeding when child sustains full oral nutrition for 2 consecutive weeks with adequate growth trajectory"
+    ]
+  },
+  {
+    "id": "aba-feeding-intervention",
+    "name_en": "Applied Behaviour Analysis (ABA) for Feeding",
+    "name_zh": "應用行為分析進食介入",
+    "domain": "feeding",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Uses principles of Applied Behaviour Analysis to address severe feeding difficulties, particularly food refusal and selectivity. Employs systematic reinforcement, escape extinction, and shaping procedures to expand food repertoire and improve mealtime behaviour.",
+    "description_zh": "運用應用行為分析原理處理嚴重進食困難，特別是拒食和選擇性進食。採用系統化強化、逃避消退及塑造程序，擴展食物接受範圍並改善進餐行為。",
+    "target_population": "Severe food refusal, highly selective eating, autism spectrum disorder with feeding issues",
+    "activities": [
+      "Systematic desensitization to new foods using small steps",
+      "Positive reinforcement for food acceptance and tasting",
+      "Escape extinction to reduce food refusal behaviours"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Strong empirical support for improving food acceptance in severe feeding disorders",
+    "reference": "Sharp, W. G., Jaquess, D. L., Morton, J. F., & Herzinger, C. V. (2010). Pediatric feeding disorders: A quantitative synthesis of treatment outcomes. Clinical Child and Family Psychology Review, 13(4), 348-365. https://doi.org/10.1007/s10567-010-0079-7",
+    "procedure": [
+      "Conduct comprehensive feeding assessment and functional behavior analysis: ABC data (antecedent, behavior, consequence)",
+      "Complete preference assessment to identify high-value reinforcers (toys, praise, activities) for positive feeding behaviors",
+      "Define target food and create exposure hierarchy: touching food, smelling, licking, biting, chewing, swallowing",
+      "Implement systematic desensitization with positive reinforcement: reward approximations toward target eating behavior",
+      "Use extinction procedures for maladaptive behaviors (food refusal, tantrums, mouth packing): withhold reinforcement consistently",
+      "Advance through hierarchy when child accepts current step 3 consecutive times at 80% success rate",
+      "Generalize skills across people (parents, siblings, teachers) and settings (home, school, restaurants) systematically",
+      "Develop maintenance plan: fading reinforcement schedule, monitoring protocols, booster session schedule for setbacks"
+    ]
+  },
+  {
+    "id": "beckman-oral-motor",
+    "name_en": "Beckman Oral Motor Protocol",
+    "name_zh": "貝克曼口腔運動方案",
+    "domain": "feeding",
+    "age_groups": [
+      "infant",
+      "toddler",
+      "preschool"
+    ],
+    "description_en": "A comprehensive oral motor intervention program designed to improve feeding skills in infants and young children. Focuses on jaw, lip, and tongue exercises combined with sensory techniques to enhance oral motor control for safe and efficient feeding.",
+    "description_zh": "一套全面的口腔運動介入方案，旨在改善嬰幼兒的進食技能。專注於下顎、嘴唇和舌頭運動，結合感覺技術，以增強安全有效進食的口腔運動控制。",
+    "target_population": "Infants and children with oral motor delays, hypotonia, or coordination difficulties",
+    "activities": [
+      "Systematic jaw grading exercises for controlled bite",
+      "Lip and tongue strengthening activities",
+      "Sensory integration techniques for oral acceptance"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Clinical support; limited controlled studies on functional feeding outcomes",
+    "reference": "Beckman, D. A. (2013). Beckman oral motor assessment and intervention. Beckman & Associates.",
+    "procedure": [
+      "Complete formal Beckman Oral Motor Assessment to identify specific deficits in tone, range, strength, and function",
+      "Obtain informed consent explaining hands-on oral motor facilitation approach and therapeutic handling techniques",
+      "Cheek and lip stretches: gentle lateral and circular stretches to improve tone and range of motion",
+      "Jaw activation: provide graded upward pressure under chin during mouth opening to facilitate jaw stability and grading",
+      "Tongue activation: use tongue depressor to provide resistance for tongue elevation, lateralization, and protrusion",
+      "Lip closure work: facilitate lip rounding and closure using gentle touch cues and resistance at lip corners",
+      "Complete 5-10 assisted repetitions per oral motor component with careful monitoring of infant tolerance",
+      "Document infant responses, tolerance, and carryover to feeding; reassess monthly to track progress and adjust techniques"
+    ]
+  },
+  {
+    "id": "responsive-feeding-therapy",
+    "name_en": "Responsive Feeding Therapy",
+    "name_zh": "回應式餵養治療",
+    "domain": "feeding",
+    "age_groups": [
+      "infant",
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "A child-centered feeding approach that emphasizes recognizing and responding appropriately to a child's hunger and satiety cues. Promotes a positive feeding relationship by balancing parental structure with child autonomy, reducing mealtime conflict and improving intake.",
+    "description_zh": "以兒童為中心的餵養方法，強調識別並適當回應兒童的飢餓和飽足信號。通過平衡家長結構與兒童自主性，促進正向餵養關係，減少進餐衝突並改善攝入。",
+    "target_population": "General feeding difficulties, poor appetite, parent-child feeding conflicts",
+    "activities": [
+      "Teach parents to recognize infant/child hunger and fullness cues",
+      "Practice responsive prompting without pressure or coercion",
+      "Establish predictable meal structure while respecting child autonomy"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong theoretical foundation and growing evidence base for preventing and treating feeding problems",
+    "reference": "Black, M. M., & Aboud, F. E. (2011). Responsive feeding is embedded in a theoretical framework of responsive parenting. The Journal of Nutrition, 141(3), 490-494. https://doi.org/10.3945/jn.110.129973",
+    "procedure": [
+      "Observe full mealtime interaction to identify non-responsive patterns (pressure, distraction, disengagement, control battles)",
+      "Educate caregivers on responsive feeding principles: division of responsibility, reciprocal interaction, attunement to cues",
+      "Address mealtime structure: regular schedule, appropriate duration, minimizing distractions to support engagement",
+      "Teach recognition of infant/child hunger and satiety cues across developmental stages (early, active, late cues)",
+      "Guide caregivers to offer food without pressure: present, encourage, accept refusal, trust child appetite regulation",
+      "Provide in-session coaching during mealtimes with real-time feedback on responsive vs. non-responsive interactions",
+      "Systematically reduce non-responsive feeding strategies: coaxing, forcing, bribing, distracting during spoon delivery",
+      "Reassess feeding relationship and mealtime quality monthly using validated measures and caregiver report"
+    ]
+  },
+  {
+    "id": "taste-exposure-therapy",
+    "name_en": "Taste Exposure Therapy",
+    "name_zh": "味覺暴露治療",
+    "domain": "feeding",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "A systematic approach to expanding food variety through repeated neutral exposure to new tastes and textures. Based on the principle that familiarity increases acceptance, children are exposed to target foods multiple times without pressure to eat, gradually reducing neophobia.",
+    "description_zh": "通過重複中性接觸新味道和質感，系統化擴展食物多樣性的方法。基於熟悉度提升接受度的原理，兒童在無進食壓力下多次接觸目標食物，逐漸減少新食物恐懼。",
+    "target_population": "Food neophobia, selective eating, limited food variety",
+    "activities": [
+      "Present new food 10-15 times without pressure to eat",
+      "Encourage exploration through touch, smell, and small tastes",
+      "Track exposure frequency and acceptance progression"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Well-supported by research on repeated exposure and food acceptance in children",
+    "reference": "Cooke, L. (2007). The importance of exposure for healthy eating in childhood: A review. Journal of Human Nutrition and Dietetics, 20(4), 294-301. https://doi.org/10.1111/j.1365-277X.2007.00804.x",
+    "procedure": [
+      "Obtain detailed food history: accepted foods, rejected foods, level of exposure tolerance, sensory patterns",
+      "Explain systematic exposure rationale to family: repeated neutral exposures without eating pressure reduce food neophobia",
+      "Develop food hierarchy ranking target foods from least to most challenging based on sensory properties",
+      "Begin with food play and exploration activities without any expectation of eating (touching, smelling, playing)",
+      "Progress to near-mouth exposure: food on plate, touching lips, kissing food, licking without swallowing",
+      "Introduce taste exposure: small lick or taste, spit out allowed, no pressure to swallow initially",
+      "Advance through hierarchy with 3-5 neutral exposures per step before progressing to next level",
+      "Set goal of 10-15 total exposures per target food before expecting acceptance; track exposure frequency and responses"
+    ]
+  },
+  {
+    "id": "sensory-based-feeding-intervention",
+    "name_en": "Sensory-Based Feeding Intervention",
+    "name_zh": "感覺為本進食介入",
+    "domain": "feeding",
+    "age_groups": [
+      "infant",
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "An intervention approach addressing feeding difficulties related to sensory processing challenges. Uses graded sensory exposure, environmental modifications, and desensitization techniques to help children tolerate and accept a wider variety of food textures, temperatures, and flavors.",
+    "description_zh": "針對感覺處理挑戰相關進食困難的介入方法。使用漸進式感覺暴露、環境調整及脫敏技術，幫助兒童耐受並接受更廣泛的食物質感、溫度和味道。",
+    "target_population": "Sensory processing disorder, tactile defensiveness, extreme texture selectivity",
+    "activities": [
+      "Graded exposure to varied food textures (smooth to mixed to lumpy)",
+      "Oral sensory play activities outside of mealtimes",
+      "Environmental adaptations to reduce sensory overload during meals"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Clinical support and case studies; emerging controlled research",
+    "reference": "Engel-Yeger, B., Hardal-Nasser, R., & Gal, E. (2011). Sensory processing dysfunctions as expressed among children with different severities of intellectual developmental disabilities. Research in Developmental Disabilities, 32(5), 1770-1775. https://doi.org/10.1016/j.ridd.2011.03.005",
+    "procedure": [
+      "Complete comprehensive sensory processing assessment (e.g., Sensory Profile, SPM) to identify patterns and preferences",
+      "Classify sensory pattern: hyper-responsive (defensive, avoidant) vs. hypo-responsive (seeking, under-reactive) to guide intervention",
+      "Implement sensory desensitization programme starting with non-oral activities: messy play, tactile bins, brushing protocol",
+      "Introduce sensory oral stimulation programme: oral massage, vibration, varied textures on face and in mouth (non-food)",
+      "Grade food introduction from least to most challenging sensorially: predictable to varied texture, bland to strong flavor",
+      "Structure mealtimes with predictable sensory routines: same place, utensils, presentation style to reduce sensory load",
+      "Coach caregivers in sensory-informed feeding strategies: pacing, environmental modifications, sensory breaks during meals",
+      "Reassess sensory patterns and feeding progress every 6-8 weeks; adjust intervention based on emerging tolerance patterns"
+    ]
+  }
+]
