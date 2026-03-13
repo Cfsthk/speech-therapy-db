@@ -919,7 +919,19 @@
     "evidence_stars": 5,
     "evidence_symbol": "★★★★★",
     "evidence_basis": "Extensive RCT evidence; endorsed by ASHA as evidence-based practice for ASD",
-    "reference": "Kaiser, A. P., & Trent, J. A. (2007). Communication intervention for young children with disabilities. In S. L. Odom, R. H. Horner, M. E. Snell, & J. Blacher (Eds.), Handbook of developmental disabilities (pp. 224–245). Guilford Press."
+    "reference": "Kaiser, A. P., & Trent, J. A. (2007). Communication intervention for young children with disabilities. In S. L. Odom, R. H. Horner, M. E. Snell, & J. Blacher (Eds.), Handbook of developmental disabilities (pp. 224–245). Guilford Press.",
+    "procedure": [
+      "Conduct a baseline assessment of the child's current communication level and preferred interests.",
+      "Set up a naturalistic, language-rich environment with motivating toys and materials.",
+      "Follow the child's lead — observe what captures their attention.",
+      "Use incidental teaching: wait for the child to initiate, then prompt a more elaborate response.",
+      "Use the mand-model procedure: issue a mand ('Tell me what you want') then model the target utterance if needed.",
+      "Use time delay: establish eye contact, pause expectantly for 5–10 seconds before prompting.",
+      "Provide natural reinforcement immediately — give the requested item or activity after correct response.",
+      "Keep interactions brief (1–3 minutes) and embed them throughout daily routines.",
+      "Data-collect the number of initiations and correct responses per session.",
+      "Fade prompts gradually as the child's spontaneous communication increases."
+    ]
   },
   {
     "id": "it-takes-two-to-talk",
@@ -942,7 +954,19 @@
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
     "evidence_basis": "Multiple RCTs and systematic reviews; widely implemented internationally",
-    "reference": "Girolametto, L., Pearce, P. S., & Weitzman, E. (1996). Interactive focused stimulation for toddlers with expressive vocabulary delays. Journal of Speech and Hearing Research, 39(6), 1274–1283. https://doi.org/10.1044/jshr.3906.1274"
+    "reference": "Girolametto, L., Pearce, P. S., & Weitzman, E. (1996). Interactive focused stimulation for toddlers with expressive vocabulary delays. Journal of Speech and Hearing Research, 39(6), 1274–1283. https://doi.org/10.1044/jshr.3906.1274",
+    "procedure": [
+      "Complete parent intake interview and video sample of parent–child interaction at home.",
+      "Attend the Hanen program group sessions (typically 8 group + 3 individual video feedback sessions).",
+      "Learn OWL: Observe, Wait, and Listen — practise pausing to give the child space to initiate.",
+      "Follow the child's lead by joining their activity and commenting on what they do.",
+      "Use 4S strategies: Say less, Stress key words, Go Slow, Show (use gestures and visuals).",
+      "Video-record a parent–child interaction; review with the SLP to identify communication opportunities.",
+      "Practise turn-taking sequences (FITT: Face-to-face, In-sync, Taking turns, Tying it together).",
+      "Embed language facilitation into daily routines (bath, meals, play) — at least 3 opportunities daily.",
+      "Track child's communication acts per 15-minute observation to monitor progress.",
+      "Generalise strategies to new routines and settings; SLP provides coaching via video feedback."
+    ]
   },
   {
     "id": "narrative-intervention",
@@ -964,7 +988,19 @@
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
     "evidence_basis": "Multiple RCTs; strong theoretical grounding in narrative theory",
-    "reference": "Spencer, T. D., & Petersen, D. B. (2018). Narrative intervention: Principles to practice. Language, Speech, and Hearing Services in Schools, 49(4), 895–911. https://doi.org/10.1044/2018_LSHSS-NAII-18-0039"
+    "reference": "Spencer, T. D., & Petersen, D. B. (2018). Narrative intervention: Principles to practice. Language, Speech, and Hearing Services in Schools, 49(4), 895–911. https://doi.org/10.1044/2018_LSHSS-NAII-18-0039",
+    "procedure": [
+      "Assess the child's narrative level using a standardised retell (e.g., BNST or story retell task).",
+      "Select a short, illustrated story at the child's level with clear story grammar elements.",
+      "Pre-teach story grammar elements: character, setting, initiating event, internal response, plan, action, consequence.",
+      "Read the story aloud with expression; use visuals or story-grammar icons as scaffolds.",
+      "Ask story-grammar questions ('What was the problem? What did the character do?').",
+      "Have the child retell the story using the story-grammar icons as prompts.",
+      "Provide recasts and expansions for incomplete or inaccurate narrative elements.",
+      "Practise generating an original story using the same story-grammar framework.",
+      "Repeat with new stories across 2–3 sessions per week; gradually fade visual supports.",
+      "Measure macrostructure (story grammar completeness) and microstructure (sentence complexity) at each session."
+    ]
   },
   {
     "id": "enhanced-milieu-teaching",
@@ -987,7 +1023,19 @@
     "evidence_stars": 5,
     "evidence_symbol": "★★★★★",
     "evidence_basis": "Multiple RCTs including ASHA CPG; strong evidence for ASD population",
-    "reference": "Kaiser, A. P., & Roberts, M. Y. (2013). Parent-implemented enhanced milieu teaching with preschool children who have intellectual disabilities. Journal of Speech, Language, and Hearing Research, 56(1), 295–309. https://doi.org/10.1044/1092-4388(2012/11-0231)"
+    "reference": "Kaiser, A. P., & Roberts, M. Y. (2013). Parent-implemented enhanced milieu teaching with preschool children who have intellectual disabilities. Journal of Speech, Language, and Hearing Research, 56(1), 295–309. https://doi.org/10.1044/1092-4388(2012/11-0231)",
+    "procedure": [
+      "Conduct ecological inventory to identify high-interest activities and communication partners.",
+      "Arrange the environment to create communication temptations (preferred items out of reach, incomplete sets).",
+      "Establish joint attention: get face-to-face, follow the child's gaze, and comment on shared focus.",
+      "Use responsive interaction strategies: mirror the child's play, expand on their utterances.",
+      "Apply milieu teaching episodes (incidental teaching, mand-model, time delay) within play routines.",
+      "Target specific language forms (e.g., two-word combinations, verbs) identified in the baseline.",
+      "Deliver a minimum of 20 milieu teaching episodes per 30-minute session.",
+      "Coach caregivers to use EMT strategies during daily routines — at least 2 coached sessions.",
+      "Monitor percentage of correct target productions and spontaneous initiations weekly.",
+      "Systematically fade prompts from full model → partial model → time delay → natural cue."
+    ]
   },
   {
     "id": "fast-forword",
@@ -1010,7 +1058,19 @@
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
     "evidence_basis": "Multiple RCTs for late talkers and DLD; strong evidence base",
-    "reference": "Weismer, S. E., & Robertson, S. (2006). Focused stimulation approach to language intervention. In R. J. McCauley & M. E. Fey (Eds.), Treatment of language disorders in children (pp. 175–202). Paul H. Brookes."
+    "reference": "Weismer, S. E., & Robertson, S. (2006). Focused stimulation approach to language intervention. In R. J. McCauley & M. E. Fey (Eds.), Treatment of language disorders in children (pp. 175–202). Paul H. Brookes.",
+    "procedure": [
+      "Assess the child's phonological processing, rapid naming, and reading skills to confirm candidacy.",
+      "Install and configure the software (e.g., Fast ForWord) on a device accessible at home and/or school.",
+      "Provide caregiver and child orientation: explain the programme structure, daily time requirement, and goals.",
+      "Begin with the appropriate programme level based on assessment results.",
+      "The child completes adaptive exercises targeting phoneme discrimination, language comprehension, and grammatical processing.",
+      "Ensure the child completes the recommended daily dose (typically 50–100 minutes, 5 days/week).",
+      "Monitor online progress data (accuracy, level advancement) at least weekly; adjust if engagement drops.",
+      "Supplement with live SLP sessions (1×/week) to reinforce targets, troubleshoot, and maintain motivation.",
+      "Re-administer standardised phonological and language assessments at programme completion.",
+      "Plan transition to classroom-based or literacy support after programme completion."
+    ]
   },
   {
     "id": "social-communication-intervention",
@@ -1033,7 +1093,19 @@
     "evidence_stars": 3,
     "evidence_symbol": "★★★☆☆",
     "evidence_basis": "Framework with supporting clinical evidence; systematic review evidence growing",
-    "reference": "Prizant, B. M., Wetherby, A. M., Rubin, E., Laurent, A. C., & Rydell, P. J. (2006). The SCERTS model: A comprehensive educational approach for children with autism spectrum disorders. Paul H. Brookes."
+    "reference": "Prizant, B. M., Wetherby, A. M., Rubin, E., Laurent, A. C., & Rydell, P. J. (2006). The SCERTS model: A comprehensive educational approach for children with autism spectrum disorders. Paul H. Brookes.",
+    "procedure": [
+      "Complete the SCERTS Assessment Process (SAP): gather parent report, observation, and interaction samples.",
+      "Profile the child across three stages: Social Partner, Language Partner, or Conversational Partner.",
+      "Identify priority Social Communication (SC) and Emotional Regulation (ER) goals from the SAP.",
+      "Develop a SCERTS program plan with Transactional Support (TS) strategies for family and educators.",
+      "Implement intervention in natural environments: home, classroom, and community settings.",
+      "Use activity-based supports (visual schedules, social scripts, sensory supports) tailored to the child.",
+      "Embed SC and ER goals into 3–5 daily routines identified by the family as priorities.",
+      "Team members (SLP, OT, teacher, parents) coordinate strategies using the Transactional Support log.",
+      "Re-administer SAP every 3–6 months to measure progress and update goals.",
+      "Fade adult supports as the child demonstrates increased independence and self-regulation."
+    ]
   },
   {
     "id": "morphosyntax-intervention",
@@ -1056,7 +1128,19 @@
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
     "evidence_basis": "Multiple RCTs; strong theoretical and empirical support",
-    "reference": "Camarata, S., Nelson, K. E., & Camarata, M. N. (1994). Comparison of conversational-recasting and imitative procedures for training grammatical structures in children with specific language impairment. Journal of Speech and Hearing Research, 37(6), 1414–1423. https://doi.org/10.1044/jshr.3706.1414"
+    "reference": "Camarata, S., Nelson, K. E., & Camarata, M. N. (1994). Comparison of conversational-recasting and imitative procedures for training grammatical structures in children with specific language impairment. Journal of Speech and Hearing Research, 37(6), 1414–1423. https://doi.org/10.1044/jshr.3706.1414",
+    "procedure": [
+      "Identify the target morphosyntactic structure from standardised assessment (e.g., CELF, LARSP).",
+      "Engage the child in a naturalistic conversation or play activity that elicits the target structure.",
+      "When the child produces an error or omission, immediately provide a recast — repeat their utterance with the correct form, without indicating an error.",
+      "Ensure recasts are contingent (within 2 seconds), semantically related, and minimally different from the child's utterance.",
+      "Provide 3–5 recast opportunities per target per session.",
+      "Avoid explicit correction or requests to repeat — recasts are implicit and conversational.",
+      "Vary the lexical content while keeping the morphosyntactic target constant across multiple recasts.",
+      "Track frequency of target structure in spontaneous language samples (50–100 utterances) every 4 weeks.",
+      "Increase complexity once accuracy exceeds 80% in spontaneous samples.",
+      "Train parents to use contingent recasting during daily conversations at home."
+    ]
   },
   {
     "id": "vocabulary-intervention",
@@ -1078,7 +1162,19 @@
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
     "evidence_basis": "Strong evidence from multiple RCTs in educational and clinical settings",
-    "reference": "Beck, I. L., McKeown, M. G., & Kucan, L. (2013). Bringing words to life: Robust vocabulary instruction (2nd ed.). Guilford Press."
+    "reference": "Beck, I. L., McKeown, M. G., & Kucan, L. (2013). Bringing words to life: Robust vocabulary instruction (2nd ed.). Guilford Press.",
+    "procedure": [
+      "Select Tier 2 vocabulary words (frequent in academic language, useful across contexts) from the child's curriculum.",
+      "Pre-teach target words before reading: provide a student-friendly definition and an example sentence.",
+      "Read aloud a rich text containing the target words in meaningful context.",
+      "Engage in deep processing activities: semantic mapping, word associations, antonyms/synonyms, using words in sentences.",
+      "Use repeated exposure across multiple modalities: spoken, written, visual (pictures/concept maps).",
+      "Provide at least 10–12 varied exposures to each target word across sessions and days.",
+      "Incorporate word games (Word Bingo, Taboo-style descriptions, word sorts) to increase engagement.",
+      "Encourage the child to use target words in original sentences and discuss their own experiences.",
+      "Assess word knowledge weekly using a vocabulary knowledge scale (0 = no knowledge to 4 = can use it correctly).",
+      "Generalise by encouraging use of words in class writing tasks and home conversations."
+    ]
   },
   {
     "id": "lee-silverman-voice",
@@ -1099,7 +1195,19 @@
     "evidence_stars": 5,
     "evidence_symbol": "★★★★★",
     "evidence_basis": "Multiple RCTs; one of the most evidence-based voice treatments available",
-    "reference": "Ramig, L. O., Sapir, S., Fox, C., & Countryman, S. (2001). Changes in vocal loudness following intensive voice treatment (LSVT) in individuals with Parkinson's disease: A comparison with untreated patients and normal age-matched controls. Movement Disorders, 16(1), 79–83. https://doi.org/10.1002/1531-8257(200101)16:1<79::AID-MDS1013>3.0.CO;2-H"
+    "reference": "Ramig, L. O., Sapir, S., Fox, C., & Countryman, S. (2001). Changes in vocal loudness following intensive voice treatment (LSVT) in individuals with Parkinson's disease: A comparison with untreated patients and normal age-matched controls. Movement Disorders, 16(1), 79–83. https://doi.org/10.1002/1531-8257(200101)16:1<79::AID-MDS1013>3.0.CO;2-H",
+    "procedure": [
+      "Complete pre-treatment assessment: voice recordings (sustained /a/, reading, conversation), UPDRS-III motor score, and patient-reported outcome measures.",
+      "Explain the LSVT LOUD philosophy: the target is LOUD speech — 'Think LOUD, be LOUD' — to recalibrate the client's perception of normal loudness.",
+      "Session 1: Establish the client's maximum sustained phonation on /a/ at high loudness using a sound level meter; set the personalised loudness target (typically 75–80 dB SPL at 30 cm).",
+      "Daily exercise 1 — Sustained phonation: produce 15 sustained /a/ vowels at maximum effort loudness, each lasting as long as possible.",
+      "Daily exercise 2 — High/low pitches: produce 15 gliding pitch variations (/a/ from low to high and high to low) at maximum effort loudness.",
+      "Daily exercise 3 — Functional phrases: read or repeat 10 personally relevant phrases at the established loud target level.",
+      "Daily exercise 4 — Conversation/reading: sustain loud voice during 5 minutes of structured conversation or paragraph reading.",
+      "Provide biofeedback using a sound level meter every session; mark achieved loudness relative to the target.",
+      "Deliver therapy in the standard LSVT LOUD protocol: 4 individual sessions per week for 4 consecutive weeks (16 sessions total).",
+      "Conduct post-treatment assessment and coach the client to self-monitor loudness as a lifelong daily habit."
+    ]
   },
   {
     "id": "sovt-exercises",
@@ -1121,7 +1229,19 @@
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
     "evidence_basis": "Multiple RCTs and systematic reviews; strong theoretical backing from acoustic modelling",
-    "reference": "Titze, I. R. (2006). Voice training and therapy with a semi-occluded vocal tract: Rationale and scientific underpinnings. Journal of Speech, Language, and Hearing Research, 49(2), 448–459. https://doi.org/10.1044/1092-4388(2006/035)"
+    "reference": "Titze, I. R. (2006). Voice training and therapy with a semi-occluded vocal tract: Rationale and scientific underpinnings. Journal of Speech, Language, and Hearing Research, 49(2), 448–459. https://doi.org/10.1044/1092-4388(2006/035)",
+    "procedure": [
+      "Explain the rationale: semi-occluded vocal tract (SOVT) exercises lower collision force on the vocal folds by increasing supraglottic pressure.",
+      "Select the appropriate SOVT device or technique based on the client's diagnosis: lip trill, tongue trill, humming, straw phonation (thin straw), or lip rounding on /u/.",
+      "Begin with flow phonation: have the client produce the SOVT sound at a comfortable pitch and loudness for 5 seconds, focusing on easy, resonant quality.",
+      "Warm-up protocol: 5 repetitions of 5-second sustained SOVT phonation with 5-second rests.",
+      "Gliding exercises: produce ascending and descending pitch glides through the full range on the SOVT sound (10 repetitions).",
+      "Staccato bursts: produce 10 short, crisp phonation bursts on the SOVT sound to improve onset clarity.",
+      "Carryover: immediately after SOVT, produce a connected vowel or phrase at the same easy, resonant quality.",
+      "Progress to semi-occluded speech: practise short phrases with initial resonant quality maintained.",
+      "Assign home practice: 2 × 10-minute sessions per day using the straw or lip trill technique.",
+      "Monitor vocal quality (perceptual ratings), client-reported ease of phonation, and acoustic measures (H1–H2, cepstral peak prominence) at each session."
+    ]
   },
   {
     "id": "resonant-voice-therapy",
@@ -1143,7 +1263,19 @@
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
     "evidence_basis": "Multiple controlled studies and systematic reviews",
-    "reference": "Verdolini-Marston, K., Burke, M. K., Lessac, A., Glaze, L., & Caldwell, E. (1995). Preliminary study of two methods of treatment for laryngeal nodules. Journal of Voice, 9(1), 74–85. https://doi.org/10.1016/S0892-1997(05)80227-0"
+    "reference": "Verdolini-Marston, K., Burke, M. K., Lessac, A., Glaze, L., & Caldwell, E. (1995). Preliminary study of two methods of treatment for laryngeal nodules. Journal of Voice, 9(1), 74–85. https://doi.org/10.1016/S0892-1997(05)80227-0",
+    "procedure": [
+      "Explain resonant voice: the goal is 'easy' phonation with forward, mask-focused vibration and minimal laryngeal effort.",
+      "Begin with humming on /m/: have the client produce a gentle hum and locate the sensation of vibration on lips and facial mask.",
+      "Practise 'mum-mum-mum' or 'hmm-hmm-hmm' at a comfortable pitch, sustaining the resonant /m/ sensation.",
+      "Extend to CV syllables: 'mee', 'may', 'mah', 'moe', 'moo' — carry the resonant quality from /m/ into the vowel.",
+      "Progress to words beginning with nasal consonants: 'moon', 'name', 'morning' — maintain forward focus throughout.",
+      "Move to phrases and sentences using a smooth, flowing, forward-focused voice quality.",
+      "Introduce connected speech: read short paragraphs maintaining resonant quality.",
+      "Practise in structured conversation with the clinician, monitoring for any return of hyperfunction.",
+      "Assign home practice: 3 × 5-minute sessions per day; use a mirror or hand on chest to monitor vibration locus.",
+      "Re-assess using acoustic measures (CPP, shimmer), perceptual ratings (GRBAS), and patient self-report (VHI-10) every 4 weeks."
+    ]
   },
   {
     "id": "vocal-function-exercises",
@@ -1165,7 +1297,19 @@
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
     "evidence_basis": "Multiple controlled studies; developed and researched by Stemple",
-    "reference": "Stemple, J. C., Lee, L., D'Amico, B., & Pickup, B. (1994). Efficacy of vocal function exercises as a method of improving voice production. Journal of Voice, 8(3), 271–278. https://doi.org/10.1016/S0892-1997(05)80299-3"
+    "reference": "Stemple, J. C., Lee, L., D'Amico, B., & Pickup, B. (1994). Efficacy of vocal function exercises as a method of improving voice production. Journal of Voice, 8(3), 271–278. https://doi.org/10.1016/S0892-1997(05)80299-3",
+    "procedure": [
+      "Explain VFE rationale: exercises tone, strengthen, and balance the laryngeal musculature through systematic phonatory loading.",
+      "Exercise 1 — Sustained /i/: produce a sustained /i/ at a comfortable pitch for as long as possible; aim for ≥30 seconds for females, ≥26 seconds for males.",
+      "Exercise 2 — Glide up: starting on the lowest comfortable note, glide /o/ upward through the full pitch range to the highest falsetto note, then sustain; 2 repetitions.",
+      "Exercise 3 — Glide down: starting on the highest comfortable falsetto note, glide /o/ downward through the full range to the lowest note; 2 repetitions.",
+      "Exercise 4 — Musical scale: produce the musical scale (do-re-mi-fa-sol-fa-mi-re-do) on /o/ at a comfortable volume; 2 repetitions.",
+      "All exercises should be produced with the softest possible volume that maintains clear phonation.",
+      "Complete the full set of 4 exercises twice daily (morning and evening) every day of the week.",
+      "Instruct the client to self-monitor for any strain, pain, or voice breaks — these indicate excessive effort.",
+      "Record maximum phonation time for Exercise 1 and pitch range achieved in Exercises 2–3 at each clinical session.",
+      "Re-administer VHI-10 and acoustic measures (jitter, shimmer, HNR) every 4 weeks to track progress."
+    ]
   },
   {
     "id": "accent-method",
@@ -1187,7 +1331,19 @@
     "evidence_stars": 3,
     "evidence_symbol": "★★★☆☆",
     "evidence_basis": "Multiple controlled studies; widely used in Scandinavian countries",
-    "reference": "Kotby, M. N., El-Sady, S. R., Basiouny, S. E., Abou-Rass, Y. A., & Hegazi, M. A. (1991). Efficacy of the accent method of voice therapy. Journal of Voice, 5(4), 316–320. https://doi.org/10.1016/S0892-1997(05)80060-X"
+    "reference": "Kotby, M. N., El-Sady, S. R., Basiouny, S. E., Abou-Rass, Y. A., & Hegazi, M. A. (1991). Efficacy of the accent method of voice therapy. Journal of Voice, 5(4), 316–320. https://doi.org/10.1016/S0892-1997(05)80060-X",
+    "procedure": [
+      "Explain the Accent Method philosophy: rhythmic body movement combined with voiced phonation promotes easy, well-supported voice production.",
+      "Begin with diaphragmatic breathing exercises: abdominal expansion on inhalation, slow controlled exhalation; 10 repetitions.",
+      "Introduce voiced fricatives (/v/, /z/) with simultaneous rhythmic hand/arm movements in three rhythms: slow-largo, medium-andante, fast-allegro.",
+      "Progress to voiced fricatives with body movement: largo rhythm (slow, flowing), andante rhythm (moderate walking beat), allegro rhythm (fast, light staccato).",
+      "Transfer rhythmic phonation to voiced vowels (/a/, /o/, /i/) across three rhythms with body movement.",
+      "Progress to rhythmic syllable strings: /ma-ma-ma/, /la-la-la/ across the three rhythms.",
+      "Advance to words, phrases, and sentences, maintaining rhythmic prosody and relaxed phonation.",
+      "Practise connected reading and conversation using the rhythmic patterns.",
+      "Assign home practice: 2 × 10-minute sessions daily using the rhythms independently.",
+      "Assess progress using acoustic measures (F0, intensity variability, CPP) and perceptual voice quality ratings every 4 weeks."
+    ]
   },
   {
     "id": "confidential-voice",
@@ -1209,7 +1365,19 @@
     "evidence_stars": 3,
     "evidence_symbol": "★★★☆☆",
     "evidence_basis": "Clinical studies and expert consensus; less RCT evidence",
-    "reference": "Verdolini, K., & Ramig, L. O. (2001). Review: Occupational risks for voice problems. Logopedics Phoniatrics Vocology, 26(1), 37–46. https://doi.org/10.1080/14015430119969"
+    "reference": "Verdolini, K., & Ramig, L. O. (2001). Review: Occupational risks for voice problems. Logopedics Phoniatrics Vocology, 26(1), 37–46. https://doi.org/10.1080/14015430119969",
+    "procedure": [
+      "Explain confidential voice: a slightly breathy, soft, relaxed phonatory pattern that reduces vocal fold collision forces during healing or recovery.",
+      "Demonstrate the target quality: a quiet, easy, slightly breathy voice as if sharing a secret — not a whisper.",
+      "Have the client produce sustained vowels at the target confidential quality at a soft loudness level.",
+      "Practise CV syllables and simple words at the confidential quality, checking for absence of pressed or strained phonation.",
+      "Extend to short phrases and sentences, maintaining the soft, easy quality throughout.",
+      "Instruct the client to use the confidential voice pattern for all voicing during the prescribed period (typically 1–4 weeks post-phonosurgery or during acute phonotrauma).",
+      "Explain vocal hygiene rules to accompany the confidential voice: adequate hydration, no whispering, no throat-clearing.",
+      "Schedule weekly follow-up appointments to monitor recovery and adjust voice demands accordingly.",
+      "Transition gradually to normal loudness and voice effort as healing is confirmed by the laryngologist.",
+      "Re-assess with laryngoscopy findings and acoustic/perceptual measures at each follow-up."
+    ]
   },
   {
     "id": "prelinguistic-milieu-teaching",
@@ -1232,7 +1400,19 @@
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
     "evidence_basis": "Strong RCT evidence showing improvements in prelinguistic communication acts, joint attention, and faster acquisition of first words in young children with developmental disabilities.",
-    "reference": "Yoder, P., & Warren, S. F. (2002). Effects of prelinguistic milieu teaching and parent responsivity education on dyads involving children with intellectual disabilities. Journal of Speech, Language, and Hearing Research, 45(6), 1158-1175. https://doi.org/10.1044/1092-4388(2002/094)"
+    "reference": "Yoder, P., & Warren, S. F. (2002). Effects of prelinguistic milieu teaching and parent responsivity education on dyads involving children with intellectual disabilities. Journal of Speech, Language, and Hearing Research, 45(6), 1158-1175. https://doi.org/10.1044/1092-4388(2002/094)",
+    "procedure": [
+      "Assess the child's current prelinguistic communication (eye contact, gestures, vocalisations, joint attention).",
+      "Identify preferred objects and activities through observation to use as natural reinforcers.",
+      "Set up the environment to create communication temptations (wind-up toys, containers, out-of-reach items).",
+      "Get face-to-face at the child's level and establish shared attention on an object or activity.",
+      "Use the mand-model procedure at the prelinguistic level: pause expectantly for any communicative act (gaze, reach, vocalisation).",
+      "Reinforce all communicative attempts immediately with access to the desired object or activity.",
+      "Model prelinguistic targets: point, reach, show, give, gaze shift — as appropriate to the child's stage.",
+      "Use time delay (3–5 seconds) to increase opportunities for the child to initiate.",
+      "Train caregivers to use PMT strategies during 3–4 daily routines (feeding, bath, play).",
+      "Track rate of intentional communication acts (RIA) per 10-minute observation weekly."
+    ]
   },
   {
     "id": "reciprocal-scaffolding-treatment",
@@ -1255,7 +1435,19 @@
     "evidence_stars": 3,
     "evidence_symbol": "★★★☆☆",
     "evidence_basis": "Moderate evidence from quasi-experimental studies showing gains in narrative skills, syntactic complexity, and semantic diversity in children with language impairment.",
-    "reference": "Greenhalgh, K. S., & Strong, C. J. (2001). Literate language features in spoken narratives of children with typical language and children with language impairments. Language, Speech, and Hearing Services in Schools, 32(2), 114-125. https://doi.org/10.1044/0161-1461(2001/010)"
+    "reference": "Greenhalgh, K. S., & Strong, C. J. (2001). Literate language features in spoken narratives of children with typical language and children with language impairments. Language, Speech, and Hearing Services in Schools, 32(2), 114-125. https://doi.org/10.1044/0161-1461(2001/010)",
+    "procedure": [
+      "Form a small group (3–4 students) with mixed language abilities including at least one typically developing peer.",
+      "Select a shared activity where all group members have a meaningful role (e.g., collaborative storytelling, science experiment).",
+      "Assign roles that rotate each session so each student takes the expert/explainer role.",
+      "The student in the expert role explains a concept or step to peers, who ask questions.",
+      "SLP provides scaffolding only when needed: recasts, expansions, or prompts — not direct instruction.",
+      "Peers provide natural models and feedback through authentic dialogue.",
+      "Monitor each student's language complexity (MLU, subordination index) during group interactions.",
+      "Rotate roles and topics across sessions to expose students to varied discourse demands.",
+      "Gradually reduce SLP scaffolding as students develop more independent collaborative skills.",
+      "Review session recordings with students to build metalinguistic awareness of their own communication."
+    ]
   },
   {
     "id": "recast-intervention",
@@ -1279,7 +1471,19 @@
     "evidence_stars": 5,
     "evidence_symbol": "★★★★★",
     "evidence_basis": "Extensive RCT and meta-analytic evidence demonstrating effectiveness for improving grammatical morpheme use, particularly for children with specific language impairment.",
-    "reference": "Cleave, P. L., Becker, S. D., Curran, M. K., Van Horne, A. J. O., & Fey, M. E. (2015). The efficacy of recasts in language intervention: A systematic review and meta-analysis. American Journal of Speech-Language Pathology, 24(2), 237-255. https://doi.org/10.1044/2015_AJSLP-14-0105"
+    "reference": "Cleave, P. L., Becker, S. D., Curran, M. K., Van Horne, A. J. O., & Fey, M. E. (2015). The efficacy of recasts in language intervention: A systematic review and meta-analysis. American Journal of Speech-Language Pathology, 24(2), 237-255. https://doi.org/10.1044/2015_AJSLP-14-0105",
+    "procedure": [
+      "Identify the specific syntactic or morphological target from formal assessment.",
+      "Engage the child in a structured play or conversation activity that naturally elicits the target.",
+      "Listen for the child's error or omission of the target structure.",
+      "Immediately produce a recast: repeat the child's utterance correcting only the target element, keeping all other words the same.",
+      "Do not signal that an error occurred — maintain conversational flow.",
+      "Provide a minimum of 3 recasts per target per session in varied lexical contexts.",
+      "Ensure recasts are contingent (within 2 seconds) and at or slightly above the child's language level.",
+      "Probe for spontaneous use of the target in a language sample (50 utterances) every 4 sessions.",
+      "If no progress after 8 sessions, re-evaluate target selection or consider more explicit techniques.",
+      "Fade recast frequency as accuracy in spontaneous speech reaches 80%."
+    ]
   },
   {
     "id": "script-training",
@@ -1302,7 +1506,19 @@
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
     "evidence_basis": "Strong single-subject design evidence showing improved fluency, word retrieval, and functional communication in aphasia and ASD populations.",
-    "reference": "Goldberg, S., Haley, K. L., & Jacks, A. (2012). Script training and generalization for people with aphasia. American Journal of Speech-Language Pathology, 21(3), 222-238. https://doi.org/10.1044/1058-0360(2012/11-0056)"
+    "reference": "Goldberg, S., Haley, K. L., & Jacks, A. (2012). Script training and generalization for people with aphasia. American Journal of Speech-Language Pathology, 21(3), 222-238. https://doi.org/10.1044/1058-0360(2012/11-0056)",
+    "procedure": [
+      "Identify functional communication contexts where the person with aphasia or ASD needs support (e.g., ordering food, greeting a colleague).",
+      "Select a short, personally relevant script of 3–5 exchanges for the target context.",
+      "Record the target script using audio/video to provide a model for practice.",
+      "Practise the script using repeated reading or listening, then faded reading (removing words progressively).",
+      "Use a backward chaining approach: master the final line first, then add preceding lines.",
+      "Practise the script in role-play with the SLP until criterion (5 consecutive correct productions) is met.",
+      "Introduce 'loose training' — vary the partner's responses slightly so the client must adapt.",
+      "Practise in a semi-naturalised setting (e.g., simulated café, phone call with a familiar person).",
+      "Transfer to the real-world environment with the SLP present initially, then independently.",
+      "Monitor script use and any spontaneous novel utterances beyond the script in probes."
+    ]
   },
   {
     "id": "treatment-underlying-forms",
@@ -1324,7 +1540,19 @@
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
     "evidence_basis": "Multiple single-subject experimental designs and group studies showing improved production of trained and untrained sentence structures in agrammatic aphasia.",
-    "reference": "Thompson, C. K., & Shapiro, L. P. (2005). Treating agrammatic aphasia within a linguistic framework: Treatment of Underlying Forms. Aphasiology, 19(10-11), 1021-1036. https://doi.org/10.1080/02687030544000227"
+    "reference": "Thompson, C. K., & Shapiro, L. P. (2005). Treating agrammatic aphasia within a linguistic framework: Treatment of Underlying Forms. Aphasiology, 19(10-11), 1021-1036. https://doi.org/10.1080/02687030544000227",
+    "procedure": [
+      "Administer syntactic assessment tasks to identify the range of sentence structures the client can and cannot produce.",
+      "Select non-canonical sentence types at the top of the syntactic complexity hierarchy (e.g., object relatives, passives, Wh-movement).",
+      "Present the target sentence and have the client identify the verb and all its arguments.",
+      "Use a mapping task: identify the thematic roles (agent, theme, goal) and how they are expressed in the surface sentence.",
+      "Practise movement operations: identify the gap and its antecedent in the target sentence type.",
+      "Have the client produce the target sentence from a picture or event description with SLP support.",
+      "Practise 10–15 exemplars of the target structure per session with feedback.",
+      "Probe for generalisation to untreated exemplars and related structures weekly.",
+      "Once the target structure is acquired, move to the next structure down the complexity hierarchy.",
+      "Monitor sentence production accuracy in connected discourse samples every 4 weeks."
+    ]
   },
   {
     "id": "semantic-feature-analysis",
@@ -1346,7 +1574,19 @@
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
     "evidence_basis": "Strong evidence from multiple RCTs and systematic reviews showing improved confrontation naming and generalization to untrained items in aphasia.",
-    "reference": "Boyle, M., & Coelho, C. A. (1995). Application of semantic feature analysis as a treatment for aphasic dysnomia. American Journal of Speech-Language Pathology, 4(4), 94-98. https://doi.org/10.1044/1058-0360.0404.94"
+    "reference": "Boyle, M., & Coelho, C. A. (1995). Application of semantic feature analysis as a treatment for aphasic dysnomia. American Journal of Speech-Language Pathology, 4(4), 94-98. https://doi.org/10.1044/1058-0360.0404.94",
+    "procedure": [
+      "Administer a confrontation naming assessment to identify lexical retrieval errors and treated word list.",
+      "Select 10–15 target words from a personally relevant category (e.g., foods, tools, animals).",
+      "Present a target picture and elicit the name — note accuracy and error type (no response, semantic, phonemic).",
+      "Introduce the SFA chart: a hub-and-spoke diagram with the target word at the centre.",
+      "Generate semantic features around the target word with the client: group/category, action, properties, location, association.",
+      "Read each feature aloud and discuss; provide a model if the client cannot generate features independently.",
+      "After completing the chart, attempt to name the target word again.",
+      "Practice the same word set across 3 consecutive sessions before introducing new words.",
+      "Probe naming accuracy for treated and untreated words at each session.",
+      "Track naming accuracy scores over time and measure generalisation to discourse-level word retrieval."
+    ]
   },
   {
     "id": "constraint-induced-language-therapy",
@@ -1368,7 +1608,19 @@
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
     "evidence_basis": "Multiple RCTs and systematic reviews showing significant improvements in verbal communication abilities and daily language use in chronic aphasia.",
-    "reference": "Pulvermüller, F., & Berthier, M. L. (2008). Aphasia therapy on a neuroscience basis. Aphasiology, 22(6), 563-599. https://doi.org/10.1080/02687030701612213"
+    "reference": "Pulvermüller, F., & Berthier, M. L. (2008). Aphasia therapy on a neuroscience basis. Aphasiology, 22(6), 563-599. https://doi.org/10.1080/02687030701612213",
+    "procedure": [
+      "Screen the client for CILT candidacy: able to produce at least some verbal output; motivated for intensive therapy.",
+      "Explain the constraint: the client must use only verbal communication — no gestures, writing, or AAC during CILT sessions.",
+      "Administer baseline naming and picture-description tasks to identify target vocabulary.",
+      "Structure sessions as card games (e.g., Go Fish, barrier tasks) that require verbal requests and responses.",
+      "Apply the verbal constraint strictly throughout each session; prompt verbal attempts if the client uses gestures.",
+      "Deliver therapy in a massed practice format: 3 hours/day for 10 consecutive weekdays.",
+      "Shape verbal output: accept approximations initially, then require more accurate productions as the client improves.",
+      "Provide immediate positive reinforcement for all verbal attempts.",
+      "Monitor verbal communication acts and accuracy daily using structured naming and conversation probes.",
+      "Discuss a transfer package with the client: practise verbal communication in daily activities at home."
+    ]
   },
   {
     "id": "computerised-language-intervention",
@@ -1391,7 +1643,19 @@
     "evidence_stars": 2,
     "evidence_symbol": "★★☆☆☆",
     "evidence_basis": "Mixed evidence with some studies showing improvements in auditory processing but limited generalization to language outcomes; systematic reviews indicate no superiority over traditional therapy.",
-    "reference": "Strong, G. K., Torgerson, C. J., Torgerson, D., & Hulme, C. (2011). A systematic meta-analytic review of evidence for the effectiveness of the 'Fast ForWord' language intervention program. Journal of Child Psychology and Psychiatry, 52(3), 224-235. https://doi.org/10.1111/j.1469-7610.2010.02329.x"
+    "reference": "Strong, G. K., Torgerson, C. J., Torgerson, D., & Hulme, C. (2011). A systematic meta-analytic review of evidence for the effectiveness of the 'Fast ForWord' language intervention program. Journal of Child Psychology and Psychiatry, 52(3), 224-235. https://doi.org/10.1111/j.1469-7610.2010.02329.x",
+    "procedure": [
+      "Assess the child's phonological processing, rapid naming, and reading skills to confirm candidacy.",
+      "Install and configure the software (e.g., Fast ForWord) on a device accessible at home and/or school.",
+      "Provide caregiver and child orientation: explain the programme structure, daily time requirement, and goals.",
+      "Begin with the appropriate programme level based on assessment results.",
+      "The child completes adaptive exercises targeting phoneme discrimination, language comprehension, and grammatical processing.",
+      "Ensure the child completes the recommended daily dose (typically 50–100 minutes, 5 days/week).",
+      "Monitor online progress data (accuracy, level advancement) at least weekly; adjust if engagement drops.",
+      "Supplement with live SLP sessions (1×/week) to reinforce targets, troubleshoot, and maintain motivation.",
+      "Re-administer standardised phonological and language assessments at programme completion.",
+      "Plan transition to classroom-based or literacy support after programme completion."
+    ]
   },
   {
     "id": "vocal-function-exercises-stemple",
@@ -1414,7 +1678,19 @@
     "evidence_stars": 5,
     "evidence_symbol": "★★★★★",
     "evidence_basis": "Extensive RCT evidence and systematic reviews demonstrating significant improvements in vocal quality, endurance, and phonatory function across multiple voice disorder populations.",
-    "reference": "Stemple, J. C., Lee, L., D'Amico, B., & Pickup, B. (1994). Efficacy of vocal function exercises as a method of improving voice production. Journal of Voice, 8(3), 271-278. https://doi.org/10.1016/S0892-1997(05)80299-1"
+    "reference": "Stemple, J. C., Lee, L., D'Amico, B., & Pickup, B. (1994). Efficacy of vocal function exercises as a method of improving voice production. Journal of Voice, 8(3), 271-278. https://doi.org/10.1016/S0892-1997(05)80299-1",
+    "procedure": [
+      "Explain the VFE programme (Stemple protocol): four exercises to be practised twice daily every day.",
+      "Exercise 1 — Maximum sustained phonation on /i/: produce the clearest /i/ possible at a soft volume for as long as possible without strain; record duration.",
+      "Exercise 2 — Glide up on /o/: start at the lowest note in modal register, glide smoothly upward through falsetto to the highest possible pitch on /o/; 2 repetitions.",
+      "Exercise 3 — Glide down on /o/: start at the highest falsetto note, glide smoothly downward to the lowest possible modal note on /o/; 2 repetitions.",
+      "Exercise 4 — Musical scale on /o/: produce the C major scale (do-re-mi-fa-sol-fa-mi-re-do) at the softest possible volume that maintains clarity; 2 repetitions.",
+      "All exercises should be performed at the softest sustainable volume — minimal effort, maximal efficiency.",
+      "Instruct client to practise twice daily (e.g., morning and evening), 7 days/week throughout the treatment period.",
+      "Clinician reviews self-monitoring log at each session; address any reports of discomfort or voice breaks.",
+      "Measure maximum phonation time (Exercise 1) and report range (Exercises 2–3) at each clinical appointment.",
+      "Reassess VHI-10 and acoustic measures (jitter, shimmer, NHR) at 4-week intervals to evaluate progress."
+    ]
   },
   {
     "id": "resonant-voice-therapy-verdolini",
@@ -1437,7 +1713,19 @@
     "evidence_stars": 5,
     "evidence_symbol": "★★★★★",
     "evidence_basis": "Strong RCT evidence showing significant reductions in phonatory effort, improvements in vocal quality, and decreased vocal fold lesions compared to other voice therapy approaches.",
-    "reference": "Verdolini, K., Druker, D. G., Palmer, P. M., & Samawi, H. (1998). Laryngeal adduction in resonant voice. Journal of Voice, 12(3), 315-327. https://doi.org/10.1016/S0892-1997(98)80021-0"
+    "reference": "Verdolini, K., Druker, D. G., Palmer, P. M., & Samawi, H. (1998). Laryngeal adduction in resonant voice. Journal of Voice, 12(3), 315-327. https://doi.org/10.1016/S0892-1997(98)80021-0",
+    "procedure": [
+      "Administer pre-treatment measures: VHI-10, laryngoscopic examination, acoustic analysis (CPP, H1–H2), and perceptual rating (GRBAS).",
+      "Explain the Lessac-Madsen Resonant Voice Therapy (LMRVT) concept: easy phonation with maximum forward acoustic resonance, confirmed by vibrotactile sensation on the lips/facial mask.",
+      "Begin with tactile awareness exercises: have the client place fingertips on lips and cheeks, hum gently on /m/, and feel the vibration.",
+      "Produce 'mum' with prolonged /m/: feel vibration onset before vowel, extend into the vowel ('mmm-uh') keeping vibration forward.",
+      "Scale up from phoneme to word: 'mmm-one', 'mmm-utter', 'mmm-other' — maintaining forward vibration throughout.",
+      "Progress to sentences with nasal-initial words: 'Many merry mornings make me happy' — monitor vibrotactile feedback.",
+      "Move to sentences without initial nasals, maintaining the same resonant forward quality.",
+      "Practise in structured monologue (picture description, storytelling) maintaining resonant quality.",
+      "Introduce the 'easy onset' technique: initiate vowel-initial words with a gentle /h/ or simultaneous onset to prevent hard attack.",
+      "Re-assess with all baseline measures at 4-week intervals and discuss home practice log findings."
+    ]
   },
   {
     "id": "accent-method-voice",
@@ -1460,7 +1748,19 @@
     "evidence_stars": 3,
     "evidence_symbol": "★★★☆☆",
     "evidence_basis": "Moderate evidence from European studies showing improvements in voice quality, respiratory function, and patient-reported outcomes; limited large-scale RCT evidence.",
-    "reference": "Kotby, M. N., El-Sady, S. R., Basiouny, S. E., Abou-Rass, Y. A., & Hegazi, M. A. (1991). Efficacy of the accent method of voice therapy. Journal of Voice, 5(4), 316-320. https://doi.org/10.1016/S0892-1997(05)80060-8"
+    "reference": "Kotby, M. N., El-Sady, S. R., Basiouny, S. E., Abou-Rass, Y. A., & Hegazi, M. A. (1991). Efficacy of the accent method of voice therapy. Journal of Voice, 5(4), 316-320. https://doi.org/10.1016/S0892-1997(05)80060-8",
+    "procedure": [
+      "Explain the Accent Method philosophy: rhythmic body movement combined with voiced phonation promotes easy, well-supported voice production.",
+      "Begin with diaphragmatic breathing exercises: abdominal expansion on inhalation, slow controlled exhalation; 10 repetitions.",
+      "Introduce voiced fricatives (/v/, /z/) with simultaneous rhythmic hand/arm movements in three rhythms: slow-largo, medium-andante, fast-allegro.",
+      "Progress to voiced fricatives with body movement: largo rhythm (slow, flowing), andante rhythm (moderate walking beat), allegro rhythm (fast, light staccato).",
+      "Transfer rhythmic phonation to voiced vowels (/a/, /o/, /i/) across three rhythms with body movement.",
+      "Progress to rhythmic syllable strings: /ma-ma-ma/, /la-la-la/ across the three rhythms.",
+      "Advance to words, phrases, and sentences, maintaining rhythmic prosody and relaxed phonation.",
+      "Practise connected reading and conversation using the rhythmic patterns.",
+      "Assign home practice: 2 × 10-minute sessions daily using the rhythms independently.",
+      "Assess progress using acoustic measures (F0, intensity variability, CPP) and perceptual voice quality ratings every 4 weeks."
+    ]
   },
   {
     "id": "casper-stone-confidential-voice",
@@ -1482,7 +1782,19 @@
     "evidence_stars": 3,
     "evidence_symbol": "★★★☆☆",
     "evidence_basis": "Clinical case series and expert consensus supporting use for vocal fold lesions and acute injury; limited controlled trial evidence but widely accepted in clinical practice.",
-    "reference": "Colton, R. H., & Casper, J. K. (1996). Understanding voice problems: A physiological perspective for diagnosis and treatment (2nd ed.). Williams & Wilkins."
+    "reference": "Colton, R. H., & Casper, J. K. (1996). Understanding voice problems: A physiological perspective for diagnosis and treatment (2nd ed.). Williams & Wilkins.",
+    "procedure": [
+      "Explain the Casper-Stone Confidential Voice approach: a systematic method using soft, easy phonation to reduce vocal trauma and promote vocal fold healing.",
+      "Demonstrate the confidential voice quality: soft, slightly breathy phonation as if speaking in a library — not whispering or pressed.",
+      "Begin with sustained vowel production at the confidential quality level, maintaining consistent airflow and minimal laryngeal tension.",
+      "Practise CV and VC syllable combinations at the confidential voice level, monitoring for any return of hard glottal attack or pressed quality.",
+      "Progress to word-level production using high-frequency functional vocabulary at the confidential quality.",
+      "Extend to phrase and sentence production, maintaining the soft, easy phonatory pattern throughout.",
+      "Prescribe confidential voice use for all voicing during the designated healing period (typically 1–4 weeks, as directed by laryngologist).",
+      "Educate the client on complementary vocal hygiene: hydration (8+ glasses water daily), no throat clearing, no shouting or whispering.",
+      "Schedule weekly laryngoscopic follow-up with the medical team to monitor vocal fold healing progress.",
+      "Gradually increase vocal intensity and effort as healing is confirmed, transitioning to normal conversational voice in a controlled, stepwise manner."
+    ]
   },
   {
     "id": "manual-circumlaryngeal-therapy",
@@ -1504,7 +1816,19 @@
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
     "evidence_basis": "Strong clinical evidence from multiple studies showing immediate and sustained improvements in voice quality and reduction in laryngeal tension for muscle tension dysphonia.",
-    "reference": "Mathieson, L., Hirani, S. P., Epstein, R., Baken, R. J., Wood, G., & Rubin, J. S. (2009). Laryngeal manual therapy: A preliminary study to examine its treatment effects in the management of muscle tension dysphonia. Journal of Voice, 23(3), 353-366. https://doi.org/10.1016/j.jvoice.2007.10.002"
+    "reference": "Mathieson, L., Hirani, S. P., Epstein, R., Baken, R. J., Wood, G., & Rubin, J. S. (2009). Laryngeal manual therapy: A preliminary study to examine its treatment effects in the management of muscle tension dysphonia. Journal of Voice, 23(3), 353-366. https://doi.org/10.1016/j.jvoice.2007.10.002",
+    "procedure": [
+      "Conduct a thorough voice history and laryngoscopic referral to rule out structural pathology before initiating manual therapy.",
+      "Palpate the laryngeal region to assess musculoskeletal tension: hyoid bone, thyroid cartilage, thyrohyoid space, posterior laryngeal muscles.",
+      "Identify areas of tenderness, restricted mobility, or elevated laryngeal position — document findings.",
+      "Begin laryngeal massage with circular finger pressure on the thyrohyoid space (lateral aspect of the thyroid cartilage).",
+      "Apply gentle downward traction on the thyroid cartilage to lower laryngeal position; hold for 3–5 seconds, repeat 5 times.",
+      "Rotate the thyroid cartilage gently left and right to increase mobility; 5 repetitions each direction.",
+      "Ask the client to phonate /i/ or /a/ during manual manipulation — note any immediate change in voice quality or pitch.",
+      "Combine massage with humming: client hums while clinician continues gentle mobilisation until resonant, easy voice quality is achieved.",
+      "Teach self-massage techniques for the client to practise at home between sessions.",
+      "Reassess laryngeal palpation findings, voice quality (GRBAS, VHI-10), and acoustic measures after each block of 4 sessions."
+    ]
   },
   {
     "id": "transgender-voice-therapy",
@@ -1526,7 +1850,19 @@
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
     "evidence_basis": "Growing evidence base including controlled studies showing significant improvements in acoustic measures, voice satisfaction, and quality of life for transgender individuals.",
-    "reference": "Hancock, A. B., Krissinger, J., & Owen, K. (2011). Voice perceptions and quality of life of transgender people. Journal of Voice, 25(5), 553-558. https://doi.org/10.1016/j.jvoice.2010.07.013"
+    "reference": "Hancock, A. B., Krissinger, J., & Owen, K. (2011). Voice perceptions and quality of life of transgender people. Journal of Voice, 25(5), 553-558. https://doi.org/10.1016/j.jvoice.2010.07.013",
+    "procedure": [
+      "Complete a comprehensive intake: client's gender identity, transition goals, current voice perceptual profile, and vocal history.",
+      "Set individualised goals collaboratively: pitch target, resonance quality, intonation patterns, articulation style, and non-verbal communication.",
+      "Feminisation — Pitch: use visual biofeedback (e.g., Speechtools, Vocal Pitch Monitor app) to identify the client's habitual F0 and target range (typically 165–220 Hz for perceived femininity).",
+      "Feminisation — Resonance: practise raised oral resonance using /i/-fronted vowel placement, raised tongue body, and forward vocal tract shaping ('bright' twang quality).",
+      "Feminisation — Intonation: practise wider pitch range and more varied intonation contours in reading and conversation.",
+      "Masculinisation — Pitch: if indicated for FtM clients, monitor whether testosterone has shifted F0; supplement with exercises to stabilise lower register and avoid breaks.",
+      "Masculinisation — Resonance: practise lowered laryngeal position (yawn-sigh technique) and darker, posterior vowel resonance.",
+      "Non-verbal communication coaching: facial expression, gesture patterns, and body language consistent with gender expression goals.",
+      "Practise in real-world contexts: scripted phone calls, in-person interactions — with debriefing after each attempt.",
+      "Review progress using acoustic measures (habitual F0, F1/F2 formants) and client self-report (TSQ, Transgender Voice Questionnaire) every 4–6 weeks."
+    ]
   },
   {
     "id": "mcneill-dysphagia",
