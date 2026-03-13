@@ -1,0 +1,315 @@
+[
+  {
+    "id": "milieu-teaching",
+    "name_en": "Milieu Teaching",
+    "name_zh": "環境教學法",
+    "domain": "language",
+    "age_groups": [
+      "infant",
+      "toddler",
+      "preschool"
+    ],
+    "description_en": "Milieu teaching embeds language learning opportunities into naturalistic daily routines and play by arranging the environment to elicit communication. Techniques include mand-model, time delay, and incidental teaching within child-preferred activities. It is particularly effective for children with autism and developmental language delay.",
+    "description_zh": "環境教學法通過安排環境來引發溝通，將語言學習機會融入自然的日常常規和遊戲中。技術包括在兒童偏好的活動中使用要求-示範、時間延遲和隨機教學。對自閉症和發展性語言遲緩兒童特別有效。",
+    "target_population": "Infants, toddlers and preschoolers with language delay or autism spectrum disorder",
+    "activities": [
+      "Environmental arrangement to create communication temptations",
+      "Mand-model procedure during play routines",
+      "Time delay technique in daily transitions"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Extensive RCT evidence; endorsed by ASHA as evidence-based practice for ASD",
+    "reference": "Kaiser, A. P., & Trent, J. A. (2007). Communication intervention for young children with disabilities. In S. L. Odom, R. H. Horner, M. E. Snell, & J. Blacher (Eds.), Handbook of developmental disabilities (pp. 224–245). Guilford Press."
+  },
+  {
+    "id": "it-takes-two-to-talk",
+    "name_en": "It Takes Two to Talk (Hanen)",
+    "name_zh": "說話需要兩個人（漢能方案）",
+    "domain": "language",
+    "age_groups": [
+      "infant",
+      "toddler",
+      "preschool"
+    ],
+    "description_en": "The Hanen It Takes Two to Talk programme trains parents to become their child's primary language facilitator through group workshops and individual video feedback sessions. Parents learn OWL (Observe, Wait, Listen) strategies, following the child's lead, and adding language just above the child's current level. It is designed for children with language delays aged 0–5.",
+    "description_zh": "漢能「說話需要兩個人」方案通過小組工作坊和個別視頻反饋課程，培訓家長成為孩子的主要語言促進者。家長學習OWL（觀察、等待、聆聽）策略、跟隨孩子的帶領，以及在孩子當前水平之上稍作添加語言。專為0至5歲語言遲緩兒童設計。",
+    "target_population": "Children aged 0–5 with language delays and their parents",
+    "activities": [
+      "OWL (Observe, Wait, Listen) during play",
+      "Responsive interaction strategies during book reading",
+      "Video feedback parent coaching sessions"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs and systematic reviews; widely implemented internationally",
+    "reference": "Girolametto, L., Pearce, P. S., & Weitzman, E. (1996). Interactive focused stimulation for toddlers with expressive vocabulary delays. Journal of Speech and Hearing Research, 39(6), 1274–1283. https://doi.org/10.1044/jshr.3906.1274"
+  },
+  {
+    "id": "narrative-intervention",
+    "name_en": "Narrative Intervention",
+    "name_zh": "敘事介入治療",
+    "domain": "language",
+    "age_groups": [
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Narrative intervention targets the macrostructure of stories (story grammar: setting, characters, problem, events, resolution) alongside microstructure (sentence complexity, vocabulary). Clinicians use story retelling, story generation, and script activities to build narrative competence. Strong narrative skills predict literacy and academic success.",
+    "description_zh": "敘事介入治療針對故事的宏觀結構（故事語法：場景、人物、問題、事件、解決）和微觀結構（句子複雜性、詞匯）。治療師使用故事重述、故事生成和腳本活動來建立敘事能力。強大的敘事能力可預測識字和學業成功。",
+    "target_population": "Preschool and school-age children with developmental language disorder or language learning disabilities",
+    "activities": [
+      "Story retelling with story grammar cue cards",
+      "Story generation from picture sequences",
+      "Script activities for personal narrative"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs; strong theoretical grounding in narrative theory",
+    "reference": "Spencer, T. D., & Petersen, D. B. (2018). Narrative intervention: Principles to practice. Language, Speech, and Hearing Services in Schools, 49(4), 895–911. https://doi.org/10.1044/2018_LSHSS-NAII-18-0039"
+  },
+  {
+    "id": "enhanced-milieu-teaching",
+    "name_en": "Enhanced Milieu Teaching (EMT)",
+    "name_zh": "強化環境教學法",
+    "domain": "language",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Enhanced Milieu Teaching combines responsive interaction strategies with milieu teaching techniques and environmental arrangement. It expands on basic milieu teaching by systematically targeting specific language forms and functions. EMT has strong evidence for children with autism spectrum disorder and other developmental disabilities.",
+    "description_zh": "強化環境教學法結合了反應性互動策略、環境教學技術和環境安排。通過系統性地針對特定語言形式和功能，在基本環境教學法的基礎上進行擴展。對自閉症譜系障礙和其他發展性殘疾兒童有強有力的證據。",
+    "target_population": "Toddlers and preschoolers with autism spectrum disorder or developmental language delay",
+    "activities": [
+      "Environmental arrangement with preferred items at eye level",
+      "Mand-model and time delay during snack/play",
+      "Responsive interaction with expansions and extensions"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Multiple RCTs including ASHA CPG; strong evidence for ASD population",
+    "reference": "Kaiser, A. P., & Roberts, M. Y. (2013). Parent-implemented enhanced milieu teaching with preschool children who have intellectual disabilities. Journal of Speech, Language, and Hearing Research, 56(1), 295–309. https://doi.org/10.1044/1092-4388(2012/11-0231)"
+  },
+  {
+    "id": "fast-forword",
+    "name_en": "Language Intervention via Vocabulary and Morphology (Focused Stimulation)",
+    "name_zh": "聚焦刺激語言介入法",
+    "domain": "language",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Focused stimulation provides repeated, salient models of target language forms (vocabulary, morphology, syntax) within meaningful communicative contexts without requiring direct imitation. The clinician selects specific targets and embeds multiple exposures per session into natural activities. It is appropriate for children with late language emergence and DLD.",
+    "description_zh": "聚焦刺激法在有意義的溝通情境中提供目標語言形式（詞匯、形態、句法）的重複且顯著的示範，無需直接模仿。治療師選擇特定目標並將每節課的多次接觸融入自然活動中。適用於語言發展遲緩和發展性語言障礙兒童。",
+    "target_population": "Children aged 1.5–8 with language delays, late talkers, or DLD",
+    "activities": [
+      "Target vocabulary embedded in play narratives 10–20 times per session",
+      "Recasting of child utterances with target morpheme",
+      "Storybook reading with focused vocabulary targets"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs for late talkers and DLD; strong evidence base",
+    "reference": "Weismer, S. E., & Robertson, S. (2006). Focused stimulation approach to language intervention. In R. J. McCauley & M. E. Fey (Eds.), Treatment of language disorders in children (pp. 175–202). Paul H. Brookes."
+  },
+  {
+    "id": "social-communication-intervention",
+    "name_en": "Social Communication Intervention (SCERTS)",
+    "name_zh": "社交溝通介入（SCERTS模型）",
+    "domain": "language",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "SCERTS (Social Communication, Emotional Regulation, Transactional Support) is a comprehensive framework for supporting children with autism in developing functional social communication. It addresses joint attention, symbol use, emotional regulation, and the supports needed across settings. SCERTS guides individualised goal-setting and collaborative team planning.",
+    "description_zh": "SCERTS（社交溝通、情緒調節、交互支持）是一個全面框架，支持自閉症兒童發展功能性社交溝通。它處理共同注意力、符號使用、情緒調節以及跨情境所需的支持。SCERTS指導個性化目標設定和協作團隊規劃。",
+    "target_population": "Children with autism spectrum disorder across developmental stages",
+    "activities": [
+      "Joint attention activities in play dyads",
+      "Symbol use through aided AAC during routines",
+      "Emotional regulation check-ins and visual supports"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Framework with supporting clinical evidence; systematic review evidence growing",
+    "reference": "Prizant, B. M., Wetherby, A. M., Rubin, E., Laurent, A. C., & Rydell, P. J. (2006). The SCERTS model: A comprehensive educational approach for children with autism spectrum disorders. Paul H. Brookes."
+  },
+  {
+    "id": "morphosyntax-intervention",
+    "name_en": "Morphosyntax Intervention (Recast Therapy)",
+    "name_zh": "形態句法介入（重鑄治療法）",
+    "domain": "language",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Recast therapy provides immediate, natural corrections of a child's morphosyntactic errors by reformulating the utterance in a more complete or accurate form. The clinician maintains the child's meaning while providing a correct grammatical model without explicit correction. It is one of the most efficient methods for targeting grammatical morphemes.",
+    "description_zh": "重鑄治療法通過將兒童的形態句法錯誤重新表述為更完整或準確的形式，提供即時、自然的糾正。治療師在不明確糾正的情況下保持兒童的意思並提供正確的語法模型。這是針對語法形態素最有效的方法之一。",
+    "target_population": "Children with grammatical morphology errors or developmental language disorder",
+    "activities": [
+      "Conversational recasting of target morphemes",
+      "Structured elicitation activities with recast feedback",
+      "Storybook activities targeting tense and agreement morphemes"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs; strong theoretical and empirical support",
+    "reference": "Camarata, S., Nelson, K. E., & Camarata, M. N. (1994). Comparison of conversational-recasting and imitative procedures for training grammatical structures in children with specific language impairment. Journal of Speech and Hearing Research, 37(6), 1414–1423. https://doi.org/10.1044/jshr.3706.1414"
+  },
+  {
+    "id": "vocabulary-intervention",
+    "name_en": "Vocabulary Intervention (Rich Vocabulary Instruction)",
+    "name_zh": "詞匯介入（豐富詞匯教學）",
+    "domain": "language",
+    "age_groups": [
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Rich vocabulary instruction goes beyond simple definitions to provide multiple exposures to target words across varied contexts with deep semantic processing. Beck's tiered vocabulary framework guides selection of Tier 2 academic vocabulary for intervention. Activities include semantic mapping, word association, and contextual analysis.",
+    "description_zh": "豐富詞匯教學超越簡單定義，通過深度語義加工在不同情境中提供多次接觸目標詞的機會。貝克的分層詞匯框架指導選擇第二層學術詞匯進行介入。活動包括語義映射、詞語聯想和語境分析。",
+    "target_population": "Preschool and school-age children with language delays or learning disabilities",
+    "activities": [
+      "Semantic mapping of target Tier 2 words",
+      "Multiple context exposure across subjects",
+      "Word consciousness activities and word walls"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong evidence from multiple RCTs in educational and clinical settings",
+    "reference": "Beck, I. L., McKeown, M. G., & Kucan, L. (2013). Bringing words to life: Robust vocabulary instruction (2nd ed.). Guilford Press."
+  },
+  {
+    "id": "lee-silverman-voice",
+    "name_en": "Lee Silverman Voice Treatment (LSVT LOUD)",
+    "name_zh": "李爾文聲音治療（大聲說話治療）",
+    "domain": "voice",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "LSVT LOUD is an intensive voice treatment for individuals with Parkinson's disease and other neurological conditions that targets increased vocal loudness as the primary therapeutic mechanism. Treatment is delivered in 16 sessions over 4 weeks with daily home practice. The high-effort phonatory tasks recalibrate the patient's perception of normal vocal effort.",
+    "description_zh": "李爾文聲音治療（LSVT LOUD）是針對帕金森病和其他神經系統疾病患者的密集語音治療，以增加聲音響度為主要治療機制。治療在4週內進行16次課程並每天在家練習。高強度發聲任務重新校準患者對正常聲音努力的感知。",
+    "target_population": "Adults with Parkinson's disease, other hypokinetic dysarthria, or neurological voice disorders",
+    "activities": [
+      "Maximum sustained phonation ('ahh' as loud and long as possible)",
+      "High effort pitch glides",
+      "Functional phrases at increased loudness with KR feedback"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Multiple RCTs; one of the most evidence-based voice treatments available",
+    "reference": "Ramig, L. O., Sapir, S., Fox, C., & Countryman, S. (2001). Changes in vocal loudness following intensive voice treatment (LSVT) in individuals with Parkinson's disease: A comparison with untreated patients and normal age-matched controls. Movement Disorders, 16(1), 79–83. https://doi.org/10.1002/1531-8257(200101)16:1<79::AID-MDS1013>3.0.CO;2-H"
+  },
+  {
+    "id": "sovt-exercises",
+    "name_en": "Semi-Occluded Vocal Tract Exercises (SOVT)",
+    "name_zh": "半封閉聲道練習",
+    "domain": "voice",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "SOVT exercises use partial occlusion of the vocal tract (straws, lip trills, humming) to reduce vocal fold collision forces and optimise phonation. The back pressure created by the occlusion improves the source-filter interaction and vocal efficiency. They are used for voice rehabilitation in hyperfunctional disorders, nodules, and post-surgical voice.",
+    "description_zh": "半封閉聲道練習使用部分封閉聲道（吸管、唇顫音、哼唱）來減少聲帶碰撞力並優化發聲。封閉產生的反向壓力改善了聲源-濾波器交互和發聲效率。用於功能亢進性障礙、聲帶小結和術後聲音的康復。",
+    "target_population": "School-age children and adults with hyperfunctional voice disorders, vocal nodules, or post-surgical voice",
+    "activities": [
+      "Straw phonation into water (varying resistance)",
+      "Lip trill phonation on pitch glides",
+      "Humming through narrow nasal passage"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs and systematic reviews; strong theoretical backing from acoustic modelling",
+    "reference": "Titze, I. R. (2006). Voice training and therapy with a semi-occluded vocal tract: Rationale and scientific underpinnings. Journal of Speech, Language, and Hearing Research, 49(2), 448–459. https://doi.org/10.1044/1092-4388(2006/035)"
+  },
+  {
+    "id": "resonant-voice-therapy",
+    "name_en": "Resonant Voice Therapy",
+    "name_zh": "共鳴聲音治療法",
+    "domain": "voice",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Resonant voice therapy trains the patient to produce voice with the sensation of vibration in the facial bones (especially the nose and lips) while maintaining easy, minimal laryngeal effort. The approach uses a hierarchy from humming to words, phrases, and conversation. It is effective for both hyperfunctional voice disorders and voice professionals.",
+    "description_zh": "共鳴聲音治療訓練患者在保持輕鬆、最小喉部努力的同時，以面部骨骼（尤其是鼻子和嘴唇）振動感來發聲。此方法使用從哼唱到詞語、短語和對話的層次結構。對功能亢進性聲音障礙和聲音專業人士都有效。",
+    "target_population": "Adults and school-age children with hyperfunctional voice disorders, professional voice users",
+    "activities": [
+      "Nasal consonant-vowel chanting ('mum-mum-mum')",
+      "Front-focused humming with facial bone vibration awareness",
+      "Transfer of resonant quality to connected speech"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple controlled studies and systematic reviews",
+    "reference": "Verdolini-Marston, K., Burke, M. K., Lessac, A., Glaze, L., & Caldwell, E. (1995). Preliminary study of two methods of treatment for laryngeal nodules. Journal of Voice, 9(1), 74–85. https://doi.org/10.1016/S0892-1997(05)80227-0"
+  },
+  {
+    "id": "vocal-function-exercises",
+    "name_en": "Vocal Function Exercises (VFE)",
+    "name_zh": "聲帶功能練習",
+    "domain": "voice",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Vocal Function Exercises are a structured voice exercise programme designed to strengthen and balance laryngeal musculature through a series of sustained phonations and pitch glides. The four exercises include a sustained /i/, a glide from low to high pitch, a glide from high to low pitch, and musical scale phonation. VFEs are used for both rehabilitation and voice maintenance.",
+    "description_zh": "聲帶功能練習是一個結構化的聲音練習方案，通過一系列持續發聲和音高滑動來強化和平衡喉部肌肉組織。四個練習包括持續/i/音、從低到高音高滑動、從高到低音高滑動和音樂音階發聲。聲帶功能練習用於康復和聲音維護。",
+    "target_population": "Adults and school-age children with voice disorders; also used for voice maintenance in professional voice users",
+    "activities": [
+      "Sustained /i/ as long as possible on musical pitch",
+      "Glide from lowest to highest pitch on /o/",
+      "Musical scale on /o/ from low to high"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple controlled studies; developed and researched by Stemple",
+    "reference": "Stemple, J. C., Lee, L., D'Amico, B., & Pickup, B. (1994). Efficacy of vocal function exercises as a method of improving voice production. Journal of Voice, 8(3), 271–278. https://doi.org/10.1016/S0892-1997(05)80299-3"
+  },
+  {
+    "id": "accent-method",
+    "name_en": "Accent Method",
+    "name_zh": "重音法",
+    "domain": "voice",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "The Accent Method uses rhythmic, melodic, and dynamic variation in speech to train optimal breathing, phonation, and resonance. Exercises begin with rhythmic body movements coupled with voiced fricatives and progress to speech. It targets the coordination of respiration, phonation, and articulation for efficient voice production.",
+    "description_zh": "重音法使用語音中的節奏、旋律和動態變化來訓練最佳呼吸、發聲和共鳴。練習從節奏性身體運動配合有聲摩擦音開始，逐步發展到語音。它針對呼吸、發聲和發音的協調以實現高效的聲音產生。",
+    "target_population": "Adults and school-age children with functional dysphonia, hyperfunctional voice disorders",
+    "activities": [
+      "Rhythmic body movement with voiced fricatives (/v/, /z/)",
+      "Accent pattern drills (short-long, even) on vowels",
+      "Transfer to connected speech with rhythmic patterning"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Multiple controlled studies; widely used in Scandinavian countries",
+    "reference": "Kotby, M. N., El-Sady, S. R., Basiouny, S. E., Abou-Rass, Y. A., & Hegazi, M. A. (1991). Efficacy of the accent method of voice therapy. Journal of Voice, 5(4), 316–320. https://doi.org/10.1016/S0892-1997(05)80060-X"
+  },
+  {
+    "id": "confidential-voice",
+    "name_en": "Confidential Voice Therapy",
+    "name_zh": "低語式聲音治療法",
+    "domain": "voice",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Confidential voice therapy instructs the patient to use a soft, breathy, low-effort voice quality (as if sharing a secret) to reduce laryngeal hyperfunction and allow healing of vocal fold lesions. It is typically used as a short-term voice rest alternative. The confidential voice reduces medial compression and collision forces on the vocal folds.",
+    "description_zh": "低語式聲音治療法指導患者使用柔和、氣息感強、低努力的聲音質量（如同分享秘密），以減少喉部功能亢進並促進聲帶病變癒合。通常作為短期聲音休息的替代方案使用。低語式聲音減少聲帶的中央壓縮和碰撞力。",
+    "target_population": "Adults and school-age children with vocal nodules, vocal fold haemorrhage, or post-surgical voice",
+    "activities": [
+      "Practising 'confidential' voice quality in isolation",
+      "Using confidential voice in short phrases and conversation",
+      "Monitoring vocal effort and reducing to minimal necessary effort"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Clinical studies and expert consensus; less RCT evidence",
+    "reference": "Verdolini, K., & Ramig, L. O. (2001). Review: Occupational risks for voice problems. Logopedics Phoniatrics Vocology, 26(1), 37–46. https://doi.org/10.1080/14015430119969"
+  }
+]
