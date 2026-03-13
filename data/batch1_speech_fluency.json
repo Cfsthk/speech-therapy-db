@@ -1,0 +1,453 @@
+[
+  {
+    "id": "minimal-pairs",
+    "name_en": "Minimal Pairs Therapy",
+    "name_zh": "最小配對治療法",
+    "domain": "speech",
+    "age_groups": [
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Minimal pairs therapy targets phonological disorders by contrasting words that differ by a single phoneme. The clinician uses picture cards and meaningful communication to highlight phonemic contrasts. Children learn to differentiate and produce target sounds through structured play activities.",
+    "description_zh": "最小配對治療法針對音韻障礙，通過對比僅有一個音位不同的詞語來進行訓練。治療師使用圖片卡和有意義的溝通活動來強調音位對比。兒童通過結構化遊戲活動學習區分和發出目標音。",
+    "target_population": "Children aged 3–8 with phonological disorders",
+    "activities": [
+      "Minimal pair picture card sorting",
+      "Choose-it tasks with contrasting word pairs",
+      "Barrier games using minimal pair sets"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs and systematic reviews support efficacy for phonological disorders",
+    "reference": "Barlow, J. A., & Gierut, J. A. (2002). Minimal pair approaches to phonological remediation. Seminars in Speech and Language, 23(1), 57–67. https://doi.org/10.1055/s-2002-23508",
+    "procedure": [
+      "Assess the child's phonological system to identify phoneme collapses or substitution patterns",
+      "Select minimal pair word sets that contrast the error sound with the target sound (e.g., 'tea' vs. 'key' for /t/ vs. /k/)",
+      "Present picture cards for both words in the minimal pair and model the contrast clearly",
+      "Engage the child in activities where accurate production is necessary for communication (e.g., barrier games, choose-it tasks)",
+      "Provide immediate feedback when meaning is unclear due to phoneme error",
+      "Gradually increase complexity from single words to phrases and sentences",
+      "Monitor generalization to untreated sounds and conversational speech"
+    ]
+  },
+  {
+    "id": "cycles-approach",
+    "name_en": "Cycles Approach (Hodson)",
+    "name_zh": "循環法（霍德森）",
+    "domain": "speech",
+    "age_groups": [
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "The Cycles Approach targets highly unintelligible children by cycling through phonological patterns rather than mastering each to criterion. Each phoneme pattern is targeted for a set number of hours before moving to the next. The approach uses auditory bombardment, production practice, and meaningful minimal pairs.",
+    "description_zh": "循環法針對言語清晰度極低的兒童，通過循環訓練各音韻模式而非要求每個模式達到標準後才進行下一個。每個音素模式訓練固定時數後進入下一個。此方法結合聽覺轟炸、發音練習和有意義的最小配對。",
+    "target_population": "Preschool and early school-age children with severe/profound phonological disorders",
+    "activities": [
+      "Auditory bombardment with amplification",
+      "Picture card production drills by phoneme pattern",
+      "Experiential-play activities targeting target patterns"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong research base including multiple controlled studies; widely replicated",
+    "reference": "Hodson, B. W. (2010). Evaluating and enhancing children's phonological systems: Research and theory to practice. PhonoComp.",
+    "procedure": [
+      "Conduct a comprehensive phonological assessment to identify all deficient phoneme patterns",
+      "Select 2-3 target patterns for the first cycle based on stimulability and developmental norms",
+      "Begin each session with auditory bombardment: read a list of 10-12 target words with amplification while child listens",
+      "Conduct production practice using picture cards and experiential play activities for 10-15 minutes per pattern",
+      "After 2-6 hours on a pattern, move to the next pattern in the cycle without requiring mastery",
+      "Repeat auditory bombardment at the end of each session",
+      "Send home practice materials for parent carryover",
+      "Begin a new cycle targeting the same patterns after completing the first cycle, gradually adding new patterns as old ones improve"
+    ]
+  },
+  {
+    "id": "nuffield-dyspraxia",
+    "name_en": "Nuffield Dyspraxia Programme (NDP3)",
+    "name_zh": "納菲爾德言語失用症方案",
+    "domain": "speech",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "NDP3 is a structured motor-learning programme for children with Childhood Apraxia of Speech (CAS). It uses a bottom-up approach, building from single sounds to syllables, words, and phrases. Intensive practice with integral stimulation and articulatory placement cues is central to the method.",
+    "description_zh": "NDP3是針對兒童言語失用症的結構化運動學習方案。採用由下而上的方法，從單個音素逐步建立到音節、詞語和短語。方案核心是結合整合刺激法和發音位置提示的密集練習。",
+    "target_population": "Children aged 3–11 with Childhood Apraxia of Speech",
+    "activities": [
+      "Sound-symbol card drills",
+      "Integral stimulation (watch me, listen, do it with me)",
+      "Syllable shape building from CV to multisyllabic words"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Clinical evidence and case series; RCT evidence emerging",
+    "reference": "Murray, E., McCabe, P., & Ballard, K. J. (2015). A randomized controlled trial for children with childhood apraxia of speech. Journal of Speech, Language, and Hearing Research, 58(3), 669–686. https://doi.org/10.1044/2015_JSLHR-S-13-0179",
+    "procedure": [
+      "Assess the child's speech motor planning abilities and syllable shape inventory",
+      "Begin at the child's current level (single sounds, CV syllables, or simple words)",
+      "Use integral stimulation cues: 'Watch me, listen to me, say it with me'",
+      "Provide visual cues (sound-symbol cards) and articulatory placement cues as needed",
+      "Practice intensively with high repetition (100+ trials per session for motor learning)",
+      "Systematically build from CV to CVC to CVCV to multisyllabic words following the NDP3 hierarchy",
+      "Gradually fade cues as the child achieves independence",
+      "Monitor progress with regular probes and adjust hierarchy as needed"
+    ]
+  },
+  {
+    "id": "dynamic-temporal-tactile-cueing",
+    "name_en": "Dynamic Temporal and Tactile Cueing (DTTC)",
+    "name_zh": "動態時間與觸覺提示法",
+    "domain": "speech",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "DTTC is a motor-based treatment for Childhood Apraxia of Speech that uses simultaneous production, direct imitation, and fading of cues. The clinician works on carefully selected target words practised intensively in a structured hierarchy. Cues are systematically faded to promote independent motor planning.",
+    "description_zh": "動態時間與觸覺提示法是針對兒童言語失用症的運動學習治療，使用同步發音、直接模仿和逐漸減少提示的方法。治療師對精心選擇的目標詞進行密集的結構化練習。提示系統性地減少以促進獨立的運動計劃。",
+    "target_population": "Children aged 2–12 with Childhood Apraxia of Speech, especially severe cases",
+    "activities": [
+      "Simultaneous production with clinician",
+      "Direct imitation of multisyllabic target words",
+      "Fading cue hierarchy from simultaneous to independent"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "RCT evidence available; considered a best-practice approach for CAS by CASANA",
+    "reference": "Strand, E. A., Stoeckel, R., & Baas, B. (2006). Treatment of severe childhood apraxia of speech: A treatment efficacy study. Journal of Medical Speech-Language Pathology, 14(4), 297–307.",
+    "procedure": [
+      "Select functional target words (typically 10-15) that are meaningful to the child and vary in syllable structure",
+      "Begin with simultaneous production: clinician and child produce the word together with full tactile and visual cues",
+      "Provide direct modeling and immediate imitation with maximal cueing",
+      "Use tactile cues for articulatory placement, timing, and prosody",
+      "Practice each target word intensively (multiple repetitions) within the session",
+      "Systematically fade cues through a hierarchy: simultaneous → direct imitation → delayed imitation → spontaneous",
+      "Monitor accuracy and adjust cue levels dynamically based on child's performance",
+      "Gradually add new target words as previous targets achieve independence"
+    ]
+  },
+  {
+    "id": "rapid-syllable-transition",
+    "name_en": "Rapid Syllable Transition Treatment (ReST)",
+    "name_zh": "快速音節轉換治療法",
+    "domain": "speech",
+    "age_groups": [
+      "school_age"
+    ],
+    "description_en": "ReST targets CAS using pseudoword practice to build the ability to rapidly transition between syllables with accurate prosody. Treatment uses a strict 3-attempt motor learning schedule with knowledge-of-performance feedback. The use of non-words isolates motor learning from vocabulary knowledge.",
+    "description_zh": "快速音節轉換治療法使用偽詞練習來建立快速音節轉換能力及準確韻律。治療採用嚴格的三次嘗試運動學習計劃並提供表現知識反饋。使用非詞語將運動學習與詞匯知識分離。",
+    "target_population": "School-age children aged 6–12 with Childhood Apraxia of Speech",
+    "activities": [
+      "Pseudoword repetition with stress pattern targets",
+      "KP feedback on syllable transitions",
+      "Home practice with pseudoword lists"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs from McCabe & colleagues; strong motor learning framework",
+    "reference": "McCabe, P., Murray, E., Thomas, D. C., & Evans, P. (2019). Clinician manual for Rapid Syllable Transition Treatment (ReST). University of Sydney.",
+    "procedure": [
+      "Create pseudoword lists with varying syllable structures and stress patterns (e.g., 'bae-DOE-vah', 'TAE-koe-bie')",
+      "Model the pseudoword with clear stress pattern for the child",
+      "Child attempts the pseudoword up to 3 times per trial (strict 3-attempt limit)",
+      "Provide knowledge-of-performance (KP) feedback focusing on syllable transitions and stress accuracy, not phoneme accuracy",
+      "Do not provide knowledge-of-results feedback ('that was good/wrong')",
+      "Practice in blocks of 10 trials per pseudoword, with 100+ trials per session",
+      "Provide home practice materials with new pseudoword lists",
+      "Assess generalization to real words and connected speech at regular intervals"
+    ]
+  },
+  {
+    "id": "multiple-oppositions",
+    "name_en": "Multiple Oppositions Therapy",
+    "name_zh": "多重對立療法",
+    "domain": "speech",
+    "age_groups": [
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Multiple Oppositions Therapy targets children who have collapsed many phonemes into one sound by contrasting the error sound with several adult targets simultaneously. This approach collapses multiple phoneme contrasts into a single set, maximising efficiency. It is particularly effective for children with extensive phoneme collapses.",
+    "description_zh": "多重對立療法針對將多個音位合併成一個音的兒童，通過同時對比錯誤音與多個成人目標音進行訓練。此方法將多個音位對比合併成一組，最大化治療效率。特別適用於廣泛音位合併的兒童。",
+    "target_population": "Preschool and school-age children with extensive phoneme collapse patterns",
+    "activities": [
+      "Multiple opposition picture card sets (4+ contrasts)",
+      "Choose-it tasks with error vs. multiple targets",
+      "Communicative activities requiring phoneme differentiation"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Several well-designed studies by Williams; emerging evidence base",
+    "reference": "Williams, A. L. (2000). Multiple oppositions: Theoretical foundations for an alternative contrastive intervention approach. American Journal of Speech-Language Pathology, 9(4), 282–288. https://doi.org/10.1044/1058-0360.0904.282",
+    "procedure": [
+      "Identify the child's phoneme collapse pattern (e.g., all fricatives and affricates produced as /t/)",
+      "Select 4-6 contrast words where the child's error substitutes for multiple different target phonemes",
+      "Create a picture set showing all contrasts simultaneously (e.g., 'tea', 'sea', 'key', 'she' for /t/-/s/-/k/-/ʃ/ collapse)",
+      "Present all pictures and model each word clearly",
+      "Engage the child in structured activities requiring differentiation of all contrasts (sorting, barrier games)",
+      "Provide communicative feedback when errors prevent successful communication",
+      "Monitor for generalization to other untreated sounds with similar features",
+      "Gradually reduce support as the child demonstrates consistent contrast production"
+    ]
+  },
+  {
+    "id": "stimulability-treatment",
+    "name_en": "Stimulability Treatment",
+    "name_zh": "刺激反應性訓練",
+    "domain": "speech",
+    "age_groups": [
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Stimulability treatment targets sounds the child can produce with maximal cueing (stimulable sounds) to promote generalisation to non-stimulable sounds. Research by Miccio suggests targeting stimulable sounds increases overall phonological inventory. This approach is particularly efficient for children with multiple speech sound errors.",
+    "description_zh": "刺激反應性訓練針對兒童在最大提示下能夠發出的音（可刺激音），以促進對不可刺激音的泛化。研究顯示訓練可刺激音能增加整體音位庫存量。此方法對有多個語音錯誤的兒童特別有效。",
+    "target_population": "Preschool children with multiple speech sound errors",
+    "activities": [
+      "Stimulability probing across all error sounds",
+      "Drill-play activities for stimulable target sounds",
+      "Monitoring generalisation to non-treated sounds"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Controlled studies by Miccio and colleagues; theoretical debate ongoing",
+    "reference": "Miccio, A. W. (2005). A treatment program for enhancing stimulability. In A. G. Kamhi & K. E. Pollock (Eds.), Phonological disorders in children (pp. 163–173). Paul H. Brookes.",
+    "procedure": [
+      "Conduct stimulability probes for all error sounds using maximal cueing (auditory, visual, tactile)",
+      "Identify which error sounds are stimulable (child can produce with support) vs. non-stimulable",
+      "Select stimulable sounds as initial treatment targets",
+      "Use drill-play activities to practice stimulable sounds at word and phrase level",
+      "Provide high-frequency practice opportunities (100+ productions per session)",
+      "Systematically fade cueing as production becomes independent",
+      "Conduct regular probes on non-stimulable sounds to monitor for generalization",
+      "Once stimulable sounds reach criterion, re-assess non-stimulable sounds for emerging stimulability"
+    ]
+  },
+  {
+    "id": "articulation-therapy",
+    "name_en": "Traditional Articulation Therapy (Van Riper)",
+    "name_zh": "傳統發音治療法（凡萊珀）",
+    "domain": "speech",
+    "age_groups": [
+      "preschool",
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Traditional articulation therapy follows a sensorimotor approach: isolate the target sound, then build it into syllables, words, phrases, sentences, and finally conversational speech. Van Riper's sequence remains the most widely used approach in clinical practice. It is most effective for single-sound errors with a motoric basis.",
+    "description_zh": "傳統發音治療法遵循感覺運動方法：先分離目標音，再逐步建立到音節、詞語、短語、句子，最終達到對話語境。凡萊珀的序列仍是臨床實踐中最廣泛使用的方法。對具有運動基礎的單音錯誤最為有效。",
+    "target_population": "Children and adults with articulation disorders, particularly single-phoneme errors",
+    "activities": [
+      "Sound isolation drill at isolation level",
+      "Syllable drills (CV, VC, CVC)",
+      "Carryover activities in phrases and conversation"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Long clinical history; less RCT evidence but strong practice-based evidence",
+    "reference": "Van Riper, C., & Erickson, R. L. (1996). Speech correction: An introduction to speech pathology and audiology (9th ed.). Allyn & Bacon.",
+    "procedure": [
+      "Identify the target sound error through comprehensive articulation assessment",
+      "Establish production at isolation level using auditory, visual, and tactile cues",
+      "Practice the sound in syllables: CV, VC, CVC at all word positions",
+      "Move to word level practice when syllable production is accurate (80-90% criterion)",
+      "Practice target sound in phrases and short sentences",
+      "Conduct structured conversation activities to promote carryover",
+      "Assign home practice at each level of the hierarchy",
+      "Monitor for generalization to spontaneous speech and fade direct cueing"
+    ]
+  },
+  {
+    "id": "lidcombe-program",
+    "name_en": "Lidcombe Program",
+    "name_zh": "利特科姆方案",
+    "domain": "fluency",
+    "age_groups": [
+      "toddler",
+      "preschool"
+    ],
+    "description_en": "The Lidcombe Program is a parent-delivered operant conditioning treatment for preschool children who stutter. Parents learn to give verbal contingencies (praise for fluent speech, acknowledgement of stutters) during structured daily conversations. It has the strongest RCT evidence of any stuttering treatment for young children.",
+    "description_zh": "利特科姆方案是由家長執行的針對學前兒童口吃的操作性條件治療。家長學習在結構化的日常對話中給予言語後效（對流利語言的讚揚、對口吃的確認）。它是針對幼兒口吃治療中具有最強隨機對照試驗證據的方法。",
+    "target_population": "Children aged 2–6 years who stutter",
+    "activities": [
+      "Structured daily parent-child conversations with verbal contingencies",
+      "Severity rating scale (0–10) by parent and clinician",
+      "Weekly clinic visits for progress monitoring"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Multiple RCTs including an international multicentre RCT; Cochrane review support",
+    "reference": "Jones, M., Onslow, M., Packman, A., Williams, S., Ormond, T., Schwartz, I., & Gebski, V. (2005). Randomised controlled trial of the Lidcombe programme of early stuttering intervention. BMJ, 331(7518), 659. https://doi.org/10.1136/bmj.38520.451840.E0",
+    "procedure": [
+      "Train parents in the Lidcombe approach during initial clinic sessions",
+      "Parents conduct daily 10-15 minute structured conversations with the child at home",
+      "Parents provide verbal contingencies: frequent praise for fluent speech ('that was smooth'), occasional acknowledgment of stutters ('that was a bit bumpy')",
+      "Parents and clinician rate stuttering severity daily using a 1-10 scale",
+      "Hold weekly clinic visits to review parent recordings, provide feedback, and adjust treatment",
+      "Gradually move from structured to unstructured conversations as fluency improves",
+      "Enter maintenance phase when stuttering is below 1% syllables stuttered for several weeks",
+      "Continue periodic check-ins during maintenance to prevent relapse"
+    ]
+  },
+  {
+    "id": "demands-capacities-model",
+    "name_en": "Demands and Capacities Model (DCM)",
+    "name_zh": "需求與能力模型",
+    "domain": "fluency",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "The DCM proposes that stuttering occurs when communicative demands exceed a child's capacities in motor, linguistic, cognitive, and emotional domains. Intervention focuses on reducing demands and building capacities rather than directly modifying speech. Parents are coached to reduce time pressure, complexity, and emotional reactions.",
+    "description_zh": "需求與能力模型提出，當溝通需求超過兒童在運動、語言、認知和情感領域的能力時，口吃就會發生。干預重點是減少需求和提升能力，而非直接修改語言。家長被指導減少時間壓力、語言複雜度和情感反應。",
+    "target_population": "Preschool and early school-age children who stutter",
+    "activities": [
+      "Parent counselling on demand reduction strategies",
+      "Slow unhurried speech modelling by parents",
+      "Environmental modification to reduce communicative pressure"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Theoretical framework with supporting clinical studies; less RCT evidence than Lidcombe",
+    "reference": "Starkweather, C. W., & Gottwald, S. R. (1990). The demands and capacities model II: Clinical applications. Journal of Fluency Disorders, 15(3), 143–157. https://doi.org/10.1016/0094-730X(90)90015-S",
+    "procedure": [
+      "Assess the child's capacities across motor, linguistic, cognitive, and emotional domains",
+      "Identify environmental demands that exceed the child's capacities (time pressure, linguistic complexity, listener reactions)",
+      "Counsel parents on strategies to reduce demands: slow unhurried speech models, simplified language, turn-taking without interruption",
+      "Implement environmental modifications to reduce communicative pressure",
+      "Build capacities through indirect language stimulation and play-based activities",
+      "Monitor fluency changes as demands are reduced and capacities increased",
+      "Avoid direct attention to stuttering moments with young children",
+      "Gradually reintroduce typical communicative demands as fluency stabilizes"
+    ]
+  },
+  {
+    "id": "fluency-shaping",
+    "name_en": "Fluency Shaping Therapy",
+    "name_zh": "流利塑造治療法",
+    "domain": "fluency",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Fluency shaping uses operant techniques to teach a new, fluent speech pattern through skills such as prolonged speech, gentle onset, light articulatory contacts, and continuous airflow. Clients learn to produce slow, smooth speech and gradually increase rate while maintaining fluency. The goal is controlled fluency rather than natural sounding speech.",
+    "description_zh": "流利塑造法使用操作性技術，通過延長語音、輕柔起音、輕觸式發音接觸和連續氣流等技能教導新的流利說話方式。客戶學習產生緩慢流暢的語言並在保持流利的同時逐漸增加語速。目標是受控的流利度而非自然語音。",
+    "target_population": "School-age children and adults who stutter",
+    "activities": [
+      "Prolonged speech practice at very slow rate (40 spm)",
+      "Gentle voice onset drills",
+      "Rate increase programme with fluency monitoring"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "RCTs and systematic reviews; intensive programmes (e.g., Camperdown) well-studied",
+    "reference": "O'Brian, S., Packman, A., & Onslow, M. (2010). The Camperdown Program: Outcomes of a new prolonged-speech treatment model. Journal of Speech, Language, and Hearing Research, 53(6), 1468–1483. https://doi.org/10.1044/1092-4388(2010/09-0259)",
+    "procedure": [
+      "Teach prolonged speech pattern at extremely slow rate (30-60 syllables per minute)",
+      "Instruct client in gentle voice onset: easy, gradual start to voicing",
+      "Practice light articulatory contacts with reduced tension",
+      "Teach continuous airflow and voicing through phrases",
+      "Once fluent at slow rate, gradually increase speech rate in small increments",
+      "Practice in hierarchy: syllables → words → phrases → sentences → conversation",
+      "Conduct transfer activities in increasingly challenging speaking situations",
+      "Teach self-monitoring skills to maintain fluency controls in daily life"
+    ]
+  },
+  {
+    "id": "stuttering-modification",
+    "name_en": "Stuttering Modification Therapy (Van Riper)",
+    "name_zh": "口吃調整治療法（凡萊珀）",
+    "domain": "fluency",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Stuttering modification therapy aims to change the form of stuttering to make it easier and less effortful rather than eliminating it. Key techniques include cancellations, pull-outs, and preparatory sets. The approach addresses the emotional and attitudinal components of stuttering alongside speech modification.",
+    "description_zh": "口吃調整治療法旨在改變口吃的形式，使其更容易、更省力，而非消除它。主要技術包括取消法、拉出法和準備定勢法。此方法在修改語言的同時也處理口吃的情感和態度成分。",
+    "target_population": "School-age children and adults who stutter, especially those with significant avoidance",
+    "activities": [
+      "Desensitisation through voluntary stuttering",
+      "Cancellation practice after real stutters",
+      "Pull-out technique drills in hierarchy"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Clinical tradition with supporting case studies; RCT evidence limited compared to fluency shaping",
+    "reference": "Van Riper, C. (1973). The treatment of stuttering. Prentice-Hall.",
+    "procedure": [
+      "Build awareness of stuttering moments through identification and self-monitoring",
+      "Conduct desensitization activities: voluntary stuttering, discussing stuttering openly",
+      "Teach cancellation: stop after a stutter, pause, and repeat the word using easier stuttering or fluency controls",
+      "Teach pull-out: when stuttering occurs, release tension and pull out of the stutter smoothly mid-word",
+      "Teach preparatory set: anticipate stuttering moments and use pre-planned easier stuttering or controls",
+      "Practice techniques in hierarchy from clinic to daily speaking situations",
+      "Address emotional reactions and avoidance behaviors through counseling",
+      "Encourage acceptance of stuttering while working to make it less effortful"
+    ]
+  },
+  {
+    "id": "acceptance-commitment-stuttering",
+    "name_en": "Acceptance and Commitment Therapy for Stuttering (ACT)",
+    "name_zh": "口吃接受與承諾治療法",
+    "domain": "fluency",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "ACT for stuttering targets psychological flexibility and acceptance of stuttering rather than fluency control. Clients learn to defuse from unhelpful thoughts, accept stuttering experiences, and commit to valued actions despite stuttering. This approach addresses quality of life and reduces avoidance behaviour.",
+    "description_zh": "口吃的接受與承諾治療法針對心理靈活性和接受口吃，而非流利度控制。客戶學習從無益的想法中解離、接受口吃體驗，並在口吃的情況下承諾有價值的行動。此方法改善生活質量並減少迴避行為。",
+    "target_population": "Adolescents and adults who stutter with high avoidance or anxiety",
+    "activities": [
+      "Values clarification exercises",
+      "Defusion exercises for stuttering-related thoughts",
+      "Exposure hierarchy for avoided speaking situations"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Growing RCT evidence; well-established in psychological literature adapted to fluency",
+    "reference": "Beilby, J. M., Byrnes, M. L., & Yaruss, J. S. (2012). Acceptance and Commitment Therapy for adults who stutter: Psychosocial adjustment and speech fluency. Journal of Fluency Disorders, 37(4), 289–299. https://doi.org/10.1016/j.jfludis.2012.05.003",
+    "procedure": [
+      "Conduct values clarification exercises to identify what matters most to the client",
+      "Teach cognitive defusion techniques to reduce impact of negative stuttering-related thoughts",
+      "Practice acceptance exercises: observing stuttering experiences without judgment",
+      "Develop exposure hierarchy for avoided speaking situations",
+      "Systematically approach feared situations while practicing acceptance and defusion",
+      "Commit to valued actions (social, vocational, personal) despite stuttering",
+      "Monitor psychological flexibility and quality of life, not just fluency",
+      "Encourage participation in stuttering support groups to reduce isolation"
+    ]
+  },
+  {
+    "id": "palin-pci",
+    "name_en": "Palin Parent-Child Interaction Therapy (Palin PCI)",
+    "name_zh": "帕林親子互動治療法",
+    "domain": "fluency",
+    "age_groups": [
+      "toddler",
+      "preschool"
+    ],
+    "description_en": "Palin PCI is a family-centred treatment for young children who stutter that focuses on parent-child interaction styles and the child's environment. Clinicians coach parents to use strategies such as special time, slower speech rate, and reduced questions. It also addresses parent anxieties and the child's awareness of stuttering.",
+    "description_zh": "帕林親子互動治療法是針對口吃幼兒的家庭中心治療，專注於親子互動方式和兒童環境。治療師指導家長使用特別時間、放慢語速和減少提問等策略。同時處理家長的焦慮和兒童對口吃的意識。",
+    "target_population": "Children aged 2–7 who stutter and their families",
+    "activities": [
+      "Special time (10 min daily child-led play with parent)",
+      "Parent self-reflection on interaction style",
+      "Child confidence-building activities"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "RCT evidence available; developed at Michael Palin Centre, UK",
+    "reference": "Millard, S. K., Nicholas, A., & Cook, F. M. (2008). Is parent-child interaction therapy effective in reducing stuttering? Journal of Speech, Language, and Hearing Research, 51(3), 636–650. https://doi.org/10.1044/1092-4388(2008/046)",
+    "procedure": [
+      "Conduct comprehensive assessment including parent-child interaction observation",
+      "Counsel parents about stuttering and the interaction approach",
+      "Implement 'special time': 5-10 minutes daily of child-led play with modified parent interaction style",
+      "Train parents to slow their own speech rate slightly during special time",
+      "Encourage parents to reduce questions and increase comments during play",
+      "Address parent anxieties and concerns about stuttering",
+      "Support the child's confidence through activities focused on what they do well",
+      "Monitor fluency changes and adjust interaction strategies as needed",
+      "Gradually generalize interaction changes to daily routines beyond special time"
+    ]
+  }
+]
