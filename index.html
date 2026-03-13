@@ -319,56 +319,100 @@
 
         /* Mobile responsive */
         @media (max-width: 768px) {
+            body {
+                overflow: hidden;
+            }
+
+            .header {
+                padding: 8px 12px;
+            }
+
+            .header-top {
+                flex-wrap: wrap;
+                gap: 6px;
+                margin-bottom: 4px;
+            }
+
+            .header-title {
+                font-size: 14px;
+            }
+
+            .header-subtitle {
+                font-size: 12px;
+            }
+
+            .stats-bar {
+                display: none;
+            }
+
+            .controls {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 4px;
+            }
+
+            .search-box {
+                grid-column: 1 / -1;
+                font-size: 14px;
+                padding: 6px 10px;
+            }
+
+            .filter-select {
+                font-size: 13px;
+                padding: 5px 6px;
+            }
+
+            .btn {
+                font-size: 13px;
+                padding: 5px 8px;
+            }
+
             .main-container {
                 flex-direction: column;
-                height: auto;
+                height: calc(100vh - 90px);
+                overflow: hidden;
             }
 
             .list-panel {
                 width: 100%;
-                height: auto;
-                max-height: 60vh;
+                height: 100%;
+                overflow-y: auto;
+                -webkit-overflow-scrolling: touch;
+                flex: 1;
             }
 
             .detail-panel {
-                width: 100%;
+                display: none;
                 position: fixed;
-                bottom: 0;
-                left: 0;
-                right: 0;
-                top: auto;
-                height: 70vh;
-                border-top: 2px solid #3498db;
-                box-shadow: 0 -4px 12px rgba(0,0,0,0.15);
-                z-index: 200;
-                transform: translateY(100%);
-                transition: transform 0.3s ease;
+                inset: 0;
+                width: 100%;
+                height: 100%;
+                z-index: 300;
+                background: white;
+                overflow-y: auto;
+                -webkit-overflow-scrolling: touch;
+                transform: none;
+                border: none;
+                box-shadow: none;
             }
 
             .detail-panel.active {
-                transform: translateY(0);
+                display: block;
             }
 
-            .controls {
-                flex-direction: column;
+            .detail-content {
+                padding: 16px;
+                padding-bottom: 80px;
             }
 
-            .search-box {
-                width: 100%;
+            .mobile-back-btn {
+                display: flex;
             }
-        }
-
-        /* Keyboard navigation hint */
-        .kbd-hint {
-            font-size: 11px;
-            color: #95a5a6;
-            margin-top: 8px;
-            display: none;
         }
 
         @media (min-width: 769px) {
-            .kbd-hint {
-                display: block;
+            .mobile-back-btn {
+                display: none !important;
             }
         }
     </style>
@@ -425,6 +469,7 @@
         </div>
 
         <div class="detail-panel" id="detail-panel">
+            <button class="mobile-back-btn" id="mobile-back-btn" onclick="closeMobileDetail()" style="display:none; align-items:center; gap:6px; background:#3498db; color:white; border:none; padding:10px 16px; font-size:14px; font-weight:600; cursor:pointer; position:sticky; top:0; width:100%; z-index:10; text-align:left;">&#8592; Back to list</button>
             <div class="detail-empty">
                 <div>
                     <div style="font-size: 48px; margin-bottom: 12px;">📋</div>
@@ -449,6 +494,13 @@
             swallowing: '#E67E22',
             feeding: '#E74C3C'
         };
+
+        function closeMobileDetail() {
+            const panel = document.getElementById('detail-panel');
+            panel.classList.remove('active');
+            selectedIndex = -1;
+            document.querySelectorAll('.list-item').forEach(el => el.classList.remove('selected'));
+        }
 
         // Load data
         async function loadData() {
@@ -535,6 +587,9 @@
             // Mobile: show detail panel
             if (window.innerWidth <= 768) {
                 document.getElementById('detail-panel').classList.add('active');
+                // Show back button on mobile
+                const backBtn = document.getElementById('mobile-back-btn');
+                if (backBtn) backBtn.style.display = window.innerWidth <= 768 ? 'flex' : 'none';
             }
         }
 
