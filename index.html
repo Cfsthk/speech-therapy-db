@@ -19,75 +19,81 @@
         }
 
         .header {
-            background: white;
-            border-bottom: 1px solid #e0e0e0;
-            padding: 20px;
-            position: sticky;
-            top: 0;
-            z-index: 100;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-        }
+    background: white;
+    border-bottom: 1px solid #e0e0e0;
+    padding: 8px 16px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.header-top {
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+    margin-bottom: 6px;
+}
 
         .header-title {
-            font-size: 24px;
-            font-weight: 600;
-            margin-bottom: 8px;
-            color: #2c3e50;
-        }
+    font-size: 16px;
+    font-weight: 600;
+    color: #2c3e50;
+    white-space: nowrap;
+}
 
         .header-subtitle {
-            font-size: 14px;
-            color: #7f8c8d;
-            margin-bottom: 16px;
-        }
+    font-size: 13px;
+    color: #7f8c8d;
+}
 
         .stats-bar {
-            display: flex;
-            gap: 20px;
-            margin-bottom: 16px;
-            flex-wrap: wrap;
-        }
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
+    margin-left: auto;
+}
 
         .stat-item {
-            font-size: 13px;
-            color: #555;
-        }
+    font-size: 12px;
+    color: #888;
+}
 
         .stat-item strong {
-            color: #2c3e50;
-            font-weight: 600;
-        }
+    color: #2c3e50;
+    font-weight: 600;
+}
 
         .controls {
-            display: flex;
-            gap: 12px;
-            flex-wrap: wrap;
-            align-items: center;
-        }
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    align-items: center;
+}
 
         .search-box {
             flex: 1;
             min-width: 200px;
-            padding: 8px 12px;
+            padding: 6px 10px;
             border: 1px solid #ddd;
             border-radius: 4px;
-            font-size: 14px;
+            font-size: 13px;
         }
 
         .filter-select {
-            padding: 8px 12px;
+            padding: 6px 10px;
             border: 1px solid #ddd;
             border-radius: 4px;
-            font-size: 14px;
+            font-size: 13px;
             background: white;
             cursor: pointer;
         }
 
         .btn {
-            padding: 8px 16px;
+            padding: 6px 12px;
             border: 1px solid #ddd;
             border-radius: 4px;
-            font-size: 14px;
+            font-size: 13px;
             background: white;
             cursor: pointer;
             transition: background 0.2s;
@@ -109,7 +115,7 @@
 
         .main-container {
             display: flex;
-            height: calc(100vh - 200px);
+            height: calc(100vh - 90px);
             background: white;
             margin: 0;
         }
@@ -369,50 +375,49 @@
 </head>
 <body>
     <div class="header">
+    <div class="header-top">
         <div class="header-title">Speech Therapy Evidence Database</div>
         <div class="header-subtitle">言語治療實證資料庫</div>
-
         <div class="stats-bar">
-            <div class="stat-item"><strong id="total-count">0</strong> Total Approaches</div>
-            <div class="stat-item"><strong>6</strong> Domains</div>
-            <div class="stat-item"><strong>5</strong> Age Groups</div>
+            <div class="stat-item"><strong id="total-count">0</strong> approaches</div>
+            <div class="stat-item"><strong>6</strong> domains</div>
+            <div class="stat-item"><strong>5</strong> age groups</div>
         </div>
-
-        <div class="controls">
-            <input type="text" id="search-box" class="search-box" placeholder="Search interventions...">
-
-            <select id="domain-filter" class="filter-select">
-                <option value="">All Domains</option>
-                <option value="speech">Speech</option>
-                <option value="fluency">Fluency</option>
-                <option value="language">Language</option>
-                <option value="voice">Voice</option>
-                <option value="swallowing">Swallowing</option>
-                <option value="feeding">Feeding</option>
-            </select>
-
-            <select id="age-filter" class="filter-select">
-                <option value="">All Ages</option>
-                <option value="infant">Infant (0-2)</option>
-                <option value="preschool">Preschool (3-5)</option>
-                <option value="school">School-age (6-17)</option>
-                <option value="adult">Adult (18-64)</option>
-                <option value="elderly">Elderly (65+)</option>
-            </select>
-
-            <select id="evidence-filter" class="filter-select">
-                <option value="">All Evidence</option>
-                <option value="5">★★★★★ (5 stars)</option>
-                <option value="4">★★★★ (4+ stars)</option>
-                <option value="3">★★★ (3+ stars)</option>
-            </select>
-
-            <button id="lang-toggle" class="btn btn-toggle">中文</button>
-            <button id="reset-btn" class="btn">Reset</button>
-        </div>
-
-        <div class="kbd-hint">Tip: Use arrow keys to navigate, Escape to close detail</div>
     </div>
+
+    <div class="controls">
+        <input type="text" id="search-box" class="search-box" placeholder="Search interventions...">
+
+        <select id="domain-filter" class="filter-select">
+            <option value="">All Domains</option>
+            <option value="speech">Speech</option>
+            <option value="fluency">Fluency</option>
+            <option value="language">Language</option>
+            <option value="voice">Voice</option>
+            <option value="swallowing">Swallowing</option>
+            <option value="feeding">Feeding</option>
+        </select>
+
+        <select id="age-filter" class="filter-select">
+            <option value="">All Ages</option>
+            <option value="infant">Infant (0-2)</option>
+            <option value="preschool">Preschool (3-5)</option>
+            <option value="school">School-age (6-17)</option>
+            <option value="adult">Adult (18-64)</option>
+            <option value="elderly">Elderly (65+)</option>
+        </select>
+
+        <select id="evidence-filter" class="filter-select">
+            <option value="">All Evidence</option>
+            <option value="5">★★★★★ (5 stars)</option>
+            <option value="4">★★★★ (4+ stars)</option>
+            <option value="3">★★★ (3+ stars)</option>
+        </select>
+
+        <button id="lang-toggle" class="btn btn-toggle">中文</button>
+        <button id="reset-btn" class="btn">Reset</button>
+    </div>
+</div>
 
     <div class="main-container">
         <div class="list-panel" id="list-panel">
