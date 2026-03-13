@@ -1,0 +1,319 @@
+[
+  {
+    "id": "prelinguistic-milieu-teaching",
+    "name_en": "Prelinguistic Milieu Teaching (PMT)",
+    "name_zh": "前語言期環境教學法",
+    "domain": "language",
+    "age_groups": [
+      "infant",
+      "toddler"
+    ],
+    "description_en": "PMT is a naturalistic intervention for infants and toddlers with developmental delays who have not yet developed intentional communication. It teaches prelinguistic communication behaviors (gestures, vocalizations, eye gaze) through environmental arrangement and responsive interaction strategies. PMT targets foundational social-communication skills that precede spoken language.",
+    "description_zh": "前語言期環境教學法是針對發展遲緩、尚未發展出有意圖溝通能力的嬰幼兒的自然情境介入法。透過環境安排和回應式互動策略，教導前語言溝通行為（手勢、發聲、眼神接觸）。PMT針對口語語言前的基礎社交溝通技能。",
+    "target_population": "Infants and toddlers with developmental delays, autism spectrum disorder, or significant communication impairments at prelinguistic stages",
+    "activities": [
+      "Environmental arrangement to create communication opportunities",
+      "Responsive interaction techniques (imitation, expansion, time delay)",
+      "Teaching gestures and coordinated eye gaze",
+      "Prompting and reinforcing intentional communication acts"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong RCT evidence showing improvements in prelinguistic communication acts, joint attention, and faster acquisition of first words in young children with developmental disabilities.",
+    "reference": "Yoder, P., & Warren, S. F. (2002). Effects of prelinguistic milieu teaching and parent responsivity education on dyads involving children with intellectual disabilities. Journal of Speech, Language, and Hearing Research, 45(6), 1158-1175. https://doi.org/10.1044/1092-4388(2002/094)"
+  },
+  {
+    "id": "reciprocal-scaffolding-treatment",
+    "name_en": "Reciprocal Scaffolding Treatment (RST)",
+    "name_zh": "相互支架治療法",
+    "domain": "language",
+    "age_groups": [
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "RST is a play-based language intervention where clinician and child take turns scaffolding each other's contributions during structured activities. The approach emphasizes reciprocal turn-taking, semantic elaboration, and syntactic complexity through collaborative storytelling and dramatic play. It systematically increases linguistic demands while maintaining child engagement.",
+    "description_zh": "相互支架治療法是以遊戲為基礎的語言介入法，治療師與兒童在結構化活動中輪流為彼此的貢獻提供支架。此方法強調相互輪流、語義擴展和句法複雜性，透過合作式故事講述和戲劇遊戲進行。在維持兒童參與的同時，系統性地增加語言要求。",
+    "target_population": "Preschool and school-age children with specific language impairment, developmental language disorder, or language delays",
+    "activities": [
+      "Collaborative story creation with alternating turns",
+      "Dramatic play scenarios with role scaffolding",
+      "Semantic mapping and vocabulary elaboration",
+      "Syntactic recasting and expansion during play"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Moderate evidence from quasi-experimental studies showing gains in narrative skills, syntactic complexity, and semantic diversity in children with language impairment.",
+    "reference": "Greenhalgh, K. S., & Strong, C. J. (2001). Literate language features in spoken narratives of children with typical language and children with language impairments. Language, Speech, and Hearing Services in Schools, 32(2), 114-125. https://doi.org/10.1044/0161-1461(2001/010)"
+  },
+  {
+    "id": "recast-intervention",
+    "name_en": "Recast Intervention",
+    "name_zh": "重鑄介入法",
+    "domain": "language",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Recast intervention involves the clinician or parent immediately reformulating a child's utterance to provide a grammatically correct or more complex model, without overtly correcting the child. Recasts maintain conversational flow while providing implicit feedback and language models targeting specific morphosyntactic structures. This technique is effective for grammar development and has strong theoretical grounding in implicit learning.",
+    "description_zh": "重鑄介入法是指治療師或家長立即重新表述兒童的話語，提供語法正確或更複雜的示範，而不公開糾正兒童。重鑄保持對話流暢性，同時提供隱性反饋和針對特定形態句法結構的語言示範。此技巧對語法發展有效，並具有強大的隱性學習理論基礎。",
+    "target_population": "Children with grammatical delays, specific language impairment, autism spectrum disorder, or children learning complex sentence structures",
+    "activities": [
+      "Conversational recasting of grammatical errors",
+      "Expansion of telegraphic speech into complete sentences",
+      "Targeted recasts focusing on specific morphemes (past tense, plurals, pronouns)",
+      "Parent training in recast techniques for home use"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Extensive RCT and meta-analytic evidence demonstrating effectiveness for improving grammatical morpheme use, particularly for children with specific language impairment.",
+    "reference": "Cleave, P. L., Becker, S. D., Curran, M. K., Van Horne, A. J. O., & Fey, M. E. (2015). The efficacy of recasts in language intervention: A systematic review and meta-analysis. American Journal of Speech-Language Pathology, 24(2), 237-255. https://doi.org/10.1044/2015_AJSLP-14-0105"
+  },
+  {
+    "id": "script-training",
+    "name_en": "Script Training",
+    "name_zh": "腳本訓練法",
+    "domain": "language",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Script training involves intensive practice of personally relevant conversational scripts or functional phrases to improve language production in individuals with aphasia or autism. Through repeated rehearsal, scripts become automatic, improving fluency and confidence in communication. Scripts are individualized to reflect real-life situations and communication needs, promoting functional generalization.",
+    "description_zh": "腳本訓練法涉及密集練習個人相關的對話腳本或功能性短語，以改善失語症或自閉症患者的語言表達。透過反復演練，腳本變得自動化，提高流暢性和溝通信心。腳本個別化以反映真實生活情境和溝通需求，促進功能性類化。",
+    "target_population": "Adults with aphasia, children and adults with autism spectrum disorder, or individuals with severe apraxia of speech",
+    "activities": [
+      "Personalized script development based on daily routines",
+      "Intensive repetition and rehearsal of scripted phrases",
+      "Video modeling and role-play practice",
+      "Gradual fading of cues and generalization to novel contexts"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong single-subject design evidence showing improved fluency, word retrieval, and functional communication in aphasia and ASD populations.",
+    "reference": "Goldberg, S., Haley, K. L., & Jacks, A. (2012). Script training and generalization for people with aphasia. American Journal of Speech-Language Pathology, 21(3), 222-238. https://doi.org/10.1044/1058-0360(2012/11-0056)"
+  },
+  {
+    "id": "treatment-underlying-forms",
+    "name_en": "Treatment of Underlying Forms (TUF)",
+    "name_zh": "底層形式治療法",
+    "domain": "language",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "TUF is an agrammatism treatment approach for aphasia that targets complex sentence structures by training underlying syntactic forms. The approach is based on linguistic complexity hierarchy, training more complex structures (e.g., wh-questions, object relative clauses) to promote generalization to simpler related structures. TUF uses metalinguistic tasks and sentence production drills.",
+    "description_zh": "底層形式治療法是針對失語症語法缺失的治療方法，透過訓練底層句法形式來針對複雜句子結構。此方法基於語言複雜性層級，訓練更複雜的結構（如疑問句、受詞關係子句）以促進類化到較簡單的相關結構。TUF使用後設語言任務和句子生成練習。",
+    "target_population": "Adults with agrammatic aphasia (Broca's aphasia) who have impaired complex sentence production",
+    "activities": [
+      "Sentence completion and arrangement tasks",
+      "Wh-question generation and answering",
+      "Object-cleft and relative clause production",
+      "Metalinguistic training on syntactic structure"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple single-subject experimental designs and group studies showing improved production of trained and untrained sentence structures in agrammatic aphasia.",
+    "reference": "Thompson, C. K., & Shapiro, L. P. (2005). Treating agrammatic aphasia within a linguistic framework: Treatment of Underlying Forms. Aphasiology, 19(10-11), 1021-1036. https://doi.org/10.1080/02687030544000227"
+  },
+  {
+    "id": "semantic-feature-analysis",
+    "name_en": "Semantic Feature Analysis (SFA)",
+    "name_zh": "語義特徵分析法",
+    "domain": "language",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "SFA is a treatment for word-retrieval deficits (anomia) in aphasia that strengthens semantic networks by systematically analyzing semantic features of target words. Patients generate semantic attributes (category, use, properties, location, association) for pictures or words, facilitating word retrieval through spreading activation. SFA promotes generalization to untrained items within semantic categories.",
+    "description_zh": "語義特徵分析法是針對失語症詞彙提取缺陷（命名障礙）的治療，透過系統性分析目標詞彙的語義特徵來強化語義網絡。患者為圖片或詞彙生成語義屬性（類別、用途、特性、位置、聯想），透過擴散激活促進詞彙提取。SFA促進類化至語義類別內的未訓練項目。",
+    "target_population": "Adults with aphasia experiencing anomia (word-finding difficulties), particularly those with semantic processing deficits",
+    "activities": [
+      "Generating semantic features for target nouns (category, function, properties)",
+      "Completing semantic feature charts or diagrams",
+      "Comparing and contrasting semantically related items",
+      "Naming tasks following semantic feature generation"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong evidence from multiple RCTs and systematic reviews showing improved confrontation naming and generalization to untrained items in aphasia.",
+    "reference": "Boyle, M., & Coelho, C. A. (1995). Application of semantic feature analysis as a treatment for aphasic dysnomia. American Journal of Speech-Language Pathology, 4(4), 94-98. https://doi.org/10.1044/1058-0360.0404.94"
+  },
+  {
+    "id": "constraint-induced-language-therapy",
+    "name_en": "Constraint-Induced Language Therapy (CILT)",
+    "name_zh": "限制誘導語言治療法",
+    "domain": "language",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "CILT is an intensive aphasia treatment based on constraint-induced movement therapy principles. It constrains patients to use verbal communication only (no gestures, writing, or drawing) during massed practice communicative activities. The approach involves shaping, high intensity practice (3+ hours daily), and forced use of verbal output to promote neuroplastic changes and improve spoken language production.",
+    "description_zh": "限制誘導語言治療法是基於限制誘導動作治療原則的密集失語症治療。在大量練習溝通活動期間，限制患者僅使用口語溝通（不使用手勢、書寫或繪圖）。此方法涉及塑造、高強度練習（每天3小時以上）和強制使用口語輸出，以促進神經可塑性變化並改善口語產出。",
+    "target_population": "Adults with chronic aphasia, particularly those with mild to moderate expressive deficits who rely on compensatory strategies",
+    "activities": [
+      "Card-matching communication games with verbal-only constraint",
+      "Request-based activities requiring spoken language",
+      "Barrier tasks with speaking-only rule",
+      "Intensive massed practice sessions (3-4 hours daily for 2 weeks)"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs and systematic reviews showing significant improvements in verbal communication abilities and daily language use in chronic aphasia.",
+    "reference": "Pulvermüller, F., & Berthier, M. L. (2008). Aphasia therapy on a neuroscience basis. Aphasiology, 22(6), 563-599. https://doi.org/10.1080/02687030701612213"
+  },
+  {
+    "id": "computerised-language-intervention",
+    "name_en": "Computerised Language Intervention (e.g., Fast ForWord)",
+    "name_zh": "快速語言電腦訓練法",
+    "domain": "language",
+    "age_groups": [
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Computerised language interventions use adaptive software to provide intensive, individualized training in auditory processing, phonological awareness, and language comprehension. Programs like Fast ForWord use modified speech (acoustically enhanced and slowed) and game-based exercises to target temporal processing deficits hypothesized to underlie language impairment. Training is typically intensive (daily sessions) with automatic difficulty adjustment.",
+    "description_zh": "電腦化語言介入使用自適應軟體提供密集、個別化的聽覺處理、語音意識和語言理解訓練。如Fast ForWord等程式使用修改過的語音（聲學增強和減速）和遊戲式練習，針對被假設為語言障礙根源的時間處理缺陷。訓練通常是密集的（每日課程），具有自動難度調整。",
+    "target_population": "Children with specific language impairment, auditory processing disorder, reading difficulties, or language-based learning disabilities",
+    "activities": [
+      "Auditory discrimination tasks with modified speech",
+      "Phonological awareness games and exercises",
+      "Sentence and story comprehension activities",
+      "Working memory and sequencing tasks"
+    ],
+    "evidence_stars": 2,
+    "evidence_symbol": "★★☆☆☆",
+    "evidence_basis": "Mixed evidence with some studies showing improvements in auditory processing but limited generalization to language outcomes; systematic reviews indicate no superiority over traditional therapy.",
+    "reference": "Strong, G. K., Torgerson, C. J., Torgerson, D., & Hulme, C. (2011). A systematic meta-analytic review of evidence for the effectiveness of the 'Fast ForWord' language intervention program. Journal of Child Psychology and Psychiatry, 52(3), 224-235. https://doi.org/10.1111/j.1469-7610.2010.02329.x"
+  },
+  {
+    "id": "vocal-function-exercises-stemple",
+    "name_en": "Vocal Function Exercises (Stemple)",
+    "name_zh": "聲帶功能練習法（史坦普方案）",
+    "domain": "voice",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Vocal Function Exercises (VFE) is a systematic voice therapy program consisting of four specific exercises designed to strengthen and balance the laryngeal musculature. Developed by Stemple, the exercises involve sustained phonation, pitch glides, and controlled loudness tasks performed twice daily. VFE improves vocal fold adduction, respiratory support, and overall vocal efficiency through physiologic strengthening.",
+    "description_zh": "聲帶功能練習法是系統性聲音治療方案，包含四個特定練習，旨在強化和平衡喉部肌肉。由史坦普開發，練習包括持續發聲、音高滑動和控制音量任務，每天進行兩次。VFE透過生理強化改善聲帶內收、呼吸支持和整體發聲效率。",
+    "target_population": "Individuals with muscle tension dysphonia, vocal fatigue, presbyphonia (aging voice), or those seeking vocal conditioning and strengthening",
+    "activities": [
+      "Sustained /i/ phonation with maximum duration",
+      "Pitch glides from lowest to highest comfortable pitch",
+      "Sustained phonation with loudness variation",
+      "Musical fifth pitch glides on sustained vowels"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Extensive RCT evidence and systematic reviews demonstrating significant improvements in vocal quality, endurance, and phonatory function across multiple voice disorder populations.",
+    "reference": "Stemple, J. C., Lee, L., D'Amico, B., & Pickup, B. (1994). Efficacy of vocal function exercises as a method of improving voice production. Journal of Voice, 8(3), 271-278. https://doi.org/10.1016/S0892-1997(05)80299-1"
+  },
+  {
+    "id": "resonant-voice-therapy-verdolini",
+    "name_en": "Resonant Voice Therapy (Verdolini)",
+    "name_zh": "共鳴聲音治療法（維朵里尼方案）",
+    "domain": "voice",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Resonant Voice Therapy, developed by Verdolini, focuses on achieving voice production with maximal sound output and minimal laryngeal effort through optimal vocal tract resonance. The approach emphasizes forward focus of voice, easy onset, and balanced oral-nasal resonance using techniques like humming, nasal consonants, and kinesthetic awareness. RVT reduces phonotrauma and improves vocal efficiency.",
+    "description_zh": "共鳴聲音治療法由維朵里尼開發，專注於透過最佳聲道共鳴達到最大聲音輸出和最小喉部用力的發聲。此方法強調聲音的前焦點、輕鬆起始和平衡的口鼻共鳴，使用哼唱、鼻音輔音和動覺意識等技巧。RVT減少聲帶創傷並改善發聲效率。",
+    "target_population": "Individuals with vocal nodules, polyps, muscle tension dysphonia, or voice disorders related to vocal hyperfunction and inefficient voice use",
+    "activities": [
+      "Humming exercises with forward focus",
+      "Nasal consonant (/m/, /n/) phonation drills",
+      "Kinesthetic monitoring of facial vibration (mask resonance)",
+      "Easy onset exercises and pitch exploration"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Strong RCT evidence showing significant reductions in phonatory effort, improvements in vocal quality, and decreased vocal fold lesions compared to other voice therapy approaches.",
+    "reference": "Verdolini, K., Druker, D. G., Palmer, P. M., & Samawi, H. (1998). Laryngeal adduction in resonant voice. Journal of Voice, 12(3), 315-327. https://doi.org/10.1016/S0892-1997(98)80021-0"
+  },
+  {
+    "id": "accent-method-voice",
+    "name_en": "Accent Method (Voice Therapy)",
+    "name_zh": "音調法（聲音治療）",
+    "domain": "voice",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "The Accent Method is a holistic voice therapy approach that integrates rhythm, breathing, and voicing through accentuated abdominal-diaphragmatic breathing patterns. Originally developed in Europe, it uses rhythmic speech and singing exercises with emphasized stress patterns to improve respiratory-phonatory coordination, reduce laryngeal tension, and enhance vocal quality. The method emphasizes the connection between body, breath, and voice.",
+    "description_zh": "音調法是整體性聲音治療方法，透過強調的腹部橫膈膜呼吸模式整合節奏、呼吸和發聲。最初在歐洲開發，使用節奏性言語和歌唱練習，配合強調的重音模式，以改善呼吸-發聲協調、減少喉部緊張並提升聲音質量。此方法強調身體、呼吸和聲音之間的連結。",
+    "target_population": "Individuals with muscle tension dysphonia, vocal fatigue, spasmodic dysphonia, or professional voice users seeking improved vocal stamina and quality",
+    "activities": [
+      "Rhythmic breathing exercises with abdominal emphasis",
+      "Accentuated speech production with varying rhythmic patterns",
+      "Body movement coordinated with breath and voice",
+      "Musical scale exercises with rhythmic stress patterns"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Moderate evidence from European studies showing improvements in voice quality, respiratory function, and patient-reported outcomes; limited large-scale RCT evidence.",
+    "reference": "Kotby, M. N., El-Sady, S. R., Basiouny, S. E., Abou-Rass, Y. A., & Hegazi, M. A. (1991). Efficacy of the accent method of voice therapy. Journal of Voice, 5(4), 316-320. https://doi.org/10.1016/S0892-1997(05)80060-8"
+  },
+  {
+    "id": "casper-stone-confidential-voice",
+    "name_en": "Casper-Stone Confidential Voice Therapy",
+    "name_zh": "保護性低語法（卡斯帕-斯通方案）",
+    "domain": "voice",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "Confidential Voice Therapy uses soft, breathy phonation (speaking as if sharing a secret) to reduce vocal fold contact and decrease phonotrauma during healing. Developed by Casper and Stone, this approach is particularly useful for vocal fold lesions or acute vocal injury. The gentle voicing pattern minimizes mechanical stress on the vocal folds while maintaining communication, serving as a transition between voice rest and normal phonation.",
+    "description_zh": "保護性低語法使用柔和、氣息式發聲（如分享秘密般說話）來減少聲帶接觸並在癒合期間減少聲帶創傷。由卡斯帕和斯通開發，此方法對聲帶病變或急性聲帶損傷特別有用。溫和的發聲模式將聲帶機械壓力降至最低，同時維持溝通，作為聲音休息與正常發聲之間的過渡。",
+    "target_population": "Individuals with acute vocal fold injury, vocal nodules, polyps, hemorrhage, or post-surgical voice rehabilitation",
+    "activities": [
+      "Soft, breathy phonation exercises at low volume",
+      "Confidential voice production in conversational contexts",
+      "Gradual transition from breathy to normal voice quality",
+      "Self-monitoring of vocal intensity and effort"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Clinical case series and expert consensus supporting use for vocal fold lesions and acute injury; limited controlled trial evidence but widely accepted in clinical practice.",
+    "reference": "Colton, R. H., & Casper, J. K. (1996). Understanding voice problems: A physiological perspective for diagnosis and treatment (2nd ed.). Williams & Wilkins."
+  },
+  {
+    "id": "manual-circumlaryngeal-therapy",
+    "name_en": "Manual Circumlaryngeal Therapy (Aronson/Mathieson)",
+    "name_zh": "喉部手法治療（艾朗森/馬修森方案）",
+    "domain": "voice",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "Manual Circumlaryngeal Therapy involves external manual manipulation of the larynx and perilaryngeal muscles to reduce muscle tension and reposition the larynx for optimal voice production. The clinician applies gentle digital pressure to the hyoid bone, thyroid cartilage, and surrounding musculature to release tension and lower laryngeal position. This hands-on technique is effective for reducing hyperfunctional voice patterns.",
+    "description_zh": "喉部手法治療涉及喉部和喉周肌肉的外部手動操作，以減少肌肉緊張並重新定位喉部以達到最佳發聲。治療師對舌骨、甲狀軟骨和周圍肌肉施加輕柔的數字壓力，以釋放緊張並降低喉部位置。此手法技術對減少過度功能性發聲模式有效。",
+    "target_population": "Adults with muscle tension dysphonia, functional dysphonia, or chronic laryngeal tension resulting in voice disorders",
+    "activities": [
+      "Manual palpation and assessment of laryngeal position and tension",
+      "Digital manipulation of hyoid bone and thyroid cartilage",
+      "Gentle massage of extrinsic laryngeal muscles",
+      "Phonation during and after manual therapy to establish new patterns"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong clinical evidence from multiple studies showing immediate and sustained improvements in voice quality and reduction in laryngeal tension for muscle tension dysphonia.",
+    "reference": "Mathieson, L., Hirani, S. P., Epstein, R., Baken, R. J., Wood, G., & Rubin, J. S. (2009). Laryngeal manual therapy: A preliminary study to examine its treatment effects in the management of muscle tension dysphonia. Journal of Voice, 23(3), 353-366. https://doi.org/10.1016/j.jvoice.2007.10.002"
+  },
+  {
+    "id": "transgender-voice-therapy",
+    "name_en": "Transgender Voice Therapy (Feminisation/Masculinisation)",
+    "name_zh": "跨性別聲音治療（女性化/男性化）",
+    "domain": "voice",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "Transgender voice therapy helps individuals modify vocal characteristics to align with their gender identity. Feminisation focuses on increasing fundamental frequency, resonance modification, intonation patterns, and communication style. Masculinisation (less common due to testosterone effects) addresses resonance, articulation, and communication patterns. The approach is holistic, addressing vocal parameters, nonverbal communication, and gender expression.",
+    "description_zh": "跨性別聲音治療幫助個人修改聲音特徵以符合其性別認同。女性化專注於提高基本頻率、共鳴修改、語調模式和溝通風格。男性化（因睪固酮效應較少見）處理共鳴、發音和溝通模式。此方法是整體性的，處理聲音參數、非語言溝通和性別表達。",
+    "target_population": "Transgender and gender-diverse individuals seeking voice modification to align with gender identity (transfeminine or transmasculine)",
+    "activities": [
+      "Pitch elevation exercises and optimal pitch identification (feminisation)",
+      "Resonance modification (oral vs pharyngeal resonance)",
+      "Intonation pattern training and prosody modification",
+      "Communication style, language use, and nonverbal behavior training"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Growing evidence base including controlled studies showing significant improvements in acoustic measures, voice satisfaction, and quality of life for transgender individuals.",
+    "reference": "Hancock, A. B., Krissinger, J., & Owen, K. (2011). Voice perceptions and quality of life of transgender people. Journal of Voice, 25(5), 553-558. https://doi.org/10.1016/j.jvoice.2010.07.013"
+  }
+]
