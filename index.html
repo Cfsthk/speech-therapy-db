@@ -138,673 +138,494 @@
             font-size: 13px;
             text-transform: uppercase;
             letter-spacing: 0.5px;
-            color: #2c3e50;
+            color: #34495e;
             position: sticky;
             top: 0;
             z-index: 10;
-            border-bottom: 1px solid #ddd;
+            border-bottom: 1px solid #d5dbdd;
         }
 
-        .list-item {
+        .study-item {
             padding: 12px 16px;
             border-bottom: 1px solid #e8e8e8;
             cursor: pointer;
-            transition: background 0.2s;
+            transition: background 0.15s;
             background: white;
-            border-left: 3px solid transparent;
         }
 
-        .list-item:hover {
-            background: #f8f9fa;
+        .study-item:hover {
+            background: #f0f7ff;
         }
 
-        .list-item.selected {
-            background: #e8f4f8;
-            border-left-color: #3498db;
-            border-left-width: 4px;
+        .study-item.selected {
+            background: #e3f2fd;
+            border-left: 3px solid #3498db;
         }
 
-        .list-item-name {
+        .study-title {
             font-weight: 500;
-            font-size: 15px;
-            margin-bottom: 6px;
+            font-size: 13px;
             color: #2c3e50;
+            margin-bottom: 4px;
         }
 
-        .list-item-meta {
-            display: flex;
-            gap: 8px;
-            flex-wrap: wrap;
-            align-items: center;
-            font-size: 12px;
-        }
-
-        .domain-badge {
-            padding: 2px 8px;
-            border-radius: 3px;
-            font-weight: 500;
-            color: white;
+        .study-meta {
             font-size: 11px;
-            text-transform: uppercase;
-        }
-
-        .domain-speech { background: #4A90D9; }
-        .domain-fluency { background: #00A896; }
-        .domain-language { background: #2ECC71; }
-        .domain-voice { background: #9B59B6; }
-        .domain-swallowing { background: #E67E22; }
-        .domain-feeding { background: #E74C3C; }
-
-        .evidence-stars {
-            color: #f39c12;
-        }
-
-        .age-tags {
+            color: #95a5a6;
             display: flex;
-            gap: 4px;
+            gap: 10px;
             flex-wrap: wrap;
-        }
-
-        .age-tag {
-            padding: 2px 6px;
-            background: #ecf0f1;
-            border-radius: 3px;
-            font-size: 11px;
-            color: #555;
         }
 
         .detail-panel {
-            width: 60%;
+            flex: 1;
             overflow-y: auto;
-            padding: 32px;
+            padding: 20px;
             background: white;
         }
 
-        .detail-empty {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 100%;
-            color: #95a5a6;
-            font-size: 16px;
-            text-align: center;
-        }
-
-        .detail-content {
-            max-width: 800px;
-        }
-
-        .detail-title {
-            font-size: 28px;
-            font-weight: 600;
-            color: #2c3e50;
-            margin-bottom: 8px;
-        }
-
-        .detail-title-zh {
-            font-size: 20px;
-            color: #7f8c8d;
+        .detail-section {
             margin-bottom: 20px;
         }
 
-        .detail-section {
-            margin-bottom: 24px;
-        }
-
-        .detail-section-title {
+        .detail-section h3 {
             font-size: 14px;
             font-weight: 600;
-            text-transform: uppercase;
-            color: #7f8c8d;
+            color: #2c3e50;
             margin-bottom: 8px;
-            letter-spacing: 0.5px;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 4px;
         }
 
-        .detail-section-content {
-            font-size: 15px;
-            color: #333;
-            line-height: 1.7;
+        .detail-content {
+            font-size: 13px;
+            line-height: 1.8;
+            color: #555;
         }
 
-        .detail-section-content ul {
-            padding-left: 20px;
+        .badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 500;
+            margin-right: 4px;
+            margin-bottom: 4px;
         }
 
-        .detail-section-content li {
-            margin-bottom: 6px;
+        .badge-primary {
+            background: #e3f2fd;
+            color: #1976d2;
         }
 
-        .evidence-rating {
-            display: flex;
-            align-items: center;
-            gap: 12px;
+        .badge-success {
+            background: #e8f5e9;
+            color: #388e3c;
+        }
+
+        .badge-warning {
+            background: #fff3e0;
+            color: #f57c00;
+        }
+
+        .badge-info {
+            background: #e1f5fe;
+            color: #0288d1;
+        }
+
+        .empty-state {
+            padding: 40px;
+            text-align: center;
+            color: #95a5a6;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #95a5a6;
+        }
+
+        .error {
+            background: #ffebee;
+            color: #c62828;
+            padding: 12px;
+            border-radius: 4px;
+            margin: 20px;
+        }
+
+        .detail-grid {
+            display: grid;
+            grid-template-columns: 120px 1fr;
+            gap: 8px;
             margin-bottom: 12px;
         }
 
-        .evidence-rating .stars {
-            font-size: 18px;
-            color: #f39c12;
+        .detail-label {
+            font-weight: 600;
+            color: #7f8c8d;
+            font-size: 12px;
         }
 
-        .evidence-rating .label {
-            font-size: 14px;
-            color: #555;
+        .detail-value {
+            color: #2c3e50;
+            font-size: 13px;
         }
 
-        .reference-box {
-            background: #f8f9fa;
-            padding: 16px;
-            border-left: 4px solid #3498db;
-            border-radius: 4px;
-            font-size: 14px;
-            color: #555;
-            line-height: 1.6;
-        }
-
-        .reference-box a {
-            color: #3498db;
-            text-decoration: none;
-        }
-
-        .reference-box a:hover {
-            text-decoration: underline;
-        }
-
-        .no-results {
-            padding: 40px 20px;
-            text-align: center;
-            color: #95a5a6;
-            font-size: 14px;
-        }
-
-        /* Mobile responsive */
-        @media (max-width: 768px) {
-            body {
-                overflow: hidden;
-            }
-
-            .header {
-                padding: 8px 12px;
-            }
-
-            .header-top {
-                flex-wrap: wrap;
-                gap: 6px;
-                margin-bottom: 4px;
-            }
-
-            .header-title {
-                font-size: 14px;
-            }
-
-            .header-subtitle {
-                font-size: 12px;
-            }
-
-            .stats-bar {
-                display: none;
-            }
-
-            .controls {
-                display: grid;
-                grid-template-columns: 1fr 1fr;
-                gap: 4px;
-            }
-
-            .search-box {
-                grid-column: 1 / -1;
-                font-size: 14px;
-                padding: 6px 10px;
-            }
-
-            .filter-select {
-                font-size: 13px;
-                padding: 5px 6px;
-            }
-
-            .btn {
-                font-size: 13px;
-                padding: 5px 8px;
-            }
-
-            .main-container {
-                flex-direction: column;
-                height: calc(100vh - 90px);
-                overflow: hidden;
-            }
-
-            .list-panel {
-                width: 100%;
-                height: 100%;
-                overflow-y: auto;
-                -webkit-overflow-scrolling: touch;
-                flex: 1;
-            }
-
-            .detail-panel {
-                display: none;
-                position: fixed;
-                inset: 0;
-                width: 100%;
-                height: 100%;
-                z-index: 300;
-                background: white;
-                overflow-y: auto;
-                -webkit-overflow-scrolling: touch;
-                transform: none;
-                border: none;
-                box-shadow: none;
-            }
-
-            .detail-panel.active {
-                display: block;
-            }
-
-            .detail-content {
-                padding: 16px;
-                padding-bottom: 80px;
-            }
-
-            .mobile-back-btn {
-                display: flex;
-            }
-        }
-
-        @media (min-width: 769px) {
-            .mobile-back-btn {
-                display: none !important;
-            }
-        }
-
-        .procedure-steps {
-            margin: 0;
-            padding-left: 20px;
+        /* Language toggle */
+        .lang-toggle {
             display: flex;
-            flex-direction: column;
-            gap: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            overflow: hidden;
         }
-        .procedure-steps li {
-            font-size: 14px;
-            line-height: 1.6;
-            color: #374151;
-            padding: 6px 0;
-            border-bottom: 1px solid #f3f4f6;
+
+        .lang-option {
+            padding: 4px 10px;
+            font-size: 12px;
+            background: white;
+            border: none;
+            cursor: pointer;
+            transition: all 0.2s;
         }
-        .procedure-steps li:last-child {
-            border-bottom: none;
+
+        .lang-option.active {
+            background: #3498db;
+            color: white;
+        }
+
+        .lang-option:not(:last-child) {
+            border-right: 1px solid #ddd;
         }
     </style>
 </head>
 <body>
     <div class="header">
-    <div class="header-top">
-        <div class="header-title">Speech Therapy Evidence Database</div>
-        <div class="header-subtitle">言語治療實證資料庫</div>
-        <div class="stats-bar">
-            <div class="stat-item"><strong id="total-count">0</strong> approaches</div>
-            <div class="stat-item"><strong>6</strong> domains</div>
-            <div class="stat-item"><strong>5</strong> age groups</div>
+        <div class="header-top">
+            <h1 class="header-title">Speech Therapy Evidence Database</h1>
+            <span class="header-subtitle">言語治療實證資料庫</span>
+            <div class="stats-bar">
+                <div class="stat-item"><strong id="totalCount">0</strong> studies</div>
+                <div class="stat-item"><strong id="filteredCount">0</strong> displayed</div>
+            </div>
+        </div>
+        <div class="controls">
+            <input type="text" class="search-box" id="searchBox" placeholder="Search by title, author, keywords...">
+            
+            <select class="filter-select" id="domainFilter">
+                <option value="all">All Domains</option>
+            </select>
+            
+            <select class="filter-select" id="yearFilter">
+                <option value="all">All Years</option>
+            </select>
+            
+            <select class="filter-select" id="levelFilter">
+                <option value="all">All Evidence Levels</option>
+                <option value="1">Level 1 (高)</option>
+                <option value="2">Level 2 (中)</option>
+                <option value="3">Level 3 (低)</option>
+            </select>
+
+            <div class="lang-toggle">
+                <button class="lang-option active" data-lang="en">EN</button>
+                <button class="lang-option" data-lang="zh">中文</button>
+            </div>
+
+            <button class="btn" id="exportBtn">Export CSV</button>
         </div>
     </div>
-
-    <div class="controls">
-        <input type="text" id="search-box" class="search-box" placeholder="Search interventions...">
-
-        <select id="domain-filter" class="filter-select">
-            <option value="">All Domains</option>
-            <option value="speech">Speech</option>
-            <option value="fluency">Fluency</option>
-            <option value="language">Language</option>
-            <option value="voice">Voice</option>
-            <option value="swallowing">Swallowing</option>
-            <option value="feeding">Feeding</option>
-        </select>
-
-        <select id="age-filter" class="filter-select">
-            <option value="">All Ages</option>
-            <option value="infant">Infant (0-2)</option>
-            <option value="preschool">Preschool (3-5)</option>
-            <option value="school">School-age (6-17)</option>
-            <option value="adult">Adult (18-64)</option>
-            <option value="elderly">Elderly (65+)</option>
-        </select>
-
-        <select id="evidence-filter" class="filter-select">
-            <option value="">All Evidence</option>
-            <option value="5">★★★★★ (5 stars)</option>
-            <option value="4">★★★★ (4+ stars)</option>
-            <option value="3">★★★ (3+ stars)</option>
-        </select>
-
-        <button id="lang-toggle" class="btn btn-toggle">中文</button>
-        <button id="reset-btn" class="btn">Reset</button>
-    </div>
-</div>
 
     <div class="main-container">
-        <div class="list-panel" id="list-panel">
-            <div class="no-results" id="no-results" style="display: none;">No approaches match your filters</div>
+        <div class="list-panel" id="listPanel">
+            <div class="loading">Loading database...</div>
         </div>
-
-        <div class="detail-panel" id="detail-panel">
-            <div id="back-btn" onclick="goBack()" style="display:none; padding: 12px 16px 0; cursor:pointer; color:#4f8ef7; font-size:14px; font-weight:600; align-items:center; gap:6px;">&#8592; Back to list</div>
-            <button class="mobile-back-btn" id="mobile-back-btn" onclick="closeMobileDetail()" style="display:none; align-items:center; gap:6px; background:#3498db; color:white; border:none; padding:10px 16px; font-size:14px; font-weight:600; cursor:pointer; position:sticky; top:0; width:100%; z-index:10; text-align:left;">&#8592; Back to list</button>
-            <div class="detail-empty">
-                <div>
-                    <div style="font-size: 48px; margin-bottom: 12px;">📋</div>
-                    <div>Select an approach from the list to view details</div>
-                    <div style="font-size: 14px; margin-top: 8px;">從列表中選擇一個方法以查看詳情</div>
-                </div>
-            </div>
+        <div class="detail-panel" id="detailPanel">
+            <div class="empty-state">Select a study to view details</div>
         </div>
     </div>
 
     <script>
-        let allData = [];
-        let filteredData = [];
-        let selectedIndex = -1;
+        let allStudies = [];
+        let filteredStudies = [];
+        let selectedStudy = null;
         let currentLang = 'en';
 
-        const domainColors = {
-            speech: '#4A90D9',
-            fluency: '#00A896',
-            language: '#2ECC71',
-            voice: '#9B59B6',
-            swallowing: '#E67E22',
-            feeding: '#E74C3C'
-        };
-
-        function closeMobileDetail() {
-            const panel = document.getElementById('detail-panel');
-            panel.classList.remove('active');
-            selectedIndex = -1;
-            document.querySelectorAll('.list-item').forEach(el => el.classList.remove('selected'));
-        }
-
-        // Load data
-        async function loadData() {
+        // Load database
+        async function loadDatabase() {
             try {
-                const response = await fetch('data/speech_therapy_db.json');
-                if (!response.ok) throw new Error('Failed to load data');
-                allData = await response.json();
-
-                // Update total count
-                document.getElementById('total-count').textContent = allData.length;
-
-                filteredData = [...allData];
-                renderList();
+                const response = await fetch('db.json');
+                if (!response.ok) throw new Error('Failed to load database');
+                
+                const data = await response.json();
+                allStudies = data.studies || [];
+                
+                initializeFilters();
+                filterStudies();
             } catch (error) {
-                console.error('Error loading data:', error);
-                document.getElementById('list-panel').innerHTML = 
-                    '<div class="no-results">Error loading database. Please check data/speech_therapy_db.json exists.</div>';
+                document.getElementById('listPanel').innerHTML = 
+                    `<div class="error">Error loading database: ${error.message}</div>`;
             }
         }
 
-        // Render list
-        function renderList() {
-            const listPanel = document.getElementById('list-panel');
-            const noResults = document.getElementById('no-results');
+        // Initialize filter dropdowns
+        function initializeFilters() {
+            // Domain filter
+            const domains = [...new Set(allStudies.map(s => s.domain))].sort();
+            const domainFilter = document.getElementById('domainFilter');
+            domains.forEach(domain => {
+                const option = document.createElement('option');
+                option.value = domain;
+                option.textContent = domain;
+                domainFilter.appendChild(option);
+            });
 
-            if (filteredData.length === 0) {
-                listPanel.innerHTML = '';
-                noResults.style.display = 'block';
+            // Year filter
+            const years = [...new Set(allStudies.map(s => s.year))]
+                .filter(y => y)
+                .sort((a, b) => b - a);
+            const yearFilter = document.getElementById('yearFilter');
+            years.forEach(year => {
+                const option = document.createElement('option');
+                option.value = year;
+                option.textContent = year;
+                yearFilter.appendChild(option);
+            });
+
+            document.getElementById('totalCount').textContent = allStudies.length;
+        }
+
+        // Filter studies
+        function filterStudies() {
+            const searchTerm = document.getElementById('searchBox').value.toLowerCase();
+            const domainFilter = document.getElementById('domainFilter').value;
+            const yearFilter = document.getElementById('yearFilter').value;
+            const levelFilter = document.getElementById('levelFilter').value;
+
+            filteredStudies = allStudies.filter(study => {
+                const matchesSearch = !searchTerm || 
+                    study.title_en?.toLowerCase().includes(searchTerm) ||
+                    study.title_zh?.toLowerCase().includes(searchTerm) ||
+                    study.authors?.toLowerCase().includes(searchTerm) ||
+                    study.keywords?.toLowerCase().includes(searchTerm);
+
+                const matchesDomain = domainFilter === 'all' || study.domain === domainFilter;
+                const matchesYear = yearFilter === 'all' || study.year == yearFilter;
+                const matchesLevel = levelFilter === 'all' || study.evidence_level == levelFilter;
+
+                return matchesSearch && matchesDomain && matchesYear && matchesLevel;
+            });
+
+            document.getElementById('filteredCount').textContent = filteredStudies.length;
+            renderList();
+        }
+
+        // Render study list
+        function renderList() {
+            const listPanel = document.getElementById('listPanel');
+            
+            if (filteredStudies.length === 0) {
+                listPanel.innerHTML = '<div class="empty-state">No studies match your filters</div>';
                 return;
             }
 
-            noResults.style.display = 'none';
-
             // Group by domain
-            const grouped = {};
-            filteredData.forEach(item => {
-                if (!grouped[item.domain]) grouped[item.domain] = [];
-                grouped[item.domain].push(item);
+            const byDomain = {};
+            filteredStudies.forEach(study => {
+                if (!byDomain[study.domain]) byDomain[study.domain] = [];
+                byDomain[study.domain].push(study);
             });
 
             let html = '';
-            Object.keys(grouped).sort().forEach(domain => {
-                html += `<div class="domain-section">
-                    <div class="domain-header">${domain.toUpperCase()}</div>`;
-
-                grouped[domain].forEach((item, idx) => {
-                    const globalIdx = filteredData.indexOf(item);
-                    const name = currentLang === 'en' ? item.name_en : item.name_zh;
-                    const stars = '★'.repeat(item.evidence_rating);
-
-                    html += `<div class="list-item ${selectedIndex === globalIdx ? 'selected' : ''}" 
-                                  data-index="${globalIdx}">
-                        <div class="list-item-name">${name}</div>
-                        <div class="list-item-meta">
-                            <span class="domain-badge domain-${item.domain}">${item.domain}</span>
-                            <span class="evidence-stars">${stars}</span>
-                            <div class="age-tags">
-                                ${item.age_groups.map(age => `<span class="age-tag">${age}</span>`).join('')}
+            Object.keys(byDomain).sort().forEach(domain => {
+                html += `<div class="domain-section">`;
+                html += `<div class="domain-header">${domain} (${byDomain[domain].length})</div>`;
+                
+                byDomain[domain].forEach(study => {
+                    const title = currentLang === 'zh' && study.title_zh ? study.title_zh : study.title_en;
+                    const isSelected = selectedStudy && selectedStudy.id === study.id;
+                    
+                    html += `
+                        <div class="study-item ${isSelected ? 'selected' : ''}" onclick="selectStudy('${study.id}')">
+                            <div class="study-title">${title || 'Untitled'}</div>
+                            <div class="study-meta">
+                                <span>${study.authors || 'Unknown author'}</span>
+                                <span>•</span>
+                                <span>${study.year || 'N/A'}</span>
+                                ${study.evidence_level ? `<span>• Level ${study.evidence_level}</span>` : ''}
                             </div>
                         </div>
-                    </div>`;
+                    `;
                 });
-
+                
                 html += '</div>';
             });
 
             listPanel.innerHTML = html;
+        }
 
-            // Add click handlers
-            document.querySelectorAll('.list-item').forEach(item => {
-                item.addEventListener('click', () => {
-                    const index = parseInt(item.dataset.index);
-                    selectItem(index);
-                });
+        // Select and display study
+        function selectStudy(id) {
+            selectedStudy = allStudies.find(s => s.id === id);
+            if (!selectedStudy) return;
+            
+            renderList(); // Re-render to update selection
+            renderDetail();
+        }
+
+        // Render study detail
+        function renderDetail() {
+            const panel = document.getElementById('detailPanel');
+            const s = selectedStudy;
+            
+            const title = currentLang === 'zh' && s.title_zh ? s.title_zh : s.title_en;
+            const summary = currentLang === 'zh' && s.summary_zh ? s.summary_zh : s.summary_en;
+            const intervention = currentLang === 'zh' && s.intervention_zh ? s.intervention_zh : s.intervention_en;
+            const outcomes = currentLang === 'zh' && s.outcomes_zh ? s.outcomes_zh : s.outcomes_en;
+            const population = currentLang === 'zh' && s.target_population_zh ? s.target_population_zh : s.target_population_en;
+
+            let html = `
+                <div class="detail-section">
+                    <h3>${title || 'Untitled Study'}</h3>
+                    <div class="detail-content">
+                        <div class="detail-grid">
+                            <div class="detail-label">Authors</div>
+                            <div class="detail-value">${s.authors || 'N/A'}</div>
+                            
+                            <div class="detail-label">Year</div>
+                            <div class="detail-value">${s.year || 'N/A'}</div>
+                            
+                            <div class="detail-label">Domain</div>
+                            <div class="detail-value">${s.domain || 'N/A'}</div>
+                            
+                            <div class="detail-label">Evidence Level</div>
+                            <div class="detail-value">
+                                ${s.evidence_level ? `<span class="badge badge-primary">Level ${s.evidence_level}</span>` : 'N/A'}
+                            </div>
+                            
+                            ${s.study_design ? `
+                                <div class="detail-label">Study Design</div>
+                                <div class="detail-value">${s.study_design}</div>
+                            ` : ''}
+                            
+                            ${s.sample_size ? `
+                                <div class="detail-label">Sample Size</div>
+                                <div class="detail-value">${s.sample_size}</div>
+                            ` : ''}
+                        </div>
+                    </div>
+                </div>
+            `;
+
+            if (population) {
+                html += `
+                    <div class="detail-section">
+                        <h3>Target Population</h3>
+                        <div class="detail-content">${population}</div>
+                    </div>
+                `;
+            }
+
+            if (intervention) {
+                html += `
+                    <div class="detail-section">
+                        <h3>Intervention</h3>
+                        <div class="detail-content">${intervention}</div>
+                    </div>
+                `;
+            }
+
+            if (outcomes) {
+                html += `
+                    <div class="detail-section">
+                        <h3>Key Outcomes</h3>
+                        <div class="detail-content">${outcomes}</div>
+                    </div>
+                `;
+            }
+
+            if (summary) {
+                html += `
+                    <div class="detail-section">
+                        <h3>Summary</h3>
+                        <div class="detail-content">${summary}</div>
+                    </div>
+                `;
+            }
+
+            if (s.keywords) {
+                const keywords = s.keywords.split(',').map(k => k.trim());
+                html += `
+                    <div class="detail-section">
+                        <h3>Keywords</h3>
+                        <div class="detail-content">
+                            ${keywords.map(k => `<span class="badge badge-info">${k}</span>`).join('')}
+                        </div>
+                    </div>
+                `;
+            }
+
+            if (s.doi || s.url) {
+                html += `
+                    <div class="detail-section">
+                        <h3>Links</h3>
+                        <div class="detail-content">
+                            ${s.doi ? `<div><strong>DOI:</strong> <a href="https://doi.org/${s.doi}" target="_blank">${s.doi}</a></div>` : ''}
+                            ${s.url ? `<div><strong>URL:</strong> <a href="${s.url}" target="_blank">${s.url}</a></div>` : ''}
+                        </div>
+                    </div>
+                `;
+            }
+
+            panel.innerHTML = html;
+        }
+
+        // Export to CSV
+        function exportToCSV() {
+            const headers = ['ID', 'Title (EN)', 'Title (ZH)', 'Authors', 'Year', 'Domain', 'Evidence Level', 'Study Design', 'Sample Size', 'Keywords'];
+            const rows = filteredStudies.map(s => [
+                s.id,
+                s.title_en || '',
+                s.title_zh || '',
+                s.authors || '',
+                s.year || '',
+                s.domain || '',
+                s.evidence_level || '',
+                s.study_design || '',
+                s.sample_size || '',
+                s.keywords || ''
+            ]);
+
+            const csv = [headers, ...rows]
+                .map(row => row.map(cell => `"${String(cell).replace(/"/g, '""')}"`).join(','))
+                .join('\n');
+
+            const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = 'speech_therapy_evidence.csv';
+            link.click();
+        }
+
+        // Language toggle
+        document.querySelectorAll('.lang-option').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.lang-option').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentLang = btn.dataset.lang;
+                renderList();
+                if (selectedStudy) renderDetail();
             });
-        }
-
-        // Go back function
-        function goBack() {
-            document.getElementById('detail-panel').classList.remove('active');
-            document.getElementById('back-btn').style.display = 'none';
-        }
-
-        // Select item
-        function selectItem(index) {
-            selectedIndex = index;
-
-            // Update selected highlight without full re-render
-            document.querySelectorAll('.list-item').forEach(el => {
-                el.classList.toggle('selected', parseInt(el.dataset.index) === index);
-            });
-
-            renderDetail(filteredData[index]);
-
-            // Mobile: show detail panel
-            if (window.innerWidth <= 768) {
-                document.getElementById('detail-panel').classList.add('active');
-                document.getElementById('back-btn').style.display = 'flex';
-                const backBtn = document.getElementById('mobile-back-btn');
-                if (backBtn) backBtn.style.display = 'flex';
-            }
-        }
-
-        // Render detail
-        function renderDetail(item) {
-            const detailPanel = document.getElementById('detail-panel');
-
-            if (!item) {
-                detailPanel.innerHTML = `<div class="detail-empty">
-                    <div>
-                        <div style="font-size: 48px; margin-bottom: 12px;">📋</div>
-                        <div>Select an approach from the list to view details</div>
-                        <div style="font-size: 14px; margin-top: 8px;">從列表中選擇一個方法以查看詳情</div>
-                    </div>
-                </div>`;
-                return;
-            }
-
-            const stars = '★'.repeat(item.evidence_rating);
-            const activitiesHtml = item.activities && item.activities.length > 0 
-                ? '<ul>' + item.activities.map(act => `<li>${act}</li>`).join('') + '</ul>'
-                : '<p>No specific activities listed</p>';
-
-            detailPanel.innerHTML = `<div class="detail-content">
-                <div class="detail-title">${item.name_en}</div>
-                <div class="detail-title-zh">${item.name_zh}</div>
-
-                <div class="detail-section">
-                    <span class="domain-badge domain-${item.domain}">${item.domain.toUpperCase()}</span>
-                    <div class="age-tags" style="display: inline-flex; gap: 4px; margin-left: 8px;">
-                        ${item.age_groups.map(age => `<span class="age-tag">${age}</span>`).join('')}
-                    </div>
-                </div>
-
-                <div class="detail-section">
-                    <div class="detail-section-title">Description (English)</div>
-                    <div class="detail-section-content">${item.description_en}</div>
-                </div>
-
-                <div class="detail-section">
-                    <div class="detail-section-title">描述（中文）</div>
-                    <div class="detail-section-content">${item.description_zh}</div>
-                </div>
-
-                <div class="detail-section">
-                    <div class="detail-section-title">Target Population</div>
-                    <div class="detail-section-content">${item.target_population}</div>
-                </div>
-
-                <div class="detail-section">
-                    <div class="detail-section-title">Evidence Rating</div>
-                    <div class="evidence-rating">
-                        <span class="stars">${stars}</span>
-                        <span class="label">${item.evidence_rating} / 5</span>
-                    </div>
-                    <div class="detail-section-content"><strong>Basis:</strong> ${item.evidence_basis}</div>
-                </div>
-
-                <div class="detail-section">
-                    <div class="detail-section-title">Activities</div>
-                    <div class="detail-section-content">${activitiesHtml}</div>
-                </div>
-
-                ${item.procedure && item.procedure.length > 0 ? `
-                <div class="detail-section">
-                    <div class="detail-section-title">Step-by-Step Procedure</div>
-                    <div class="detail-section-content">
-                        <ol class="procedure-steps">
-                            ${item.procedure.map(step => `<li>${step}</li>`).join('')}
-                        </ol>
-                    </div>
-                </div>` : ''}
-
-                <div class="detail-section">
-                    <div class="detail-section-title">Reference</div>
-                    <div class="reference-box">${formatReference(item.reference)}</div>
-                </div>
-            </div>`;
-        }
-
-        // Format reference with clickable DOI
-        function formatReference(ref) {
-            if (!ref) return 'No reference provided';
-
-            // Extract DOI if present
-            const doiMatch = ref.match(/https?:\/\/doi\.org\/[^\s)]+/);
-            if (doiMatch) {
-                const doi = doiMatch[0];
-                return ref.replace(doi, `<a href="${doi}" target="_blank">${doi}</a>`);
-            }
-
-            return ref;
-        }
-
-        // Apply filters
-        function applyFilters() {
-            const searchTerm = document.getElementById('search-box').value.toLowerCase();
-            const domainFilter = document.getElementById('domain-filter').value;
-            const ageFilter = document.getElementById('age-filter').value;
-            const evidenceFilter = document.getElementById('evidence-filter').value;
-
-            selectedIndex = -1;
-
-            filteredData = allData.filter(item => {
-                // Search filter
-                if (searchTerm) {
-                    const matchName = item.name_en.toLowerCase().includes(searchTerm) || 
-                                     item.name_zh.includes(searchTerm);
-                    const matchDesc = item.description_en.toLowerCase().includes(searchTerm) || 
-                                     item.description_zh.includes(searchTerm);
-                    if (!matchName && !matchDesc) return false;
-                }
-
-                // Domain filter
-                if (domainFilter && item.domain !== domainFilter) return false;
-
-                // Age filter
-                if (ageFilter && !item.age_groups.includes(ageFilter)) return false;
-
-                // Evidence filter
-                if (evidenceFilter && item.evidence_rating < parseInt(evidenceFilter)) return false;
-
-                return true;
-            });
-
-            selectedIndex = -1;
-            renderList();
-            renderDetail(null);
-        }
-
-        // Reset filters
-        function resetFilters() {
-            document.getElementById('search-box').value = '';
-            document.getElementById('domain-filter').value = '';
-            document.getElementById('age-filter').value = '';
-            document.getElementById('evidence-filter').value = '';
-            applyFilters();
-        }
-
-        // Toggle language
-        function toggleLanguage() {
-            currentLang = currentLang === 'en' ? 'zh' : 'en';
-            document.getElementById('lang-toggle').textContent = currentLang === 'en' ? '中文' : 'EN';
-            renderList();
-            if (selectedIndex >= 0) {
-                renderDetail(filteredData[selectedIndex]);
-            }
-        }
-
-        // Keyboard navigation
-        document.addEventListener('keydown', (e) => {
-            if (filteredData.length === 0) return;
-
-            if (e.key === 'ArrowDown') {
-                e.preventDefault();
-                selectedIndex = Math.min(selectedIndex + 1, filteredData.length - 1);
-                selectItem(selectedIndex);
-                scrollToSelected();
-            } else if (e.key === 'ArrowUp') {
-                e.preventDefault();
-                selectedIndex = Math.max(selectedIndex - 1, 0);
-                selectItem(selectedIndex);
-                scrollToSelected();
-            } else if (e.key === 'Escape' && window.innerWidth <= 768) {
-                document.getElementById('detail-panel').classList.remove('active');
-            }
         });
 
-        function scrollToSelected() {
-            const selectedEl = document.querySelector('.list-item.selected');
-            if (selectedEl) {
-                selectedEl.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
-            }
-        }
-
         // Event listeners
-        document.getElementById('search-box').addEventListener('input', applyFilters);
-        document.getElementById('domain-filter').addEventListener('change', applyFilters);
-        document.getElementById('age-filter').addEventListener('change', applyFilters);
-        document.getElementById('evidence-filter').addEventListener('change', applyFilters);
-        document.getElementById('lang-toggle').addEventListener('click', toggleLanguage);
-        document.getElementById('reset-btn').addEventListener('click', resetFilters);
+        document.getElementById('searchBox').addEventListener('input', filterStudies);
+        document.getElementById('domainFilter').addEventListener('change', filterStudies);
+        document.getElementById('yearFilter').addEventListener('change', filterStudies);
+        document.getElementById('levelFilter').addEventListener('change', filterStudies);
+        document.getElementById('exportBtn').addEventListener('click', exportToCSV);
 
         // Initialize
-        loadData();
+        loadDatabase();
     </script>
 </body>
 </html>
