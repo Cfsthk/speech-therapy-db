@@ -1,0 +1,450 @@
+[
+  {
+    "id": "complexity-approach",
+    "name_en": "Complexity Approach (Gierut)",
+    "name_zh": "複雜度方法",
+    "domain": "speech",
+    "age_groups": [
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Targets phonologically complex sound patterns first, based on the principle that treating complex structures leads to generalization to simpler, untreated structures. Research by Gierut demonstrates that children make broader phonological gains when intervention focuses on more marked or complex features rather than simple, early-developing sounds.",
+    "description_zh": "優先針對音韻複雜的聲音模式進行治療，基於治療複雜結構會帶動較簡單未治療結構的類化原則。Gierut的研究顯示，當介入專注於較標記或複雜的特徵，而非簡單、早期發展的聲音時，兒童會獲得更廣泛的音韻進步。",
+    "target_population": "Children with phonological disorders who can benefit from treating complex patterns to promote system-wide change",
+    "activities": [
+      "Target marked sounds (e.g., fricatives, affricates, clusters) before stops",
+      "Practice word pairs contrasting complex vs. simple features",
+      "Generalization probes to monitor untreated sounds"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs and clinical studies by Gierut and colleagues show superior generalization with complexity-based targets",
+    "reference": "Gierut, J. A. (2007). Phonological complexity and language learnability. American Journal of Speech-Language Pathology, 16(1), 6-17. https://doi.org/10.1044/1058-0360(2007/003)",
+    "procedure": [
+      "Administer comprehensive phonological assessment (e.g., HAPP-3, DEAP) to identify phonological processes and error patterns",
+      "Select phonologically complex target sounds (e.g., clusters, later-developing phonemes) based on implicational hierarchy principles",
+      "Provide auditory bombardment with amplification using 10-15 words containing the target pattern for 2-3 minutes at session start",
+      "Conduct minimal pair practice contrasting the target complex sound with simpler errors (e.g., clown vs. crown)",
+      "Elicit 20-30 productions of target words through picture naming, structured play, or sentence completion tasks",
+      "Administer weekly probes with untreated control sounds to document generalization to simpler phonological patterns",
+      "Cycle to new target sound when criterion of 80% accuracy in structured practice is achieved (typically 4-6 weeks)",
+      "Reassess phonological system quarterly using standardized measures to track systemic change and plan discharge"
+    ]
+  },
+  {
+    "id": "metaphon-therapy",
+    "name_en": "Metaphon Therapy",
+    "name_zh": "語音意識治療法",
+    "domain": "speech",
+    "age_groups": [
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "A metalinguistic approach that develops children's phonological awareness and ability to reflect on sound contrasts. Children learn to recognize and manipulate sound properties (e.g., long vs. short sounds, front vs. back) to improve their speech production through conscious awareness.",
+    "description_zh": "一種後設語言方法，發展兒童的音韻意識和反思聲音對比的能力。兒童學習識別和操作聲音屬性（例如長音與短音、前音與後音），通過有意識的覺察來改善其言語產生。",
+    "target_population": "Children with phonological disorders who have sufficient cognitive and metalinguistic skills (typically 4+ years)",
+    "activities": [
+      "Sound property awareness games (long/short, noisy/quiet)",
+      "Sorting pictures by sound features",
+      "Self-monitoring and error detection exercises"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Controlled trials show effectiveness in improving phonological awareness and speech production in children with phonological disorders",
+    "reference": "Dean, E. C., Howell, J., Hill, A., & Waters, D. (1990). Metaphon resource pack. NFER-Nelson.",
+    "procedure": [
+      "Complete phonological process analysis from connected speech sample to identify patterns (e.g., fronting, stopping, cluster reduction)",
+      "Phase 1 Concept Level: Teach metalinguistic awareness of sound properties using minimal pair cards without production (same/different judgments)",
+      "Use picture sorting tasks to establish sound concept discrimination (e.g., long vs. short sounds for fricatives vs. stops)",
+      "Phase 2 Sound Level: Introduce production practice starting with minimal pair contrasts that highlight the phonological concept",
+      "Elicit target productions in structured hierarchy: isolation to syllables to words to phrases to conversation",
+      "Incorporate self-monitoring using visual cue cards representing sound properties to promote metalinguistic awareness during speech",
+      "Provide communicative consequence activities where phonological errors result in breakdown requiring repair",
+      "Reassess phonological inventory every 6-8 weeks and modify targets based on generalization patterns and emerging sounds"
+    ]
+  },
+  {
+    "id": "core-vocabulary-therapy",
+    "name_en": "Core Vocabulary Therapy",
+    "name_zh": "核心詞彙治療法",
+    "domain": "speech",
+    "age_groups": [
+      "toddler",
+      "preschool"
+    ],
+    "description_en": "Focuses on achieving consistent production of a personalized set of functional core words (typically 50-70) that are highly meaningful to the child. Developed by Dodd and colleagues for children with inconsistent speech disorder, this approach emphasizes whole-word accuracy rather than phoneme-level targets.",
+    "description_zh": "專注於實現對兒童高度有意義的個性化功能核心詞彙（通常為50-70個）的一致性產生。由Dodd及其同事為具有不一致言語障礙的兒童開發，此方法強調整詞準確性而非音素層面的目標。",
+    "target_population": "Children with inconsistent phonological disorder who produce the same word differently across multiple attempts",
+    "activities": [
+      "Practice personalized core word list daily",
+      "Self-monitoring for consistent production",
+      "Functional communication activities using core words"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "RCTs demonstrate superior outcomes for children with inconsistent disorder compared to traditional phonological approaches",
+    "reference": "Dodd, B., Holm, A., Crosbie, S., & McIntosh, B. (2006). A core vocabulary approach for management of inconsistent speech disorder. Advances in Speech Language Pathology, 8(3), 220-230. https://doi.org/10.1080/14417040600750088",
+    "procedure": [
+      "Interview parents to identify 50-70 functional core words from child daily routines (people, foods, toys, actions)",
+      "Record baseline production of each core word across 3 different contexts to establish consistency percentage",
+      "Identify the 10-15 most inconsistent words (varying production across attempts) as initial treatment targets",
+      "Establish child best production of each target word through repeated trials and select this as the treatment model",
+      "Prescribe home practice: parents elicit 5 productions of each target word daily in play-based activities",
+      "Conduct 100-trial massed practice sessions in clinic using target words in games, turn-taking activities, and functional requests",
+      "Advance to new core words when child achieves 80% consistency (same production across 4/5 trials) in both home and clinic",
+      "Reassess overall speech consistency every 8 weeks using measures like Inconsistency Assessment to track generalization"
+    ]
+  },
+  {
+    "id": "phonological-awareness-intervention",
+    "name_en": "Phonological Awareness Intervention",
+    "name_zh": "音韻意識介入",
+    "domain": "speech",
+    "age_groups": [
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Systematic instruction in phonological awareness skills including rhyme, syllable segmentation, and phoneme manipulation. While primarily used for literacy development, these skills also support speech sound development and can be integrated with articulation therapy for dual benefits.",
+    "description_zh": "系統性地教授音韻意識技能，包括押韻、音節切分和音素操作。雖然主要用於讀寫能力發展，這些技能也支持語音發展，並可與構音治療整合以獲得雙重益處。",
+    "target_population": "Children with speech sound disorders and/or at risk for literacy difficulties",
+    "activities": [
+      "Rhyme recognition and generation tasks",
+      "Syllable counting and blending games",
+      "Phoneme isolation, deletion, and substitution exercises"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Extensive meta-analyses demonstrate strong effects on both phonological awareness and speech production, especially when combined with letter knowledge",
+    "reference": "Gillon, G. T. (2004). Phonological awareness: From research to practice. Guilford Press.",
+    "procedure": [
+      "Administer CTOPP-2 or PAST to identify specific phonological awareness deficits (rhyme, syllable, phoneme awareness)",
+      "Sequence tasks developmentally: word awareness to rhyme to syllable to onset-rime to phoneme manipulation",
+      "Rhyme level: Teach rhyme recognition using picture sorts, then rhyme generation through word families and silly rhyme games",
+      "Syllable level: Practice syllable segmentation and blending using clapping, tapping, and manipulatives (e.g., blocks per syllable)",
+      "Onset-rime level: Segment words into onset and rime, practice blending and manipulation to create word families",
+      "Phoneme level: Teach phoneme isolation, segmentation, blending, deletion, and substitution using Elkonin boxes and counters",
+      "Incorporate print when phoneme awareness emerges: link sounds to letters using multisensory activities and letter tiles",
+      "Administer curriculum-based probes weekly and standardized reassessment every 12 weeks to monitor progress and adjust intensity"
+    ]
+  },
+  {
+    "id": "prompt-therapy",
+    "name_en": "PROMPT (Prompts for Restructuring Oral Muscular Phonetic Targets)",
+    "name_zh": "口腔肌肉音素目標重建提示法",
+    "domain": "speech",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "A tactile-kinesthetic approach using specific touch cues on the face and neck to guide articulator placement, timing, and movement for speech production. PROMPT integrates physical-sensory, cognitive-linguistic, and social-emotional aspects of communication.",
+    "description_zh": "一種觸覺-動覺方法，使用特定的面部和頸部觸摸提示來引導構音器官的位置、時機和動作以產生言語。PROMPT整合了溝通的生理-感官、認知-語言和社會-情感方面。",
+    "target_population": "Children with motor speech disorders (apraxia, dysarthria), severe phonological disorders, or complex communication needs",
+    "activities": [
+      "Tactile cues for articulatory placement and movement",
+      "Syllable and word-level practice with physical prompting",
+      "Gradual fading of tactile support as motor learning occurs"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Growing evidence base with several controlled studies showing improvements in speech production, though requires certified training",
+    "reference": "Dale, P. S., & Hayden, D. A. (2013). Treating speech subsystems in childhood apraxia of speech with tactual input: The PROMPT approach. American Journal of Speech-Language Pathology, 22(4), 644-661. https://doi.org/10.1044/1058-0360(2013/12-0055)",
+    "procedure": [
+      "Confirm clinician has completed PROMPT training certification (Introduction and Bridging courses minimum)",
+      "Conduct Motor Speech Hierarchy assessment and PROMPT Motor Speech Assessment to identify motor speech deficits",
+      "Select functional target words from child core vocabulary that allow systematic progression through motor complexity hierarchy",
+      "Position child for optimal jaw stability: seated with 90-degree hip/knee angles, neutral head position, eye-level interaction",
+      "Provide tactile-kinesthetic-proprioceptive cues using hand placement on jaw, lips, face to guide articulatory movements",
+      "Practice target words in blocks of 10 trials, fading PROMPTs systematically from full support to parameter cues to no touch",
+      "Record accuracy at each PROMPT level (full, surface, parameter, none) to document motor learning and plan fading schedule",
+      "Integrate targets into functional activities and routines, monitoring generalization to spontaneous speech contexts"
+    ]
+  },
+  {
+    "id": "lsvt-loud",
+    "name_en": "Lee Silverman Voice Treatment - LSVT LOUD (for dysarthria)",
+    "name_zh": "李-西爾弗曼聲音治療法",
+    "domain": "speech",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "An intensive, evidence-based treatment originally developed for Parkinson's disease that focuses on increasing vocal loudness through calibrated effort. The treatment principle is that by targeting a single goal (LOUD) with high intensity and repetition, multiple speech subsystems improve simultaneously.",
+    "description_zh": "一種密集的、基於證據的治療方法，最初為帕金森病開發，專注於通過校準的努力增加聲音響度。治療原則是通過高強度和重複針對單一目標（大聲），多個言語子系統同時改善。",
+    "target_population": "Adults with hypokinetic dysarthria (Parkinson's disease) and other neurological conditions affecting vocal intensity",
+    "activities": [
+      "Maximum duration phonation at increased loudness",
+      "Functional phrases practiced at calibrated loud levels",
+      "Daily homework: 16 sessions over 4 weeks (intensive protocol)"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Multiple RCTs and systematic reviews demonstrate significant, lasting improvements in voice and speech intelligibility in Parkinson's disease",
+    "reference": "Ramig, L. O., Sapir, S., Countryman, S., Pawlas, A. A., O'Brien, C., Hoehn, M., & Thompson, L. L. (2001). Intensive voice treatment (LSVT) for patients with Parkinson's disease: A 2 year follow up. Journal of Neurology, Neurosurgery & Psychiatry, 71(4), 493-498. https://doi.org/10.1136/jnnp.71.4.493",
+    "procedure": [
+      "Confirm diagnosis of Parkinson disease or related hypokinetic dysarthria through neurology consultation",
+      "Complete pre-treatment measures: Sound Pressure Level (dB SPL) reading, perceptual voice rating, Voice Handicap Index",
+      "Schedule 16 individual sessions over 4 consecutive weeks (4 sessions per week, 1 hour each) per protocol requirements",
+      "Daily phonation drills: Sustain AH at maximum loudness for 15-20 seconds, 15 repetitions focusing on effort calibration",
+      "Pitch range exercises: Produce AH gliding from lowest to highest pitch, 15 repetitions to increase vocal fold adduction",
+      "Functional phrase practice: Speak 10 high-effort functional phrases at maximum loudness with cueing",
+      "Conversation practice: Engage in structured dialogue maintaining increased loudness, with clinician feedback on loudness level",
+      "Prescribe daily home practice: 2 sessions of phonation and pitch exercises using provided worksheets and log sheets"
+    ]
+  },
+  {
+    "id": "oral-motor-therapy",
+    "name_en": "Oral Motor Therapy / Oro-facial Myofunctional Therapy",
+    "name_zh": "口腔運動治療法",
+    "domain": "speech",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Exercises targeting the strength, range, and coordination of oral structures (lips, tongue, jaw) to support speech production. While controversial for treating phonological disorders, evidence supports its use for myofunctional disorders (tongue thrust, mouth breathing) and some motor speech disorders.",
+    "description_zh": "針對口腔結構（嘴唇、舌頭、下顎）的力量、範圍和協調性的練習，以支持言語產生。雖然用於治療音韻障礙存在爭議，但證據支持其用於肌功能障礙（舌頭推擠、口呼吸）和某些運動性言語障礙。",
+    "target_population": "Individuals with orofacial myofunctional disorders, structural abnormalities, or specific motor speech deficits",
+    "activities": [
+      "Tongue strengthening and range-of-motion exercises",
+      "Lip closure and rounding drills",
+      "Jaw stability and controlled movement tasks"
+    ],
+    "evidence_stars": 2,
+    "evidence_symbol": "★★☆☆☆",
+    "evidence_basis": "Limited evidence for phonological disorders; some support for myofunctional disorders and specific structural/motor deficits. ASHA advises caution in using non-speech exercises for speech goals.",
+    "reference": "Lof, G. L., & Watson, M. M. (2008). A nationwide survey of nonspeech oral motor exercise use: Implications for evidence-based practice. Language, Speech, and Hearing Services in Schools, 39(3), 392-407. https://doi.org/10.1044/0161-1461(2008/037)",
+    "procedure": [
+      "Complete oral peripheral examination documenting range, strength, speed, and coordination of lips, tongue, jaw, and velum",
+      "Identify specific structural or functional deficit (e.g., reduced tongue lateralization, weak lip closure, jaw instability)",
+      "Select evidence-based non-speech oral motor exercises (NSOMEs) targeting identified deficit area only",
+      "Warm-up phase: 5 minutes of gentle range-of-motion exercises for target structures without resistance",
+      "Resistance phase: 10-15 repetitions per exercise using tongue depressors, straws, or manual resistance with mirror feedback",
+      "Progress resistance, duration, or complexity when patient completes full set with good form across 2 consecutive sessions",
+      "Document carryover to speech production: Compare pre- and post-exercise speech probes to assess functional impact",
+      "Re-evaluate with oral mechanism exam monthly; discontinue oral motor exercises if no carryover to speech after 6-8 weeks"
+    ]
+  },
+  {
+    "id": "integral-stimulation",
+    "name_en": "Integral Stimulation (Strand)",
+    "name_zh": "整合刺激法",
+    "domain": "speech",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "A motor-learning approach for childhood apraxia of speech using the principle 'Watch me, listen to me, and do what I do.' Treatment progresses through hierarchical cueing levels from maximum support (simultaneous production) to independent production, with systematic practice and fading.",
+    "description_zh": "一種針對兒童言語失用症的動作學習方法，使用「看我、聽我、跟我做」的原則。治療通過分層提示級別進行，從最大支持（同步產生）到獨立產生，並進行系統性練習和逐漸撤除。",
+    "target_population": "Children with childhood apraxia of speech (CAS) or severe motor speech disorders",
+    "activities": [
+      "Imitation drills with systematic cueing hierarchy",
+      "Mass practice of target syllables and words",
+      "Gradual fading from simultaneous to delayed to independent production"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong clinical consensus and multiple single-subject and group studies support effectiveness for CAS; core component of evidence-based CAS treatment",
+    "reference": "Strand, E. A., Stoeckel, R., & Baas, B. (2006). Treatment of severe childhood apraxia of speech: A treatment efficacy study. Journal of Medical Speech-Language Pathology, 14(4), 297-307.",
+    "procedure": [
+      "Select 10-15 functional target words based on motor complexity, phonetic environment, and communicative value",
+      "Position patient for optimal visual and auditory access: face-to-face, eye level, well-lit environment",
+      "Step 1 Simultaneous Production: Clinician says Watch me, listen to me, say it with me and produces word with patient",
+      "Repeat simultaneous trials until patient achieves 3 consecutive correct productions with integral timing and articulatory accuracy",
+      "Step 2 Imitative Production: Clinician produces target, patient immediately imitates without simultaneous modeling",
+      "Step 3 Delayed Imitation: Introduce 3-5 second delay between model and patient production to increase motor planning demand",
+      "Step 4 Spontaneous Production: Elicit word through question, picture, or carrier phrase without model",
+      "Record accuracy percentage at each step and across sessions; advance to new targets when 80% accuracy achieved at Step 4"
+    ]
+  },
+  {
+    "id": "camperdown-program",
+    "name_en": "Camperdown Program",
+    "name_zh": "坎珀當方案",
+    "domain": "fluency",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "A behavioral stuttering treatment that teaches a prolonged speech pattern through syllable-timed speech modeling. Developed in Australia, it is a shorter, more streamlined fluency-shaping program designed for adolescents and adults, typically delivered in intensive or telehealth formats.",
+    "description_zh": "一種行為性口吃治療，通過音節計時的言語模式教授延長言語模式。在澳大利亞開發，它是一個更短、更簡化的流暢塑造方案，專為青少年和成人設計，通常以密集或遠程醫療形式提供。",
+    "target_population": "Adolescents and adults who stutter and prefer a structured fluency-shaping approach",
+    "activities": [
+      "Syllable-timed speech practice with modeling",
+      "Progressive speech rate increase while maintaining fluency",
+      "Self-evaluation and problem-solving for maintenance"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs demonstrate significant reduction in stuttering frequency with good maintenance, comparable to other established programs",
+    "reference": "O'Brian, S., Onslow, M., Cream, A., & Packman, A. (2003). The Camperdown Program: Outcomes of a new prolonged-speech treatment model. Journal of Speech, Language, and Hearing Research, 46(4), 933-946. https://doi.org/10.1044/1092-4388(2003/073)",
+    "procedure": [
+      "Explain rationale: Syllable-timed speech as foundation skill, prolonged speech for stuttered moments, client-driven practice schedule",
+      "Teach syllable-timed speech pattern: even stress and timing on every syllable using rhythm board or metronome at 60 bpm",
+      "Practice syllable-timed speech in reading and conversation until client achieves zero stuttering events in clinic (Stage 1)",
+      "Teach prolonged speech: gentle onsets, soft contacts, continuous voicing, light articulatory contacts for moments of stuttering",
+      "Problem-solving session: Identify situations where stuttering occurs and plan strategy selection (syllable-timed vs. prolonged)",
+      "Self-managed practice: Client schedules own practice in real-world situations, records 5-minute samples, self-rates stuttering",
+      "Weekly review sessions: Analyze recorded samples, provide feedback, troubleshoot barriers, adjust practice targets",
+      "Performance-contingent stage progression: Advance when less than 2% syllables stuttered in beyond-clinic speaking situations"
+    ]
+  },
+  {
+    "id": "comprehensive-stuttering-program",
+    "name_en": "Comprehensive Stuttering Program (CSP/Boberg)",
+    "name_zh": "綜合口吃治療方案",
+    "domain": "fluency",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "An intensive, multidimensional treatment combining fluency skills training, stuttering modification techniques, and cognitive-behavioral components. Originally developed by Boberg and Kully, this 3-week intensive residential program addresses speech behavior, attitudes, and emotional aspects of stuttering.",
+    "description_zh": "一種密集的、多維度的治療，結合流暢技能訓練、口吃修正技術和認知行為成分。最初由Boberg和Kully開發，這個為期3週的密集住院方案解決言語行為、態度和口吃的情感方面。",
+    "target_population": "Adults who stutter and can commit to intensive treatment addressing multiple dimensions of stuttering",
+    "activities": [
+      "Fluency techniques (prolonged speech, gentle onsets)",
+      "Stuttering modification strategies (cancellations, pull-outs)",
+      "Cognitive restructuring for negative beliefs and anxiety"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Long-term follow-up studies show substantial improvements in fluency and attitude maintained over years, though intensive format limits accessibility",
+    "reference": "Kully, D., & Langevin, M. (1999). Intensive treatment for stuttering adolescents. In R. F. Curlee (Ed.), Stuttering and related disorders of fluency (2nd ed., pp. 139-159). Thieme.",
+    "procedure": [
+      "Complete intake assessment: Stuttering Severity Instrument-4, Overall Assessment of Speaker Experience of Stuttering (OASES)",
+      "Fluency shaping component: Teach easy onsets, light contacts, continuous phonation through hierarchical practice activities",
+      "Stuttering modification component: Teach Van Riper cancellations, pull-outs, preparatory sets for moments of stuttering",
+      "Integrate both approaches: Client selects fluency shaping for planned speech, stuttering modification for unexpected stuttering events",
+      "Address cognitive and affective factors: Identify negative thoughts, feared situations, avoidance behaviors using thought records",
+      "Assign real-world homework: Graded speaking hierarchy from low to high anxiety situations with strategy practice and recording",
+      "Weekly review: Analyze homework recordings, measure percent syllables stuttered, assess naturalness, process emotional responses",
+      "Track outcomes monthly using SSI-4 and OASES; plan maintenance phase when goals achieved across speaking situations"
+    ]
+  },
+  {
+    "id": "cbt-stuttering",
+    "name_en": "Cognitive Behaviour Therapy for Stuttering (CBT)",
+    "name_zh": "口吃認知行為治療",
+    "domain": "fluency",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "A psychological intervention targeting negative thoughts, unhelpful beliefs, and anxiety associated with stuttering. CBT helps individuals identify and modify cognitive distortions about stuttering, reduce avoidance behaviors, and develop healthier coping strategies, often used alongside or after speech-focused interventions.",
+    "description_zh": "一種心理介入，針對與口吃相關的負面思想、無益信念和焦慮。認知行為治療幫助個體識別和修正關於口吃的認知扭曲，減少迴避行為，並發展更健康的應對策略，通常與言語重點介入一起使用或在其之後使用。",
+    "target_population": "Adolescents and adults who stutter with significant social anxiety, negative attitudes, or avoidance behaviors",
+    "activities": [
+      "Thought records to identify and challenge negative beliefs",
+      "Exposure hierarchies for feared speaking situations",
+      "Behavioral experiments to test unhelpful assumptions"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "RCTs and controlled studies show significant improvements in anxiety, self-efficacy, and quality of life; can enhance outcomes when combined with speech therapy",
+    "reference": "Menzies, R. G., O'Brian, S., Onslow, M., Packman, A., St Clare, T., & Block, S. (2008). An experimental clinical trial of a cognitive-behavior therapy package for chronic stuttering. Journal of Speech, Language, and Hearing Research, 51(6), 1451-1464. https://doi.org/10.1044/1092-4388(2008/07-0070)",
+    "procedure": [
+      "Establish baseline measures: Modified Erickson S-24 scale, Unhelpful Thoughts and Beliefs About Stuttering (UTBAS), situation hierarchy",
+      "Psychoeducation: Explain cognitive model (thoughts to feelings to behaviors), normalize stuttering, discuss maintaining factors",
+      "Thought monitoring: Client records situations, automatic thoughts, emotions, and stuttering behaviors using daily thought logs",
+      "Cognitive restructuring: Identify cognitive distortions, examine evidence, generate balanced alternative thoughts using Socratic questioning",
+      "Behavioral experiments: Test predictions from unhelpful thoughts through planned speaking situations",
+      "Develop graded exposure hierarchy: Rank feared speaking situations from 0-100 anxiety, systematically work through hierarchy",
+      "Acceptance and commitment work: Practice mindful acceptance of stuttering moments, identify values, commit to valued speaking actions",
+      "Relapse prevention: Identify early warning signs, develop coping plan, schedule booster sessions at 1, 3, and 6 months post-treatment"
+    ]
+  },
+  {
+    "id": "altered-auditory-feedback",
+    "name_en": "SpeechEasy / Altered Auditory Feedback (AAF)",
+    "name_zh": "改變聽覺反饋裝置",
+    "domain": "fluency",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Electronic devices that alter how speakers hear their own voice through delayed auditory feedback (DAF) and/or frequency-shifted feedback (FAF). These devices can reduce stuttering in some individuals by creating the 'choral speech effect,' though effectiveness varies widely and devices do not address underlying attitudes or avoidance.",
+    "description_zh": "通過延遲聽覺反饋（DAF）和/或頻率移位反饋（FAF）改變說話者聽到自己聲音方式的電子設備。這些設備可以通過創造「合唱言語效應」減少某些人的口吃，儘管有效性差異很大，且設備不解決潛在的態度或迴避問題。",
+    "target_population": "Individuals who stutter seeking immediate fluency support; best as adjunct rather than standalone treatment",
+    "activities": [
+      "Device fitting and acclimatization",
+      "Practice in progressively challenging speaking situations",
+      "Combined use with traditional therapy for comprehensive management"
+    ],
+    "evidence_stars": 2,
+    "evidence_symbol": "★★☆☆☆",
+    "evidence_basis": "Mixed research findings; some users report benefit but effects are variable and devices alone do not produce lasting change without behavioral therapy",
+    "reference": "Armson, J., Kiefte, M., Mason, J., & De Croos, D. (2006). The effect of SpeechEasy on stuttering frequency in laboratory conditions. Journal of Fluency Disorders, 31(2), 137-152. https://doi.org/10.1016/j.jfludis.2006.04.004",
+    "procedure": [
+      "Explain rationale: Delayed Auditory Feedback (DAF) and/or Frequency Altered Feedback (FAF) can reduce stuttering frequency",
+      "Fit patient with AAF device (e.g., SpeechEasy, Casa Futura DAF) and complete audiological assessment to rule out hearing loss",
+      "Record baseline stuttering measures: percent syllables stuttered and naturalness rating in reading and conversation",
+      "Device trial: Adjust delay (50-70ms typical) and frequency shift while patient speaks; optimize settings for fluency",
+      "Practice wearing device in progressively demanding speaking tasks: reading to monologue to conversation to phone to public speaking",
+      "Pair device use with modified speech pattern (prolonged speech or easy onsets) to maximize fluency enhancement",
+      "Conduct probes without device monthly to assess whether motor learning is occurring or if fluency is device-dependent",
+      "Quarterly review: Reassess percent syllables stuttered with and without device, troubleshoot barriers to consistent use, adjust settings as needed"
+    ]
+  },
+  {
+    "id": "self-therapy-stutterer",
+    "name_en": "Self-Therapy for the Stutterer (Fraser)",
+    "name_zh": "口吃自我治療法",
+    "domain": "fluency",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "A structured self-help program developed by Malcolm Fraser, a person who stuttered. This approach provides systematic exercises and principles for individuals to work on their stuttering independently or with minimal professional support, emphasizing acceptance, voluntary stuttering, and gradual desensitization.",
+    "description_zh": "由口吃者Malcolm Fraser開發的結構化自助方案。此方法為個體提供系統性的練習和原則，以獨立或在最少專業支持下處理其口吃，強調接受、自願口吃和漸進脫敏。",
+    "target_population": "Adults who stutter with motivation for self-directed therapy, particularly those with limited access to professional services",
+    "activities": [
+      "Self-study of stuttering patterns and triggers",
+      "Voluntary stuttering exercises to reduce fear",
+      "Progressive speaking assignments with self-monitoring"
+    ],
+    "evidence_stars": 2,
+    "evidence_symbol": "★★☆☆☆",
+    "evidence_basis": "Limited formal research but widely used and endorsed by stuttering community; principles align with evidence-based approaches like stuttering modification",
+    "reference": "Fraser, M. (2010). Self-therapy for the stutterer (11th ed.). Stuttering Foundation of America.",
+    "procedure": [
+      "Introduce Self-Therapy for the Stutterer framework: Van Riper four phases (identification, desensitization, modification, stabilization)",
+      "Identification phase: Record speech in multiple contexts, analyze core behaviors and secondary characteristics using provided worksheets",
+      "Desensitization phase: Practice voluntary stuttering (pseudostuttering), discuss stuttering openly, reduce shame and avoidance",
+      "Teach cancellation technique: After stuttering moment, pause, analyze what happened, repeat word using easier stuttering",
+      "Teach pull-out technique: During stuttering moment, ease out of the block by releasing tension and transitioning smoothly",
+      "Teach preparatory set technique: Anticipate difficult word, plan easy onset and light contacts, prevent tension before it starts",
+      "Stabilization phase: Practice techniques in everyday speaking, generalize across situations, develop self-monitoring skills",
+      "Maintain speaking diary: Daily log of speaking situations, technique use, success rate, and emotional responses for accountability"
+    ]
+  },
+  {
+    "id": "prolonged-speech",
+    "name_en": "Prolonged Speech / Smooth Speech",
+    "name_zh": "延長言語／流暢言語法",
+    "domain": "fluency",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "A fluency-shaping technique that teaches a slow, exaggerated speech pattern with prolonged syllables, continuous voicing, gentle onsets, and smooth transitions. Once fluency is established at slow rates, speech rate is gradually increased while maintaining fluency targets, with the goal of achieving natural-sounding fluent speech.",
+    "description_zh": "一種流暢塑造技術，教授緩慢、誇張的言語模式，具有延長的音節、持續發聲、溫和的起始和平滑的過渡。一旦在慢速率下建立流暢性，言語速率會在保持流暢目標的同時逐漸增加，目標是實現自然聽起來的流暢言語。",
+    "target_population": "Adolescents and adults who stutter and are motivated to learn and practice a new speech pattern",
+    "activities": [
+      "Prolonged syllable practice at extremely slow rates",
+      "Gradual rate increase through hierarchical steps",
+      "Transfer activities in real-world speaking situations"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong evidence for immediate fluency gains; maintenance requires ongoing practice and self-monitoring. Forms the basis of many established programs.",
+    "reference": "Ingham, R. J., & Cordes, A. K. (1997). Self-measurement and evaluating stuttering treatment efficacy. In R. F. Curlee & G. M. Siegel (Eds.), Nature and treatment of stuttering: New directions (2nd ed., pp. 413-437). Allyn & Bacon.",
+    "procedure": [
+      "Explain prolonged speech pattern: stretched vowels, continuous voicing, soft contacts, gentle onsets at initial rate of 40-60 syllables per minute",
+      "Demonstrate target speech pattern using reading passage or modeled phrases, emphasizing smooth continuous airflow",
+      "Patient imitates clinician prolonged speech model in unison reading, then independent reading of controlled materials",
+      "Practice at slow rate (40-60 spm) until fluent across 3 consecutive sessions in reading and structured speaking tasks",
+      "Systematic rate increase: Advance by 20 spm increments when fluency maintained at less than 1-2% syllables stuttered at current rate",
+      "Transfer to conversation: Practice prolonged speech in monologue, then structured dialogue, maintaining fluency at current rate",
+      "Record weekly speech samples at increasing rates in clinic and home environments, measure percent syllables stuttered and naturalness (1-9 scale)",
+      "Develop real-world speaking hierarchy; practice prolonged speech in graded situations from low to high stuttering risk with self-monitoring"
+    ]
+  }
+]
