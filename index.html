@@ -5,81 +5,42 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Speech Therapy Evidence Database | 言語治療實證資料庫</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
             background: #f5f5f5;
             color: #333;
             line-height: 1.6;
         }
-
         .header {
-    background: white;
-    border-bottom: 1px solid #e0e0e0;
-    padding: 8px 16px;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-}
-
-.header-top {
-    display: flex;
-    align-items: baseline;
-    gap: 12px;
-    margin-bottom: 6px;
-}
-
-        .header-title {
-    font-size: 16px;
-    font-weight: 600;
-    color: #2c3e50;
-    white-space: nowrap;
-}
-
-        .header-subtitle {
-    font-size: 13px;
-    color: #7f8c8d;
-}
-
-        .stats-bar {
-    display: flex;
-    gap: 14px;
-    flex-wrap: wrap;
-    margin-left: auto;
-}
-
-        .stat-item {
-    font-size: 12px;
-    color: #888;
-}
-
-        .stat-item strong {
-    color: #2c3e50;
-    font-weight: 600;
-}
-
-        .controls {
-    display: flex;
-    gap: 8px;
-    flex-wrap: wrap;
-    align-items: center;
-}
-
+            background: white;
+            border-bottom: 1px solid #e0e0e0;
+            padding: 8px 16px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        .header-top {
+            display: flex;
+            align-items: baseline;
+            gap: 12px;
+            margin-bottom: 6px;
+            flex-wrap: wrap;
+        }
+        .header-title { font-size: 16px; font-weight: 600; color: #2c3e50; }
+        .header-subtitle { font-size: 13px; color: #7f8c8d; }
+        .stats-bar { display: flex; gap: 14px; margin-left: auto; }
+        .stat-item { font-size: 12px; color: #888; }
+        .stat-item strong { color: #2c3e50; font-weight: 600; }
+        .controls { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
         .search-box {
-            flex: 1;
-            min-width: 200px;
+            flex: 1; min-width: 180px;
             padding: 6px 10px;
             border: 1px solid #ddd;
             border-radius: 4px;
             font-size: 13px;
         }
-
         .filter-select {
             padding: 6px 10px;
             border: 1px solid #ddd;
@@ -88,7 +49,6 @@
             background: white;
             cursor: pointer;
         }
-
         .btn {
             padding: 6px 12px;
             border: 1px solid #ddd;
@@ -96,46 +56,28 @@
             font-size: 13px;
             background: white;
             cursor: pointer;
-            transition: background 0.2s;
         }
-
-        .btn:hover {
-            background: #f8f8f8;
-        }
-
-        .btn-toggle {
-            background: #3498db;
-            color: white;
-            border-color: #3498db;
-        }
-
-        .btn-toggle:hover {
-            background: #2980b9;
-        }
-
+        .btn:hover { background: #f0f0f0; }
+        .lang-toggle { display: flex; border: 1px solid #ddd; border-radius: 4px; overflow: hidden; }
+        .lang-option { padding: 4px 10px; font-size: 12px; background: white; border: none; cursor: pointer; }
+        .lang-option.active { background: #3498db; color: white; }
+        .lang-option:not(:last-child) { border-right: 1px solid #ddd; }
         .main-container {
             display: flex;
-            height: calc(100vh - 90px);
-            background: white;
-            margin: 0;
+            height: calc(100vh - 100px);
         }
-
         .list-panel {
-            width: 40%;
+            width: 38%;
+            min-width: 260px;
             border-right: 1px solid #e0e0e0;
             overflow-y: auto;
             background: #fafafa;
         }
-
-        .domain-section {
-            margin-bottom: 0;
-        }
-
         .domain-header {
             background: #ecf0f1;
-            padding: 10px 16px;
+            padding: 8px 14px;
             font-weight: 600;
-            font-size: 13px;
+            font-size: 12px;
             text-transform: uppercase;
             letter-spacing: 0.5px;
             color: #34495e;
@@ -144,488 +86,367 @@
             z-index: 10;
             border-bottom: 1px solid #d5dbdd;
         }
-
-        .study-item {
-            padding: 12px 16px;
+        .entry-item {
+            padding: 10px 14px;
             border-bottom: 1px solid #e8e8e8;
             cursor: pointer;
-            transition: background 0.15s;
             background: white;
+            transition: background 0.1s;
         }
-
-        .study-item:hover {
-            background: #f0f7ff;
-        }
-
-        .study-item.selected {
-            background: #e3f2fd;
-            border-left: 3px solid #3498db;
-        }
-
-        .study-title {
-            font-weight: 500;
+        .entry-item:hover { background: #f0f7ff; }
+        .entry-item.selected { background: #e3f2fd; border-left: 3px solid #3498db; }
+        .entry-name { font-weight: 500; font-size: 13px; color: #2c3e50; margin-bottom: 3px; }
+        .entry-meta { font-size: 11px; color: #95a5a6; display: flex; gap: 8px; flex-wrap: wrap; }
+        .stars { color: #f39c12; font-size: 11px; }
+        .detail-panel { flex: 1; overflow-y: auto; padding: 20px; background: white; }
+        .empty-state { padding: 60px 40px; text-align: center; color: #95a5a6; font-size: 14px; }
+        .loading { text-align: center; padding: 40px; color: #95a5a6; }
+        .error { background: #ffebee; color: #c62828; padding: 12px; border-radius: 4px; margin: 20px; }
+        .detail-title { font-size: 18px; font-weight: 700; color: #2c3e50; margin-bottom: 4px; }
+        .detail-title-zh { font-size: 15px; color: #7f8c8d; margin-bottom: 16px; }
+        .detail-section { margin-bottom: 18px; }
+        .detail-section h4 {
             font-size: 13px;
+            font-weight: 700;
             color: #2c3e50;
-            margin-bottom: 4px;
-        }
-
-        .study-meta {
-            font-size: 11px;
-            color: #95a5a6;
-            display: flex;
-            gap: 10px;
-            flex-wrap: wrap;
-        }
-
-        .detail-panel {
-            flex: 1;
-            overflow-y: auto;
-            padding: 20px;
-            background: white;
-        }
-
-        .detail-section {
-            margin-bottom: 20px;
-        }
-
-        .detail-section h3 {
-            font-size: 14px;
-            font-weight: 600;
-            color: #2c3e50;
-            margin-bottom: 8px;
             border-bottom: 2px solid #3498db;
-            padding-bottom: 4px;
+            padding-bottom: 3px;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
         }
-
-        .detail-content {
-            font-size: 13px;
-            line-height: 1.8;
-            color: #555;
-        }
-
+        .detail-text { font-size: 13px; line-height: 1.8; color: #444; }
+        .meta-grid { display: grid; grid-template-columns: auto 1fr; gap: 6px 14px; font-size: 13px; margin-bottom: 14px; }
+        .meta-label { font-weight: 600; color: #7f8c8d; white-space: nowrap; }
+        .meta-value { color: #2c3e50; }
         .badge {
             display: inline-block;
             padding: 2px 8px;
             border-radius: 12px;
             font-size: 11px;
             font-weight: 500;
-            margin-right: 4px;
-            margin-bottom: 4px;
+            margin: 2px 3px 2px 0;
         }
-
-        .badge-primary {
-            background: #e3f2fd;
-            color: #1976d2;
-        }
-
-        .badge-success {
-            background: #e8f5e9;
-            color: #388e3c;
-        }
-
-        .badge-warning {
-            background: #fff3e0;
-            color: #f57c00;
-        }
-
-        .badge-info {
-            background: #e1f5fe;
-            color: #0288d1;
-        }
-
-        .empty-state {
-            padding: 40px;
-            text-align: center;
-            color: #95a5a6;
-        }
-
-        .loading {
-            text-align: center;
-            padding: 40px;
-            color: #95a5a6;
-        }
-
-        .error {
-            background: #ffebee;
-            color: #c62828;
-            padding: 12px;
-            border-radius: 4px;
-            margin: 20px;
-        }
-
-        .detail-grid {
-            display: grid;
-            grid-template-columns: 120px 1fr;
-            gap: 8px;
-            margin-bottom: 12px;
-        }
-
-        .detail-label {
-            font-weight: 600;
-            color: #7f8c8d;
-            font-size: 12px;
-        }
-
-        .detail-value {
-            color: #2c3e50;
-            font-size: 13px;
-        }
-
-        /* Language toggle */
-        .lang-toggle {
+        .badge-blue { background: #e3f2fd; color: #1976d2; }
+        .badge-green { background: #e8f5e9; color: #388e3c; }
+        .badge-orange { background: #fff3e0; color: #f57c00; }
+        .procedure-list { list-style: none; counter-reset: step; }
+        .procedure-list li {
+            counter-increment: step;
             display: flex;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            overflow: hidden;
+            gap: 10px;
+            margin-bottom: 8px;
+            font-size: 13px;
+            line-height: 1.7;
+            color: #444;
         }
-
-        .lang-option {
-            padding: 4px 10px;
-            font-size: 12px;
-            background: white;
-            border: none;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-
-        .lang-option.active {
+        .procedure-list li::before {
+            content: counter(step);
             background: #3498db;
             color: white;
+            font-size: 11px;
+            font-weight: 700;
+            min-width: 22px;
+            height: 22px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            margin-top: 2px;
         }
-
-        .lang-option:not(:last-child) {
-            border-right: 1px solid #ddd;
-        }
+        .activities-list { padding-left: 18px; }
+        .activities-list li { font-size: 13px; line-height: 1.8; color: #444; margin-bottom: 2px; }
+        .reference { font-size: 12px; color: #7f8c8d; line-height: 1.6; font-style: italic; background: #f9f9f9; padding: 10px; border-radius: 4px; }
     </style>
 </head>
 <body>
-    <div class="header">
-        <div class="header-top">
-            <h1 class="header-title">Speech Therapy Evidence Database</h1>
-            <span class="header-subtitle">言語治療實證資料庫</span>
-            <div class="stats-bar">
-                <div class="stat-item"><strong id="totalCount">0</strong> studies</div>
-                <div class="stat-item"><strong id="filteredCount">0</strong> displayed</div>
-            </div>
-        </div>
-        <div class="controls">
-            <input type="text" class="search-box" id="searchBox" placeholder="Search by title, author, keywords...">
-            
-            <select class="filter-select" id="domainFilter">
-                <option value="all">All Domains</option>
-            </select>
-            
-            <select class="filter-select" id="yearFilter">
-                <option value="all">All Years</option>
-            </select>
-            
-            <select class="filter-select" id="levelFilter">
-                <option value="all">All Evidence Levels</option>
-                <option value="1">Level 1 (高)</option>
-                <option value="2">Level 2 (中)</option>
-                <option value="3">Level 3 (低)</option>
-            </select>
 
-            <div class="lang-toggle">
-                <button class="lang-option active" data-lang="en">EN</button>
-                <button class="lang-option" data-lang="zh">中文</button>
-            </div>
-
-            <button class="btn" id="exportBtn">Export CSV</button>
+<div class="header">
+    <div class="header-top">
+        <h1 class="header-title">Speech Therapy Evidence Database</h1>
+        <span class="header-subtitle">言語治療實證資料庫</span>
+        <div class="stats-bar">
+            <div class="stat-item"><strong id="totalCount">0</strong> 項目</div>
+            <div class="stat-item"><strong id="filteredCount">0</strong> 顯示</div>
         </div>
     </div>
+    <div class="controls">
+        <input type="text" class="search-box" id="searchBox" placeholder="Search / 搜索名稱、描述...">
 
-    <div class="main-container">
-        <div class="list-panel" id="listPanel">
-            <div class="loading">Loading database...</div>
+        <select class="filter-select" id="domainFilter">
+            <option value="all">All Domains</option>
+        </select>
+
+        <select class="filter-select" id="ageFilter">
+            <option value="all">All Ages</option>
+        </select>
+
+        <select class="filter-select" id="levelFilter">
+            <option value="all">All Evidence</option>
+            <option value="5">★★★★★ (5)</option>
+            <option value="4">★★★★ (4)</option>
+            <option value="3">★★★ (3)</option>
+            <option value="2">★★ (2)</option>
+            <option value="1">★ (1)</option>
+        </select>
+
+        <div class="lang-toggle">
+            <button class="lang-option active" data-lang="en">EN</button>
+            <button class="lang-option" data-lang="zh">中文</button>
         </div>
-        <div class="detail-panel" id="detailPanel">
-            <div class="empty-state">Select a study to view details</div>
+
+        <button class="btn" id="exportBtn">Export CSV</button>
+    </div>
+</div>
+
+<div class="main-container">
+    <div class="list-panel" id="listPanel">
+        <div class="loading">Loading database...</div>
+    </div>
+    <div class="detail-panel" id="detailPanel">
+        <div class="empty-state">
+            Select an approach from the list to view details<br>
+            <span style="font-size:12px;color:#bbb;">從列表中選擇一個方法以查看詳情</span>
         </div>
     </div>
+</div>
 
-    <script>
-        let allStudies = [];
-        let filteredStudies = [];
-        let selectedStudy = null;
-        let currentLang = 'en';
+<script>
+    let allEntries = [];
+    let filteredEntries = [];
+    let selectedEntry = null;
+    let currentLang = 'en';
 
-        // Load database
-        async function loadDatabase() {
-            try {
-                const response = await fetch('db.json');
-                if (!response.ok) throw new Error('Failed to load database');
-                
-                const data = await response.json();
-                allStudies = data.studies || [];
-                
-                initializeFilters();
-                filterStudies();
-            } catch (error) {
-                document.getElementById('listPanel').innerHTML = 
-                    `<div class="error">Error loading database: ${error.message}</div>`;
-            }
+    // ── Load data ──────────────────────────────────────────────────────
+    async function loadDatabase() {
+        try {
+            const response = await fetch('data/speech_therapy_db.json');
+            if (!response.ok) throw new Error('HTTP ' + response.status);
+            const data = await response.json();
+            // data is a flat array
+            allEntries = Array.isArray(data) ? data : (data.entries || data.studies || []);
+            initFilters();
+            filterEntries();
+        } catch (err) {
+            document.getElementById('listPanel').innerHTML =
+                '<div class="error">Failed to load database: ' + err.message + '</div>';
         }
+    }
 
-        // Initialize filter dropdowns
-        function initializeFilters() {
-            // Domain filter
-            const domains = [...new Set(allStudies.map(s => s.domain))].sort();
-            const domainFilter = document.getElementById('domainFilter');
-            domains.forEach(domain => {
-                const option = document.createElement('option');
-                option.value = domain;
-                option.textContent = domain;
-                domainFilter.appendChild(option);
-            });
+    // ── Populate filter dropdowns ──────────────────────────────────────
+    function initFilters() {
+        document.getElementById('totalCount').textContent = allEntries.length;
 
-            // Year filter
-            const years = [...new Set(allStudies.map(s => s.year))]
-                .filter(y => y)
-                .sort((a, b) => b - a);
-            const yearFilter = document.getElementById('yearFilter');
-            years.forEach(year => {
-                const option = document.createElement('option');
-                option.value = year;
-                option.textContent = year;
-                yearFilter.appendChild(option);
-            });
-
-            document.getElementById('totalCount').textContent = allStudies.length;
-        }
-
-        // Filter studies
-        function filterStudies() {
-            const searchTerm = document.getElementById('searchBox').value.toLowerCase();
-            const domainFilter = document.getElementById('domainFilter').value;
-            const yearFilter = document.getElementById('yearFilter').value;
-            const levelFilter = document.getElementById('levelFilter').value;
-
-            filteredStudies = allStudies.filter(study => {
-                const matchesSearch = !searchTerm || 
-                    study.title_en?.toLowerCase().includes(searchTerm) ||
-                    study.title_zh?.toLowerCase().includes(searchTerm) ||
-                    study.authors?.toLowerCase().includes(searchTerm) ||
-                    study.keywords?.toLowerCase().includes(searchTerm);
-
-                const matchesDomain = domainFilter === 'all' || study.domain === domainFilter;
-                const matchesYear = yearFilter === 'all' || study.year == yearFilter;
-                const matchesLevel = levelFilter === 'all' || study.evidence_level == levelFilter;
-
-                return matchesSearch && matchesDomain && matchesYear && matchesLevel;
-            });
-
-            document.getElementById('filteredCount').textContent = filteredStudies.length;
-            renderList();
-        }
-
-        // Render study list
-        function renderList() {
-            const listPanel = document.getElementById('listPanel');
-            
-            if (filteredStudies.length === 0) {
-                listPanel.innerHTML = '<div class="empty-state">No studies match your filters</div>';
-                return;
-            }
-
-            // Group by domain
-            const byDomain = {};
-            filteredStudies.forEach(study => {
-                if (!byDomain[study.domain]) byDomain[study.domain] = [];
-                byDomain[study.domain].push(study);
-            });
-
-            let html = '';
-            Object.keys(byDomain).sort().forEach(domain => {
-                html += `<div class="domain-section">`;
-                html += `<div class="domain-header">${domain} (${byDomain[domain].length})</div>`;
-                
-                byDomain[domain].forEach(study => {
-                    const title = currentLang === 'zh' && study.title_zh ? study.title_zh : study.title_en;
-                    const isSelected = selectedStudy && selectedStudy.id === study.id;
-                    
-                    html += `
-                        <div class="study-item ${isSelected ? 'selected' : ''}" onclick="selectStudy('${study.id}')">
-                            <div class="study-title">${title || 'Untitled'}</div>
-                            <div class="study-meta">
-                                <span>${study.authors || 'Unknown author'}</span>
-                                <span>•</span>
-                                <span>${study.year || 'N/A'}</span>
-                                ${study.evidence_level ? `<span>• Level ${study.evidence_level}</span>` : ''}
-                            </div>
-                        </div>
-                    `;
-                });
-                
-                html += '</div>';
-            });
-
-            listPanel.innerHTML = html;
-        }
-
-        // Select and display study
-        function selectStudy(id) {
-            selectedStudy = allStudies.find(s => s.id === id);
-            if (!selectedStudy) return;
-            
-            renderList(); // Re-render to update selection
-            renderDetail();
-        }
-
-        // Render study detail
-        function renderDetail() {
-            const panel = document.getElementById('detailPanel');
-            const s = selectedStudy;
-            
-            const title = currentLang === 'zh' && s.title_zh ? s.title_zh : s.title_en;
-            const summary = currentLang === 'zh' && s.summary_zh ? s.summary_zh : s.summary_en;
-            const intervention = currentLang === 'zh' && s.intervention_zh ? s.intervention_zh : s.intervention_en;
-            const outcomes = currentLang === 'zh' && s.outcomes_zh ? s.outcomes_zh : s.outcomes_en;
-            const population = currentLang === 'zh' && s.target_population_zh ? s.target_population_zh : s.target_population_en;
-
-            let html = `
-                <div class="detail-section">
-                    <h3>${title || 'Untitled Study'}</h3>
-                    <div class="detail-content">
-                        <div class="detail-grid">
-                            <div class="detail-label">Authors</div>
-                            <div class="detail-value">${s.authors || 'N/A'}</div>
-                            
-                            <div class="detail-label">Year</div>
-                            <div class="detail-value">${s.year || 'N/A'}</div>
-                            
-                            <div class="detail-label">Domain</div>
-                            <div class="detail-value">${s.domain || 'N/A'}</div>
-                            
-                            <div class="detail-label">Evidence Level</div>
-                            <div class="detail-value">
-                                ${s.evidence_level ? `<span class="badge badge-primary">Level ${s.evidence_level}</span>` : 'N/A'}
-                            </div>
-                            
-                            ${s.study_design ? `
-                                <div class="detail-label">Study Design</div>
-                                <div class="detail-value">${s.study_design}</div>
-                            ` : ''}
-                            
-                            ${s.sample_size ? `
-                                <div class="detail-label">Sample Size</div>
-                                <div class="detail-value">${s.sample_size}</div>
-                            ` : ''}
-                        </div>
-                    </div>
-                </div>
-            `;
-
-            if (population) {
-                html += `
-                    <div class="detail-section">
-                        <h3>Target Population</h3>
-                        <div class="detail-content">${population}</div>
-                    </div>
-                `;
-            }
-
-            if (intervention) {
-                html += `
-                    <div class="detail-section">
-                        <h3>Intervention</h3>
-                        <div class="detail-content">${intervention}</div>
-                    </div>
-                `;
-            }
-
-            if (outcomes) {
-                html += `
-                    <div class="detail-section">
-                        <h3>Key Outcomes</h3>
-                        <div class="detail-content">${outcomes}</div>
-                    </div>
-                `;
-            }
-
-            if (summary) {
-                html += `
-                    <div class="detail-section">
-                        <h3>Summary</h3>
-                        <div class="detail-content">${summary}</div>
-                    </div>
-                `;
-            }
-
-            if (s.keywords) {
-                const keywords = s.keywords.split(',').map(k => k.trim());
-                html += `
-                    <div class="detail-section">
-                        <h3>Keywords</h3>
-                        <div class="detail-content">
-                            ${keywords.map(k => `<span class="badge badge-info">${k}</span>`).join('')}
-                        </div>
-                    </div>
-                `;
-            }
-
-            if (s.doi || s.url) {
-                html += `
-                    <div class="detail-section">
-                        <h3>Links</h3>
-                        <div class="detail-content">
-                            ${s.doi ? `<div><strong>DOI:</strong> <a href="https://doi.org/${s.doi}" target="_blank">${s.doi}</a></div>` : ''}
-                            ${s.url ? `<div><strong>URL:</strong> <a href="${s.url}" target="_blank">${s.url}</a></div>` : ''}
-                        </div>
-                    </div>
-                `;
-            }
-
-            panel.innerHTML = html;
-        }
-
-        // Export to CSV
-        function exportToCSV() {
-            const headers = ['ID', 'Title (EN)', 'Title (ZH)', 'Authors', 'Year', 'Domain', 'Evidence Level', 'Study Design', 'Sample Size', 'Keywords'];
-            const rows = filteredStudies.map(s => [
-                s.id,
-                s.title_en || '',
-                s.title_zh || '',
-                s.authors || '',
-                s.year || '',
-                s.domain || '',
-                s.evidence_level || '',
-                s.study_design || '',
-                s.sample_size || '',
-                s.keywords || ''
-            ]);
-
-            const csv = [headers, ...rows]
-                .map(row => row.map(cell => `"${String(cell).replace(/"/g, '""')}"`).join(','))
-                .join('\n');
-
-            const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
-            const link = document.createElement('a');
-            link.href = URL.createObjectURL(blob);
-            link.download = 'speech_therapy_evidence.csv';
-            link.click();
-        }
-
-        // Language toggle
-        document.querySelectorAll('.lang-option').forEach(btn => {
-            btn.addEventListener('click', () => {
-                document.querySelectorAll('.lang-option').forEach(b => b.classList.remove('active'));
-                btn.classList.add('active');
-                currentLang = btn.dataset.lang;
-                renderList();
-                if (selectedStudy) renderDetail();
-            });
+        // Domain
+        const domains = [...new Set(allEntries.map(e => e.domain).filter(Boolean))].sort();
+        const df = document.getElementById('domainFilter');
+        domains.forEach(d => {
+            const o = document.createElement('option');
+            o.value = d; o.textContent = d;
+            df.appendChild(o);
         });
 
-        // Event listeners
-        document.getElementById('searchBox').addEventListener('input', filterStudies);
-        document.getElementById('domainFilter').addEventListener('change', filterStudies);
-        document.getElementById('yearFilter').addEventListener('change', filterStudies);
-        document.getElementById('levelFilter').addEventListener('change', filterStudies);
-        document.getElementById('exportBtn').addEventListener('click', exportToCSV);
+        // Age groups — flatten arrays
+        const ages = [...new Set(allEntries.flatMap(e => e.age_groups || []).filter(Boolean))].sort();
+        const af = document.getElementById('ageFilter');
+        ages.forEach(a => {
+            const o = document.createElement('option');
+            o.value = a; o.textContent = a;
+            af.appendChild(o);
+        });
+    }
 
-        // Initialize
-        loadDatabase();
-    </script>
+    // ── Filter ────────────────────────────────────────────────────────
+    function filterEntries() {
+        const q = document.getElementById('searchBox').value.toLowerCase();
+        const domain = document.getElementById('domainFilter').value;
+        const age   = document.getElementById('ageFilter').value;
+        const level = document.getElementById('levelFilter').value;
+
+        filteredEntries = allEntries.filter(e => {
+            if (q) {
+                const haystack = [
+                    e.name_en, e.name_zh, e.description_en, e.description_zh,
+                    e.domain, (e.age_groups||[]).join(' ')
+                ].join(' ').toLowerCase();
+                if (!haystack.includes(q)) return false;
+            }
+            if (domain !== 'all' && e.domain !== domain) return false;
+            if (age   !== 'all' && !(e.age_groups||[]).includes(age)) return false;
+            if (level !== 'all' && String(e.evidence_stars) !== level) return false;
+            return true;
+        });
+
+        document.getElementById('filteredCount').textContent = filteredEntries.length;
+        renderList();
+    }
+
+    // ── Render list ───────────────────────────────────────────────────
+    function renderList() {
+        const panel = document.getElementById('listPanel');
+        if (filteredEntries.length === 0) {
+            panel.innerHTML = '<div class="empty-state">No entries match your filters.</div>';
+            return;
+        }
+
+        // Group by domain
+        const byDomain = {};
+        filteredEntries.forEach(e => {
+            const d = e.domain || 'Other';
+            if (!byDomain[d]) byDomain[d] = [];
+            byDomain[d].push(e);
+        });
+
+        let html = '';
+        Object.keys(byDomain).sort().forEach(domain => {
+            html += '<div class="domain-section">';
+            html += '<div class="domain-header">' + domain + ' (' + byDomain[domain].length + ')</div>';
+            byDomain[domain].forEach(e => {
+                const name = (currentLang === 'zh' && e.name_zh) ? e.name_zh : (e.name_en || 'Unnamed');
+                const stars = '★'.repeat(e.evidence_stars || 0) + '☆'.repeat(5 - (e.evidence_stars || 0));
+                const ages = (e.age_groups || []).join(', ');
+                const sel = selectedEntry && selectedEntry.id === e.id ? ' selected' : '';
+                html += '<div class="entry-item' + sel + '" onclick="selectEntry(\'' + e.id + '\')">';
+                html += '<div class="entry-name">' + name + '</div>';
+                html += '<div class="entry-meta">';
+                html += '<span class="stars">' + stars + '</span>';
+                if (ages) html += '<span>' + ages + '</span>';
+                html += '</div></div>';
+            });
+            html += '</div>';
+        });
+
+        panel.innerHTML = html;
+    }
+
+    // ── Select entry ──────────────────────────────────────────────────
+    function selectEntry(id) {
+        selectedEntry = allEntries.find(e => e.id === id) || null;
+        if (!selectedEntry) return;
+        renderList();
+        renderDetail();
+    }
+
+    // ── Render detail ─────────────────────────────────────────────────
+    function renderDetail() {
+        const panel = document.getElementById('detailPanel');
+        const e = selectedEntry;
+        const zh = currentLang === 'zh';
+
+        const name   = (zh && e.name_zh)        ? e.name_zh        : (e.name_en || '');
+        const nameAlt= (zh && e.name_en)        ? e.name_en        : (e.name_zh || '');
+        const desc   = (zh && e.description_zh) ? e.description_zh : (e.description_en || '');
+        const pop    = (zh && e.target_population_zh) ? e.target_population_zh : (e.target_population_en || '');
+        const evBasis= e.evidence_basis || '';
+        const ref    = e.reference || '';
+        const stars  = e.evidence_stars || 0;
+        const starsHtml = '<span style="color:#f39c12;font-size:16px;">' +
+                          '★'.repeat(stars) + '<span style="color:#ddd;">★</span>'.repeat(5-stars) +
+                          '</span> (' + stars + '/5)';
+
+        let html = '';
+
+        // Title
+        html += '<div class="detail-title">' + name + '</div>';
+        if (nameAlt) html += '<div class="detail-title-zh">' + nameAlt + '</div>';
+
+        // Meta grid
+        html += '<div class="meta-grid">';
+        html += '<div class="meta-label">Domain</div><div class="meta-value"><span class="badge badge-blue">' + (e.domain||'') + '</span></div>';
+        html += '<div class="meta-label">Evidence</div><div class="meta-value">' + starsHtml + '</div>';
+        if (e.age_groups && e.age_groups.length) {
+            html += '<div class="meta-label">Age Groups</div><div class="meta-value">';
+            e.age_groups.forEach(a => { html += '<span class="badge badge-green">' + a + '</span>'; });
+            html += '</div>';
+        }
+        if (evBasis) {
+            html += '<div class="meta-label">Evidence Basis</div><div class="meta-value">' + evBasis + '</div>';
+        }
+        html += '</div>';
+
+        // Description
+        if (desc) {
+            html += '<div class="detail-section">';
+            html += '<h4>' + (zh ? '描述' : 'Description') + '</h4>';
+            html += '<div class="detail-text">' + desc + '</div>';
+            html += '</div>';
+        }
+
+        // Target population
+        if (pop) {
+            html += '<div class="detail-section">';
+            html += '<h4>' + (zh ? '目標對象' : 'Target Population') + '</h4>';
+            html += '<div class="detail-text">' + pop + '</div>';
+            html += '</div>';
+        }
+
+        // Activities / techniques
+        const acts = e.activities || e.techniques || [];
+        if (acts.length) {
+            html += '<div class="detail-section">';
+            html += '<h4>' + (zh ? '活動 / 技巧' : 'Activities / Techniques') + '</h4>';
+            html += '<ul class="activities-list">';
+            acts.forEach(a => { html += '<li>' + a + '</li>'; });
+            html += '</ul></div>';
+        }
+
+        // Procedure
+        const proc = e.procedure || [];
+        if (proc.length) {
+            html += '<div class="detail-section">';
+            html += '<h4>' + (zh ? '臨床步驟' : 'Step-by-Step Procedure') + '</h4>';
+            html += '<ol class="procedure-list">';
+            proc.forEach(step => { html += '<li>' + step + '</li>'; });
+            html += '</ol></div>';
+        }
+
+        // Reference
+        if (ref) {
+            html += '<div class="detail-section">';
+            html += '<h4>' + (zh ? '參考文獻' : 'Reference') + '</h4>';
+            html += '<div class="reference">' + ref + '</div>';
+            html += '</div>';
+        }
+
+        panel.innerHTML = html;
+    }
+
+    // ── Export CSV ────────────────────────────────────────────────────
+    function exportToCSV() {
+        const headers = ['ID','Domain','Name (EN)','Name (ZH)','Age Groups','Evidence Stars','Description (EN)','Reference'];
+        const rows = filteredEntries.map(e => [
+            e.id||'', e.domain||'', e.name_en||'', e.name_zh||'',
+            (e.age_groups||[]).join('; '), e.evidence_stars||'',
+            e.description_en||'', e.reference||''
+        ]);
+        const csv = [headers,...rows].map(r => r.map(c => '"'+String(c).replace(/"/g,'""')+'"').join(',')).join('\n');
+        const blob = new Blob([csv], {type:'text/csv;charset=utf-8;'});
+        const link = document.createElement('a');
+        link.href = URL.createObjectURL(blob);
+        link.download = 'speech_therapy_db.csv';
+        link.click();
+    }
+
+    // ── Event listeners ───────────────────────────────────────────────
+    document.getElementById('searchBox').addEventListener('input', filterEntries);
+    document.getElementById('domainFilter').addEventListener('change', filterEntries);
+    document.getElementById('ageFilter').addEventListener('change', filterEntries);
+    document.getElementById('levelFilter').addEventListener('change', filterEntries);
+    document.getElementById('exportBtn').addEventListener('click', exportToCSV);
+
+    document.querySelectorAll('.lang-option').forEach(btn => {
+        btn.addEventListener('click', () => {
+            document.querySelectorAll('.lang-option').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            currentLang = btn.dataset.lang;
+            renderList();
+            if (selectedEntry) renderDetail();
+        });
+    });
+
+    // ── Init ──────────────────────────────────────────────────────────
+    loadDatabase();
+</script>
 </body>
 </html>
