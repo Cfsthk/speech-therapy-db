@@ -581,15 +581,19 @@
         // Select item
         function selectItem(index) {
             selectedIndex = index;
-            renderList();
+
+            // Update selected highlight without full re-render
+            document.querySelectorAll('.list-item').forEach(el => {
+                el.classList.toggle('selected', parseInt(el.dataset.index) === index);
+            });
+
             renderDetail(filteredData[index]);
 
             // Mobile: show detail panel
             if (window.innerWidth <= 768) {
                 document.getElementById('detail-panel').classList.add('active');
-                // Show back button on mobile
                 const backBtn = document.getElementById('mobile-back-btn');
-                if (backBtn) backBtn.style.display = window.innerWidth <= 768 ? 'flex' : 'none';
+                if (backBtn) backBtn.style.display = 'flex';
             }
         }
 
@@ -680,6 +684,8 @@
             const domainFilter = document.getElementById('domain-filter').value;
             const ageFilter = document.getElementById('age-filter').value;
             const evidenceFilter = document.getElementById('evidence-filter').value;
+
+            selectedIndex = -1;
 
             filteredData = allData.filter(item => {
                 // Search filter
