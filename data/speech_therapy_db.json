@@ -1,25 +1,47 @@
 [
   {
-    "id": "minimal-pairs",
-    "name_en": "Minimal Pairs Therapy",
-    "name_zh": "最小配對治療法",
+    "id": "complexity-approach",
+    "name_en": "Complexity Approach (Gierut)",
+    "name_zh": "複雜度方法",
     "domain": "speech",
     "age_groups": [
       "preschool",
       "school_age"
     ],
-    "description_en": "Minimal pairs therapy targets phonological disorders by contrasting words that differ by a single phoneme. The clinician uses picture cards and meaningful communication to highlight phonemic contrasts. Children learn to differentiate and produce target sounds through structured play activities.",
-    "description_zh": "最小配對治療法針對音韻障礙，通過對比僅有一個音位不同的詞語來進行訓練。治療師使用圖片卡和有意義的溝通活動來強調音位對比。兒童通過結構化遊戲活動學習區分和發出目標音。",
-    "target_population": "Children aged 3–8 with phonological disorders",
+    "description_en": "Targets phonologically complex sound patterns first, based on the principle that treating complex structures leads to generalization to simpler, untreated structures. Research by Gierut demonstrates that children make broader phonological gains when intervention focuses on more marked or complex features rather than simple, early-developing sounds.",
+    "description_zh": "優先針對音韻複雜的聲音模式進行治療，基於治療複雜結構會帶動較簡單未治療結構的類化原則。Gierut的研究顯示，當介入專注於較標記或複雜的特徵，而非簡單、早期發展的聲音時，兒童會獲得更廣泛的音韻進步。",
+    "target_population": "Children with phonological disorders who can benefit from treating complex patterns to promote system-wide change",
     "activities": [
-      "Minimal pair picture card sorting",
-      "Choose-it tasks with contrasting word pairs",
-      "Barrier games using minimal pair sets"
+      "Target marked sounds (e.g., fricatives, affricates, clusters) before stops",
+      "Practice word pairs contrasting complex vs. simple features",
+      "Generalization probes to monitor untreated sounds"
     ],
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
-    "evidence_basis": "Multiple RCTs and systematic reviews support efficacy for phonological disorders",
-    "reference": "Barlow, J. A., & Gierut, J. A. (2002). Minimal pair approaches to phonological remediation. Seminars in Speech and Language, 23(1), 57–67. https://doi.org/10.1055/s-2002-23508"
+    "evidence_basis": "Multiple RCTs and clinical studies by Gierut and colleagues show superior generalization with complexity-based targets",
+    "reference": "Gierut, J. A. (2007). Phonological complexity and language learnability. American Journal of Speech-Language Pathology, 16(1), 6-17. https://doi.org/10.1044/1058-0360(2007/003)"
+  },
+  {
+    "id": "core-vocabulary-therapy",
+    "name_en": "Core Vocabulary Therapy",
+    "name_zh": "核心詞彙治療法",
+    "domain": "speech",
+    "age_groups": [
+      "toddler",
+      "preschool"
+    ],
+    "description_en": "Focuses on achieving consistent production of a personalized set of functional core words (typically 50-70) that are highly meaningful to the child. Developed by Dodd and colleagues for children with inconsistent speech disorder, this approach emphasizes whole-word accuracy rather than phoneme-level targets.",
+    "description_zh": "專注於實現對兒童高度有意義的個性化功能核心詞彙（通常為50-70個）的一致性產生。由Dodd及其同事為具有不一致言語障礙的兒童開發，此方法強調整詞準確性而非音素層面的目標。",
+    "target_population": "Children with inconsistent phonological disorder who produce the same word differently across multiple attempts",
+    "activities": [
+      "Practice personalized core word list daily",
+      "Self-monitoring for consistent production",
+      "Functional communication activities using core words"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "RCTs demonstrate superior outcomes for children with inconsistent disorder compared to traditional phonological approaches",
+    "reference": "Dodd, B., Holm, A., Crosbie, S., & McIntosh, B. (2006). A core vocabulary approach for management of inconsistent speech disorder. Advances in Speech Language Pathology, 8(3), 220-230. https://doi.org/10.1080/14417040600750088"
   },
   {
     "id": "cycles-approach",
@@ -42,29 +64,6 @@
     "evidence_symbol": "★★★★☆",
     "evidence_basis": "Strong research base including multiple controlled studies; widely replicated",
     "reference": "Hodson, B. W. (2010). Evaluating and enhancing children's phonological systems: Research and theory to practice. PhonoComp."
-  },
-  {
-    "id": "nuffield-dyspraxia",
-    "name_en": "Nuffield Dyspraxia Programme (NDP3)",
-    "name_zh": "納菲爾德言語失用症方案",
-    "domain": "speech",
-    "age_groups": [
-      "toddler",
-      "preschool",
-      "school_age"
-    ],
-    "description_en": "NDP3 is a structured motor-learning programme for children with Childhood Apraxia of Speech (CAS). It uses a bottom-up approach, building from single sounds to syllables, words, and phrases. Intensive practice with integral stimulation and articulatory placement cues is central to the method.",
-    "description_zh": "NDP3是針對兒童言語失用症的結構化運動學習方案。採用由下而上的方法，從單個音素逐步建立到音節、詞語和短語。方案核心是結合整合刺激法和發音位置提示的密集練習。",
-    "target_population": "Children aged 3–11 with Childhood Apraxia of Speech",
-    "activities": [
-      "Sound-symbol card drills",
-      "Integral stimulation (watch me, listen, do it with me)",
-      "Syllable shape building from CV to multisyllabic words"
-    ],
-    "evidence_stars": 3,
-    "evidence_symbol": "★★★☆☆",
-    "evidence_basis": "Clinical evidence and case series; RCT evidence emerging",
-    "reference": "Murray, E., McCabe, P., & Ballard, K. J. (2015). A randomized controlled trial for children with childhood apraxia of speech. Journal of Speech, Language, and Hearing Research, 58(3), 669–686. https://doi.org/10.1044/2015_JSLHR-S-13-0179"
   },
   {
     "id": "dynamic-temporal-tactile-cueing",
@@ -90,25 +89,92 @@
     "reference": "Strand, E. A., Stoeckel, R., & Baas, B. (2006). Treatment of severe childhood apraxia of speech: A treatment efficacy study. Journal of Medical Speech-Language Pathology, 14(4), 297–307."
   },
   {
-    "id": "rapid-syllable-transition",
-    "name_en": "Rapid Syllable Transition Treatment (ReST)",
-    "name_zh": "快速音節轉換治療法",
+    "id": "integral-stimulation",
+    "name_en": "Integral Stimulation (Strand)",
+    "name_zh": "整合刺激法",
     "domain": "speech",
     "age_groups": [
+      "toddler",
+      "preschool",
       "school_age"
     ],
-    "description_en": "ReST targets CAS using pseudoword practice to build the ability to rapidly transition between syllables with accurate prosody. Treatment uses a strict 3-attempt motor learning schedule with knowledge-of-performance feedback. The use of non-words isolates motor learning from vocabulary knowledge.",
-    "description_zh": "快速音節轉換治療法使用偽詞練習來建立快速音節轉換能力及準確韻律。治療採用嚴格的三次嘗試運動學習計劃並提供表現知識反饋。使用非詞語將運動學習與詞匯知識分離。",
-    "target_population": "School-age children aged 6–12 with Childhood Apraxia of Speech",
+    "description_en": "A motor-learning approach for childhood apraxia of speech using the principle 'Watch me, listen to me, and do what I do.' Treatment progresses through hierarchical cueing levels from maximum support (simultaneous production) to independent production, with systematic practice and fading.",
+    "description_zh": "一種針對兒童言語失用症的動作學習方法，使用「看我、聽我、跟我做」的原則。治療通過分層提示級別進行，從最大支持（同步產生）到獨立產生，並進行系統性練習和逐漸撤除。",
+    "target_population": "Children with childhood apraxia of speech (CAS) or severe motor speech disorders",
     "activities": [
-      "Pseudoword repetition with stress pattern targets",
-      "KP feedback on syllable transitions",
-      "Home practice with pseudoword lists"
+      "Imitation drills with systematic cueing hierarchy",
+      "Mass practice of target syllables and words",
+      "Gradual fading from simultaneous to delayed to independent production"
     ],
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
-    "evidence_basis": "Multiple RCTs from McCabe & colleagues; strong motor learning framework",
-    "reference": "McCabe, P., Murray, E., Thomas, D. C., & Evans, P. (2019). Clinician manual for Rapid Syllable Transition Treatment (ReST). University of Sydney."
+    "evidence_basis": "Strong clinical consensus and multiple single-subject and group studies support effectiveness for CAS; core component of evidence-based CAS treatment",
+    "reference": "Strand, E. A., Stoeckel, R., & Baas, B. (2006). Treatment of severe childhood apraxia of speech: A treatment efficacy study. Journal of Medical Speech-Language Pathology, 14(4), 297-307."
+  },
+  {
+    "id": "lsvt-loud",
+    "name_en": "Lee Silverman Voice Treatment - LSVT LOUD (for dysarthria)",
+    "name_zh": "李-西爾弗曼聲音治療法",
+    "domain": "speech",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "An intensive, evidence-based treatment originally developed for Parkinson's disease that focuses on increasing vocal loudness through calibrated effort. The treatment principle is that by targeting a single goal (LOUD) with high intensity and repetition, multiple speech subsystems improve simultaneously.",
+    "description_zh": "一種密集的、基於證據的治療方法，最初為帕金森病開發，專注於通過校準的努力增加聲音響度。治療原則是通過高強度和重複針對單一目標（大聲），多個言語子系統同時改善。",
+    "target_population": "Adults with hypokinetic dysarthria (Parkinson's disease) and other neurological conditions affecting vocal intensity",
+    "activities": [
+      "Maximum duration phonation at increased loudness",
+      "Functional phrases practiced at calibrated loud levels",
+      "Daily homework: 16 sessions over 4 weeks (intensive protocol)"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Multiple RCTs and systematic reviews demonstrate significant, lasting improvements in voice and speech intelligibility in Parkinson's disease",
+    "reference": "Ramig, L. O., Sapir, S., Countryman, S., Pawlas, A. A., O'Brien, C., Hoehn, M., & Thompson, L. L. (2001). Intensive voice treatment (LSVT) for patients with Parkinson's disease: A 2 year follow up. Journal of Neurology, Neurosurgery & Psychiatry, 71(4), 493-498. https://doi.org/10.1136/jnnp.71.4.493"
+  },
+  {
+    "id": "metaphon-therapy",
+    "name_en": "Metaphon Therapy",
+    "name_zh": "語音意識治療法",
+    "domain": "speech",
+    "age_groups": [
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "A metalinguistic approach that develops children's phonological awareness and ability to reflect on sound contrasts. Children learn to recognize and manipulate sound properties (e.g., long vs. short sounds, front vs. back) to improve their speech production through conscious awareness.",
+    "description_zh": "一種後設語言方法，發展兒童的音韻意識和反思聲音對比的能力。兒童學習識別和操作聲音屬性（例如長音與短音、前音與後音），通過有意識的覺察來改善其言語產生。",
+    "target_population": "Children with phonological disorders who have sufficient cognitive and metalinguistic skills (typically 4+ years)",
+    "activities": [
+      "Sound property awareness games (long/short, noisy/quiet)",
+      "Sorting pictures by sound features",
+      "Self-monitoring and error detection exercises"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Controlled trials show effectiveness in improving phonological awareness and speech production in children with phonological disorders",
+    "reference": "Dean, E. C., Howell, J., Hill, A., & Waters, D. (1990). Metaphon resource pack. NFER-Nelson."
+  },
+  {
+    "id": "minimal-pairs",
+    "name_en": "Minimal Pairs Therapy",
+    "name_zh": "最小配對治療法",
+    "domain": "speech",
+    "age_groups": [
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Minimal pairs therapy targets phonological disorders by contrasting words that differ by a single phoneme. The clinician uses picture cards and meaningful communication to highlight phonemic contrasts. Children learn to differentiate and produce target sounds through structured play activities.",
+    "description_zh": "最小配對治療法針對音韻障礙，通過對比僅有一個音位不同的詞語來進行訓練。治療師使用圖片卡和有意義的溝通活動來強調音位對比。兒童通過結構化遊戲活動學習區分和發出目標音。",
+    "target_population": "Children aged 3–8 with phonological disorders",
+    "activities": [
+      "Minimal pair picture card sorting",
+      "Choose-it tasks with contrasting word pairs",
+      "Barrier games using minimal pair sets"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs and systematic reviews support efficacy for phonological disorders",
+    "reference": "Barlow, J. A., & Gierut, J. A. (2002). Minimal pair approaches to phonological remediation. Seminars in Speech and Language, 23(1), 57–67. https://doi.org/10.1055/s-2002-23508"
   },
   {
     "id": "multiple-oppositions",
@@ -131,6 +197,119 @@
     "evidence_symbol": "★★★☆☆",
     "evidence_basis": "Several well-designed studies by Williams; emerging evidence base",
     "reference": "Williams, A. L. (2000). Multiple oppositions: Theoretical foundations for an alternative contrastive intervention approach. American Journal of Speech-Language Pathology, 9(4), 282–288. https://doi.org/10.1044/1058-0360.0904.282"
+  },
+  {
+    "id": "nuffield-dyspraxia",
+    "name_en": "Nuffield Dyspraxia Programme (NDP3)",
+    "name_zh": "納菲爾德言語失用症方案",
+    "domain": "speech",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "NDP3 is a structured motor-learning programme for children with Childhood Apraxia of Speech (CAS). It uses a bottom-up approach, building from single sounds to syllables, words, and phrases. Intensive practice with integral stimulation and articulatory placement cues is central to the method.",
+    "description_zh": "NDP3是針對兒童言語失用症的結構化運動學習方案。採用由下而上的方法，從單個音素逐步建立到音節、詞語和短語。方案核心是結合整合刺激法和發音位置提示的密集練習。",
+    "target_population": "Children aged 3–11 with Childhood Apraxia of Speech",
+    "activities": [
+      "Sound-symbol card drills",
+      "Integral stimulation (watch me, listen, do it with me)",
+      "Syllable shape building from CV to multisyllabic words"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Clinical evidence and case series; RCT evidence emerging",
+    "reference": "Murray, E., McCabe, P., & Ballard, K. J. (2015). A randomized controlled trial for children with childhood apraxia of speech. Journal of Speech, Language, and Hearing Research, 58(3), 669–686. https://doi.org/10.1044/2015_JSLHR-S-13-0179"
+  },
+  {
+    "id": "oral-motor-therapy",
+    "name_en": "Oral Motor Therapy / Oro-facial Myofunctional Therapy",
+    "name_zh": "口腔運動治療法",
+    "domain": "speech",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Exercises targeting the strength, range, and coordination of oral structures (lips, tongue, jaw) to support speech production. While controversial for treating phonological disorders, evidence supports its use for myofunctional disorders (tongue thrust, mouth breathing) and some motor speech disorders.",
+    "description_zh": "針對口腔結構（嘴唇、舌頭、下顎）的力量、範圍和協調性的練習，以支持言語產生。雖然用於治療音韻障礙存在爭議，但證據支持其用於肌功能障礙（舌頭推擠、口呼吸）和某些運動性言語障礙。",
+    "target_population": "Individuals with orofacial myofunctional disorders, structural abnormalities, or specific motor speech deficits",
+    "activities": [
+      "Tongue strengthening and range-of-motion exercises",
+      "Lip closure and rounding drills",
+      "Jaw stability and controlled movement tasks"
+    ],
+    "evidence_stars": 2,
+    "evidence_symbol": "★★☆☆☆",
+    "evidence_basis": "Limited evidence for phonological disorders; some support for myofunctional disorders and specific structural/motor deficits. ASHA advises caution in using non-speech exercises for speech goals.",
+    "reference": "Lof, G. L., & Watson, M. M. (2008). A nationwide survey of nonspeech oral motor exercise use: Implications for evidence-based practice. Language, Speech, and Hearing Services in Schools, 39(3), 392-407. https://doi.org/10.1044/0161-1461(2008/037)"
+  },
+  {
+    "id": "phonological-awareness-intervention",
+    "name_en": "Phonological Awareness Intervention",
+    "name_zh": "音韻意識介入",
+    "domain": "speech",
+    "age_groups": [
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Systematic instruction in phonological awareness skills including rhyme, syllable segmentation, and phoneme manipulation. While primarily used for literacy development, these skills also support speech sound development and can be integrated with articulation therapy for dual benefits.",
+    "description_zh": "系統性地教授音韻意識技能，包括押韻、音節切分和音素操作。雖然主要用於讀寫能力發展，這些技能也支持語音發展，並可與構音治療整合以獲得雙重益處。",
+    "target_population": "Children with speech sound disorders and/or at risk for literacy difficulties",
+    "activities": [
+      "Rhyme recognition and generation tasks",
+      "Syllable counting and blending games",
+      "Phoneme isolation, deletion, and substitution exercises"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Extensive meta-analyses demonstrate strong effects on both phonological awareness and speech production, especially when combined with letter knowledge",
+    "reference": "Gillon, G. T. (2004). Phonological awareness: From research to practice. Guilford Press."
+  },
+  {
+    "id": "prompt-therapy",
+    "name_en": "PROMPT (Prompts for Restructuring Oral Muscular Phonetic Targets)",
+    "name_zh": "口腔肌肉音素目標重建提示法",
+    "domain": "speech",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "A tactile-kinesthetic approach using specific touch cues on the face and neck to guide articulator placement, timing, and movement for speech production. PROMPT integrates physical-sensory, cognitive-linguistic, and social-emotional aspects of communication.",
+    "description_zh": "一種觸覺-動覺方法，使用特定的面部和頸部觸摸提示來引導構音器官的位置、時機和動作以產生言語。PROMPT整合了溝通的生理-感官、認知-語言和社會-情感方面。",
+    "target_population": "Children with motor speech disorders (apraxia, dysarthria), severe phonological disorders, or complex communication needs",
+    "activities": [
+      "Tactile cues for articulatory placement and movement",
+      "Syllable and word-level practice with physical prompting",
+      "Gradual fading of tactile support as motor learning occurs"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Growing evidence base with several controlled studies showing improvements in speech production, though requires certified training",
+    "reference": "Dale, P. S., & Hayden, D. A. (2013). Treating speech subsystems in childhood apraxia of speech with tactual input: The PROMPT approach. American Journal of Speech-Language Pathology, 22(4), 644-661. https://doi.org/10.1044/1058-0360(2013/12-0055)"
+  },
+  {
+    "id": "rapid-syllable-transition",
+    "name_en": "Rapid Syllable Transition Treatment (ReST)",
+    "name_zh": "快速音節轉換治療法",
+    "domain": "speech",
+    "age_groups": [
+      "school_age"
+    ],
+    "description_en": "ReST targets CAS using pseudoword practice to build the ability to rapidly transition between syllables with accurate prosody. Treatment uses a strict 3-attempt motor learning schedule with knowledge-of-performance feedback. The use of non-words isolates motor learning from vocabulary knowledge.",
+    "description_zh": "快速音節轉換治療法使用偽詞練習來建立快速音節轉換能力及準確韻律。治療採用嚴格的三次嘗試運動學習計劃並提供表現知識反饋。使用非詞語將運動學習與詞匯知識分離。",
+    "target_population": "School-age children aged 6–12 with Childhood Apraxia of Speech",
+    "activities": [
+      "Pseudoword repetition with stress pattern targets",
+      "KP feedback on syllable transitions",
+      "Home practice with pseudoword lists"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs from McCabe & colleagues; strong motor learning framework",
+    "reference": "McCabe, P., Murray, E., Thomas, D. C., & Evans, P. (2019). Clinician manual for Rapid Syllable Transition Treatment (ReST). University of Sydney."
   },
   {
     "id": "stimulability-treatment",
@@ -178,26 +357,90 @@
     "reference": "Van Riper, C., & Erickson, R. L. (1996). Speech correction: An introduction to speech pathology and audiology (9th ed.). Allyn & Bacon."
   },
   {
-    "id": "lidcombe-program",
-    "name_en": "Lidcombe Program",
-    "name_zh": "利特科姆方案",
+    "id": "acceptance-commitment-stuttering",
+    "name_en": "Acceptance and Commitment Therapy for Stuttering (ACT)",
+    "name_zh": "口吃接受與承諾治療法",
     "domain": "fluency",
     "age_groups": [
-      "toddler",
-      "preschool"
+      "school_age",
+      "adult"
     ],
-    "description_en": "The Lidcombe Program is a parent-delivered operant conditioning treatment for preschool children who stutter. Parents learn to give verbal contingencies (praise for fluent speech, acknowledgement of stutters) during structured daily conversations. It has the strongest RCT evidence of any stuttering treatment for young children.",
-    "description_zh": "利特科姆方案是由家長執行的針對學前兒童口吃的操作性條件治療。家長學習在結構化的日常對話中給予言語後效（對流利語言的讚揚、對口吃的確認）。它是針對幼兒口吃治療中具有最強隨機對照試驗證據的方法。",
-    "target_population": "Children aged 2–6 years who stutter",
+    "description_en": "ACT for stuttering targets psychological flexibility and acceptance of stuttering rather than fluency control. Clients learn to defuse from unhelpful thoughts, accept stuttering experiences, and commit to valued actions despite stuttering. This approach addresses quality of life and reduces avoidance behaviour.",
+    "description_zh": "口吃的接受與承諾治療法針對心理靈活性和接受口吃，而非流利度控制。客戶學習從無益的想法中解離、接受口吃體驗，並在口吃的情況下承諾有價值的行動。此方法改善生活質量並減少迴避行為。",
+    "target_population": "Adolescents and adults who stutter with high avoidance or anxiety",
     "activities": [
-      "Structured daily parent-child conversations with verbal contingencies",
-      "Severity rating scale (0–10) by parent and clinician",
-      "Weekly clinic visits for progress monitoring"
+      "Values clarification exercises",
+      "Defusion exercises for stuttering-related thoughts",
+      "Exposure hierarchy for avoided speaking situations"
     ],
-    "evidence_stars": 5,
-    "evidence_symbol": "★★★★★",
-    "evidence_basis": "Multiple RCTs including an international multicentre RCT; Cochrane review support",
-    "reference": "Jones, M., Onslow, M., Packman, A., Williams, S., Ormond, T., Schwartz, I., & Gebski, V. (2005). Randomised controlled trial of the Lidcombe programme of early stuttering intervention. BMJ, 331(7518), 659. https://doi.org/10.1136/bmj.38520.451840.E0"
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Growing RCT evidence; well-established in psychological literature adapted to fluency",
+    "reference": "Beilby, J. M., Byrnes, M. L., & Yaruss, J. S. (2012). Acceptance and Commitment Therapy for adults who stutter: Psychosocial adjustment and speech fluency. Journal of Fluency Disorders, 37(4), 289–299. https://doi.org/10.1016/j.jfludis.2012.05.003"
+  },
+  {
+    "id": "camperdown-program",
+    "name_en": "Camperdown Program",
+    "name_zh": "坎珀當方案",
+    "domain": "fluency",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "A behavioral stuttering treatment that teaches a prolonged speech pattern through syllable-timed speech modeling. Developed in Australia, it is a shorter, more streamlined fluency-shaping program designed for adolescents and adults, typically delivered in intensive or telehealth formats.",
+    "description_zh": "一種行為性口吃治療，通過音節計時的言語模式教授延長言語模式。在澳大利亞開發，它是一個更短、更簡化的流暢塑造方案，專為青少年和成人設計，通常以密集或遠程醫療形式提供。",
+    "target_population": "Adolescents and adults who stutter and prefer a structured fluency-shaping approach",
+    "activities": [
+      "Syllable-timed speech practice with modeling",
+      "Progressive speech rate increase while maintaining fluency",
+      "Self-evaluation and problem-solving for maintenance"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs demonstrate significant reduction in stuttering frequency with good maintenance, comparable to other established programs",
+    "reference": "O'Brian, S., Onslow, M., Cream, A., & Packman, A. (2003). The Camperdown Program: Outcomes of a new prolonged-speech treatment model. Journal of Speech, Language, and Hearing Research, 46(4), 933-946. https://doi.org/10.1044/1092-4388(2003/073)"
+  },
+  {
+    "id": "cbt-stuttering",
+    "name_en": "Cognitive Behaviour Therapy for Stuttering (CBT)",
+    "name_zh": "口吃認知行為治療",
+    "domain": "fluency",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "A psychological intervention targeting negative thoughts, unhelpful beliefs, and anxiety associated with stuttering. CBT helps individuals identify and modify cognitive distortions about stuttering, reduce avoidance behaviors, and develop healthier coping strategies, often used alongside or after speech-focused interventions.",
+    "description_zh": "一種心理介入，針對與口吃相關的負面思想、無益信念和焦慮。認知行為治療幫助個體識別和修正關於口吃的認知扭曲，減少迴避行為，並發展更健康的應對策略，通常與言語重點介入一起使用或在其之後使用。",
+    "target_population": "Adolescents and adults who stutter with significant social anxiety, negative attitudes, or avoidance behaviors",
+    "activities": [
+      "Thought records to identify and challenge negative beliefs",
+      "Exposure hierarchies for feared speaking situations",
+      "Behavioral experiments to test unhelpful assumptions"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "RCTs and controlled studies show significant improvements in anxiety, self-efficacy, and quality of life; can enhance outcomes when combined with speech therapy",
+    "reference": "Menzies, R. G., O'Brian, S., Onslow, M., Packman, A., St Clare, T., & Block, S. (2008). An experimental clinical trial of a cognitive-behavior therapy package for chronic stuttering. Journal of Speech, Language, and Hearing Research, 51(6), 1451-1464. https://doi.org/10.1044/1092-4388(2008/07-0070)"
+  },
+  {
+    "id": "comprehensive-stuttering-program",
+    "name_en": "Comprehensive Stuttering Program (CSP/Boberg)",
+    "name_zh": "綜合口吃治療方案",
+    "domain": "fluency",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "An intensive, multidimensional treatment combining fluency skills training, stuttering modification techniques, and cognitive-behavioral components. Originally developed by Boberg and Kully, this 3-week intensive residential program addresses speech behavior, attitudes, and emotional aspects of stuttering.",
+    "description_zh": "一種密集的、多維度的治療，結合流暢技能訓練、口吃修正技術和認知行為成分。最初由Boberg和Kully開發，這個為期3週的密集住院方案解決言語行為、態度和口吃的情感方面。",
+    "target_population": "Adults who stutter and can commit to intensive treatment addressing multiple dimensions of stuttering",
+    "activities": [
+      "Fluency techniques (prolonged speech, gentle onsets)",
+      "Stuttering modification strategies (cancellations, pull-outs)",
+      "Cognitive restructuring for negative beliefs and anxiety"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Long-term follow-up studies show substantial improvements in fluency and attitude maintained over years, though intensive format limits accessibility",
+    "reference": "Kully, D., & Langevin, M. (1999). Intensive treatment for stuttering adolescents. In R. F. Curlee (Ed.), Stuttering and related disorders of fluency (2nd ed., pp. 139-159). Thieme."
   },
   {
     "id": "demands-capacities-model",
@@ -245,48 +488,26 @@
     "reference": "O'Brian, S., Packman, A., & Onslow, M. (2010). The Camperdown Program: Outcomes of a new prolonged-speech treatment model. Journal of Speech, Language, and Hearing Research, 53(6), 1468–1483. https://doi.org/10.1044/1092-4388(2010/09-0259)"
   },
   {
-    "id": "stuttering-modification",
-    "name_en": "Stuttering Modification Therapy (Van Riper)",
-    "name_zh": "口吃調整治療法（凡萊珀）",
+    "id": "lidcombe-program",
+    "name_en": "Lidcombe Program",
+    "name_zh": "利特科姆方案",
     "domain": "fluency",
     "age_groups": [
-      "school_age",
-      "adult"
+      "toddler",
+      "preschool"
     ],
-    "description_en": "Stuttering modification therapy aims to change the form of stuttering to make it easier and less effortful rather than eliminating it. Key techniques include cancellations, pull-outs, and preparatory sets. The approach addresses the emotional and attitudinal components of stuttering alongside speech modification.",
-    "description_zh": "口吃調整治療法旨在改變口吃的形式，使其更容易、更省力，而非消除它。主要技術包括取消法、拉出法和準備定勢法。此方法在修改語言的同時也處理口吃的情感和態度成分。",
-    "target_population": "School-age children and adults who stutter, especially those with significant avoidance",
+    "description_en": "The Lidcombe Program is a parent-delivered operant conditioning treatment for preschool children who stutter. Parents learn to give verbal contingencies (praise for fluent speech, acknowledgement of stutters) during structured daily conversations. It has the strongest RCT evidence of any stuttering treatment for young children.",
+    "description_zh": "利特科姆方案是由家長執行的針對學前兒童口吃的操作性條件治療。家長學習在結構化的日常對話中給予言語後效（對流利語言的讚揚、對口吃的確認）。它是針對幼兒口吃治療中具有最強隨機對照試驗證據的方法。",
+    "target_population": "Children aged 2–6 years who stutter",
     "activities": [
-      "Desensitisation through voluntary stuttering",
-      "Cancellation practice after real stutters",
-      "Pull-out technique drills in hierarchy"
+      "Structured daily parent-child conversations with verbal contingencies",
+      "Severity rating scale (0–10) by parent and clinician",
+      "Weekly clinic visits for progress monitoring"
     ],
-    "evidence_stars": 3,
-    "evidence_symbol": "★★★☆☆",
-    "evidence_basis": "Clinical tradition with supporting case studies; RCT evidence limited compared to fluency shaping",
-    "reference": "Van Riper, C. (1973). The treatment of stuttering. Prentice-Hall."
-  },
-  {
-    "id": "acceptance-commitment-stuttering",
-    "name_en": "Acceptance and Commitment Therapy for Stuttering (ACT)",
-    "name_zh": "口吃接受與承諾治療法",
-    "domain": "fluency",
-    "age_groups": [
-      "school_age",
-      "adult"
-    ],
-    "description_en": "ACT for stuttering targets psychological flexibility and acceptance of stuttering rather than fluency control. Clients learn to defuse from unhelpful thoughts, accept stuttering experiences, and commit to valued actions despite stuttering. This approach addresses quality of life and reduces avoidance behaviour.",
-    "description_zh": "口吃的接受與承諾治療法針對心理靈活性和接受口吃，而非流利度控制。客戶學習從無益的想法中解離、接受口吃體驗，並在口吃的情況下承諾有價值的行動。此方法改善生活質量並減少迴避行為。",
-    "target_population": "Adolescents and adults who stutter with high avoidance or anxiety",
-    "activities": [
-      "Values clarification exercises",
-      "Defusion exercises for stuttering-related thoughts",
-      "Exposure hierarchy for avoided speaking situations"
-    ],
-    "evidence_stars": 3,
-    "evidence_symbol": "★★★☆☆",
-    "evidence_basis": "Growing RCT evidence; well-established in psychological literature adapted to fluency",
-    "reference": "Beilby, J. M., Byrnes, M. L., & Yaruss, J. S. (2012). Acceptance and Commitment Therapy for adults who stutter: Psychosocial adjustment and speech fluency. Journal of Fluency Disorders, 37(4), 289–299. https://doi.org/10.1016/j.jfludis.2012.05.003"
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Multiple RCTs including an international multicentre RCT; Cochrane review support",
+    "reference": "Jones, M., Onslow, M., Packman, A., Williams, S., Ormond, T., Schwartz, I., & Gebski, V. (2005). Randomised controlled trial of the Lidcombe programme of early stuttering intervention. BMJ, 331(7518), 659. https://doi.org/10.1136/bmj.38520.451840.E0"
   },
   {
     "id": "palin-pci",
@@ -311,72 +532,136 @@
     "reference": "Millard, S. K., Nicholas, A., & Cook, F. M. (2008). Is parent-child interaction therapy effective in reducing stuttering? Journal of Speech, Language, and Hearing Research, 51(3), 636–650. https://doi.org/10.1044/1092-4388(2008/046)"
   },
   {
-    "id": "milieu-teaching",
-    "name_en": "Milieu Teaching",
-    "name_zh": "環境教學法",
-    "domain": "language",
+    "id": "prolonged-speech",
+    "name_en": "Prolonged Speech / Smooth Speech",
+    "name_zh": "延長言語／流暢言語法",
+    "domain": "fluency",
     "age_groups": [
-      "infant",
-      "toddler",
-      "preschool"
+      "school_age",
+      "adult"
     ],
-    "description_en": "Milieu teaching embeds language learning opportunities into naturalistic daily routines and play by arranging the environment to elicit communication. Techniques include mand-model, time delay, and incidental teaching within child-preferred activities. It is particularly effective for children with autism and developmental language delay.",
-    "description_zh": "環境教學法通過安排環境來引發溝通，將語言學習機會融入自然的日常常規和遊戲中。技術包括在兒童偏好的活動中使用要求-示範、時間延遲和隨機教學。對自閉症和發展性語言遲緩兒童特別有效。",
-    "target_population": "Infants, toddlers and preschoolers with language delay or autism spectrum disorder",
+    "description_en": "A fluency-shaping technique that teaches a slow, exaggerated speech pattern with prolonged syllables, continuous voicing, gentle onsets, and smooth transitions. Once fluency is established at slow rates, speech rate is gradually increased while maintaining fluency targets, with the goal of achieving natural-sounding fluent speech.",
+    "description_zh": "一種流暢塑造技術，教授緩慢、誇張的言語模式，具有延長的音節、持續發聲、溫和的起始和平滑的過渡。一旦在慢速率下建立流暢性，言語速率會在保持流暢目標的同時逐漸增加，目標是實現自然聽起來的流暢言語。",
+    "target_population": "Adolescents and adults who stutter and are motivated to learn and practice a new speech pattern",
     "activities": [
-      "Environmental arrangement to create communication temptations",
-      "Mand-model procedure during play routines",
-      "Time delay technique in daily transitions"
-    ],
-    "evidence_stars": 5,
-    "evidence_symbol": "★★★★★",
-    "evidence_basis": "Extensive RCT evidence; endorsed by ASHA as evidence-based practice for ASD",
-    "reference": "Kaiser, A. P., & Trent, J. A. (2007). Communication intervention for young children with disabilities. In S. L. Odom, R. H. Horner, M. E. Snell, & J. Blacher (Eds.), Handbook of developmental disabilities (pp. 224–245). Guilford Press."
-  },
-  {
-    "id": "it-takes-two-to-talk",
-    "name_en": "It Takes Two to Talk (Hanen)",
-    "name_zh": "說話需要兩個人（漢能方案）",
-    "domain": "language",
-    "age_groups": [
-      "infant",
-      "toddler",
-      "preschool"
-    ],
-    "description_en": "The Hanen It Takes Two to Talk programme trains parents to become their child's primary language facilitator through group workshops and individual video feedback sessions. Parents learn OWL (Observe, Wait, Listen) strategies, following the child's lead, and adding language just above the child's current level. It is designed for children with language delays aged 0–5.",
-    "description_zh": "漢能「說話需要兩個人」方案通過小組工作坊和個別視頻反饋課程，培訓家長成為孩子的主要語言促進者。家長學習OWL（觀察、等待、聆聽）策略、跟隨孩子的帶領，以及在孩子當前水平之上稍作添加語言。專為0至5歲語言遲緩兒童設計。",
-    "target_population": "Children aged 0–5 with language delays and their parents",
-    "activities": [
-      "OWL (Observe, Wait, Listen) during play",
-      "Responsive interaction strategies during book reading",
-      "Video feedback parent coaching sessions"
+      "Prolonged syllable practice at extremely slow rates",
+      "Gradual rate increase through hierarchical steps",
+      "Transfer activities in real-world speaking situations"
     ],
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
-    "evidence_basis": "Multiple RCTs and systematic reviews; widely implemented internationally",
-    "reference": "Girolametto, L., Pearce, P. S., & Weitzman, E. (1996). Interactive focused stimulation for toddlers with expressive vocabulary delays. Journal of Speech and Hearing Research, 39(6), 1274–1283. https://doi.org/10.1044/jshr.3906.1274"
+    "evidence_basis": "Strong evidence for immediate fluency gains; maintenance requires ongoing practice and self-monitoring. Forms the basis of many established programs.",
+    "reference": "Ingham, R. J., & Cordes, A. K. (1997). Self-measurement and evaluating stuttering treatment efficacy. In R. F. Curlee & G. M. Siegel (Eds.), Nature and treatment of stuttering: New directions (2nd ed., pp. 413-437). Allyn & Bacon."
   },
   {
-    "id": "narrative-intervention",
-    "name_en": "Narrative Intervention",
-    "name_zh": "敘事介入治療",
+    "id": "self-therapy-stutterer",
+    "name_en": "Self-Therapy for the Stutterer (Fraser)",
+    "name_zh": "口吃自我治療法",
+    "domain": "fluency",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "A structured self-help program developed by Malcolm Fraser, a person who stuttered. This approach provides systematic exercises and principles for individuals to work on their stuttering independently or with minimal professional support, emphasizing acceptance, voluntary stuttering, and gradual desensitization.",
+    "description_zh": "由口吃者Malcolm Fraser開發的結構化自助方案。此方法為個體提供系統性的練習和原則，以獨立或在最少專業支持下處理其口吃，強調接受、自願口吃和漸進脫敏。",
+    "target_population": "Adults who stutter with motivation for self-directed therapy, particularly those with limited access to professional services",
+    "activities": [
+      "Self-study of stuttering patterns and triggers",
+      "Voluntary stuttering exercises to reduce fear",
+      "Progressive speaking assignments with self-monitoring"
+    ],
+    "evidence_stars": 2,
+    "evidence_symbol": "★★☆☆☆",
+    "evidence_basis": "Limited formal research but widely used and endorsed by stuttering community; principles align with evidence-based approaches like stuttering modification",
+    "reference": "Fraser, M. (2010). Self-therapy for the stutterer (11th ed.). Stuttering Foundation of America."
+  },
+  {
+    "id": "altered-auditory-feedback",
+    "name_en": "SpeechEasy / Altered Auditory Feedback (AAF)",
+    "name_zh": "改變聽覺反饋裝置",
+    "domain": "fluency",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Electronic devices that alter how speakers hear their own voice through delayed auditory feedback (DAF) and/or frequency-shifted feedback (FAF). These devices can reduce stuttering in some individuals by creating the 'choral speech effect,' though effectiveness varies widely and devices do not address underlying attitudes or avoidance.",
+    "description_zh": "通過延遲聽覺反饋（DAF）和/或頻率移位反饋（FAF）改變說話者聽到自己聲音方式的電子設備。這些設備可以通過創造「合唱言語效應」減少某些人的口吃，儘管有效性差異很大，且設備不解決潛在的態度或迴避問題。",
+    "target_population": "Individuals who stutter seeking immediate fluency support; best as adjunct rather than standalone treatment",
+    "activities": [
+      "Device fitting and acclimatization",
+      "Practice in progressively challenging speaking situations",
+      "Combined use with traditional therapy for comprehensive management"
+    ],
+    "evidence_stars": 2,
+    "evidence_symbol": "★★☆☆☆",
+    "evidence_basis": "Mixed research findings; some users report benefit but effects are variable and devices alone do not produce lasting change without behavioral therapy",
+    "reference": "Armson, J., Kiefte, M., Mason, J., & De Croos, D. (2006). The effect of SpeechEasy on stuttering frequency in laboratory conditions. Journal of Fluency Disorders, 31(2), 137-152. https://doi.org/10.1016/j.jfludis.2006.04.004"
+  },
+  {
+    "id": "stuttering-modification",
+    "name_en": "Stuttering Modification Therapy (Van Riper)",
+    "name_zh": "口吃調整治療法（凡萊珀）",
+    "domain": "fluency",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Stuttering modification therapy aims to change the form of stuttering to make it easier and less effortful rather than eliminating it. Key techniques include cancellations, pull-outs, and preparatory sets. The approach addresses the emotional and attitudinal components of stuttering alongside speech modification.",
+    "description_zh": "口吃調整治療法旨在改變口吃的形式，使其更容易、更省力，而非消除它。主要技術包括取消法、拉出法和準備定勢法。此方法在修改語言的同時也處理口吃的情感和態度成分。",
+    "target_population": "School-age children and adults who stutter, especially those with significant avoidance",
+    "activities": [
+      "Desensitisation through voluntary stuttering",
+      "Cancellation practice after real stutters",
+      "Pull-out technique drills in hierarchy"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Clinical tradition with supporting case studies; RCT evidence limited compared to fluency shaping",
+    "reference": "Van Riper, C. (1973). The treatment of stuttering. Prentice-Hall."
+  },
+  {
+    "id": "computerised-language-intervention",
+    "name_en": "Computerised Language Intervention (e.g., Fast ForWord)",
+    "name_zh": "快速語言電腦訓練法",
     "domain": "language",
     "age_groups": [
       "preschool",
       "school_age"
     ],
-    "description_en": "Narrative intervention targets the macrostructure of stories (story grammar: setting, characters, problem, events, resolution) alongside microstructure (sentence complexity, vocabulary). Clinicians use story retelling, story generation, and script activities to build narrative competence. Strong narrative skills predict literacy and academic success.",
-    "description_zh": "敘事介入治療針對故事的宏觀結構（故事語法：場景、人物、問題、事件、解決）和微觀結構（句子複雜性、詞匯）。治療師使用故事重述、故事生成和腳本活動來建立敘事能力。強大的敘事能力可預測識字和學業成功。",
-    "target_population": "Preschool and school-age children with developmental language disorder or language learning disabilities",
+    "description_en": "Computerised language interventions use adaptive software to provide intensive, individualized training in auditory processing, phonological awareness, and language comprehension. Programs like Fast ForWord use modified speech (acoustically enhanced and slowed) and game-based exercises to target temporal processing deficits hypothesized to underlie language impairment. Training is typically intensive (daily sessions) with automatic difficulty adjustment.",
+    "description_zh": "電腦化語言介入使用自適應軟體提供密集、個別化的聽覺處理、語音意識和語言理解訓練。如Fast ForWord等程式使用修改過的語音（聲學增強和減速）和遊戲式練習，針對被假設為語言障礙根源的時間處理缺陷。訓練通常是密集的（每日課程），具有自動難度調整。",
+    "target_population": "Children with specific language impairment, auditory processing disorder, reading difficulties, or language-based learning disabilities",
     "activities": [
-      "Story retelling with story grammar cue cards",
-      "Story generation from picture sequences",
-      "Script activities for personal narrative"
+      "Auditory discrimination tasks with modified speech",
+      "Phonological awareness games and exercises",
+      "Sentence and story comprehension activities",
+      "Working memory and sequencing tasks"
+    ],
+    "evidence_stars": 2,
+    "evidence_symbol": "★★☆☆☆",
+    "evidence_basis": "Mixed evidence with some studies showing improvements in auditory processing but limited generalization to language outcomes; systematic reviews indicate no superiority over traditional therapy.",
+    "reference": "Strong, G. K., Torgerson, C. J., Torgerson, D., & Hulme, C. (2011). A systematic meta-analytic review of evidence for the effectiveness of the 'Fast ForWord' language intervention program. Journal of Child Psychology and Psychiatry, 52(3), 224-235. https://doi.org/10.1111/j.1469-7610.2010.02329.x"
+  },
+  {
+    "id": "constraint-induced-language-therapy",
+    "name_en": "Constraint-Induced Language Therapy (CILT)",
+    "name_zh": "限制誘導語言治療法",
+    "domain": "language",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "CILT is an intensive aphasia treatment based on constraint-induced movement therapy principles. It constrains patients to use verbal communication only (no gestures, writing, or drawing) during massed practice communicative activities. The approach involves shaping, high intensity practice (3+ hours daily), and forced use of verbal output to promote neuroplastic changes and improve spoken language production.",
+    "description_zh": "限制誘導語言治療法是基於限制誘導動作治療原則的密集失語症治療。在大量練習溝通活動期間，限制患者僅使用口語溝通（不使用手勢、書寫或繪圖）。此方法涉及塑造、高強度練習（每天3小時以上）和強制使用口語輸出，以促進神經可塑性變化並改善口語產出。",
+    "target_population": "Adults with chronic aphasia, particularly those with mild to moderate expressive deficits who rely on compensatory strategies",
+    "activities": [
+      "Card-matching communication games with verbal-only constraint",
+      "Request-based activities requiring spoken language",
+      "Barrier tasks with speaking-only rule",
+      "Intensive massed practice sessions (3-4 hours daily for 2 weeks)"
     ],
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
-    "evidence_basis": "Multiple RCTs; strong theoretical grounding in narrative theory",
-    "reference": "Spencer, T. D., & Petersen, D. B. (2018). Narrative intervention: Principles to practice. Language, Speech, and Hearing Services in Schools, 49(4), 895–911. https://doi.org/10.1044/2018_LSHSS-NAII-18-0039"
+    "evidence_basis": "Multiple RCTs and systematic reviews showing significant improvements in verbal communication abilities and daily language use in chronic aphasia.",
+    "reference": "Pulvermüller, F., & Berthier, M. L. (2008). Aphasia therapy on a neuroscience basis. Aphasiology, 22(6), 563-599. https://doi.org/10.1080/02687030701612213"
   },
   {
     "id": "enhanced-milieu-teaching",
@@ -402,6 +687,29 @@
     "reference": "Kaiser, A. P., & Roberts, M. Y. (2013). Parent-implemented enhanced milieu teaching with preschool children who have intellectual disabilities. Journal of Speech, Language, and Hearing Research, 56(1), 295–309. https://doi.org/10.1044/1092-4388(2012/11-0231)"
   },
   {
+    "id": "it-takes-two-to-talk",
+    "name_en": "It Takes Two to Talk (Hanen)",
+    "name_zh": "說話需要兩個人（漢能方案）",
+    "domain": "language",
+    "age_groups": [
+      "infant",
+      "toddler",
+      "preschool"
+    ],
+    "description_en": "The Hanen It Takes Two to Talk programme trains parents to become their child's primary language facilitator through group workshops and individual video feedback sessions. Parents learn OWL (Observe, Wait, Listen) strategies, following the child's lead, and adding language just above the child's current level. It is designed for children with language delays aged 0–5.",
+    "description_zh": "漢能「說話需要兩個人」方案通過小組工作坊和個別視頻反饋課程，培訓家長成為孩子的主要語言促進者。家長學習OWL（觀察、等待、聆聽）策略、跟隨孩子的帶領，以及在孩子當前水平之上稍作添加語言。專為0至5歲語言遲緩兒童設計。",
+    "target_population": "Children aged 0–5 with language delays and their parents",
+    "activities": [
+      "OWL (Observe, Wait, Listen) during play",
+      "Responsive interaction strategies during book reading",
+      "Video feedback parent coaching sessions"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs and systematic reviews; widely implemented internationally",
+    "reference": "Girolametto, L., Pearce, P. S., & Weitzman, E. (1996). Interactive focused stimulation for toddlers with expressive vocabulary delays. Journal of Speech and Hearing Research, 39(6), 1274–1283. https://doi.org/10.1044/jshr.3906.1274"
+  },
+  {
     "id": "fast-forword",
     "name_en": "Language Intervention via Vocabulary and Morphology (Focused Stimulation)",
     "name_zh": "聚焦刺激語言介入法",
@@ -425,27 +733,27 @@
     "reference": "Weismer, S. E., & Robertson, S. (2006). Focused stimulation approach to language intervention. In R. J. McCauley & M. E. Fey (Eds.), Treatment of language disorders in children (pp. 175–202). Paul H. Brookes."
   },
   {
-    "id": "social-communication-intervention",
-    "name_en": "Social Communication Intervention (SCERTS)",
-    "name_zh": "社交溝通介入（SCERTS模型）",
+    "id": "milieu-teaching",
+    "name_en": "Milieu Teaching",
+    "name_zh": "環境教學法",
     "domain": "language",
     "age_groups": [
+      "infant",
       "toddler",
-      "preschool",
-      "school_age"
+      "preschool"
     ],
-    "description_en": "SCERTS (Social Communication, Emotional Regulation, Transactional Support) is a comprehensive framework for supporting children with autism in developing functional social communication. It addresses joint attention, symbol use, emotional regulation, and the supports needed across settings. SCERTS guides individualised goal-setting and collaborative team planning.",
-    "description_zh": "SCERTS（社交溝通、情緒調節、交互支持）是一個全面框架，支持自閉症兒童發展功能性社交溝通。它處理共同注意力、符號使用、情緒調節以及跨情境所需的支持。SCERTS指導個性化目標設定和協作團隊規劃。",
-    "target_population": "Children with autism spectrum disorder across developmental stages",
+    "description_en": "Milieu teaching embeds language learning opportunities into naturalistic daily routines and play by arranging the environment to elicit communication. Techniques include mand-model, time delay, and incidental teaching within child-preferred activities. It is particularly effective for children with autism and developmental language delay.",
+    "description_zh": "環境教學法通過安排環境來引發溝通，將語言學習機會融入自然的日常常規和遊戲中。技術包括在兒童偏好的活動中使用要求-示範、時間延遲和隨機教學。對自閉症和發展性語言遲緩兒童特別有效。",
+    "target_population": "Infants, toddlers and preschoolers with language delay or autism spectrum disorder",
     "activities": [
-      "Joint attention activities in play dyads",
-      "Symbol use through aided AAC during routines",
-      "Emotional regulation check-ins and visual supports"
+      "Environmental arrangement to create communication temptations",
+      "Mand-model procedure during play routines",
+      "Time delay technique in daily transitions"
     ],
-    "evidence_stars": 3,
-    "evidence_symbol": "★★★☆☆",
-    "evidence_basis": "Framework with supporting clinical evidence; systematic review evidence growing",
-    "reference": "Prizant, B. M., Wetherby, A. M., Rubin, E., Laurent, A. C., & Rydell, P. J. (2006). The SCERTS model: A comprehensive educational approach for children with autism spectrum disorders. Paul H. Brookes."
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Extensive RCT evidence; endorsed by ASHA as evidence-based practice for ASD",
+    "reference": "Kaiser, A. P., & Trent, J. A. (2007). Communication intervention for young children with disabilities. In S. L. Odom, R. H. Horner, M. E. Snell, & J. Blacher (Eds.), Handbook of developmental disabilities (pp. 224–245). Guilford Press."
   },
   {
     "id": "morphosyntax-intervention",
@@ -471,6 +779,188 @@
     "reference": "Camarata, S., Nelson, K. E., & Camarata, M. N. (1994). Comparison of conversational-recasting and imitative procedures for training grammatical structures in children with specific language impairment. Journal of Speech and Hearing Research, 37(6), 1414–1423. https://doi.org/10.1044/jshr.3706.1414"
   },
   {
+    "id": "narrative-intervention",
+    "name_en": "Narrative Intervention",
+    "name_zh": "敘事介入治療",
+    "domain": "language",
+    "age_groups": [
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Narrative intervention targets the macrostructure of stories (story grammar: setting, characters, problem, events, resolution) alongside microstructure (sentence complexity, vocabulary). Clinicians use story retelling, story generation, and script activities to build narrative competence. Strong narrative skills predict literacy and academic success.",
+    "description_zh": "敘事介入治療針對故事的宏觀結構（故事語法：場景、人物、問題、事件、解決）和微觀結構（句子複雜性、詞匯）。治療師使用故事重述、故事生成和腳本活動來建立敘事能力。強大的敘事能力可預測識字和學業成功。",
+    "target_population": "Preschool and school-age children with developmental language disorder or language learning disabilities",
+    "activities": [
+      "Story retelling with story grammar cue cards",
+      "Story generation from picture sequences",
+      "Script activities for personal narrative"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs; strong theoretical grounding in narrative theory",
+    "reference": "Spencer, T. D., & Petersen, D. B. (2018). Narrative intervention: Principles to practice. Language, Speech, and Hearing Services in Schools, 49(4), 895–911. https://doi.org/10.1044/2018_LSHSS-NAII-18-0039"
+  },
+  {
+    "id": "prelinguistic-milieu-teaching",
+    "name_en": "Prelinguistic Milieu Teaching (PMT)",
+    "name_zh": "前語言期環境教學法",
+    "domain": "language",
+    "age_groups": [
+      "infant",
+      "toddler"
+    ],
+    "description_en": "PMT is a naturalistic intervention for infants and toddlers with developmental delays who have not yet developed intentional communication. It teaches prelinguistic communication behaviors (gestures, vocalizations, eye gaze) through environmental arrangement and responsive interaction strategies. PMT targets foundational social-communication skills that precede spoken language.",
+    "description_zh": "前語言期環境教學法是針對發展遲緩、尚未發展出有意圖溝通能力的嬰幼兒的自然情境介入法。透過環境安排和回應式互動策略，教導前語言溝通行為（手勢、發聲、眼神接觸）。PMT針對口語語言前的基礎社交溝通技能。",
+    "target_population": "Infants and toddlers with developmental delays, autism spectrum disorder, or significant communication impairments at prelinguistic stages",
+    "activities": [
+      "Environmental arrangement to create communication opportunities",
+      "Responsive interaction techniques (imitation, expansion, time delay)",
+      "Teaching gestures and coordinated eye gaze",
+      "Prompting and reinforcing intentional communication acts"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong RCT evidence showing improvements in prelinguistic communication acts, joint attention, and faster acquisition of first words in young children with developmental disabilities.",
+    "reference": "Yoder, P., & Warren, S. F. (2002). Effects of prelinguistic milieu teaching and parent responsivity education on dyads involving children with intellectual disabilities. Journal of Speech, Language, and Hearing Research, 45(6), 1158-1175. https://doi.org/10.1044/1092-4388(2002/094)"
+  },
+  {
+    "id": "recast-intervention",
+    "name_en": "Recast Intervention",
+    "name_zh": "重鑄介入法",
+    "domain": "language",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Recast intervention involves the clinician or parent immediately reformulating a child's utterance to provide a grammatically correct or more complex model, without overtly correcting the child. Recasts maintain conversational flow while providing implicit feedback and language models targeting specific morphosyntactic structures. This technique is effective for grammar development and has strong theoretical grounding in implicit learning.",
+    "description_zh": "重鑄介入法是指治療師或家長立即重新表述兒童的話語，提供語法正確或更複雜的示範，而不公開糾正兒童。重鑄保持對話流暢性，同時提供隱性反饋和針對特定形態句法結構的語言示範。此技巧對語法發展有效，並具有強大的隱性學習理論基礎。",
+    "target_population": "Children with grammatical delays, specific language impairment, autism spectrum disorder, or children learning complex sentence structures",
+    "activities": [
+      "Conversational recasting of grammatical errors",
+      "Expansion of telegraphic speech into complete sentences",
+      "Targeted recasts focusing on specific morphemes (past tense, plurals, pronouns)",
+      "Parent training in recast techniques for home use"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Extensive RCT and meta-analytic evidence demonstrating effectiveness for improving grammatical morpheme use, particularly for children with specific language impairment.",
+    "reference": "Cleave, P. L., Becker, S. D., Curran, M. K., Van Horne, A. J. O., & Fey, M. E. (2015). The efficacy of recasts in language intervention: A systematic review and meta-analysis. American Journal of Speech-Language Pathology, 24(2), 237-255. https://doi.org/10.1044/2015_AJSLP-14-0105"
+  },
+  {
+    "id": "reciprocal-scaffolding-treatment",
+    "name_en": "Reciprocal Scaffolding Treatment (RST)",
+    "name_zh": "相互支架治療法",
+    "domain": "language",
+    "age_groups": [
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "RST is a play-based language intervention where clinician and child take turns scaffolding each other's contributions during structured activities. The approach emphasizes reciprocal turn-taking, semantic elaboration, and syntactic complexity through collaborative storytelling and dramatic play. It systematically increases linguistic demands while maintaining child engagement.",
+    "description_zh": "相互支架治療法是以遊戲為基礎的語言介入法，治療師與兒童在結構化活動中輪流為彼此的貢獻提供支架。此方法強調相互輪流、語義擴展和句法複雜性，透過合作式故事講述和戲劇遊戲進行。在維持兒童參與的同時，系統性地增加語言要求。",
+    "target_population": "Preschool and school-age children with specific language impairment, developmental language disorder, or language delays",
+    "activities": [
+      "Collaborative story creation with alternating turns",
+      "Dramatic play scenarios with role scaffolding",
+      "Semantic mapping and vocabulary elaboration",
+      "Syntactic recasting and expansion during play"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Moderate evidence from quasi-experimental studies showing gains in narrative skills, syntactic complexity, and semantic diversity in children with language impairment.",
+    "reference": "Greenhalgh, K. S., & Strong, C. J. (2001). Literate language features in spoken narratives of children with typical language and children with language impairments. Language, Speech, and Hearing Services in Schools, 32(2), 114-125. https://doi.org/10.1044/0161-1461(2001/010)"
+  },
+  {
+    "id": "script-training",
+    "name_en": "Script Training",
+    "name_zh": "腳本訓練法",
+    "domain": "language",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Script training involves intensive practice of personally relevant conversational scripts or functional phrases to improve language production in individuals with aphasia or autism. Through repeated rehearsal, scripts become automatic, improving fluency and confidence in communication. Scripts are individualized to reflect real-life situations and communication needs, promoting functional generalization.",
+    "description_zh": "腳本訓練法涉及密集練習個人相關的對話腳本或功能性短語，以改善失語症或自閉症患者的語言表達。透過反復演練，腳本變得自動化，提高流暢性和溝通信心。腳本個別化以反映真實生活情境和溝通需求，促進功能性類化。",
+    "target_population": "Adults with aphasia, children and adults with autism spectrum disorder, or individuals with severe apraxia of speech",
+    "activities": [
+      "Personalized script development based on daily routines",
+      "Intensive repetition and rehearsal of scripted phrases",
+      "Video modeling and role-play practice",
+      "Gradual fading of cues and generalization to novel contexts"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong single-subject design evidence showing improved fluency, word retrieval, and functional communication in aphasia and ASD populations.",
+    "reference": "Goldberg, S., Haley, K. L., & Jacks, A. (2012). Script training and generalization for people with aphasia. American Journal of Speech-Language Pathology, 21(3), 222-238. https://doi.org/10.1044/1058-0360(2012/11-0056)"
+  },
+  {
+    "id": "semantic-feature-analysis",
+    "name_en": "Semantic Feature Analysis (SFA)",
+    "name_zh": "語義特徵分析法",
+    "domain": "language",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "SFA is a treatment for word-retrieval deficits (anomia) in aphasia that strengthens semantic networks by systematically analyzing semantic features of target words. Patients generate semantic attributes (category, use, properties, location, association) for pictures or words, facilitating word retrieval through spreading activation. SFA promotes generalization to untrained items within semantic categories.",
+    "description_zh": "語義特徵分析法是針對失語症詞彙提取缺陷（命名障礙）的治療，透過系統性分析目標詞彙的語義特徵來強化語義網絡。患者為圖片或詞彙生成語義屬性（類別、用途、特性、位置、聯想），透過擴散激活促進詞彙提取。SFA促進類化至語義類別內的未訓練項目。",
+    "target_population": "Adults with aphasia experiencing anomia (word-finding difficulties), particularly those with semantic processing deficits",
+    "activities": [
+      "Generating semantic features for target nouns (category, function, properties)",
+      "Completing semantic feature charts or diagrams",
+      "Comparing and contrasting semantically related items",
+      "Naming tasks following semantic feature generation"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong evidence from multiple RCTs and systematic reviews showing improved confrontation naming and generalization to untrained items in aphasia.",
+    "reference": "Boyle, M., & Coelho, C. A. (1995). Application of semantic feature analysis as a treatment for aphasic dysnomia. American Journal of Speech-Language Pathology, 4(4), 94-98. https://doi.org/10.1044/1058-0360.0404.94"
+  },
+  {
+    "id": "social-communication-intervention",
+    "name_en": "Social Communication Intervention (SCERTS)",
+    "name_zh": "社交溝通介入（SCERTS模型）",
+    "domain": "language",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "SCERTS (Social Communication, Emotional Regulation, Transactional Support) is a comprehensive framework for supporting children with autism in developing functional social communication. It addresses joint attention, symbol use, emotional regulation, and the supports needed across settings. SCERTS guides individualised goal-setting and collaborative team planning.",
+    "description_zh": "SCERTS（社交溝通、情緒調節、交互支持）是一個全面框架，支持自閉症兒童發展功能性社交溝通。它處理共同注意力、符號使用、情緒調節以及跨情境所需的支持。SCERTS指導個性化目標設定和協作團隊規劃。",
+    "target_population": "Children with autism spectrum disorder across developmental stages",
+    "activities": [
+      "Joint attention activities in play dyads",
+      "Symbol use through aided AAC during routines",
+      "Emotional regulation check-ins and visual supports"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Framework with supporting clinical evidence; systematic review evidence growing",
+    "reference": "Prizant, B. M., Wetherby, A. M., Rubin, E., Laurent, A. C., & Rydell, P. J. (2006). The SCERTS model: A comprehensive educational approach for children with autism spectrum disorders. Paul H. Brookes."
+  },
+  {
+    "id": "treatment-underlying-forms",
+    "name_en": "Treatment of Underlying Forms (TUF)",
+    "name_zh": "底層形式治療法",
+    "domain": "language",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "TUF is an agrammatism treatment approach for aphasia that targets complex sentence structures by training underlying syntactic forms. The approach is based on linguistic complexity hierarchy, training more complex structures (e.g., wh-questions, object relative clauses) to promote generalization to simpler related structures. TUF uses metalinguistic tasks and sentence production drills.",
+    "description_zh": "底層形式治療法是針對失語症語法缺失的治療方法，透過訓練底層句法形式來針對複雜句子結構。此方法基於語言複雜性層級，訓練更複雜的結構（如疑問句、受詞關係子句）以促進類化到較簡單的相關結構。TUF使用後設語言任務和句子生成練習。",
+    "target_population": "Adults with agrammatic aphasia (Broca's aphasia) who have impaired complex sentence production",
+    "activities": [
+      "Sentence completion and arrangement tasks",
+      "Wh-question generation and answering",
+      "Object-cleft and relative clause production",
+      "Metalinguistic training on syntactic structure"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple single-subject experimental designs and group studies showing improved production of trained and untrained sentence structures in agrammatic aphasia.",
+    "reference": "Thompson, C. K., & Shapiro, L. P. (2005). Treating agrammatic aphasia within a linguistic framework: Treatment of Underlying Forms. Aphasiology, 19(10-11), 1021-1036. https://doi.org/10.1080/02687030544000227"
+  },
+  {
     "id": "vocabulary-intervention",
     "name_en": "Vocabulary Intervention (Rich Vocabulary Instruction)",
     "name_zh": "詞匯介入（豐富詞匯教學）",
@@ -491,93 +981,6 @@
     "evidence_symbol": "★★★★☆",
     "evidence_basis": "Strong evidence from multiple RCTs in educational and clinical settings",
     "reference": "Beck, I. L., McKeown, M. G., & Kucan, L. (2013). Bringing words to life: Robust vocabulary instruction (2nd ed.). Guilford Press."
-  },
-  {
-    "id": "lee-silverman-voice",
-    "name_en": "Lee Silverman Voice Treatment (LSVT LOUD)",
-    "name_zh": "李爾文聲音治療（大聲說話治療）",
-    "domain": "voice",
-    "age_groups": [
-      "adult"
-    ],
-    "description_en": "LSVT LOUD is an intensive voice treatment for individuals with Parkinson's disease and other neurological conditions that targets increased vocal loudness as the primary therapeutic mechanism. Treatment is delivered in 16 sessions over 4 weeks with daily home practice. The high-effort phonatory tasks recalibrate the patient's perception of normal vocal effort.",
-    "description_zh": "李爾文聲音治療（LSVT LOUD）是針對帕金森病和其他神經系統疾病患者的密集語音治療，以增加聲音響度為主要治療機制。治療在4週內進行16次課程並每天在家練習。高強度發聲任務重新校準患者對正常聲音努力的感知。",
-    "target_population": "Adults with Parkinson's disease, other hypokinetic dysarthria, or neurological voice disorders",
-    "activities": [
-      "Maximum sustained phonation ('ahh' as loud and long as possible)",
-      "High effort pitch glides",
-      "Functional phrases at increased loudness with KR feedback"
-    ],
-    "evidence_stars": 5,
-    "evidence_symbol": "★★★★★",
-    "evidence_basis": "Multiple RCTs; one of the most evidence-based voice treatments available",
-    "reference": "Ramig, L. O., Sapir, S., Fox, C., & Countryman, S. (2001). Changes in vocal loudness following intensive voice treatment (LSVT) in individuals with Parkinson's disease: A comparison with untreated patients and normal age-matched controls. Movement Disorders, 16(1), 79–83. https://doi.org/10.1002/1531-8257(200101)16:1<79::AID-MDS1013>3.0.CO;2-H"
-  },
-  {
-    "id": "sovt-exercises",
-    "name_en": "Semi-Occluded Vocal Tract Exercises (SOVT)",
-    "name_zh": "半封閉聲道練習",
-    "domain": "voice",
-    "age_groups": [
-      "school_age",
-      "adult"
-    ],
-    "description_en": "SOVT exercises use partial occlusion of the vocal tract (straws, lip trills, humming) to reduce vocal fold collision forces and optimise phonation. The back pressure created by the occlusion improves the source-filter interaction and vocal efficiency. They are used for voice rehabilitation in hyperfunctional disorders, nodules, and post-surgical voice.",
-    "description_zh": "半封閉聲道練習使用部分封閉聲道（吸管、唇顫音、哼唱）來減少聲帶碰撞力並優化發聲。封閉產生的反向壓力改善了聲源-濾波器交互和發聲效率。用於功能亢進性障礙、聲帶小結和術後聲音的康復。",
-    "target_population": "School-age children and adults with hyperfunctional voice disorders, vocal nodules, or post-surgical voice",
-    "activities": [
-      "Straw phonation into water (varying resistance)",
-      "Lip trill phonation on pitch glides",
-      "Humming through narrow nasal passage"
-    ],
-    "evidence_stars": 4,
-    "evidence_symbol": "★★★★☆",
-    "evidence_basis": "Multiple RCTs and systematic reviews; strong theoretical backing from acoustic modelling",
-    "reference": "Titze, I. R. (2006). Voice training and therapy with a semi-occluded vocal tract: Rationale and scientific underpinnings. Journal of Speech, Language, and Hearing Research, 49(2), 448–459. https://doi.org/10.1044/1092-4388(2006/035)"
-  },
-  {
-    "id": "resonant-voice-therapy",
-    "name_en": "Resonant Voice Therapy",
-    "name_zh": "共鳴聲音治療法",
-    "domain": "voice",
-    "age_groups": [
-      "school_age",
-      "adult"
-    ],
-    "description_en": "Resonant voice therapy trains the patient to produce voice with the sensation of vibration in the facial bones (especially the nose and lips) while maintaining easy, minimal laryngeal effort. The approach uses a hierarchy from humming to words, phrases, and conversation. It is effective for both hyperfunctional voice disorders and voice professionals.",
-    "description_zh": "共鳴聲音治療訓練患者在保持輕鬆、最小喉部努力的同時，以面部骨骼（尤其是鼻子和嘴唇）振動感來發聲。此方法使用從哼唱到詞語、短語和對話的層次結構。對功能亢進性聲音障礙和聲音專業人士都有效。",
-    "target_population": "Adults and school-age children with hyperfunctional voice disorders, professional voice users",
-    "activities": [
-      "Nasal consonant-vowel chanting ('mum-mum-mum')",
-      "Front-focused humming with facial bone vibration awareness",
-      "Transfer of resonant quality to connected speech"
-    ],
-    "evidence_stars": 4,
-    "evidence_symbol": "★★★★☆",
-    "evidence_basis": "Multiple controlled studies and systematic reviews",
-    "reference": "Verdolini-Marston, K., Burke, M. K., Lessac, A., Glaze, L., & Caldwell, E. (1995). Preliminary study of two methods of treatment for laryngeal nodules. Journal of Voice, 9(1), 74–85. https://doi.org/10.1016/S0892-1997(05)80227-0"
-  },
-  {
-    "id": "vocal-function-exercises",
-    "name_en": "Vocal Function Exercises (VFE)",
-    "name_zh": "聲帶功能練習",
-    "domain": "voice",
-    "age_groups": [
-      "school_age",
-      "adult"
-    ],
-    "description_en": "Vocal Function Exercises are a structured voice exercise programme designed to strengthen and balance laryngeal musculature through a series of sustained phonations and pitch glides. The four exercises include a sustained /i/, a glide from low to high pitch, a glide from high to low pitch, and musical scale phonation. VFEs are used for both rehabilitation and voice maintenance.",
-    "description_zh": "聲帶功能練習是一個結構化的聲音練習方案，通過一系列持續發聲和音高滑動來強化和平衡喉部肌肉組織。四個練習包括持續/i/音、從低到高音高滑動、從高到低音高滑動和音樂音階發聲。聲帶功能練習用於康復和聲音維護。",
-    "target_population": "Adults and school-age children with voice disorders; also used for voice maintenance in professional voice users",
-    "activities": [
-      "Sustained /i/ as long as possible on musical pitch",
-      "Glide from lowest to highest pitch on /o/",
-      "Musical scale on /o/ from low to high"
-    ],
-    "evidence_stars": 4,
-    "evidence_symbol": "★★★★☆",
-    "evidence_basis": "Multiple controlled studies; developed and researched by Stemple",
-    "reference": "Stemple, J. C., Lee, L., D'Amico, B., & Pickup, B. (1994). Efficacy of vocal function exercises as a method of improving voice production. Journal of Voice, 8(3), 271–278. https://doi.org/10.1016/S0892-1997(05)80299-3"
   },
   {
     "id": "accent-method",
@@ -602,6 +1005,51 @@
     "reference": "Kotby, M. N., El-Sady, S. R., Basiouny, S. E., Abou-Rass, Y. A., & Hegazi, M. A. (1991). Efficacy of the accent method of voice therapy. Journal of Voice, 5(4), 316–320. https://doi.org/10.1016/S0892-1997(05)80060-X"
   },
   {
+    "id": "accent-method-voice",
+    "name_en": "Accent Method (Voice Therapy)",
+    "name_zh": "音調法（聲音治療）",
+    "domain": "voice",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "The Accent Method is a holistic voice therapy approach that integrates rhythm, breathing, and voicing through accentuated abdominal-diaphragmatic breathing patterns. Originally developed in Europe, it uses rhythmic speech and singing exercises with emphasized stress patterns to improve respiratory-phonatory coordination, reduce laryngeal tension, and enhance vocal quality. The method emphasizes the connection between body, breath, and voice.",
+    "description_zh": "音調法是整體性聲音治療方法，透過強調的腹部橫膈膜呼吸模式整合節奏、呼吸和發聲。最初在歐洲開發，使用節奏性言語和歌唱練習，配合強調的重音模式，以改善呼吸-發聲協調、減少喉部緊張並提升聲音質量。此方法強調身體、呼吸和聲音之間的連結。",
+    "target_population": "Individuals with muscle tension dysphonia, vocal fatigue, spasmodic dysphonia, or professional voice users seeking improved vocal stamina and quality",
+    "activities": [
+      "Rhythmic breathing exercises with abdominal emphasis",
+      "Accentuated speech production with varying rhythmic patterns",
+      "Body movement coordinated with breath and voice",
+      "Musical scale exercises with rhythmic stress patterns"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Moderate evidence from European studies showing improvements in voice quality, respiratory function, and patient-reported outcomes; limited large-scale RCT evidence.",
+    "reference": "Kotby, M. N., El-Sady, S. R., Basiouny, S. E., Abou-Rass, Y. A., & Hegazi, M. A. (1991). Efficacy of the accent method of voice therapy. Journal of Voice, 5(4), 316-320. https://doi.org/10.1016/S0892-1997(05)80060-8"
+  },
+  {
+    "id": "casper-stone-confidential-voice",
+    "name_en": "Casper-Stone Confidential Voice Therapy",
+    "name_zh": "保護性低語法（卡斯帕-斯通方案）",
+    "domain": "voice",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "Confidential Voice Therapy uses soft, breathy phonation (speaking as if sharing a secret) to reduce vocal fold contact and decrease phonotrauma during healing. Developed by Casper and Stone, this approach is particularly useful for vocal fold lesions or acute vocal injury. The gentle voicing pattern minimizes mechanical stress on the vocal folds while maintaining communication, serving as a transition between voice rest and normal phonation.",
+    "description_zh": "保護性低語法使用柔和、氣息式發聲（如分享秘密般說話）來減少聲帶接觸並在癒合期間減少聲帶創傷。由卡斯帕和斯通開發，此方法對聲帶病變或急性聲帶損傷特別有用。溫和的發聲模式將聲帶機械壓力降至最低，同時維持溝通，作為聲音休息與正常發聲之間的過渡。",
+    "target_population": "Individuals with acute vocal fold injury, vocal nodules, polyps, hemorrhage, or post-surgical voice rehabilitation",
+    "activities": [
+      "Soft, breathy phonation exercises at low volume",
+      "Confidential voice production in conversational contexts",
+      "Gradual transition from breathy to normal voice quality",
+      "Self-monitoring of vocal intensity and effort"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Clinical case series and expert consensus supporting use for vocal fold lesions and acute injury; limited controlled trial evidence but widely accepted in clinical practice.",
+    "reference": "Colton, R. H., & Casper, J. K. (1996). Understanding voice problems: A physiological perspective for diagnosis and treatment (2nd ed.). Williams & Wilkins."
+  },
+  {
     "id": "confidential-voice",
     "name_en": "Confidential Voice Therapy",
     "name_zh": "低語式聲音治療法",
@@ -624,46 +1072,249 @@
     "reference": "Verdolini, K., & Ramig, L. O. (2001). Review: Occupational risks for voice problems. Logopedics Phoniatrics Vocology, 26(1), 37–46. https://doi.org/10.1080/14015430119969"
   },
   {
-    "id": "mcneill-dysphagia",
-    "name_en": "McNeill Dysphagia Therapy Programme (MDTP)",
-    "name_zh": "麥克尼爾吞咽障礙治療方案",
-    "domain": "swallowing",
+    "id": "lee-silverman-voice",
+    "name_en": "Lee Silverman Voice Treatment (LSVT LOUD)",
+    "name_zh": "李爾文聲音治療（大聲說話治療）",
+    "domain": "voice",
     "age_groups": [
       "adult"
     ],
-    "description_en": "MDTP is an exercise-based dysphagia rehabilitation programme that uses progressive resistance swallowing exercises to strengthen swallowing musculature. The programme follows principles of exercise science including overload, specificity, and progressive resistance. It is particularly effective for patients with head and neck cancer and neurogenic dysphagia.",
-    "description_zh": "麥克尼爾吞咽障礙治療方案是一個基於運動的吞咽障礙康復計劃，使用漸進阻力吞咽練習來強化吞咽肌肉組織。該計劃遵循運動科學原則，包括超負荷、特異性和漸進阻力。對頭頸部癌症和神經性吞咽障礙患者特別有效。",
-    "target_population": "Adults with neurogenic or structural dysphagia, particularly post-head and neck cancer treatment",
+    "description_en": "LSVT LOUD is an intensive voice treatment for individuals with Parkinson's disease and other neurological conditions that targets increased vocal loudness as the primary therapeutic mechanism. Treatment is delivered in 16 sessions over 4 weeks with daily home practice. The high-effort phonatory tasks recalibrate the patient's perception of normal vocal effort.",
+    "description_zh": "李爾文聲音治療（LSVT LOUD）是針對帕金森病和其他神經系統疾病患者的密集語音治療，以增加聲音響度為主要治療機制。治療在4週內進行16次課程並每天在家練習。高強度發聲任務重新校準患者對正常聲音努力的感知。",
+    "target_population": "Adults with Parkinson's disease, other hypokinetic dysarthria, or neurological voice disorders",
     "activities": [
-      "Progressive resistance swallowing with varied bolus sizes",
-      "Effortful swallow exercise sets",
-      "Hyoid and laryngeal range of motion exercises"
+      "Maximum sustained phonation ('ahh' as loud and long as possible)",
+      "High effort pitch glides",
+      "Functional phrases at increased loudness with KR feedback"
     ],
-    "evidence_stars": 4,
-    "evidence_symbol": "★★★★☆",
-    "evidence_basis": "Multiple RCTs; strong exercise science theoretical basis",
-    "reference": "Carnaby-Mann, G., & Crary, M. A. (2010). McNeill dysphagia therapy program: A case-control study. Archives of Physical Medicine and Rehabilitation, 91(5), 743–749. https://doi.org/10.1016/j.apmr.2010.01.013"
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Multiple RCTs; one of the most evidence-based voice treatments available",
+    "reference": "Ramig, L. O., Sapir, S., Fox, C., & Countryman, S. (2001). Changes in vocal loudness following intensive voice treatment (LSVT) in individuals with Parkinson's disease: A comparison with untreated patients and normal age-matched controls. Movement Disorders, 16(1), 79–83. https://doi.org/10.1002/1531-8257(200101)16:1<79::AID-MDS1013>3.0.CO;2-H"
   },
   {
-    "id": "shaker-exercise",
-    "name_en": "Shaker Exercise (Head Lift Exercise)",
-    "name_zh": "謝克抬頭練習",
+    "id": "manual-circumlaryngeal-therapy",
+    "name_en": "Manual Circumlaryngeal Therapy (Aronson/Mathieson)",
+    "name_zh": "喉部手法治療（艾朗森/馬修森方案）",
+    "domain": "voice",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "Manual Circumlaryngeal Therapy involves external manual manipulation of the larynx and perilaryngeal muscles to reduce muscle tension and reposition the larynx for optimal voice production. The clinician applies gentle digital pressure to the hyoid bone, thyroid cartilage, and surrounding musculature to release tension and lower laryngeal position. This hands-on technique is effective for reducing hyperfunctional voice patterns.",
+    "description_zh": "喉部手法治療涉及喉部和喉周肌肉的外部手動操作，以減少肌肉緊張並重新定位喉部以達到最佳發聲。治療師對舌骨、甲狀軟骨和周圍肌肉施加輕柔的數字壓力，以釋放緊張並降低喉部位置。此手法技術對減少過度功能性發聲模式有效。",
+    "target_population": "Adults with muscle tension dysphonia, functional dysphonia, or chronic laryngeal tension resulting in voice disorders",
+    "activities": [
+      "Manual palpation and assessment of laryngeal position and tension",
+      "Digital manipulation of hyoid bone and thyroid cartilage",
+      "Gentle massage of extrinsic laryngeal muscles",
+      "Phonation during and after manual therapy to establish new patterns"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong clinical evidence from multiple studies showing immediate and sustained improvements in voice quality and reduction in laryngeal tension for muscle tension dysphonia.",
+    "reference": "Mathieson, L., Hirani, S. P., Epstein, R., Baken, R. J., Wood, G., & Rubin, J. S. (2009). Laryngeal manual therapy: A preliminary study to examine its treatment effects in the management of muscle tension dysphonia. Journal of Voice, 23(3), 353-366. https://doi.org/10.1016/j.jvoice.2007.10.002"
+  },
+  {
+    "id": "resonant-voice-therapy",
+    "name_en": "Resonant Voice Therapy",
+    "name_zh": "共鳴聲音治療法",
+    "domain": "voice",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Resonant voice therapy trains the patient to produce voice with the sensation of vibration in the facial bones (especially the nose and lips) while maintaining easy, minimal laryngeal effort. The approach uses a hierarchy from humming to words, phrases, and conversation. It is effective for both hyperfunctional voice disorders and voice professionals.",
+    "description_zh": "共鳴聲音治療訓練患者在保持輕鬆、最小喉部努力的同時，以面部骨骼（尤其是鼻子和嘴唇）振動感來發聲。此方法使用從哼唱到詞語、短語和對話的層次結構。對功能亢進性聲音障礙和聲音專業人士都有效。",
+    "target_population": "Adults and school-age children with hyperfunctional voice disorders, professional voice users",
+    "activities": [
+      "Nasal consonant-vowel chanting ('mum-mum-mum')",
+      "Front-focused humming with facial bone vibration awareness",
+      "Transfer of resonant quality to connected speech"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple controlled studies and systematic reviews",
+    "reference": "Verdolini-Marston, K., Burke, M. K., Lessac, A., Glaze, L., & Caldwell, E. (1995). Preliminary study of two methods of treatment for laryngeal nodules. Journal of Voice, 9(1), 74–85. https://doi.org/10.1016/S0892-1997(05)80227-0"
+  },
+  {
+    "id": "resonant-voice-therapy-verdolini",
+    "name_en": "Resonant Voice Therapy (Verdolini)",
+    "name_zh": "共鳴聲音治療法（維朵里尼方案）",
+    "domain": "voice",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Resonant Voice Therapy, developed by Verdolini, focuses on achieving voice production with maximal sound output and minimal laryngeal effort through optimal vocal tract resonance. The approach emphasizes forward focus of voice, easy onset, and balanced oral-nasal resonance using techniques like humming, nasal consonants, and kinesthetic awareness. RVT reduces phonotrauma and improves vocal efficiency.",
+    "description_zh": "共鳴聲音治療法由維朵里尼開發，專注於透過最佳聲道共鳴達到最大聲音輸出和最小喉部用力的發聲。此方法強調聲音的前焦點、輕鬆起始和平衡的口鼻共鳴，使用哼唱、鼻音輔音和動覺意識等技巧。RVT減少聲帶創傷並改善發聲效率。",
+    "target_population": "Individuals with vocal nodules, polyps, muscle tension dysphonia, or voice disorders related to vocal hyperfunction and inefficient voice use",
+    "activities": [
+      "Humming exercises with forward focus",
+      "Nasal consonant (/m/, /n/) phonation drills",
+      "Kinesthetic monitoring of facial vibration (mask resonance)",
+      "Easy onset exercises and pitch exploration"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Strong RCT evidence showing significant reductions in phonatory effort, improvements in vocal quality, and decreased vocal fold lesions compared to other voice therapy approaches.",
+    "reference": "Verdolini, K., Druker, D. G., Palmer, P. M., & Samawi, H. (1998). Laryngeal adduction in resonant voice. Journal of Voice, 12(3), 315-327. https://doi.org/10.1016/S0892-1997(98)80021-0"
+  },
+  {
+    "id": "sovt-exercises",
+    "name_en": "Semi-Occluded Vocal Tract Exercises (SOVT)",
+    "name_zh": "半封閉聲道練習",
+    "domain": "voice",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "SOVT exercises use partial occlusion of the vocal tract (straws, lip trills, humming) to reduce vocal fold collision forces and optimise phonation. The back pressure created by the occlusion improves the source-filter interaction and vocal efficiency. They are used for voice rehabilitation in hyperfunctional disorders, nodules, and post-surgical voice.",
+    "description_zh": "半封閉聲道練習使用部分封閉聲道（吸管、唇顫音、哼唱）來減少聲帶碰撞力並優化發聲。封閉產生的反向壓力改善了聲源-濾波器交互和發聲效率。用於功能亢進性障礙、聲帶小結和術後聲音的康復。",
+    "target_population": "School-age children and adults with hyperfunctional voice disorders, vocal nodules, or post-surgical voice",
+    "activities": [
+      "Straw phonation into water (varying resistance)",
+      "Lip trill phonation on pitch glides",
+      "Humming through narrow nasal passage"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs and systematic reviews; strong theoretical backing from acoustic modelling",
+    "reference": "Titze, I. R. (2006). Voice training and therapy with a semi-occluded vocal tract: Rationale and scientific underpinnings. Journal of Speech, Language, and Hearing Research, 49(2), 448–459. https://doi.org/10.1044/1092-4388(2006/035)"
+  },
+  {
+    "id": "transgender-voice-therapy",
+    "name_en": "Transgender Voice Therapy (Feminisation/Masculinisation)",
+    "name_zh": "跨性別聲音治療（女性化/男性化）",
+    "domain": "voice",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "Transgender voice therapy helps individuals modify vocal characteristics to align with their gender identity. Feminisation focuses on increasing fundamental frequency, resonance modification, intonation patterns, and communication style. Masculinisation (less common due to testosterone effects) addresses resonance, articulation, and communication patterns. The approach is holistic, addressing vocal parameters, nonverbal communication, and gender expression.",
+    "description_zh": "跨性別聲音治療幫助個人修改聲音特徵以符合其性別認同。女性化專注於提高基本頻率、共鳴修改、語調模式和溝通風格。男性化（因睪固酮效應較少見）處理共鳴、發音和溝通模式。此方法是整體性的，處理聲音參數、非語言溝通和性別表達。",
+    "target_population": "Transgender and gender-diverse individuals seeking voice modification to align with gender identity (transfeminine or transmasculine)",
+    "activities": [
+      "Pitch elevation exercises and optimal pitch identification (feminisation)",
+      "Resonance modification (oral vs pharyngeal resonance)",
+      "Intonation pattern training and prosody modification",
+      "Communication style, language use, and nonverbal behavior training"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Growing evidence base including controlled studies showing significant improvements in acoustic measures, voice satisfaction, and quality of life for transgender individuals.",
+    "reference": "Hancock, A. B., Krissinger, J., & Owen, K. (2011). Voice perceptions and quality of life of transgender people. Journal of Voice, 25(5), 553-558. https://doi.org/10.1016/j.jvoice.2010.07.013"
+  },
+  {
+    "id": "vocal-function-exercises-stemple",
+    "name_en": "Vocal Function Exercises (Stemple)",
+    "name_zh": "聲帶功能練習法（史坦普方案）",
+    "domain": "voice",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Vocal Function Exercises (VFE) is a systematic voice therapy program consisting of four specific exercises designed to strengthen and balance the laryngeal musculature. Developed by Stemple, the exercises involve sustained phonation, pitch glides, and controlled loudness tasks performed twice daily. VFE improves vocal fold adduction, respiratory support, and overall vocal efficiency through physiologic strengthening.",
+    "description_zh": "聲帶功能練習法是系統性聲音治療方案，包含四個特定練習，旨在強化和平衡喉部肌肉。由史坦普開發，練習包括持續發聲、音高滑動和控制音量任務，每天進行兩次。VFE透過生理強化改善聲帶內收、呼吸支持和整體發聲效率。",
+    "target_population": "Individuals with muscle tension dysphonia, vocal fatigue, presbyphonia (aging voice), or those seeking vocal conditioning and strengthening",
+    "activities": [
+      "Sustained /i/ phonation with maximum duration",
+      "Pitch glides from lowest to highest comfortable pitch",
+      "Sustained phonation with loudness variation",
+      "Musical fifth pitch glides on sustained vowels"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Extensive RCT evidence and systematic reviews demonstrating significant improvements in vocal quality, endurance, and phonatory function across multiple voice disorder populations.",
+    "reference": "Stemple, J. C., Lee, L., D'Amico, B., & Pickup, B. (1994). Efficacy of vocal function exercises as a method of improving voice production. Journal of Voice, 8(3), 271-278. https://doi.org/10.1016/S0892-1997(05)80299-1"
+  },
+  {
+    "id": "vocal-function-exercises",
+    "name_en": "Vocal Function Exercises (VFE)",
+    "name_zh": "聲帶功能練習",
+    "domain": "voice",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "Vocal Function Exercises are a structured voice exercise programme designed to strengthen and balance laryngeal musculature through a series of sustained phonations and pitch glides. The four exercises include a sustained /i/, a glide from low to high pitch, a glide from high to low pitch, and musical scale phonation. VFEs are used for both rehabilitation and voice maintenance.",
+    "description_zh": "聲帶功能練習是一個結構化的聲音練習方案，通過一系列持續發聲和音高滑動來強化和平衡喉部肌肉組織。四個練習包括持續/i/音、從低到高音高滑動、從高到低音高滑動和音樂音階發聲。聲帶功能練習用於康復和聲音維護。",
+    "target_population": "Adults and school-age children with voice disorders; also used for voice maintenance in professional voice users",
+    "activities": [
+      "Sustained /i/ as long as possible on musical pitch",
+      "Glide from lowest to highest pitch on /o/",
+      "Musical scale on /o/ from low to high"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple controlled studies; developed and researched by Stemple",
+    "reference": "Stemple, J. C., Lee, L., D'Amico, B., & Pickup, B. (1994). Efficacy of vocal function exercises as a method of improving voice production. Journal of Voice, 8(3), 271–278. https://doi.org/10.1016/S0892-1997(05)80299-3"
+  },
+  {
+    "id": "chin-tuck-against-resistance",
+    "name_en": "Chin Tuck Against Resistance (CTAR)",
+    "name_zh": "頸部前屈抗阻練習",
     "domain": "swallowing",
     "age_groups": [
       "adult"
     ],
-    "description_en": "The Shaker exercise strengthens the suprahyoid musculature to improve opening of the upper oesophageal sphincter during swallowing. The exercise involves sustained and repetitive head lifts while lying supine. It has been shown to reduce aspiration and improve UES opening in patients with dysphagia following stroke and other neurological conditions.",
-    "description_zh": "謝克練習強化舌骨上肌群以改善吞咽時上食道括約肌的開放。練習涉及仰臥位的持續和重複性抬頭動作。已被證明可減少誤吸並改善中風和其他神經系統疾病後吞咽障礙患者的上食道括約肌開放。",
-    "target_population": "Adults with dysphagia due to reduced UES opening, particularly post-stroke",
+    "description_en": "CTAR strengthens the suprahyoid muscles by having the patient perform chin tucks against a resistance ball held between the chin and sternum. This exercise has been proposed as a more comfortable and accessible alternative to the Shaker head lift exercise. Studies have shown similar effects on suprahyoid muscle strength and hyolaryngeal excursion.",
+    "description_zh": "頸部前屈抗阻練習通過讓患者將下巴對著夾在下巴和胸骨之間的阻力球進行頸部前屈來強化舌骨上肌肉。此練習被提議為謝克抬頭練習更舒適且更易獲得的替代方案。研究表明對舌骨上肌肉力量和喉舌骨活動度有相似效果。",
+    "target_population": "Adults with dysphagia due to reduced suprahyoid muscle strength",
     "activities": [
-      "Sustained head lift (60 seconds) in supine position",
-      "Repetitive head lifts (30 repetitions) in supine",
-      "Home practice programme three times daily"
+      "Sustained CTAR (30 seconds) against rubber ball",
+      "Repetitive CTAR (30 reps) against rubber ball",
+      "Progressive resistance increase as strength improves"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Multiple controlled studies; comparable to Shaker exercise",
+    "reference": "Yoon, W. L., Khoo, J. K., & Rickard Liow, S. J. (2014). Chin tuck against resistance (CTAR): New method for enhancing suprahyoid muscle activity using a Shaker-inspired exercise. Dysphagia, 29(2), 243–248. https://doi.org/10.1007/s00455-013-9494-8"
+  },
+  {
+    "id": "iddsi-texture-modification",
+    "name_en": "Diet Texture Modification (IDDSI Framework)",
+    "name_zh": "飲食質感調整（IDDSI框架）",
+    "domain": "swallowing",
+    "age_groups": [
+      "infant",
+      "toddler",
+      "preschool",
+      "school_age",
+      "adult"
+    ],
+    "description_en": "The International Dysphagia Diet Standardisation Initiative (IDDSI) provides a global standardized framework for describing texture-modified foods and thickened liquids. Uses evidence-based levels (0-7) to ensure safe and consistent diet recommendations across settings.",
+    "description_zh": "國際吞嚥障礙飲食標準化倡議（IDDSI）提供全球標準化框架，描述質感調整食物和增稠液體。使用實證為本的等級（0-7），確保跨環境的安全一致飲食建議。",
+    "target_population": "Individuals with dysphagia requiring modified food textures or liquid consistency",
+    "activities": [
+      "Assess swallowing ability and determine appropriate IDDSI level",
+      "Educate caregivers on IDDSI testing methods (fork drip test, spoon tilt test)",
+      "Monitor tolerance and adjust texture levels as swallowing improves"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "International consensus framework with extensive validation and global adoption",
+    "reference": "Cichero, J. A., Lam, P., Steele, C. M., Hanson, B., Chen, J., Dantas, R. O., ... & Pillay, M. (2017). Development of international terminology and definitions for texture-modified foods and thickened fluids used in dysphagia management: The IDDSI framework. Dysphagia, 32(2), 293-314. https://doi.org/10.1007/s00455-016-9758-y"
+  },
+  {
+    "id": "effortful-swallow",
+    "name_en": "Effortful Swallow",
+    "name_zh": "用力吞嚥法",
+    "domain": "swallowing",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "A compensatory technique that increases posterior tongue base retraction and pharyngeal pressure during swallowing. Patients are instructed to squeeze hard with all swallowing muscles to improve bolus clearance and reduce pharyngeal residue.",
+    "description_zh": "一種代償技術，增加吞嚥時舌根後縮和咽部壓力。指導患者用力收縮所有吞嚥肌肉，以改善食團清除並減少咽部殘留。",
+    "target_population": "Reduced tongue base retraction, pharyngeal residue, weak pharyngeal contraction",
+    "activities": [
+      "Instruct patient to swallow as hard as possible",
+      "Squeeze all muscles in throat and mouth during swallow",
+      "Practice with saliva first, then progress to food/liquid"
     ],
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
-    "evidence_basis": "RCT by Shaker et al.; replicated in multiple studies",
-    "reference": "Shaker, R., Easterling, C., Kern, M., Nitschke, T., Massey, B., Daniels, S., Grande, B., Kazandjian, M., & Dikeman, K. (2002). Rehabilitation of swallowing by exercise in tube-fed patients with pharyngeal dysphagia secondary to abnormal UES opening. Gastroenterology, 122(5), 1314–1321. https://doi.org/10.1053/gast.2002.32999"
+    "evidence_basis": "Evidence supports increased pharyngeal pressures and tongue base movement",
+    "reference": "Hind, J. A., Nicosia, M. A., Roecker, E. B., Carnes, M. L., & Robbins, J. (2001). Comparison of effortful and noneffortful swallows in healthy middle-aged and older adults. Archives of Physical Medicine and Rehabilitation, 82(12), 1661-1665. https://doi.org/10.1053/apmr.2001.28006"
   },
   {
     "id": "expiratory-muscle-strength-training",
@@ -685,6 +1336,49 @@
     "evidence_symbol": "★★★★☆",
     "evidence_basis": "Multiple RCTs; strong evidence for Parkinson's population",
     "reference": "Troche, M. S., Okun, M. S., Rosenbek, J. C., Musson, N., Fernandez, H. H., Rodriguez, R., Romrell, J., Pitts, T., Wheeler-Hegland, K. M., & Sapienza, C. M. (2010). Aspiration and swallowing in Parkinson disease and rehabilitation with EMST. Neurology, 75(21), 1912–1919. https://doi.org/10.1212/WNL.0b013e3181fef877"
+  },
+  {
+    "id": "masako-maneuver",
+    "name_en": "Masako Maneuver (Tongue-Hold Swallow)",
+    "name_zh": "正子吞嚥法（舌持法）",
+    "domain": "swallowing",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "An exercise designed to strengthen pharyngeal wall muscles by having the patient hold their tongue between their teeth while swallowing. This prevents tongue base retraction and increases the workload on the pharyngeal constrictors.",
+    "description_zh": "通過讓患者在吞嚥時將舌頭置於牙齒之間，以強化咽壁肌肉的運動。這防止舌根後縮，增加咽收縮肌的工作負荷。",
+    "target_population": "Reduced pharyngeal wall movement, pharyngeal residue in valleculae or pyriform sinuses",
+    "activities": [
+      "Hold tongue gently between front teeth",
+      "Attempt to swallow saliva while maintaining tongue position",
+      "Complete 10 repetitions, 3 times daily (exercise only, not for food/liquid)"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Evidence shows increased pharyngeal wall activation; limited evidence for functional outcomes",
+    "reference": "Fujiu, M., & Logemann, J. A. (1996). Effect of a tongue-holding maneuver on posterior pharyngeal wall movement during deglutition. American Journal of Speech-Language Pathology, 5(1), 23-30. https://doi.org/10.1044/1058-0360.0501.23"
+  },
+  {
+    "id": "mcneill-dysphagia",
+    "name_en": "McNeill Dysphagia Therapy Programme (MDTP)",
+    "name_zh": "麥克尼爾吞咽障礙治療方案",
+    "domain": "swallowing",
+    "age_groups": [
+      "adult"
+    ],
+    "description_en": "MDTP is an exercise-based dysphagia rehabilitation programme that uses progressive resistance swallowing exercises to strengthen swallowing musculature. The programme follows principles of exercise science including overload, specificity, and progressive resistance. It is particularly effective for patients with head and neck cancer and neurogenic dysphagia.",
+    "description_zh": "麥克尼爾吞咽障礙治療方案是一個基於運動的吞咽障礙康復計劃，使用漸進阻力吞咽練習來強化吞咽肌肉組織。該計劃遵循運動科學原則，包括超負荷、特異性和漸進阻力。對頭頸部癌症和神經性吞咽障礙患者特別有效。",
+    "target_population": "Adults with neurogenic or structural dysphagia, particularly post-head and neck cancer treatment",
+    "activities": [
+      "Progressive resistance swallowing with varied bolus sizes",
+      "Effortful swallow exercise sets",
+      "Hyoid and laryngeal range of motion exercises"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Multiple RCTs; strong exercise science theoretical basis",
+    "reference": "Carnaby-Mann, G., & Crary, M. A. (2010). McNeill dysphagia therapy program: A case-control study. Archives of Physical Medicine and Rehabilitation, 91(5), 743–749. https://doi.org/10.1016/j.apmr.2010.01.013"
   },
   {
     "id": "mendelsohn-maneuver",
@@ -729,71 +1423,186 @@
     "reference": "Humbert, I. A., Michou, E., MacRae, P. R., & Crujido, L. (2012). Electrical stimulation and swallowing: How much do we know? Seminars in Speech and Language, 33(3), 203–216. https://doi.org/10.1055/s-0032-1320040"
   },
   {
-    "id": "chin-tuck-against-resistance",
-    "name_en": "Chin Tuck Against Resistance (CTAR)",
-    "name_zh": "頸部前屈抗阻練習",
+    "id": "pharyngeal-strengthening",
+    "name_en": "Pharyngeal Strengthening Exercises",
+    "name_zh": "咽部強化訓練",
+    "domain": "swallowing",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "A series of exercises targeting pharyngeal musculature to improve swallow strength and coordination. Includes resistance exercises, isometric holds, and functional swallowing tasks designed to enhance pharyngeal constriction and bolus clearance.",
+    "description_zh": "針對咽部肌肉組織的系列訓練，改善吞嚥力量和協調性。包括阻力訓練、等長收縮及功能性吞嚥任務，旨在增強咽部收縮和食團清除能力。",
+    "target_population": "Pharyngeal weakness, reduced pharyngeal constriction, post-radiation therapy",
+    "activities": [
+      "Gargle exercises with sustained vocalization",
+      "Yawn and hold to stretch pharyngeal muscles",
+      "Progressive resistance swallowing with varied bolus sizes"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Emerging evidence for pharyngeal strengthening protocols; more research needed",
+    "reference": "Shaker, R., Easterling, C., Kern, M., Nitschke, T., Massey, B., Daniels, S., ... & Dikeman, K. (2002). Rehabilitation of swallowing by exercise in tube-fed patients with pharyngeal dysphagia secondary to abnormal UES opening. Gastroenterology, 122(5), 1314-1321. https://doi.org/10.1053/gast.2002.32999"
+  },
+  {
+    "id": "shaker-exercise",
+    "name_en": "Shaker Exercise (Head Lift Exercise)",
+    "name_zh": "謝克抬頭練習",
     "domain": "swallowing",
     "age_groups": [
       "adult"
     ],
-    "description_en": "CTAR strengthens the suprahyoid muscles by having the patient perform chin tucks against a resistance ball held between the chin and sternum. This exercise has been proposed as a more comfortable and accessible alternative to the Shaker head lift exercise. Studies have shown similar effects on suprahyoid muscle strength and hyolaryngeal excursion.",
-    "description_zh": "頸部前屈抗阻練習通過讓患者將下巴對著夾在下巴和胸骨之間的阻力球進行頸部前屈來強化舌骨上肌肉。此練習被提議為謝克抬頭練習更舒適且更易獲得的替代方案。研究表明對舌骨上肌肉力量和喉舌骨活動度有相似效果。",
-    "target_population": "Adults with dysphagia due to reduced suprahyoid muscle strength",
+    "description_en": "The Shaker exercise strengthens the suprahyoid musculature to improve opening of the upper oesophageal sphincter during swallowing. The exercise involves sustained and repetitive head lifts while lying supine. It has been shown to reduce aspiration and improve UES opening in patients with dysphagia following stroke and other neurological conditions.",
+    "description_zh": "謝克練習強化舌骨上肌群以改善吞咽時上食道括約肌的開放。練習涉及仰臥位的持續和重複性抬頭動作。已被證明可減少誤吸並改善中風和其他神經系統疾病後吞咽障礙患者的上食道括約肌開放。",
+    "target_population": "Adults with dysphagia due to reduced UES opening, particularly post-stroke",
     "activities": [
-      "Sustained CTAR (30 seconds) against rubber ball",
-      "Repetitive CTAR (30 reps) against rubber ball",
-      "Progressive resistance increase as strength improves"
+      "Sustained head lift (60 seconds) in supine position",
+      "Repetitive head lifts (30 repetitions) in supine",
+      "Home practice programme three times daily"
     ],
-    "evidence_stars": 3,
-    "evidence_symbol": "★★★☆☆",
-    "evidence_basis": "Multiple controlled studies; comparable to Shaker exercise",
-    "reference": "Yoon, W. L., Khoo, J. K., & Rickard Liow, S. J. (2014). Chin tuck against resistance (CTAR): New method for enhancing suprahyoid muscle activity using a Shaker-inspired exercise. Dysphagia, 29(2), 243–248. https://doi.org/10.1007/s00455-013-9494-8"
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "RCT by Shaker et al.; replicated in multiple studies",
+    "reference": "Shaker, R., Easterling, C., Kern, M., Nitschke, T., Massey, B., Daniels, S., Grande, B., Kazandjian, M., & Dikeman, K. (2002). Rehabilitation of swallowing by exercise in tube-fed patients with pharyngeal dysphagia secondary to abnormal UES opening. Gastroenterology, 122(5), 1314–1321. https://doi.org/10.1053/gast.2002.32999"
   },
   {
-    "id": "sequential-oral-sensory",
-    "name_en": "Sequential Oral Sensory Approach (SOS)",
-    "name_zh": "序列口腔感覺進食法",
-    "domain": "feeding",
+    "id": "supraglottic-swallow",
+    "name_en": "Supraglottic Swallow Maneuver",
+    "name_zh": "聲門上吞嚥法",
+    "domain": "swallowing",
+    "age_groups": [
+      "school_age",
+      "adult"
+    ],
+    "description_en": "A voluntary swallow technique designed to close the vocal folds before and during the swallow to prevent aspiration. The patient holds their breath, swallows, then coughs immediately after to clear any residue from the laryngeal vestibule.",
+    "description_zh": "一種自主吞嚥技術，旨在吞嚥前後閉合聲帶以防止誤吸。患者屏住呼吸、吞嚥，然後立即咳嗽以清除喉前庭殘留物。",
+    "target_population": "Individuals with reduced airway closure, risk of aspiration during the swallow",
+    "activities": [
+      "Inhale and hold breath tightly",
+      "Swallow while continuing to hold breath",
+      "Cough immediately after swallowing to clear airway"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Well-established technique with evidence for reducing aspiration in specific populations",
+    "reference": "Martin, B. J., Logemann, J. A., Shaker, R., & Dodds, W. J. (1993). Normal laryngeal valving patterns during three breath-hold maneuvers: A pilot investigation. Dysphagia, 8(1), 11-20. https://doi.org/10.1007/BF01351472"
+  },
+  {
+    "id": "thermal-tactile-application",
+    "name_en": "Thermal-Tactile Application (TTA)",
+    "name_zh": "冷熱觸覺刺激法",
+    "domain": "swallowing",
     "age_groups": [
       "infant",
       "toddler",
       "preschool",
-      "school_age"
+      "school_age",
+      "adult"
     ],
-    "description_en": "The SOS Approach to Feeding is a transdisciplinary programme that addresses the full range of reasons why children have feeding difficulties, from sensory to motor to behavioural factors. Intervention follows a systematic hierarchy of steps from tolerating food in the room to eating it. It uses a play-based, child-led approach to reduce anxiety and expand food repertoire.",
-    "description_zh": "序列口腔感覺進食法是一個跨學科計劃，解決兒童進食困難的全部原因，從感覺到運動再到行為因素。介入遵循從容忍食物在房間裡到進食的系統性步驟層次。使用以遊戲為基礎、以兒童為主導的方法來減少焦慮並擴大食物種類。",
-    "target_population": "Infants and children with feeding disorders, food selectivity, sensory-based feeding difficulties",
+    "description_en": "A technique using thermal and tactile stimulation to increase oral and pharyngeal awareness prior to swallowing. Involves applying a cold stimulus to the anterior faucial arches to heighten sensory awareness and trigger the swallow reflex more efficiently.",
+    "description_zh": "利用冷熱與觸覺刺激提升口腔及咽部感知，促進吞嚥反射的技術。通過對前咽弓施加冷刺激，增強感覺意識並更有效地觸發吞嚥反射。",
+    "target_population": "Individuals with delayed or absent swallow reflex, reduced oral-pharyngeal sensitivity",
     "activities": [
-      "Food play hierarchy (tolerate → interact → smell → touch → taste)",
-      "Structured mealtime routine with preferred and non-preferred foods",
-      "Sensory desensitisation activities outside mealtime"
+      "Apply cold laryngeal mirror to anterior faucial arches",
+      "Present small bolus immediately after stimulation",
+      "Repeat stimulation 5-10 times before each meal"
     ],
     "evidence_stars": 3,
     "evidence_symbol": "★★★☆☆",
-    "evidence_basis": "Clinical and case study evidence; widely used; RCT evidence emerging",
-    "reference": "Toomey, K. A., & Ross, E. S. (2011). SOS approach to feeding. Perspectives on Swallowing and Swallowing Disorders, 20(3), 82–87. https://doi.org/10.1044/sasd20.3.82"
+    "evidence_basis": "Mixed evidence; some studies show reduced swallow delay, others show limited carryover effects",
+    "reference": "Rosenbek, J. C., Robbins, J. A., Roecker, E. B., Coyle, J. L., & Wood, J. L. (1996). A penetration-aspiration scale. Dysphagia, 11(2), 93-98. https://doi.org/10.1007/BF00417897"
   },
   {
-    "id": "get-permission-approach",
-    "name_en": "Get Permission Approach (Chatoor)",
-    "name_zh": "獲得許可進食法（查圖爾）",
+    "id": "tongue-pressure-training-iowa",
+    "name_en": "Tongue Pressure Training (Iowa Oral Performance Instrument)",
+    "name_zh": "舌壓訓練法",
+    "domain": "swallowing",
+    "age_groups": [
+      "preschool",
+      "school_age",
+      "adult"
+    ],
+    "description_en": "A progressive resistance training program using the Iowa Oral Performance Instrument (IOPI) to strengthen tongue muscles. Improves tongue-palate contact pressures necessary for safe and efficient swallowing through systematic, measured exercises.",
+    "description_zh": "使用愛荷華口腔表現儀器（IOPI）進行漸進式阻力訓練，強化舌部肌肉。通過系統化、可測量的練習，改善安全有效吞嚥所需的舌腭接觸壓力。",
+    "target_population": "Post-stroke dysphagia, age-related weakness, tongue weakness affecting bolus control",
+    "activities": [
+      "Measure baseline maximum tongue pressure with IOPI",
+      "Practice tongue presses at 60-80% of maximum pressure",
+      "Complete 3 sets of 10 repetitions daily, 5-7 days per week"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong evidence for improving tongue strength; moderate evidence for functional swallowing outcomes",
+    "reference": "Robbins, J., Kays, S. A., Gangnon, R. E., Hind, J. A., Hewitt, A. L., Gentry, L. R., & Taylor, A. J. (2007). The effects of lingual exercise in stroke patients with dysphagia. Archives of Physical Medicine and Rehabilitation, 88(2), 150-158. https://doi.org/10.1016/j.apmr.2006.11.002"
+  },
+  {
+    "id": "aba-feeding-intervention",
+    "name_en": "Applied Behaviour Analysis (ABA) for Feeding",
+    "name_zh": "應用行為分析進食介入",
+    "domain": "feeding",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Uses principles of Applied Behaviour Analysis to address severe feeding difficulties, particularly food refusal and selectivity. Employs systematic reinforcement, escape extinction, and shaping procedures to expand food repertoire and improve mealtime behaviour.",
+    "description_zh": "運用應用行為分析原理處理嚴重進食困難，特別是拒食和選擇性進食。採用系統化強化、逃避消退及塑造程序，擴展食物接受範圍並改善進餐行為。",
+    "target_population": "Severe food refusal, highly selective eating, autism spectrum disorder with feeding issues",
+    "activities": [
+      "Systematic desensitization to new foods using small steps",
+      "Positive reinforcement for food acceptance and tasting",
+      "Escape extinction to reduce food refusal behaviours"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Strong empirical support for improving food acceptance in severe feeding disorders",
+    "reference": "Sharp, W. G., Jaquess, D. L., Morton, J. F., & Herzinger, C. V. (2010). Pediatric feeding disorders: A quantitative synthesis of treatment outcomes. Clinical Child and Family Psychology Review, 13(4), 348-365. https://doi.org/10.1007/s10567-010-0079-7"
+  },
+  {
+    "id": "beckman-oral-motor",
+    "name_en": "Beckman Oral Motor Protocol",
+    "name_zh": "貝克曼口腔運動方案",
     "domain": "feeding",
     "age_groups": [
       "infant",
-      "toddler"
+      "toddler",
+      "preschool"
     ],
-    "description_en": "The Get Permission Approach is an infant and toddler feeding intervention that targets infantile anorexia and sensory food aversion by restructuring parent-child feeding interactions. Clinicians help parents read and respond to the infant's hunger and satiety cues, reducing pressure and control. The intervention improves dyadic feeding and child food intake.",
-    "description_zh": "獲得許可進食法是針對嬰幼兒厭食症和感覺性食物厭惡的嬰幼兒進食介入，通過重組親子進食互動。治療師幫助家長讀取和回應嬰兒的飢餓和飽足感信號，減少壓力和控制。介入改善了二元進食和兒童食物攝入量。",
-    "target_population": "Infants and toddlers with infantile anorexia, sensory food aversion, or feeding relationship problems",
+    "description_en": "A comprehensive oral motor intervention program designed to improve feeding skills in infants and young children. Focuses on jaw, lip, and tongue exercises combined with sensory techniques to enhance oral motor control for safe and efficient feeding.",
+    "description_zh": "一套全面的口腔運動介入方案，旨在改善嬰幼兒的進食技能。專注於下顎、嘴唇和舌頭運動，結合感覺技術，以增強安全有效進食的口腔運動控制。",
+    "target_population": "Infants and children with oral motor delays, hypotonia, or coordination difficulties",
     "activities": [
-      "Parent coaching on infant hunger/satiety cue recognition",
-      "Restructuring mealtime to remove pressure and coercion",
-      "Video feedback of feeding interactions"
+      "Systematic jaw grading exercises for controlled bite",
+      "Lip and tongue strengthening activities",
+      "Sensory integration techniques for oral acceptance"
     ],
     "evidence_stars": 3,
     "evidence_symbol": "★★★☆☆",
-    "evidence_basis": "Controlled studies by Chatoor; clinical consensus",
-    "reference": "Chatoor, I. (2009). Diagnosis and treatment of feeding disorders in infants, toddlers, and young children. Zero to Three."
+    "evidence_basis": "Clinical support; limited controlled studies on functional feeding outcomes",
+    "reference": "Beckman, D. A. (2013). Beckman oral motor assessment and intervention. Beckman & Associates."
+  },
+  {
+    "id": "behavioral-feeding-intervention",
+    "name_en": "Behavioural Feeding Intervention",
+    "name_zh": "行為進食介入法",
+    "domain": "feeding",
+    "age_groups": [
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "Behavioural feeding interventions use applied behaviour analysis principles including escape extinction, differential reinforcement, and stimulus fading to treat severe paediatric feeding disorders. Intensive programmes (typically 8 hours/day over 2–3 weeks) are used for children who refuse all or nearly all foods. These approaches are highly effective but require careful ethical implementation.",
+    "description_zh": "行為進食介入使用應用行為分析原則，包括逃避消除、差異性強化和刺激消退，治療嚴重的兒科進食障礙。密集計劃（通常每天8小時，持續2至3週）用於拒絕所有或幾乎所有食物的兒童。這些方法非常有效，但需要謹慎的倫理實施。",
+    "target_population": "Children with severe paediatric feeding disorders, food refusal, or medically-based feeding problems",
+    "activities": [
+      "Escape extinction procedure during food presentation",
+      "Differential reinforcement of acceptance responses",
+      "Stimulus fading of texture and volume"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong RCT and single-case experimental evidence; ASHA-endorsed for severe cases",
+    "reference": "Linscheid, T. R. (2006). Behavioral treatments for pediatric feeding disorders. Behavior Modification, 30(1), 6–23. https://doi.org/10.1177/0145445505282165"
   },
   {
     "id": "division-of-responsibility",
@@ -843,6 +1652,28 @@
     "reference": "Fraker, C., Fishbein, M., Cox, S., & Walbert, L. (2007). Food chaining: The proven 6-step plan to stop picky eating, solve feeding problems, and expand your child's diet. Da Capo Press."
   },
   {
+    "id": "get-permission-approach",
+    "name_en": "Get Permission Approach (Chatoor)",
+    "name_zh": "獲得許可進食法（查圖爾）",
+    "domain": "feeding",
+    "age_groups": [
+      "infant",
+      "toddler"
+    ],
+    "description_en": "The Get Permission Approach is an infant and toddler feeding intervention that targets infantile anorexia and sensory food aversion by restructuring parent-child feeding interactions. Clinicians help parents read and respond to the infant's hunger and satiety cues, reducing pressure and control. The intervention improves dyadic feeding and child food intake.",
+    "description_zh": "獲得許可進食法是針對嬰幼兒厭食症和感覺性食物厭惡的嬰幼兒進食介入，通過重組親子進食互動。治療師幫助家長讀取和回應嬰兒的飢餓和飽足感信號，減少壓力和控制。介入改善了二元進食和兒童食物攝入量。",
+    "target_population": "Infants and toddlers with infantile anorexia, sensory food aversion, or feeding relationship problems",
+    "activities": [
+      "Parent coaching on infant hunger/satiety cue recognition",
+      "Restructuring mealtime to remove pressure and coercion",
+      "Video feedback of feeding interactions"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Controlled studies by Chatoor; clinical consensus",
+    "reference": "Chatoor, I. (2009). Diagnosis and treatment of feeding disorders in infants, toddlers, and young children. Zero to Three."
+  },
+  {
     "id": "neonatal-oral-motor",
     "name_en": "Neonatal Oral Motor Assessment and Intervention",
     "name_zh": "新生兒口腔運動評估與介入",
@@ -864,26 +1695,121 @@
     "reference": "Lessen, B. S. (2011). Effect of the premature infant oral motor intervention on feeding progression and length of stay in preterm infants. Advances in Neonatal Care, 11(2), 129–139. https://doi.org/10.1097/ANC.0b013e31820ac0a2"
   },
   {
-    "id": "behavioral-feeding-intervention",
-    "name_en": "Behavioural Feeding Intervention",
-    "name_zh": "行為進食介入法",
+    "id": "responsive-feeding-therapy",
+    "name_en": "Responsive Feeding Therapy",
+    "name_zh": "回應式餵養治療",
+    "domain": "feeding",
+    "age_groups": [
+      "infant",
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "A child-centered feeding approach that emphasizes recognizing and responding appropriately to a child's hunger and satiety cues. Promotes a positive feeding relationship by balancing parental structure with child autonomy, reducing mealtime conflict and improving intake.",
+    "description_zh": "以兒童為中心的餵養方法，強調識別並適當回應兒童的飢餓和飽足信號。通過平衡家長結構與兒童自主性，促進正向餵養關係，減少進餐衝突並改善攝入。",
+    "target_population": "General feeding difficulties, poor appetite, parent-child feeding conflicts",
+    "activities": [
+      "Teach parents to recognize infant/child hunger and fullness cues",
+      "Practice responsive prompting without pressure or coercion",
+      "Establish predictable meal structure while respecting child autonomy"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong theoretical foundation and growing evidence base for preventing and treating feeding problems",
+    "reference": "Black, M. M., & Aboud, F. E. (2011). Responsive feeding is embedded in a theoretical framework of responsive parenting. The Journal of Nutrition, 141(3), 490-494. https://doi.org/10.3945/jn.110.129973"
+  },
+  {
+    "id": "sensory-based-feeding-intervention",
+    "name_en": "Sensory-Based Feeding Intervention",
+    "name_zh": "感覺為本進食介入",
+    "domain": "feeding",
+    "age_groups": [
+      "infant",
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "An intervention approach addressing feeding difficulties related to sensory processing challenges. Uses graded sensory exposure, environmental modifications, and desensitization techniques to help children tolerate and accept a wider variety of food textures, temperatures, and flavors.",
+    "description_zh": "針對感覺處理挑戰相關進食困難的介入方法。使用漸進式感覺暴露、環境調整及脫敏技術，幫助兒童耐受並接受更廣泛的食物質感、溫度和味道。",
+    "target_population": "Sensory processing disorder, tactile defensiveness, extreme texture selectivity",
+    "activities": [
+      "Graded exposure to varied food textures (smooth to mixed to lumpy)",
+      "Oral sensory play activities outside of mealtimes",
+      "Environmental adaptations to reduce sensory overload during meals"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Clinical support and case studies; emerging controlled research",
+    "reference": "Engel-Yeger, B., Hardal-Nasser, R., & Gal, E. (2011). Sensory processing dysfunctions as expressed among children with different severities of intellectual developmental disabilities. Research in Developmental Disabilities, 32(5), 1770-1775. https://doi.org/10.1016/j.ridd.2011.03.005"
+  },
+  {
+    "id": "sequential-oral-sensory",
+    "name_en": "Sequential Oral Sensory Approach (SOS)",
+    "name_zh": "序列口腔感覺進食法",
+    "domain": "feeding",
+    "age_groups": [
+      "infant",
+      "toddler",
+      "preschool",
+      "school_age"
+    ],
+    "description_en": "The SOS Approach to Feeding is a transdisciplinary programme that addresses the full range of reasons why children have feeding difficulties, from sensory to motor to behavioural factors. Intervention follows a systematic hierarchy of steps from tolerating food in the room to eating it. It uses a play-based, child-led approach to reduce anxiety and expand food repertoire.",
+    "description_zh": "序列口腔感覺進食法是一個跨學科計劃，解決兒童進食困難的全部原因，從感覺到運動再到行為因素。介入遵循從容忍食物在房間裡到進食的系統性步驟層次。使用以遊戲為基礎、以兒童為主導的方法來減少焦慮並擴大食物種類。",
+    "target_population": "Infants and children with feeding disorders, food selectivity, sensory-based feeding difficulties",
+    "activities": [
+      "Food play hierarchy (tolerate → interact → smell → touch → taste)",
+      "Structured mealtime routine with preferred and non-preferred foods",
+      "Sensory desensitisation activities outside mealtime"
+    ],
+    "evidence_stars": 3,
+    "evidence_symbol": "★★★☆☆",
+    "evidence_basis": "Clinical and case study evidence; widely used; RCT evidence emerging",
+    "reference": "Toomey, K. A., & Ross, E. S. (2011). SOS approach to feeding. Perspectives on Swallowing and Swallowing Disorders, 20(3), 82–87. https://doi.org/10.1044/sasd20.3.82"
+  },
+  {
+    "id": "taste-exposure-therapy",
+    "name_en": "Taste Exposure Therapy",
+    "name_zh": "味覺暴露治療",
     "domain": "feeding",
     "age_groups": [
       "toddler",
       "preschool",
       "school_age"
     ],
-    "description_en": "Behavioural feeding interventions use applied behaviour analysis principles including escape extinction, differential reinforcement, and stimulus fading to treat severe paediatric feeding disorders. Intensive programmes (typically 8 hours/day over 2–3 weeks) are used for children who refuse all or nearly all foods. These approaches are highly effective but require careful ethical implementation.",
-    "description_zh": "行為進食介入使用應用行為分析原則，包括逃避消除、差異性強化和刺激消退，治療嚴重的兒科進食障礙。密集計劃（通常每天8小時，持續2至3週）用於拒絕所有或幾乎所有食物的兒童。這些方法非常有效，但需要謹慎的倫理實施。",
-    "target_population": "Children with severe paediatric feeding disorders, food refusal, or medically-based feeding problems",
+    "description_en": "A systematic approach to expanding food variety through repeated neutral exposure to new tastes and textures. Based on the principle that familiarity increases acceptance, children are exposed to target foods multiple times without pressure to eat, gradually reducing neophobia.",
+    "description_zh": "通過重複中性接觸新味道和質感，系統化擴展食物多樣性的方法。基於熟悉度提升接受度的原理，兒童在無進食壓力下多次接觸目標食物，逐漸減少新食物恐懼。",
+    "target_population": "Food neophobia, selective eating, limited food variety",
     "activities": [
-      "Escape extinction procedure during food presentation",
-      "Differential reinforcement of acceptance responses",
-      "Stimulus fading of texture and volume"
+      "Present new food 10-15 times without pressure to eat",
+      "Encourage exploration through touch, smell, and small tastes",
+      "Track exposure frequency and acceptance progression"
     ],
     "evidence_stars": 4,
     "evidence_symbol": "★★★★☆",
-    "evidence_basis": "Strong RCT and single-case experimental evidence; ASHA-endorsed for severe cases",
-    "reference": "Linscheid, T. R. (2006). Behavioral treatments for pediatric feeding disorders. Behavior Modification, 30(1), 6–23. https://doi.org/10.1177/0145445505282165"
+    "evidence_basis": "Well-supported by research on repeated exposure and food acceptance in children",
+    "reference": "Cooke, L. (2007). The importance of exposure for healthy eating in childhood: A review. Journal of Human Nutrition and Dietetics, 20(4), 294-301. https://doi.org/10.1111/j.1365-277X.2007.00804.x"
+  },
+  {
+    "id": "tube-weaning-graz",
+    "name_en": "Tube Weaning (Graz Model / Netcoaching)",
+    "name_zh": "管飼脫離訓練",
+    "domain": "feeding",
+    "age_groups": [
+      "infant",
+      "toddler",
+      "preschool"
+    ],
+    "description_en": "A systematic approach to weaning children from tube feeding developed in Graz, Austria. Emphasizes hunger provocation, parent empowerment, and multidisciplinary support to transition from enteral to oral feeding while monitoring nutritional status and growth.",
+    "description_zh": "一種系統化的兒童管飼脫離方法，源自奧地利格拉茨。強調飢餓刺激、家長賦能及多學科支持，在監測營養狀況和成長的同時，從腸道餵養過渡到口腔餵養。",
+    "target_population": "Children dependent on tube feeding with medical stability for oral transition",
+    "activities": [
+      "Gradual reduction of tube feeding volume to stimulate hunger",
+      "Parent coaching on responsive feeding and managing tube dependency",
+      "Multidisciplinary monitoring of weight, hydration, and oral intake"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Strong evidence from multiple centers; high success rates with structured protocol",
+    "reference": "Dunitz-Scheer, M., Levine, A., Roth, Y., Kratky, E., Beckenbach, H., Kuschnig, A., ... & Scheer, P. J. (2009). Prevention and treatment of tube dependency in infancy and early childhood. ICAN: Infant, Child, & Adolescent Nutrition, 1(2), 73-82. https://doi.org/10.1177/1941406409333209"
   }
 ]
