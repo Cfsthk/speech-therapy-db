@@ -463,6 +463,11 @@
             html += '</ol></div>';
         }
 
+        if (e.case_scenario_zh) {
+            html += '<div class="detail-section"><h4>臨床個案示例</h4>';
+            html += '<div class="detail-text" style="background:#f0f7ff;border-left:3px solid #3498db;padding:12px;border-radius:4px;line-height:2;">' + e.case_scenario_zh + '</div></div>';
+        }
+
         if (e.reference) {
             html += '<div class="detail-section"><h4>' + (zh ? '參考文獻' : 'Reference') + '</h4>';
             html += '<div class="reference">' + e.reference + '</div></div>';
