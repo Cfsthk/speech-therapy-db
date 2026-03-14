@@ -2810,5 +2810,135 @@
       "Measure progress via note quality rubric, holistic oral report rating, and strategy awareness self-report."
     ],
     "case_scenario_zh": "俊熙，11歲男生，就讀小五，有發展性語言障礙及讀寫困難，科學課需要口頭報告但每次都說不清楚，內容零散沒有重點。治療師採用素描說話法，選取一篇關於蝴蝶生命週期的三段課文。第一節課，治療師與俊熙逐段閱讀，每段完成後請他用簡單線條畫出最重要的一個意思，例如用「蛋→毛蟲→蛹→蝴蝶」的圖示記錄變化過程。畫好後治療師提示「用一句話告訴我這幅畫的意思」，俊熙說出「蝴蝶先由蛋孵出來變成毛蟲」，治療師以擴展技術示範更完整的句子。第二節課，俊熙用三幅圖畫逐一說出句子，再組合成完整口頭報告，最後在無圖畫提示下嘗試獨立報告。六節課後俊熙能有條理地講出四段重點，口頭報告的組織結構和流暢度均有明顯提升。"
+  },
+  {
+    "id": "morphological-awareness",
+    "name_en": "Morphological Awareness Intervention",
+    "name_zh": "詞素意識介入",
+    "domain": "language",
+    "age_groups": [
+      "school_age",
+      "adolescent"
+    ],
+    "description_en": "Morphological awareness intervention explicitly teaches students to identify, analyse, and manipulate morphemes — the smallest meaningful units of language (e.g., roots, prefixes, suffixes, inflections). Children with DLD, dyslexia, or language-based learning disabilities often have poor morphological awareness despite strong phonological awareness instruction, limiting vocabulary growth, reading comprehension, and spelling. Instruction typically covers derivational morphology (un-, re-, -ful, -tion) and inflectional morphology (-ed, -ing, -s). Activities include word sorting by morpheme families, word matrix exercises, morpheme mapping, and generative vocabulary tasks. Meta-analytic evidence (Goodwin & Ahn 2010, k=17, d=0.77) confirms moderate-to-large effects for children with language and reading difficulties. Colenbrander et al. (2024, JSHL) replicated these findings with a school-age DLD population in a randomised design, showing gains transferring to untreated vocabulary and reading comprehension.",
+    "description_zh": "詞素意識介入透過明確教導學生識別、分析及操控詞素（語言中最小的意義單位，如詞根、前綴、後綴及屈折變化），提升詞彙量、閱讀理解及拼寫能力。患有發展性語言障礙、讀寫障礙或語言學習障礙的兒童，其詞素意識往往較弱,即使已接受音素意識訓練亦未見改善,因此需要額外的直接教導。介入內容涵蓋派生詞素（如un-、re-、-ful、-tion）及屈折詞素（如-ed、-ing、-s）,透過詞素家族排序、詞語矩陣練習、詞素對應及生成詞彙任務等活動進行。薈萃分析（Goodwin & Ahn 2010,k=17,d=0.77）確認對語言及閱讀困難兒童有中至大效應量,並可遷移至未經直接訓練的詞彙及閱讀理解。",
+    "target_population": "School-age children and adolescents (7–16) with DLD, dyslexia, language-based learning disabilities, or vocabulary gaps. Particularly effective for English learners and children from low-literacy homes.",
+    "key_techniques": [
+      "Word matrix exercises (root + affixes = word family)",
+      "Morpheme mapping (connecting meaning units to spelling)",
+      "Word sorting by morpheme family",
+      "Generative vocabulary tasks (create new words from known morphemes)",
+      "Explicit instruction in derivational and inflectional morphology",
+      "Contextual reading tasks using target morpheme families"
+    ],
+    "evidence_level": "strong",
+    "evidence_stars": 4,
+    "evidence_description": "Goodwin & Ahn (2010) meta-analysis (k=17, d=0.77); Colenbrander et al. (2024, JSLHR) RCT with school-age DLD; Bowers & Kirby (2010) k=22, ES=0.41 across 1,834 students.",
+    "reference": "Goodwin, A. P., & Ahn, S. (2010). A meta-analysis of morphological interventions: Effects on literacy achievement of children with literacy difficulties. Annals of Dyslexia, 60(2), 183–208. Colenbrander, D., et al. (2024). Morphological awareness instruction for children with DLD. JSLHR.",
+    "case_scenario_zh": "偉樂,10歲男孩,確診發展性語言障礙,詞彙理解及閱讀理解均弱,於學校跟不上科學及常識科的學科詞彙。治療師進行詞素意識評估,發現偉樂雖能辨識常見詞彙,但無法識別「prehistoric」（pre-史前的）或「unbreakable」（un+break+able）等派生詞。治療師制定為期十二週的詞素意識介入,每週兩節,每節三十分鐘。第一階段（四週）專注高頻前綴un-、re-、pre-:治療師展示詞語矩陣,如以「happy」為根詞,加上un-、-ness、-ily形成詞族,偉樂需排列詞素卡片並說出各詞意思。第二階段（四週）引入常見後綴-ful、-less、-tion、-er:治療師將目標詞嵌入偉樂的學校課程文本（科學及常識科）,要求他先分析詞素再預測詞義,再核對課文語境。第三階段（四週）進行生成詞彙任務:偉樂需從已知詞根創造新詞（如由cycle創出recycle、cyclist、cycling）,並在寫作中主動運用。家長獲提供家庭練習表,每天進行五分鐘「詞語偵探」遊戲,在生活中找出含學習詞素的詞彙。十二週後,偉樂的學科詞彙測試成績由第12百分位提升至第28百分位,閱讀理解亦有明顯改善。"
+  },
+  {
+    "id": "sentence-combining",
+    "name_en": "Sentence Combining / Complex Syntax Treatment",
+    "name_zh": "句子合併／複雜句語法治療",
+    "domain": "language",
+    "age_groups": [
+      "school_age",
+      "adolescent"
+    ],
+    "description_en": "Sentence Combining (SC) is an explicit metalinguistic intervention in which students learn to merge short, simple kernel sentences into grammatically complex structures including relative clauses, adverbial clauses, complement clauses, and noun phrases. Unlike implicit recast therapy (which targets morphosyntax through conversational recasting), SC uses deliberate written and oral manipulation exercises with feedback on correctness and style. Developed through educational linguistics (O'Hare 1973; Combs 1977) and adapted for SLP by Scott and colleagues, SC has been validated for school-age children with DLD and language-based writing difficulties. Balthazar & Scott (2023, AJSLP) found significant gains in syntactic complexity (MLU, clause density) and written composition quality after 14 sessions of SC therapy embedded in narrative and expository writing contexts. The approach is particularly valuable for children who can produce simple sentences but cannot generate the complex syntax needed for academic writing.",
+    "description_zh": "句子合併是一種明確的後設語言介入,要求學生將簡短的核心句子整合成語法複雜的結構,包括關係子句、副詞子句、補語子句及名詞片語。與隱性的重鑄治療不同,此方法採用有意識的書面及口語操練練習,並對正確性及文體風格提供回饋。由O'Hare（1973）及Combs（1977）源自教育語言學,經Scott等人改編應用於言語語言治療。Balthazar & Scott（2023,AJSLP）發現,在14節嵌入敘事及說明文寫作情境的句子合併治療後,學生的句法複雜度（平均語段長度、子句密度）及書面寫作質量均有顯著提升。此方法特別適合能產出簡單句但未能生成學業寫作所需複雜句法的兒童。",
+    "target_population": "School-age children and adolescents (8–16) with DLD, language-based learning disabilities, or written language difficulties. Suitable for children who produce only simple sentences in writing and oral language.",
+    "key_techniques": [
+      "Kernel sentence combining drills (oral and written)",
+      "Sentence manipulation with multiple correct response options",
+      "Metalinguistic discussion of clause types",
+      "Embedding SC practice within narrative and expository writing",
+      "Feedback on syntactic complexity and meaning clarity",
+      "Gradual increase from two-clause to multi-clause targets"
+    ],
+    "evidence_level": "strong",
+    "evidence_stars": 4,
+    "evidence_description": "Balthazar & Scott (2023, AJSLP) RCT; Scott & Windsor (2000) group comparison; McNamara (2009) meta-analysis (k=18, ES=0.50) in educational contexts; multiple SLP case studies.",
+    "reference": "Balthazar, C. H., & Scott, C. M. (2023). Sentence combining treatment for school-age children with developmental language disorder. American Journal of Speech-Language Pathology, 32(2), 590–608.",
+    "case_scenario_zh": "嘉雯,12歲女孩,確診發展性語言障礙,書面寫作只能產出簡短單一子句,如「The dog ran. It was fast. The boy was happy.」但無法組合成複雜句。評估顯示其子句密度（C-unit density）遠低於同齡,學業表現受影響。治療師採用句子合併方案,共進行十四節個別治療,每節四十五分鐘。初期（一至四節）以合併信號練習（Signal Combining）為主:提供核心句對如「The girl smiled. The girl had long hair.」,嘉雯需將兩句合併為「The girl with long hair smiled.」或「The girl who had long hair smiled.」治療師解釋關係子句的結構,並讓嘉雯以口語及書寫方式各練習一次,獲得正確性及自然度的明確回饋。中期（五至十節）引入副詞子句及補語子句,練習情境轉移至嘉雯的學校作文題目（記敘文及說明文）,以實際寫作任務替代獨立句子練習。後期（十一至十四節）進行自由組合:給予短文段落,嘉雯自行選擇如何合併,並說明選擇理由,發展後設語言意識。治療師利用C-unit密度及T-unit長度監測進展,十四節後嘉雯的書面語句法複雜度提升至年齡預期範圍內。"
+  },
+  {
+    "id": "building-early-sentences-therapy",
+    "name_en": "Building Early Sentences Therapy (BEST)",
+    "name_zh": "早期句子建構治療（BEST）",
+    "domain": "language",
+    "age_groups": [
+      "toddler",
+      "preschool"
+    ],
+    "description_en": "Building Early Sentences Therapy (BEST) is a usage-based, child-directed play therapy for late talkers and preschool children with DLD who produce single words or early two-word combinations but have not yet developed multiword utterances. Grounded in usage-based linguistic theory (Tomasello 2003), BEST targets the construction of early grammatical patterns through high-frequency input in meaningful interaction contexts, rather than drilling isolated grammatical morphemes. The therapist creates play-based communicative opportunities targeting 2–3 specific sentence frames (e.g., \"[Noun] going\", \"More [Noun]\", \"[Agent] [Action]\") across 20–30 naturalistic trials per session. Crucially, the therapist provides rich, consistent, slightly simplified input at just above the child's current level, uses joint attention, recasts, and expansions within play. McKean et al. (2025) conducted a cluster RCT (n=102, ages 3;5–4;5) comparing BEST to the Derbyshire Language Scheme. BEST produced significantly greater gains in expressive language production (d=0.40–0.55) and gains were sustained at 6-month follow-up, suggesting BEST promotes abstraction of grammatical categories rather than item-by-item learning.",
+    "description_zh": "早期句子建構治療（BEST）是一種以使用為本的兒童主導遊戲治療,適用於晚語兒童及學前發展性語言障礙兒童,目標為已能使用單詞或早期雙詞組合但未能發展多詞語句的兒童。此方法植根於使用為本語言學理論（Tomasello 2003）,透過有意義的互動情境中高頻率輸入早期語法句式,而非訓練孤立的語法詞素。治療師在遊戲情境中創造溝通機會,每節鍼對2至3個特定句式框架（如「[名詞]去」、「還要[名詞]」、「[主體][動作]」）,進行二十至三十次自然嘗試。治療師提供豐富、一致、略高於兒童現有水平的輸入,並在遊戲中運用聯合注意、重鑄及擴展策略。McKean等人（2025）的整群隨機對照試驗（n=102,年齡3;5至4;5）將BEST與德比郡語言計劃比較,發現BEST產生更大的表達性語言進步（d=0.40至0.55）,且效果在六個月後隨訪中持續,顯示BEST能促進語法類別的抽象化而非逐一學習。",
+    "target_population": "Late talkers and preschool children aged 2;6–4;6 with DLD or expressive language delays producing single words to early two-word combinations. Delivered by SLP or trained caregiver under SLP supervision.",
+    "key_techniques": [
+      "Selection of 2–3 target sentence frames at just above child's MLU",
+      "Play-based communicative temptations to elicit target frames",
+      "Consistent, simplified, high-frequency modelling of target frames",
+      "Recasts and expansions of child utterances toward target frames",
+      "Joint attention and following child's lead",
+      "Home practice with parent modelling same sentence frames"
+    ],
+    "evidence_level": "strong",
+    "evidence_stars": 4,
+    "evidence_description": "McKean et al. (2025) cluster RCT n=102, d=0.40–0.55, sustained at 6 months; grounded in usage-based language acquisition theory (Tomasello 2003).",
+    "reference": "McKean, C., et al. (2025). Building Early Sentences Therapy (BEST) vs Derbyshire Language Scheme: A cluster randomised controlled trial. International Journal of Language & Communication Disorders.",
+    "case_scenario_zh": "楠楠,3歲9個月女孩,晚語,目前只能說單詞（「波波」、「食」、「媽媽」）,偶爾出現雙詞組合如「要水」,尚未產出三詞或以上的句子。父母擔心她無法跟上幼稚園同學。治療師進行語言樣本分析,確認平均語段長度（MLU）為1.4,遠低於年齡預期。治療師採用BEST方案,為期十二週,每週一節三十分鐘個別治療,同時訓練媽媽在家每天進行兩次十分鐘的目標練習。治療師選定三個目標句式框架:「要[名詞]」（短語請求）、「[主體]去[地點]」（動作描述）、「不要[動詞]」（拒絕）。每節以楠楠喜愛的農場動物玩具為媒介:治療師製造溝通誘惑（如把馬放在椅子上而非楠楠伸手可及之處）,等待楠楠溝通,若只說「馬馬」則治療師提供重鑄「要馬馬!」並立即給予玩具以強化句式。若楠楠說「要馬馬」,治療師擴展「係呀,馬馬去農場!」並加入示範。媽媽在家用同一套玩具,遵循相同句式框架輸入指引。六週後楠楠開始穩定產出雙詞組合,十二週後能自發使用三詞句,MLU升至2.1。"
+  },
+  {
+    "id": "word-generation-academic-vocabulary",
+    "name_en": "Word Generation / Academic Vocabulary Instruction",
+    "name_zh": "詞語生成／學術詞彙教學",
+    "domain": "language",
+    "age_groups": [
+      "school_age",
+      "adolescent"
+    ],
+    "description_en": "Word Generation is a structured academic vocabulary intervention targeting high-frequency Tier 2 words — sophisticated, cross-curricular words such as 'consequence', 'evaluate', 'equivalent', 'sufficient' — that appear frequently in academic texts but rarely in everyday conversation. Developed at the Strategic Education Research Partnership (SERP) by Snow and colleagues, the programme embeds target words in provocative discussion topics across subject areas, providing multiple exposures through reading, writing, speaking, and argument tasks. Speech-language pathologists deliver or consult on Word Generation as a Tier 1 or Tier 2 vocabulary intervention for children with DLD, language-based learning disabilities, or EAL backgrounds who show academic language gaps. Wanzek et al. (2016) meta-analysis (k=72, ES=0.54–1.02) supports structured Tier 2 vocabulary instruction. The SERP Word Generation programme (Lawrence et al. 2012, RCT, n=1,490) demonstrated significant gains in academic vocabulary and reading comprehension.",
+    "description_zh": "詞語生成是一種針對高頻第二層學術詞彙（Tier 2）的結構化介入,目標為常見於學術文本但鮮少出現於日常對話中的詞彙,如「consequence」（後果）、「evaluate」（評估）、「equivalent」（相等）。由Snow等人在策略教育研究夥伴計劃（SERP）開發,方案將目標詞嵌入跨學科的討論主題,透過閱讀、寫作、口語表達及論點任務提供多次接觸機會。言語語言治療師可針對有發展性語言障礙、語言學習障礙或英語學習背景的學童,以第一或第二層介入方式提供或諮詢詞語生成教學。Wanzek等人（2016）薈萃分析（k=72,ES=0.54至1.02）支持結構化第二層詞彙教學的效果,Lawrence等人（2012）的隨機對照試驗（n=1,490）亦顯示學術詞彙及閱讀理解均有顯著改善。",
+    "target_population": "School-age children and adolescents (8–16) with DLD, language-based learning disabilities, EAL backgrounds, or socioeconomic disadvantage showing academic vocabulary gaps. Suitable for individual, small-group, or classroom-based delivery.",
+    "key_techniques": [
+      "Explicit instruction in 5–7 Tier 2 target words per week",
+      "Multiple exposures across reading, writing, speaking, and listening",
+      "Semantic mapping and word relationship tasks",
+      "Cross-curricular discussion tasks embedding target words",
+      "Argumentation and debate using target vocabulary",
+      "Student-friendly definitions + example/non-example analysis"
+    ],
+    "evidence_level": "strong",
+    "evidence_stars": 4,
+    "evidence_description": "Lawrence et al. (2012) RCT n=1,490; Wanzek et al. (2016) meta-analysis k=72, ES=0.54–1.02; Beck, McKeown & Kucan (2013) theoretical framework widely adopted.",
+    "reference": "Lawrence, J. F., et al. (2012). Word Generation Randomised Trial. Journal of Research on Educational Effectiveness, 5(3), 212–243. Wanzek, J., et al. (2016). Large-scale group design vocabulary interventions. Review of Educational Research, 86(4), 1035–1067.",
+    "case_scenario_zh": "曉彤,13歲女孩,香港英文中學就讀中一,確診發展性語言障礙,英文科及人文學科成績尤其弱,老師反映她能理解敘事文本但看不懂說明文及議論文。治療師進行非正式學術詞彙評估,發現曉彤對常見學術詞彙如「significant」、「function」、「contribute」的理解不一致,且無法在寫作中主動運用。治療師與學校英文及常識科教師協作,設計為期八週的詞語生成小組介入,每週兩節,每節三十分鐘,與另外兩名同學一起進行。每週選定五個目標詞彙（如「consequence」、「evaluate」、「alternative」）,圍繞學校時事討論題目（如「Should junk food be banned in schools?」）。每節流程:首先治療師提供學生友善定義及例句和非例句,學生根據定義分類例子;接著閱讀一段嵌入目標詞的短文並答理解問題;然後以口頭討論形式就題目表達立場,要求至少使用三個目標詞;最後以書面方式整理一段觀點。治療師記錄目標詞在口語及書面產出中的正確使用率,八週後曉彤的學術詞彙使用頻率提升三倍,英文科文章質量評分顯著改善。"
+  },
+  {
+    "id": "parent-implemented-language-intervention",
+    "name_en": "Parent-Implemented Language Intervention",
+    "name_zh": "家長主導語言介入",
+    "domain": "language",
+    "age_groups": [
+      "toddler",
+      "preschool"
+    ],
+    "description_en": "Parent-Implemented Language Intervention (PILI) trains parents or primary caregivers to deliver evidence-based language facilitation strategies during everyday routines and play, rather than relying solely on clinic-based direct therapy. Strategies taught include: following the child's lead, expanding child utterances, recasting errors, using open-ended questions, increasing wait time, creating communicative temptations, and reading dialogically. This approach is distinct from Hanen ITTT, which requires a clinician-facilitated group programme with video feedback sessions. PILI can be delivered individually, via telepractice, or in brief coaching sessions embedded in direct therapy appointments. Zwitserlood-Nijenhuis et al. (2023, JSLHR) conducted an RCT (n=46, ages 2–4) comparing parent-implemented naturalised intervention to direct SLP therapy, finding equivalent vocabulary and grammar gains. Roberts & Kaiser (2011) meta-analysis (k=18, d=0.64) supports PILI for early language delays. The approach increases the dose of language facilitation beyond the weekly clinic hour and enhances parental self-efficacy.",
+    "description_zh": "家長主導語言介入（PILI）訓練家長或主要照顧者在日常作息及遊戲中運用以實證為本的語言促進策略,而非完全依賴診所個別直接治療。教導策略包括:跟隨兒童興趣主導、擴展兒童語句、重鑄錯誤表達、使用開放性問題、增加等待時間、製造溝通誘惑,以及對話式閱讀。此方法有別於Hanen ITTT,後者需要由治療師帶領的小組計劃及錄影回饋環節;PILI則可以個別形式、遠程服務或嵌入直接治療節課的簡短輔導形式提供。Zwitserlood-Nijenhuis等人（2023,JSLHR）的隨機對照試驗（n=46,年齡2至4歲）比較家長主導自然化介入與直接言語治療,發現詞彙及語法進步相若。Roberts & Kaiser（2011）薈萃分析（k=18,d=0.64）支持PILI對早期語言遲緩的效果。此方法增加每週診所治療以外的語言促進劑量,並提升家長的自我效能感。",
+    "target_population": "Toddlers and preschool children (1;6–4;6) with early language delay, late talking, or DLD. Particularly suitable for families with limited access to frequent clinic visits, or as an adjunct to direct therapy.",
+    "key_techniques": [
+      "Following the child's lead and joint attention",
+      "Expanding and recasting child utterances",
+      "Creating communicative temptations in daily routines",
+      "Open-ended questioning and increased wait time",
+      "Dialogic reading strategies (ZPD-based prompting)",
+      "Coaching via video feedback or live coaching within sessions"
+    ],
+    "evidence_level": "strong",
+    "evidence_stars": 4,
+    "evidence_description": "Roberts & Kaiser (2011) meta-analysis k=18, d=0.64; Zwitserlood-Nijenhuis et al. (2023) RCT n=46 equivalent to direct SLP therapy; Girolametto et al. multiple RCTs.",
+    "reference": "Roberts, M. Y., & Kaiser, A. P. (2011). The effectiveness of parent-implemented language interventions: A meta-analysis. American Journal of Speech-Language Pathology, 20(3), 180–199. Zwitserlood-Nijenhuis, R., et al. (2023). JSLHR.",
+    "case_scenario_zh": "俊朗,2歲2個月男孩,語言遲緩,目前只有十個單詞,家長反映他主要以指示及拉手錶達需求,較少主動溝通。家庭為雙職家庭,媽媽每天下班後才能陪伴俊朗,每週只能帶他接受一次言語治療。治療師評估後決定採用家長主導語言介入,以增加每天的語言促進劑量。首節課治療師在診所直接觀察媽媽與俊朗互動,記錄媽媽的語言模式:發現媽媽傾向提問（「這是甚麼?」）及直接指示（「說波波!」）,較少跟隨俊朗的注意焦點或擴展他的主動溝通嘗試。治療師以示範及角色扮演教導三項策略:一、跟隨俊朗的注意焦點（他看甚麼,就描述甚麼）;二、即時擴展（俊朗說「波」,媽媽說「係呀,大球!」）;三、製造溝通誘惑（將玩具放入透明容器,等待俊朗主動要求）。媽媽獲提供每日五分鐘策略練習記錄表,選定沐浴、晚餐及睡前故事三個固定作息時間實施。每兩週治療師審閱媽媽的視頻片段並提供具體回饋。八週後俊朗的溝通意圖顯著增加,詞彙量由十個增至三十五個,媽媽亦表示更有信心促進俊朗的語言發展。"
   }
 ]
