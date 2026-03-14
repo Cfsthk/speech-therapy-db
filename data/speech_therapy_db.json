@@ -1602,41 +1602,6 @@
     "case_scenario_zh": "張先生，62歲男士，患布洛卡失語症，說話電報式，複雜句子理解和表達均困難。治療師採用TUF，選取被動句和關係子句等複雜句法結構作訓練目標。以圖片描述任務引導張先生從簡單主動句逐步移動至被動句結構，治療師提供句法樹狀圖輔助理解句子成分的移動關係，觀察到訓練複雜結構後較簡單結構亦同時改善，體現語法系統的整體遷移效果。"
   },
   {
-    "id": "semantic-feature-analysis",
-    "name_en": "Semantic Feature Analysis (SFA)",
-    "name_zh": "語義特徵分析法",
-    "domain": "language",
-    "age_groups": [
-      "adult"
-    ],
-    "description_en": "SFA is a treatment for word-retrieval deficits (anomia) in aphasia that strengthens semantic networks by systematically analyzing semantic features of target words. Patients generate semantic attributes (category, use, properties, location, association) for pictures or words, facilitating word retrieval through spreading activation. SFA promotes generalization to untrained items within semantic categories.",
-    "description_zh": "語義特徵分析法是針對失語症詞彙提取缺陷（命名障礙）的治療，透過系統性分析目標詞彙的語義特徵來強化語義網絡。患者為圖片或詞彙生成語義屬性（類別、用途、特性、位置、聯想），透過擴散激活促進詞彙提取。SFA促進類化至語義類別內的未訓練項目。",
-    "target_population": "Adults with aphasia experiencing anomia (word-finding difficulties), particularly those with semantic processing deficits",
-    "activities": [
-      "Generating semantic features for target nouns (category, function, properties)",
-      "Completing semantic feature charts or diagrams",
-      "Comparing and contrasting semantically related items",
-      "Naming tasks following semantic feature generation"
-    ],
-    "evidence_stars": 4,
-    "evidence_symbol": "★★★★☆",
-    "evidence_basis": "Strong evidence from multiple RCTs and systematic reviews showing improved confrontation naming and generalization to untrained items in aphasia.",
-    "reference": "Boyle, M., & Coelho, C. A. (1995). Application of semantic feature analysis as a treatment for aphasic dysnomia. American Journal of Speech-Language Pathology, 4(4), 94-98. https://doi.org/10.1044/1058-0360.0404.94",
-    "procedure": [
-      "Administer a confrontation naming assessment to identify lexical retrieval errors and treated word list.",
-      "Select 10–15 target words from a personally relevant category (e.g., foods, tools, animals).",
-      "Present a target picture and elicit the name — note accuracy and error type (no response, semantic, phonemic).",
-      "Introduce the SFA chart: a hub-and-spoke diagram with the target word at the centre.",
-      "Generate semantic features around the target word with the client: group/category, action, properties, location, association.",
-      "Read each feature aloud and discuss; provide a model if the client cannot generate features independently.",
-      "After completing the chart, attempt to name the target word again.",
-      "Practice the same word set across 3 consecutive sessions before introducing new words.",
-      "Probe naming accuracy for treated and untreated words at each session.",
-      "Track naming accuracy scores over time and measure generalisation to discourse-level word retrieval."
-    ],
-    "case_scenario_zh": "林女士，58歲女士，中風後患失語症，找詞困難，常說『那個……那個東西』。治療師採用語義特徵分析，以目標詞『雨傘』為例，引導林女士填寫語義特徵網格：它是什麼類別、外觀、用途、在哪裡找到、用來做什麼。透過啟動目標詞的語義網絡，提升詞彙提取效率。每節課練習8至10個目標詞，並追蹤未訓練詞的遷移效果。"
-  },
-  {
     "id": "constraint-induced-language-therapy",
     "name_en": "Constraint-Induced Language Therapy (CILT)",
     "name_zh": "限制誘導語言治療法",
@@ -3175,5 +3140,400 @@
       "Gradually increase clause complexity: add adverbials within the embedded clause.",
       "Generalise to writing: child records science observations using complement clause sentence starters."
     ]
+  },
+  {
+    "id": "semantic-feature-analysis",
+    "name_en": "Semantic Feature Analysis (SFA)",
+    "name_zh": "語義特徵分析",
+    "domain": "language",
+    "age_groups": [
+      "school-age",
+      "adolescent"
+    ],
+    "age_range_en": "School-age to Adolescent (6–16 years)",
+    "age_range_zh": "學齡至青少年（6–16歲）",
+    "goals_en": [
+      "Improve word retrieval and naming accuracy",
+      "Strengthen semantic network organisation",
+      "Develop self-cueing strategies for word-finding",
+      "Build metalinguistic awareness of word features"
+    ],
+    "goals_zh": [
+      "提升詞彙提取及命名準確度",
+      "強化語義網絡組織",
+      "發展自我提示策略",
+      "建立詞彙特徵的後設語言意識"
+    ],
+    "description_en": "Semantic Feature Analysis (SFA) improves word retrieval by systematically exploring the defining features of target words — category, function, physical properties, location, and associations. Rooted in spreading activation theory, activating the semantic network surrounding a word strengthens neural access to it. The child analyses each word across structured feature dimensions before attempting retrieval, building both depth of word knowledge and independent self-cueing strategies.",
+    "description_zh": "語義特徵分析（SFA）透過系統性探索目標詞彙的界定特徵——類別、功能、物理屬性、位置及聯想——來改善詞彙提取。以擴散激活理論為基礎，激活詞彙周圍的語義網絡可強化神經層面的詞彙提取。兒童在嘗試提取詞彙前，先對多個結構化特徵維度進行分析，從而建立詞彙知識深度及獨立自我提示策略。",
+    "key_techniques_en": [
+      "Present target word/picture and attempt naming",
+      "Systematic feature elicitation: category, function, appearance, location, association",
+      "Complete visual SFA chart with child's responses",
+      "Re-attempt naming after feature activation",
+      "Generalise strategy to self-cueing in conversation"
+    ],
+    "key_techniques_zh": [
+      "呈現目標詞彙／圖片並嘗試命名",
+      "系統性特徵引出：類別、功能、外觀、位置、聯想",
+      "與兒童共同完成視覺化SFA圖表",
+      "特徵激活後再次嘗試命名",
+      "將策略類化至對話中的自我提示"
+    ],
+    "activities": [
+      "SFA Chart: Place target picture in centre; child answers structured questions for each feature ring",
+      "Semantic Matrix: Compare 4–6 related words across shared features (e.g., dog vs. cat vs. fish)",
+      "Barrier Task: Child describes a hidden picture using only features (no name); partner guesses",
+      "Category Sort + Feature Justify: Sort pictures into categories then justify using two feature criteria",
+      "Self-Cueing Drill: After naming failure, child independently works through feature checklist to self-retrieve"
+    ],
+    "procedure": [
+      "Select 5–8 target words from a functional semantic category (e.g., school items, food, animals)",
+      "Present picture/word; ask child to name it — record accuracy before treatment",
+      "Regardless of naming success, begin feature elicitation: 'What kind of thing is it?'",
+      "Elicit function: 'What do you use it for / what does it do?'",
+      "Elicit appearance: 'What does it look like — colour, shape, size?'",
+      "Elicit location: 'Where do you find it?'",
+      "Elicit association: 'What does it make you think of?'",
+      "Record all responses on the visual SFA chart",
+      "Re-ask naming question — note whether feature activation aided retrieval",
+      "Introduce self-cueing card; practise working through features independently for novel items"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Ebbels et al. (2012) RCT (n=15, ages 9;11–15;11, d=0.94, maintained 5 months); Best et al. (2018) RCT (n=20, ages 6–8, d=2.30); Gold et al. (2021) crossover RCT — semantic approach yielded ~2× gains vs. phonological. Ansari et al. (2025) systematic review (16 studies) confirms combined semantic approaches show highest-quality evidence for DLD.",
+    "reference": "Ebbels, S. H., et al. (2012). Effectiveness of semantic therapy for word-finding difficulties in pupils with persistent language impairments. International Journal of Language & Communication Disorders, 47(6), 707–724. https://doi.org/10.1111/j.1460-6984.2012.00168.x\n\nBest, W., et al. (2018). A RCT of a word-finding intervention in mainstream primary schools. International Journal of Speech-Language Pathology, 20(6), 641–651. https://doi.org/10.1080/17549507.2017.1348541\n\nGold, L., et al. (2021). A comparison of semantic and phonological word-web interventions for children with word-finding difficulties. Cortex, 134, 125–141. https://doi.org/10.1016/j.cortex.2020.10.010",
+    "hk_context_en": "Many Hong Kong children with DLD struggle with word retrieval in both Cantonese and English academic settings. SFA integrates naturally into bilingual therapy by analysing features in either language and can target curriculum vocabulary (science, social studies) directly.",
+    "hk_context_zh": "許多香港有發展性語言障礙的兒童，在廣東話及英語學術環境中均面臨詞彙提取困難。SFA可自然融入雙語治療，以任一語言分析詞彙特徵，並可直接針對課程詞彙（科學、常識）進行訓練。",
+    "case_scenario_zh": "陳同學，11歲，就讀小五，有發展性語言障礙，口頭匯報時常出現「那個……那個東西」等替代語，詞彙提取明顯困難。言語治療師以科學課單元「生態系統」詞彙為目標，進行每週兩次、共八週的SFA訓練。治療師在圖表中心放上「捕食者」的圖片，引導陳同學分析：類別（動物）、功能（獵食其他動物）、外觀（尖牙利爪）、棲息地（森林）及聯想（食物鏈頂端）。八週後，標準化命名測試標準分從67分提升至77分，並開始在課堂匯報中自主運用特徵提示策略。"
+  },
+  {
+    "id": "word-web-intervention",
+    "name_en": "Word-Web Intervention",
+    "name_zh": "詞彙網絡介入",
+    "domain": "language",
+    "age_groups": [
+      "school-age",
+      "adolescent"
+    ],
+    "age_range_en": "School-age to Adolescent (6–19 years)",
+    "age_range_zh": "學齡至青少年（6–19歲）",
+    "goals_en": [
+      "Improve word retrieval for trained and personally relevant words",
+      "Build metacognitive awareness of semantic and phonological word knowledge",
+      "Develop independent word-finding strategies",
+      "Increase functional vocabulary use in conversation and curriculum"
+    ],
+    "goals_zh": [
+      "提升已訓練詞彙及個人相關詞彙的提取能力",
+      "建立語義及語音詞彙知識的後設認知意識",
+      "發展獨立的詞彙尋找策略",
+      "增加對話及課程中的功能性詞彙運用"
+    ],
+    "description_en": "Word-Web Intervention uses a structured graphic organiser — a word web — to explore both the semantic and phonological dimensions of target words simultaneously. Unlike SFA (semantic features only), the word web integrates meaning-based cues (category, function, association) with sound-based cues (first sound, rhyme, syllable count), giving children a richer set of retrieval pathways. The first RCT to demonstrate word-finding therapy effects in mainstream schools with a realistic dosage (6 sessions).",
+    "description_zh": "詞彙網絡介入使用結構化圖形組織工具——詞彙網絡圖——同時探索目標詞彙的語義及語音兩個維度。與SFA（僅聚焦語義特徵）不同，詞彙網絡整合了意義線索（類別、功能、聯想）與聲音線索（首音、押韻、音節數），為兒童提供更豐富的提取路徑。這是首個在主流學校環境中以實際劑量（6節課）證實詞彙尋找治療效果的RCT研究。",
+    "key_techniques_en": [
+      "Dual-path word web: semantic ring + phonological ring around central target word",
+      "Metacognitive discussion: 'Which clue helped you most?'",
+      "Personally-chosen vocabulary: child selects some targets for relevance",
+      "Transfer practice: use trained words in sentences and conversation"
+    ],
+    "key_techniques_zh": [
+      "雙路徑詞彙網絡：語義環及語音環圍繞中心目標詞彙",
+      "後設認知討論：「哪個線索對你最有幫助？」",
+      "個人選擇詞彙：由兒童選擇部分與自身相關的目標詞彙",
+      "遷移練習：在句子及對話中運用已訓練詞彙"
+    ],
+    "activities": [
+      "Word Web Chart: Complete a visual web with semantic branches (category, function, where found, looks like, associated with) AND phonological branches (first sound, rhymes with, number of syllables)",
+      "Clue Card Game: Each feature on the web becomes a clue card; child uses minimum clues needed to retrieve the word",
+      "Personally-Chosen Word Set: Child nominates 5 words they personally struggle with; build word webs and track improvement weekly",
+      "Partner Word Web Race: Two children complete word webs for the same target, then compare",
+      "Discourse Transfer Task: Child retells a short story and must include at least 3 trained target words"
+    ],
+    "procedure": [
+      "Select 6–10 target words: mix of therapist-chosen curriculum words and child-chosen personal words",
+      "Introduce the word web template: explain semantic ring vs. phonological ring",
+      "Present target word (written + picture); attempt naming first",
+      "Complete semantic ring: category → function → location → association → appearance",
+      "Complete phonological ring: first sound → rhymes with → number of syllables",
+      "Re-attempt naming after web completion",
+      "Ask metacognitive question: 'Which clue helped you remember the word?'",
+      "Conduct sentence-level practice: 'Use this word in a sentence about your life'",
+      "Introduce self-cueing protocol: child practises working through web independently for new words",
+      "At session 6: probe all trained + untrained items; probe personally chosen words for generalisation"
+    ],
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Best et al. (2018) parallel-group RCT (n=20, ages 6–8): intervention group gained 4× more items than waitlist control (d=2.30) — first RCT in mainstream schools at realistic dosage. Gold et al. (2021) crossover RCT (n=20): semantic approach yielded ~2× gains vs. phonological. Campbell et al. (2019) single-case series (n=25, ages 16–19): d=2.5 during intervention vs. d=1.4 at baseline.",
+    "reference": "Best, W., et al. (2018). A RCT of a word-finding intervention in mainstream primary schools. International Journal of Speech-Language Pathology, 20(6), 641–651. https://doi.org/10.1080/17549507.2017.1348541\n\nGold, L., et al. (2021). A comparison of semantic and phonological word-web interventions for children with word-finding difficulties. Cortex, 134, 125–141. https://doi.org/10.1016/j.cortex.2020.10.010\n\nCampbell, E., et al. (2019). Word-finding intervention for college students with language disorder. Child Language Teaching and Therapy, 35(2), 135–152. https://doi.org/10.1177/2396941519870784",
+    "hk_context_en": "Word-web intervention is highly practical in Hong Kong mainstream primary schools where SLP services are limited: the 6-session protocol fits school term scheduling and can be delivered by trained teachers with SLP supervision. Bilingual webs (English + Cantonese) can be constructed for the same target word.",
+    "hk_context_zh": "詞彙網絡介入在香港主流小學極具實用性，因言語治療師資源有限：六節課方案適合學期時間表，可由受訓教師在言語治療師督導下執行。同一目標詞彙可同時建立中英文雙語網絡圖。",
+    "case_scenario_zh": "李同學，8歲，就讀小二，有詞彙尋找困難，閱讀理解尚可但口頭表達時常停頓、以「那個」代替詞彙。言語治療師以常識科詞彙為目標，進行六節詞彙網絡介入。第一節針對「蒸發」：語義環填寫類別（科學現象）、功能（水變成水蒸氣）、位置（海洋、水窪）；語音環填寫首音、音節數（兩個）。六節後，已訓練詞彙命名準確率由43%提升至89%，並開始在個人選擇的詞彙上出現類化。"
+  },
+  {
+    "id": "divergent-convergent-naming",
+    "name_en": "Divergent and Convergent Naming Therapy",
+    "name_zh": "擴散性及收斂性命名治療",
+    "domain": "language",
+    "age_groups": [
+      "preschool",
+      "school-age",
+      "adolescent"
+    ],
+    "age_range_en": "Preschool to Adolescent (4–16 years)",
+    "age_range_zh": "學前至青少年（4–16歲）",
+    "goals_en": [
+      "Strengthen categorical semantic organisation",
+      "Improve divergent naming (generating exemplars within a category)",
+      "Improve convergent naming (identifying the superordinate category)",
+      "Build semantic fluency and flexible word access"
+    ],
+    "goals_zh": [
+      "強化類別語義組織",
+      "提升擴散性命名（在類別內生成例子）",
+      "提升收斂性命名（識別上位類別）",
+      "建立語義流利度及靈活的詞彙提取"
+    ],
+    "description_en": "Divergent naming (generating multiple items from a category, e.g., 'Name as many animals as you can') and convergent naming (identifying the category label from exemplars, e.g., 'Apple, banana, grape — what group is this?') are complementary semantic skills reflecting how well-organised a child's lexical-semantic network is. Explicit therapy targeting both directions strengthens categorical knowledge, semantic fluency, and word retrieval speed — foundational skills for academic language across all subjects.",
+    "description_zh": "擴散性命名（從類別中生成多個例子，如「說出你能想到的動物」）與收斂性命名（從例子中識別類別標籤，如「蘋果、香蕉、葡萄——這是什麼組別？」）是互補的語義技能，反映兒童詞彙語義網絡的組織程度。針對兩個方向的明確治療可強化類別知識、語義流利度及詞彙提取速度——這些是所有學科學術語言的基礎技能。",
+    "key_techniques_en": [
+      "Timed and untimed category fluency tasks",
+      "Category sorting: sort pictures into superordinate groups, then label group",
+      "Odd-one-out tasks: identify item that doesn't belong and explain why",
+      "Category expansion: basic level → superordinate → subordinate",
+      "Semantic fluency comparison: track items generated over time as a progress measure"
+    ],
+    "key_techniques_zh": [
+      "計時及非計時類別流利度任務",
+      "類別分類：將圖片分類至上位類別，然後標記組別",
+      "找出不同：找出不屬於同一類別的項目並解釋原因",
+      "類別擴展：從基本層次→延伸至上位類別→下位類別",
+      "語義流利度比較：追蹤隨時間生成的項目數量"
+    ],
+    "activities": [
+      "Category Fluency Race: 1-minute timed task — name as many items in a category as possible. Use categories at different difficulty levels",
+      "Convergent Naming Card Sets: Show 3–4 exemplar pictures; child names the category. Start with concrete then abstract",
+      "Category Exclusion: Present 5 pictures with one intruder; child identifies and justifies",
+      "Semantic Fluency Story: Child tells a short story that must include items from a named category",
+      "Category Hierarchy Builder: Build a 3-level hierarchy together using cards or drawings"
+    ],
+    "procedure": [
+      "Baseline: Administer 4 category fluency probes (1 min each) to establish naming rate per category",
+      "Teach superordinate category labels explicitly using pictures and real objects",
+      "Convergent naming drill: present 3 exemplars → child produces category label → confirm and discuss",
+      "Divergent naming practice: name category → child generates exemplars for 30 seconds → extend time gradually",
+      "Teach category exclusion: present 4 items (3 same category, 1 intruder) → child identifies odd one out and explains",
+      "Build category hierarchies: basic → superordinate → subordinate levels, using visual ladder or tree diagram",
+      "Introduce semantic fluency strategy: 'Think of subcategories to generate more words'",
+      "Practise in sentence and discourse contexts: 'Tell me about all the things you might see at a market'",
+      "Probe convergent and divergent naming on trained and untrained categories",
+      "Generalisation task: parent/teacher rates how often child uses category labels in daily conversation"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Ebbels et al. (2012) RCT demonstrated semantic category therapy effectiveness (d=0.94) for school-age children with WFD. Pring et al. (2015) showed semantic therapy generalised to untreated items within the same category. Semantic fluency training embedded in broader vocabulary RCTs shows consistent moderate effects (Ansari et al., 2025 systematic review). Categorical naming is a core component of multiple evidence-based vocabulary programs.",
+    "reference": "Ebbels, S. H., et al. (2012). Effectiveness of semantic therapy for word-finding difficulties. International Journal of Language & Communication Disorders, 47(6), 707–724. https://doi.org/10.1111/j.1460-6984.2012.00168.x\n\nPring, T., et al. (2015). Semantic therapy for school-age children with word-finding difficulties: generalization effects. Child Language Teaching and Therapy, 31(1), 73–83. https://doi.org/10.1177/0265659014523299\n\nAnsari, M., et al. (2025). Vocabulary interventions for children aged 5–11 with developmental language disorder: a systematic review. Frontiers in Psychology, 16, 1517311. https://doi.org/10.3389/fpsyg.2025.1517311",
+    "hk_context_en": "Category fluency tasks are culturally adaptable: use Hong Kong-specific categories (dim sum items, MTR lines, school subjects) to maximise relevance. Bilingual category work directly supports the academic demands of Hong Kong primary schools.",
+    "hk_context_zh": "類別流利度任務可作文化調適：使用香港特定類別（點心種類、港鐵路線、中文課程學科）以提升相關性。雙語類別訓練直接支援香港小學的學術要求。",
+    "case_scenario_zh": "王同學，7歲，就讀小一，語言評估顯示語義類別知識薄弱——在動物類別流利度任務中60秒僅能說出4個項目（同齡平均約12個），且無法為上位類別命名。言語治療師設計了八週訓練：每節先以收斂性命名熱身（呈現「獅子、老虎、大象」→「這些是什麼？」），再進行擴散性命名，逐步引入子類別策略（「先想農場動物，再想海洋動物」）。八週後，王同學在動物類別任務中能生成14個項目，並開始在常識課上主動使用類別標籤。"
+  },
+  {
+    "id": "word-definition-instruction",
+    "name_en": "Word Definition Instruction",
+    "name_zh": "詞彙定義教學",
+    "domain": "language",
+    "age_groups": [
+      "school-age",
+      "adolescent"
+    ],
+    "age_range_en": "School-age to Adolescent (7–16 years)",
+    "age_range_zh": "學齡至青少年（7–16歲）",
+    "goals_en": [
+      "Develop ability to produce formal word definitions",
+      "Improve depth of word knowledge beyond simple labelling",
+      "Support metalinguistic awareness and academic language",
+      "Build bridges between vocabulary knowledge and reading/writing comprehension"
+    ],
+    "goals_zh": [
+      "培養產出正式詞彙定義的能力",
+      "提升超越簡單標籤的詞彙知識深度",
+      "支援後設語言意識及學術語言",
+      "建立詞彙知識與閱讀／寫作理解之間的橋樑"
+    ],
+    "description_en": "Word Definition Instruction explicitly teaches children to produce formal, multi-component definitions — not just label a word, but explain its category membership, distinguishing features, and functional role. Research shows definitional skill is a strong predictor of school achievement across language and science subjects, and children with DLD produce definitions with fewer content components than peers. Instruction moves from informal to formal using scaffolded, direct teaching.",
+    "description_zh": "詞彙定義教學明確教導兒童產出正式的多元素定義——不僅標記詞彙，而是解釋其類別歸屬、區分特徵及功能角色。研究顯示詞彙定義能力是語言及科學學科學業成就的強力預測指標，而有DLD的兒童所產出的定義包含較少內容元素。教學從非正式進階至正式，採用漸進式直接教學法。",
+    "key_techniques_en": [
+      "Definition scaffold: 'A [target] is a type of [category] that [distinguishing feature/function]'",
+      "Feature stripping: identify what makes this word different from others in the same category",
+      "Graded definition tasks: from single-feature to full formal definition",
+      "Student-friendly definition construction: compare to dictionary definitions and improve",
+      "Self-rating: child rates their own definition quality using a simple rubric"
+    ],
+    "key_techniques_zh": [
+      "定義支架：「[目標]是一種[類別]，它[區分特徵/功能]」",
+      "特徵剝離：識別使這個詞彙有別於同類別其他詞彙的特徵",
+      "分級定義任務：從單一特徵到完整正式定義",
+      "學生友好型定義建構：與字典定義比較並加以改進",
+      "自我評估：兒童使用簡單評分準則評估自己的定義質量"
+    ],
+    "activities": [
+      "Definition Scaffold Practice: Using the frame 'A ___ is a type of ___ that ___', child fills in category and distinguishing feature. Start concrete then abstract",
+      "Definition Comparison: Show child three definitions of the same word (poor, adequate, excellent) — child ranks them and explains what makes the best one better",
+      "Feature Stripping: Given a category (birds), child defines one member (penguin) by explaining what makes it different from other birds",
+      "Dictionary Upgrade: Provide a simple dictionary definition; child expands it by adding a feature, an example, and a non-example",
+      "Tier 2 Word Walls: Build a word wall with child-authored definitions for academic vocabulary (e.g., 'analyse', 'predict', 'contrast')"
+    ],
+    "procedure": [
+      "Assess baseline definition quality: ask child to define 5 familiar and 5 less familiar words; score using rubric (0=no response, 1=functional/personal, 2=category+feature, 3=formal definition)",
+      "Teach the definition frame explicitly: 'A [word] is a kind of [category] that [key feature]'",
+      "Model with concrete examples: 'A bicycle is a kind of vehicle that has two wheels and is powered by pedalling'",
+      "Guided practice: provide partially completed frame for child to complete",
+      "Introduce feature stripping: 'Both dogs and wolves are animals — what makes a dog different?'",
+      "Practise formal definition production for 5 target words each session",
+      "Introduce comparison: show dictionary definition; discuss what is clear vs. unclear about it",
+      "Generalise to academic vocabulary from school subjects: define science terms, social studies concepts",
+      "Self-rating activity: child reads back own definition and scores it on 3-point rubric",
+      "Final probe: compare definition quality scores at baseline vs. end of intervention on trained and novel words"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Wright et al. (2018) RCT (n=30, ages 9–16 with DLD): direct vocabulary instruction d=1.07 for trained words (nouns d=1.29, verbs d=0.64). Pomper et al. (2022) RCT: explicit instruction > indirect exposure for word learning in Grade 1 children with DLD. Artuso et al. (2021) demonstrates definitional skill predicts school achievement across language and science subjects.",
+    "reference": "Wright, L., et al. (2018). The effectiveness of direct vocabulary instruction for children with DLD. Language, Speech, and Hearing Services in Schools, 49(2), 244–255. https://doi.org/10.1044/2017_LSHSS-17-0075\n\nPomper, R., et al. (2022). Direct instruction improves word learning more effectively than indirect exposure in children with DLD. Journal of Speech, Language, and Hearing Research, 65(3), 947–963. https://doi.org/10.1044/2021_JSLHR-21-00408\n\nArtuso, C., et al. (2021). Definitional skills and school achievement: links with metalinguistic awareness. Sustainability, 14, 286. https://doi.org/10.3390/su14010286",
+    "hk_context_en": "Formal definition production is directly assessed in Hong Kong primary and secondary Chinese and English Language examinations. Children with DLD in Hong Kong are particularly disadvantaged on these tasks. Therapy using curriculum vocabulary directly bridges to examination performance.",
+    "hk_context_zh": "正式定義產出在香港小學及中學的中文及英文語文考試中直接被評核。香港有DLD的兒童在這類任務中尤其處於不利地位。以課程詞彙為目標的治療可直接連結至考試表現。",
+    "case_scenario_zh": "黃同學，13歲，就讀中一，有發展性語言障礙，在中文科「解釋詞語」題目中持續失分——其定義僅為個人化描述（如「公平就是不打架」），缺乏類別及區分特徵。言語治療師採用詞彙定義框架教學：先示範「望遠鏡是一種光學儀器，用來放大遠處的物體」，再引導黃同學使用框架練習抽象詞彙。八週後，其定義質量評分從平均1.2分（滿分3分）提升至2.6分，期末考試詞語解釋部分取得明顯進步。"
+  },
+  {
+    "id": "semantic-gradients-synonyms-antonyms",
+    "name_en": "Semantic Gradients and Synonym/Antonym Relations",
+    "name_zh": "語義梯度與同義詞／反義詞關係",
+    "domain": "language",
+    "age_groups": [
+      "school-age",
+      "adolescent"
+    ],
+    "age_range_en": "School-age to Adolescent (7–16 years)",
+    "age_range_zh": "學齡至青少年（7–16歲）",
+    "goals_en": [
+      "Understand and use synonyms with awareness of subtle meaning differences",
+      "Understand and use antonyms including gradable and complementary pairs",
+      "Build vocabulary depth through semantic gradient analysis",
+      "Develop precise, varied word choice in writing and speaking"
+    ],
+    "goals_zh": [
+      "理解並運用同義詞，同時認識細微語義差異",
+      "理解並運用反義詞，包括可分級及互補配對",
+      "透過語義梯度分析建立詞彙深度",
+      "在寫作及口語表達中發展精確、多樣的詞彙選擇"
+    ],
+    "description_en": "Semantic gradients place related words on a continuum from one extreme to its antonym, capturing the shades of meaning between synonyms. For example, 'freezing — cold — cool — tepid — warm — hot — boiling' explores temperature vocabulary at seven levels of precision. This approach deepens understanding of both synonyms (gradable near-equivalents) and antonyms (polar opposites), improves precise word choice in academic writing, and builds the rich lexical-semantic network that underpins reading comprehension and expressive language.",
+    "description_zh": "語義梯度將相關詞彙排列在從一個極端到其反義詞的連續體上，捕捉同義詞之間的語義細微差異。例如，「極凍——冷——涼——微溫——暖——熱——滾燙」以七個精確層次探索溫度詞彙。這種方法加深對同義詞和反義詞的理解，提升學術寫作中的精確詞彙選擇，並建立支撐閱讀理解及表達語言的豐富詞彙語義網絡。",
+    "key_techniques_en": [
+      "Semantic gradient construction: anchor with antonym pair, generate and place intermediate synonyms",
+      "Synonym discrimination: identify which synonym is most/least extreme in a given context",
+      "Antonym pair sorting: complementary pairs (alive/dead) vs. gradable pairs (hot/cold)",
+      "Contextual precision tasks: replace a vague word with the most precise synonym for a given sentence",
+      "Polarity journals: students collect synonym sets from reading and arrange on a gradient"
+    ],
+    "key_techniques_zh": [
+      "語義梯度建構：以反義詞對為錨點，生成並排列中間同義詞",
+      "同義詞辨別：在特定情境中識別哪個同義詞最極端/最不極端",
+      "反義詞對分類：互補配對（活的/死的）vs. 可分級配對（熱/冷）",
+      "情境精確度任務：用最精確的同義詞替換含糊的詞彙",
+      "極性詞彙日誌：學生從閱讀中收集同義詞組並排列在梯度上"
+    ],
+    "activities": [
+      "Build a Gradient: Give child 6–8 words related to a theme (e.g., walking speed: sprint, stroll, march, trot, wander, shuffle); child arranges from slowest to fastest on a continuum",
+      "Synonym Swap in Context: Read a sentence with a highlighted word; child replaces it with 3 synonyms from a gradient, then discusses how meaning changes",
+      "Antonym Sort: Sort 20 word pairs into 'gradable opposites' (hot/cold) vs. 'complementary pairs' (pregnant/not pregnant)",
+      "Precision Writing: Child writes 3 versions of the same sentence using words from different points on a synonym gradient — discuss effect on reader",
+      "Gradient Hunt: During shared reading, child flags adjectives and verbs, then locates their synonyms and antonyms, building a personal gradient card for each"
+    ],
+    "procedure": [
+      "Introduce semantic gradients using a clear visual example (temperature words on a thermometer)",
+      "Demonstrate antonym anchor points: select a gradable antonym pair (e.g., happy/sad, fast/slow)",
+      "Brainstorm intermediate synonyms together: use a thesaurus for support",
+      "Arrange words on a physical continuum strip (cut-out cards on a table or whiteboard magnets)",
+      "Discuss placement decisions: 'Why did you put miserable closer to sad than unhappy?'",
+      "Introduce complementary vs. gradable antonyms: test whether 'in between' is possible",
+      "Contextual practice: choose the best word from the gradient for a specific sentence context",
+      "Production task: given a topic, child writes a paragraph using at least 3 different points from a synonym gradient",
+      "Introduce polarity journal: child records synonym sets from their reading across the week",
+      "Final assessment: child independently constructs a gradient for a novel word set and uses the vocabulary in spoken and written tasks"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Ansari et al. (2025) systematic review: explicit semantic feature instruction including synonym/antonym relations showed high-quality evidence across 16 studies for children with DLD. Semantic gradient instruction is an established component of Tier 2 academic vocabulary programs supported by multiple quasi-experimental studies. Depth of vocabulary knowledge including synonym discrimination predicts reading comprehension (Beck et al., 2013).",
+    "reference": "Ansari, M., et al. (2025). Vocabulary interventions for children aged 5–11 with developmental language disorder: a systematic review. Frontiers in Psychology, 16, 1517311. https://doi.org/10.3389/fpsyg.2025.1517311\n\nBeck, I. L., McKeown, M. G., & Kucan, L. (2013). Bringing Words to Life: Robust Vocabulary Instruction (2nd ed.). Guilford Press.\n\nCobb, C., & Blachowicz, C. (2014). No More 'Look Up the List' Vocabulary Instruction. Heinemann.",
+    "hk_context_en": "Synonym precision and antonym use are directly tested in Hong Kong HKDSE Chinese and English writing papers and primary TSA language assessments. The gradient approach bridges spoken vocabulary therapy to written academic language outcomes. Using Cantonese emotion vocabulary gradients is especially motivating for HK children.",
+    "hk_context_zh": "同義詞精確度及反義詞運用在香港文憑試中文及英文寫作試卷以及小學TSA語文評估中直接被測試。梯度方法將口語詞彙治療連結至書面學術語言成果。使用廣東話情緒詞彙梯度對香港兒童尤其具有激勵作用。",
+    "case_scenario_zh": "鄭同學，12歲，就讀小六，中英文寫作均被老師評為「詞彙單調貧乏」——多次重複使用「大」、「好」、「走」等基礎詞彙。言語治療師以情緒詞彙「開心/不開心」為錨點，師生共同建構七層梯度：「悲痛——傷心——鬱悶——平靜——高興——快樂——欣喜若狂」。鄭同學發現「悲痛」與「傷心」的差異後，開始對詞彙選擇產生濃厚興趣。十週後，其作文詞彙類型數量（Type-Token Ratio）顯著提升，老師亦反映其寫作用詞明顯多樣化。"
+  },
+  {
+    "id": "semantic-mapping",
+    "name_en": "Semantic Mapping",
+    "name_zh": "語義圖譜",
+    "domain": "language",
+    "age_groups": [
+      "school-age",
+      "adolescent"
+    ],
+    "age_range_en": "School-age to Adolescent (6–16 years)",
+    "age_range_zh": "學齡至青少年（6–16歲）",
+    "goals_en": [
+      "Build rich, connected vocabulary knowledge around target concepts",
+      "Improve reading comprehension through pre-reading vocabulary activation",
+      "Strengthen semantic network organisation and word associations",
+      "Support recall and use of vocabulary in academic writing and oral language"
+    ],
+    "goals_zh": [
+      "圍繞目標概念建立豐富、相互連結的詞彙知識",
+      "透過閱讀前詞彙激活提升閱讀理解",
+      "強化語義網絡組織及詞彙聯想",
+      "支援學術寫作及口語語言中的詞彙回憶及運用"
+    ],
+    "description_en": "Semantic mapping is a visual graphic strategy in which a central word or concept is surrounded by related words organised into meaningful categories (properties, functions, examples, associations, opposites). Unlike SFA which targets single-word retrieval, semantic mapping targets knowledge breadth — building an interconnected web of vocabulary around a topic. It is particularly effective as a pre-reading strategy to activate background knowledge and as a post-reading strategy to extend and consolidate newly learned vocabulary.",
+    "description_zh": "語義圖譜是一種視覺化圖形策略，將中心詞彙或概念與相關詞彙連結，並組織成有意義的類別（屬性、功能、例子、聯想、對立詞）。與聚焦單詞提取的SFA不同，語義圖譜的目標是知識廣度——圍繞主題建立相互連結的詞彙網絡。它作為閱讀前策略（激活背景知識）及閱讀後策略（擴展和鞏固新學詞彙）尤為有效。",
+    "key_techniques_en": [
+      "Central concept map with radiating category branches",
+      "Collaborative brainstorming and map building with discussion",
+      "Pre-reading activation: build incomplete map, complete after reading",
+      "Cross-text mapping: add words from multiple sources to one map",
+      "Digital mapping tools for visual learners"
+    ],
+    "key_techniques_zh": [
+      "帶有放射性類別分支的中心概念圖",
+      "協作頭腦風暴及地圖建構與討論",
+      "閱讀前激活：建立不完整的圖譜，閱讀後填寫完整",
+      "跨文本圖譜：從多個來源將詞彙添加到同一圖譜",
+      "視覺學習者的數字化圖譜工具"
+    ],
+    "activities": [
+      "Central Word Map: Write target word in centre; draw 4–6 branches for different relationship types (Is a type of / Has the property of / Examples include / Is used for / Is related to); child fills each branch with 2–3 words",
+      "Pre-Post Reading Map: Before reading, child fills in what they already know; after reading, add new words in a different colour — visualises vocabulary growth",
+      "Comparison Map: Two central concepts side by side (e.g., 'democracy' and 'dictatorship'); shared features in the middle, unique features on each side",
+      "Collaborative Class Map: Group starts with a central topic word; individuals contribute one word each to branches — discussion deepens understanding",
+      "Map-to-Paragraph Bridge: Child uses completed semantic map to write a paragraph, using at least 5 words from the map"
+    ],
+    "procedure": [
+      "Select a central concept word from current curriculum topic (e.g., 'habitat', 'government', 'trade')",
+      "Write/display the central word and activate prior knowledge: 'What do you already know about this word?'",
+      "Introduce the branch categories: properties/attributes, examples/types, functions/uses, associations, related opposites",
+      "Model completing one branch: 'What are some examples of habitats? Forest, desert, ocean...'",
+      "Child completes remaining branches with support — use thesaurus or reference materials for unknown words",
+      "Discuss placements and connections: 'Why did you put that word here? How is it connected to the centre?'",
+      "Read a short text on the same topic; add new words from the text to the map in a new colour",
+      "Compare before/after maps: 'Which branch grew the most? Which word was the most surprising?'",
+      "Production task: use the map to write or tell about the concept using words from multiple branches",
+      "Review map at next session — test recall of mapped words and connections without looking at the map"
+    ],
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Lima et al. (2024) quasi-experimental (n=120, Portuguese school-age children): semantic mapping yielded d=0.87–0.88 for vocabulary, concept knowledge, and text comprehension. Ansari et al. (2025) systematic review supports visual semantic strategies as part of high-quality vocabulary intervention. Multiple classroom RCTs (Anders, 1983; Bos & Anders, 1990) show comprehension benefits over dictionary-only instruction.",
+    "reference": "Lima, S., et al. (2024). Semantic feature analysis and semantic mapping in school-age children with and without special educational needs. Education Sciences, 14(4), 407. https://doi.org/10.3390/educsci14040407\n\nAnsari, M., et al. (2025). Vocabulary interventions for children aged 5–11 with developmental language disorder: a systematic review. Frontiers in Psychology, 16, 1517311. https://doi.org/10.3389/fpsyg.2025.1517311\n\nBos, C. S., & Anders, P. L. (1990). Effects of interactive vocabulary instruction on the vocabulary learning and reading comprehension of junior-high learning disabled students. Learning Disability Quarterly, 13(1), 31–42. https://doi.org/10.2307/1510390",
+    "hk_context_en": "Semantic mapping is easily implemented in Hong Kong primary classrooms as a supplement to Chinese and English language lessons, aligning with the curriculum's emphasis on reading strategies. Using bilingual maps (Chinese on one branch, English on another for the same concept) supports Hong Kong's biliterate and trilingual education policy.",
+    "hk_context_zh": "語義圖譜可輕鬆融入香港小學中文及英語語言課堂，與課程對閱讀策略的重視相一致。使用雙語圖譜（同一概念的中文分支及英語分支）支援香港兩文三語教育政策。",
+    "case_scenario_zh": "林同學，9歲，就讀小三，閱讀理解成績偏低，特別在新詞彙密集的說明文中表現欠佳。言語治療師在閱讀常識科「水的循環」單元前，建立語義圖譜：中心詞「水」，分支包括形態（液態、固態、氣態）、過程（蒸發、凝結、降水）、功能（飲用、農業）及關聯詞（雲、河流、冰川）。閱讀後，林同學以另一顏色添加「蒸騰作用」、「地下水」等新詞彙。對比前後圖譜，林同學說：「我現在認識了12個水的詞彙！」其後的閱讀理解測試成績從56分提升至78分。"
   }
 ]
