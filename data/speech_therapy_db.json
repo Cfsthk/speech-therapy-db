@@ -28,7 +28,8 @@
       "Provide immediate feedback when meaning is unclear due to phoneme error",
       "Gradually increase complexity from single words to phrases and sentences",
       "Monitor generalization to untreated sounds and conversational speech"
-    ]
+    ],
+    "case_scenario_zh": "小明，4歲男孩，被診斷為音韻障礙，常將『雞』說成『低』。治療師選取「雞/低」、「瓜/花」等最小配對圖卡，與小明玩「指出我說的」遊戲。當小明說錯音導致治療師拿錯圖卡時，他立刻察覺溝通失敗，從而建立音位對比的意識。治療師鼓勵他重新嘗試，並在成功時給予正面回饋，逐步提升目標音的準確率。"
   },
   {
     "id": "cycles-approach",
@@ -60,7 +61,8 @@
       "Repeat auditory bombardment at the end of each session",
       "Send home practice materials for parent carryover",
       "Begin a new cycle targeting the same patterns after completing the first cycle, gradually adding new patterns as old ones improve"
-    ]
+    ],
+    "case_scenario_zh": "阿欣，5歲女孩，患有嚴重音韻障礙，聲母幾乎全部省略。治療師採用循環法，第一個循環針對音節末輔音，選取『帽、腳、書』等詞語。每節課以聆聽轟炸開始，播放含目標音的詞語錄音，再進行圖卡命名活動。每個目標音訓練約60分鐘後便進入下一個，循環完成後再回頭鞏固，令整體音韻系統逐步建立。"
   },
   {
     "id": "nuffield-dyspraxia",
@@ -93,7 +95,8 @@
       "Systematically build from CV to CVC to CVCV to multisyllabic words following the NDP3 hierarchy",
       "Gradually fade cues as the child achieves independence",
       "Monitor progress with regular probes and adjust hierarchy as needed"
-    ]
+    ],
+    "case_scenario_zh": "浩軒，6歲男孩，確診兒童言語失用症，說話費力且音節排列混亂。治療師使用NDP3方案，從單一口腔動作開始訓練，如噘嘴、彈舌，再逐步組合成音節『媽、爸』。每個動作配以圖示卡片，讓浩軒按圖片順序拼合成詞語。治療師以慢速示範，要求他跟隨節拍板練習，確保每個音節的動作排序清晰準確。"
   },
   {
     "id": "dynamic-temporal-tactile-cueing",
@@ -126,7 +129,8 @@
       "Systematically fade cues through a hierarchy: simultaneous → direct imitation → delayed imitation → spontaneous",
       "Monitor accuracy and adjust cue levels dynamically based on child's performance",
       "Gradually add new target words as previous targets achieve independence"
-    ]
+    ],
+    "case_scenario_zh": "樂兒，3歲女孩，患有嚴重兒童言語失用症，只能發出少量單音。治療師採用DTTC，先與樂兒同步說出目標詞『媽媽』，再逐漸減少提示：由同步發音，到輕聲提示，最後只用嘴形引導。每次嘗試前給予充裕準備時間，並在需要時以手輕觸她的臉頰提示發音位置，目標是讓她在沒有提示下獨立說出詞語。"
   },
   {
     "id": "rapid-syllable-transition",
@@ -157,7 +161,8 @@
       "Practice in blocks of 10 trials per pseudoword, with 100+ trials per session",
       "Provide home practice materials with new pseudoword lists",
       "Assess generalization to real words and connected speech at regular intervals"
-    ]
+    ],
+    "case_scenario_zh": "子謙，9歲男孩，患有兒童言語失用症，多音節詞語時音節間轉換困難。治療師使用ReST，教導他練習無意義多音節詞如『pa-TA-bi』，要求音節轉換流暢且韻律正確。每節課練習約30個目標詞，治療師以口頭回饋標示哪個音節不夠流暢，鼓勵子謙自我監察，最終目標是在對話中自動化正確的音節轉換模式。"
   },
   {
     "id": "multiple-oppositions",
@@ -189,7 +194,8 @@
       "Provide communicative feedback when errors prevent successful communication",
       "Monitor for generalization to other untreated sounds with similar features",
       "Gradually reduce support as the child demonstrates consistent contrast production"
-    ]
+    ],
+    "case_scenario_zh": "嘉怡，4歲半女孩，將『d、g、z、j』全部說成『b』，出現廣泛音位塌陷。治療師選取四組對立詞：『爸/打/家/炸』，同時呈現四張圖卡，進行多重對立訓練。每次嘉怡發音含糊時，治療師故意指錯圖卡，令她理解不同發音的溝通功能差異，從而同時建立多個音位的對比系統。"
   },
   {
     "id": "stimulability-treatment",
@@ -221,7 +227,8 @@
       "Systematically fade cueing as production becomes independent",
       "Conduct regular probes on non-stimulable sounds to monitor for generalization",
       "Once stimulable sounds reach criterion, re-assess non-stimulable sounds for emerging stimulability"
-    ]
+    ],
+    "case_scenario_zh": "俊熙，4歲男孩，有多個語音錯誤，但經測試發現『s』音刺激反應性高，能在模仿下正確發出。治療師優先選取『s』作為訓練目標，在音節、單詞、短句層次逐步練習。活動包括「蛇」圖卡命名、讀出含『s』的句子等，配合鏡子讓俊熙觀察自己的舌位，鞏固後再推展至刺激反應性較低的其他音。"
   },
   {
     "id": "articulation-therapy",
@@ -254,7 +261,8 @@
       "Conduct structured conversation activities to promote carryover",
       "Assign home practice at each level of the hierarchy",
       "Monitor for generalization to spontaneous speech and fade direct cueing"
-    ]
+    ],
+    "case_scenario_zh": "美琪，5歲女孩，持續將『r』發成『w』。治療師採用凡萊珀四階段法，首先在隔離狀態下教她感受舌頭捲起的位置，再進入音節階段練習『ra、ri、ru』，然後在詞語層次練習『熱、人、肉』，最後在對話情境中自我監察。每個階段達到80%正確率後才進入下一階段，確保技能穩固遷移。"
   },
   {
     "id": "lidcombe-program",
@@ -286,7 +294,8 @@
       "Gradually move from structured to unstructured conversations as fluency improves",
       "Enter maintenance phase when stuttering is below 1% syllables stuttered for several weeks",
       "Continue periodic check-ins during maintenance to prevent relapse"
-    ]
+    ],
+    "case_scenario_zh": "天朗，3歲男孩，開始出現口吃，說話時有音節重複如『我我我想』。家長接受治療師培訓，學習在日常對話中對流利說話給予直接稱讚如『說得很流暢！』，並在口吃後以平靜語氣請他再說一次。每週回診時治療師核對家長的言語評分紀錄，若流利度持續改善則逐步減少家長介入，最終目標是無需提示下維持流利。"
   },
   {
     "id": "demands-capacities-model",
@@ -319,7 +328,8 @@
       "Monitor fluency changes as demands are reduced and capacities increased",
       "Avoid direct attention to stuttering moments with young children",
       "Gradually reintroduce typical communicative demands as fluency stabilizes"
-    ]
+    ],
+    "case_scenario_zh": "小晴，4歲女孩，在快節奏家庭環境下口吃加劇。治療師評估後發現她的語言能力與說話流利度之間有差距。介入以降低環境需求為主：建議家長放慢自己的說話速度、減少同時提問、給予充裕的回應時間。治療師示範緩慢輕鬆的說話示範，幫助小晴在低壓環境下重建說話的流利感。"
   },
   {
     "id": "fluency-shaping",
@@ -351,7 +361,8 @@
       "Practice in hierarchy: syllables → words → phrases → sentences → conversation",
       "Conduct transfer activities in increasingly challenging speaking situations",
       "Teach self-monitoring skills to maintain fluency controls in daily life"
-    ]
+    ],
+    "case_scenario_zh": "建豪，14歲男生，口吃多年，在課堂發言時尤為緊張。治療師採用流利塑造法，教導他以腹式呼吸開始發聲，配合輕柔起音、適度延長元音及輕鬆的音節轉換。每節課先在單詞練習，再擴展至句子和對話，每個層次需達90%流利才進入下一步。治療師錄音讓建豪對比自然語速與塑造語速的分別，目標是逐步令新說話模式在日常對話中自動化。"
   },
   {
     "id": "stuttering-modification",
@@ -383,7 +394,8 @@
       "Practice techniques in hierarchy from clinic to daily speaking situations",
       "Address emotional reactions and avoidance behaviors through counseling",
       "Encourage acceptance of stuttering while working to make it less effortful"
-    ]
+    ],
+    "case_scenario_zh": "志偉，16歲男生，口吃伴隨明顯逃避行為，常以換詞迴避難字。治療師採用凡萊珀口吃調整法，首先幫助志偉識別和接受自己的口吃模式，再教導他在預期口吃前放慢語速（預備設置），口吃發生時學習從緊張狀態中拉出（拔出），最後學習以輕鬆的重複代替緊繃的阻塞（後退），逐步減少逃避行為。"
   },
   {
     "id": "acceptance-commitment-stuttering",
@@ -415,7 +427,8 @@
       "Commit to valued actions (social, vocational, personal) despite stuttering",
       "Monitor psychological flexibility and quality of life, not just fluency",
       "Encourage participation in stuttering support groups to reduce isolation"
-    ]
+    ],
+    "case_scenario_zh": "雅詩，19歲大學生，口吃令她迴避社交和課堂發言。治療師採用ACT框架，引導她觀察自己因口吃而產生的想法如『我說話很難聽』而不作評判，練習心理去融合技巧。同時以價值澄清活動幫助她確立真正重視的事（如與朋友深入交流），鼓勵她即使帶著口吃仍依據價值行動，參與小組討論以建立心理彈性。"
   },
   {
     "id": "palin-pci",
@@ -448,7 +461,8 @@
       "Support the child's confidence through activities focused on what they do well",
       "Monitor fluency changes and adjust interaction strategies as needed",
       "Gradually generalize interaction changes to daily routines beyond special time"
-    ]
+    ],
+    "case_scenario_zh": "悅兒，3歲半女孩，出現口吃約三個月。治療師採用帕林親子互動治療，首先進行親子互動錄像分析，發現媽媽說話速度較快。治療師與媽媽共同制定策略：每天安排5分鐘特別親子時間，由悅兒主導玩耍，媽媽放慢語速並減少提問。每兩週回診討論錄像，逐步調整互動方式，間接減低悅兒的口吃頻率。"
   },
   {
     "id": "complexity-approach",
@@ -480,7 +494,8 @@
       "Administer weekly probes with untreated control sounds to document generalization to simpler phonological patterns",
       "Cycle to new target sound when criterion of 80% accuracy in structured practice is achieved (typically 4-6 weeks)",
       "Reassess phonological system quarterly using standardized measures to track systemic change and plan discharge"
-    ]
+    ],
+    "case_scenario_zh": "俊楠，5歲男孩，音韻障礙但有一定音韻系統基礎。治療師採用複雜度方法，選取他尚未掌握的複雜音群如『spl-』作為訓練目標，而非從簡單音開始。在練習『splash』類詞語時，治療師觀察到系統性遷移效果，俊楠同時改善了較簡單的音段。每節課以圖卡命名和故事活動進行，讓複雜目標音在功能性語境中練習。"
   },
   {
     "id": "metaphon-therapy",
@@ -512,7 +527,8 @@
       "Incorporate self-monitoring using visual cue cards representing sound properties to promote metalinguistic awareness during speech",
       "Provide communicative consequence activities where phonological errors result in breakdown requiring repair",
       "Reassess phonological inventory every 6-8 weeks and modify targets based on generalization patterns and emerging sounds"
-    ]
+    ],
+    "case_scenario_zh": "思穎，5歲女孩，有音韻障礙並缺乏音韻意識。治療師採用語音意識治療法，先在概念層次教導聲音特性，如用「長音/短音」概念解釋持續音與爆發音的分別，以視覺符號輔助。再進入音韻層次，讓思穎判斷自己和他人的發音是否符合目標規則，最後在詞語層次練習。整個過程強調讓兒童理解語音系統的規律，而非單純模仿。"
   },
   {
     "id": "core-vocabulary-therapy",
@@ -544,7 +560,8 @@
       "Conduct 100-trial massed practice sessions in clinic using target words in games, turn-taking activities, and functional requests",
       "Advance to new core words when child achieves 80% consistency (same production across 4/5 trials) in both home and clinic",
       "Reassess overall speech consistency every 8 weeks using measures like Inconsistency Assessment to track generalization"
-    ]
+    ],
+    "case_scenario_zh": "浚熙，3歲男孩，診斷為不一致性音韻障礙，同一個詞在不同時候發音差異甚大，『蘋果』有時說成『bing go』有時說成『ping fo』。治療師與家長選取10個功能性核心詞彙，每節課密集練習同一目標發音，要求每次說法一致。治療師示範標準發音，浚熙每次嘗試後立刻比對，逐步建立穩定的詞語運動程式。"
   },
   {
     "id": "phonological-awareness-intervention",
@@ -576,7 +593,8 @@
       "Phoneme level: Teach phoneme isolation, segmentation, blending, deletion, and substitution using Elkonin boxes and counters",
       "Incorporate print when phoneme awareness emerges: link sounds to letters using multisensory activities and letter tiles",
       "Administer curriculum-based probes weekly and standardized reassessment every 12 weeks to monitor progress and adjust intensity"
-    ]
+    ],
+    "case_scenario_zh": "芷晴，5歲半女孩，有語音障礙且家長擔心她的讀寫準備。治療師進行音韻意識介入，活動由粗到細：先練習辨認押韻詞對（『貓/包』），再拍手數音節，最後進行聲母辨識遊戲如「找出以『b』開頭的圖片」。每節課結合繪本閱讀，在故事中突出目標音韻結構，同時發展語音意識和早期讀寫技能。"
   },
   {
     "id": "prompt-therapy",
@@ -609,7 +627,8 @@
       "Practice target words in blocks of 10 trials, fading PROMPTs systematically from full support to parameter cues to no touch",
       "Record accuracy at each PROMPT level (full, surface, parameter, none) to document motor learning and plan fading schedule",
       "Integrate targets into functional activities and routines, monitoring generalization to spontaneous speech contexts"
-    ]
+    ],
+    "case_scenario_zh": "梓軒，4歲男孩，患有複雜言語運動障礙，口語極少且模仿困難。治療師使用PROMPT，以手指輕觸他的下頜、臉頰和嘴唇，引導目標音的發音位置和時序。練習目標詞『媽媽』時，治療師一邊示範一邊在他臉部施以輕柔觸覺提示，同步整合觸覺、視覺和聽覺輸入，幫助他建立詞語的肌肉運動記憶，逐步減少身體提示依賴。"
   },
   {
     "id": "lsvt-loud",
@@ -640,7 +659,8 @@
       "Functional phrase practice: Speak 10 high-effort functional phrases at maximum loudness with cueing",
       "Conversation practice: Engage in structured dialogue maintaining increased loudness, with clinician feedback on loudness level",
       "Prescribe daily home practice: 2 sessions of phonation and pitch exercises using provided worksheets and log sheets"
-    ]
+    ],
+    "case_scenario_zh": "陳伯，68歲男士，患柏金遜症，說話聲量越來越小，家人常說聽不清楚。治療師採用LSVT LOUD方案，每週四節，連續四週高強度訓練。每節課要求陳伯以誇張的大聲練習持續元音、音調變化和功能性短句。治療師使用聲量計讓他即時看到音量數值，校正他對『大聲』的感知偏差，目標是令他在日常對話中自動維持足夠音量。"
   },
   {
     "id": "oral-motor-therapy",
@@ -674,7 +694,8 @@
       "Progress resistance, duration, or complexity when patient completes full set with good form across 2 consecutive sessions",
       "Document carryover to speech production: Compare pre- and post-exercise speech probes to assess functional impact",
       "Re-evaluate with oral mechanism exam monthly; discontinue oral motor exercises if no carryover to speech after 6-8 weeks"
-    ]
+    ],
+    "case_scenario_zh": "嘉儀，5歲女孩，有口腔肌肉功能問題，說話時嘴唇閉合不全且流口水。治療師採用口腔運動治療，以結構化口腔操練開始：嘴唇閉合練習、舌頭上下左右運動、吹泡泡及吸管練習。每節課以遊戲形式進行，如用吸管吸起紙片比賽。同時教導家長在家每天進行10分鐘口腔操練，配合改善進食姿勢，全面提升口腔肌肉功能。"
   },
   {
     "id": "integral-stimulation",
@@ -707,7 +728,8 @@
       "Step 3 Delayed Imitation: Introduce 3-5 second delay between model and patient production to increase motor planning demand",
       "Step 4 Spontaneous Production: Elicit word through question, picture, or carrier phrase without model",
       "Record accuracy percentage at each step and across sessions; advance to new targets when 80% accuracy achieved at Step 4"
-    ]
+    ],
+    "case_scenario_zh": "曉彤，3歲半女孩，患有兒童言語失用症，只能說少數單音節詞。治療師採用整合刺激法，以『看著我、聆聽我、跟我說』指令引導。先示範目標詞『爸爸』，要求曉彤同步跟說，再過渡到延遲跟說，最後在無提示下獨立說出。治療師配合手部動作提示音節數量，讓視覺和聽覺輸入互相強化，確保每次練習都成功以建立正確的運動程式。"
   },
   {
     "id": "camperdown-program",
@@ -738,7 +760,8 @@
       "Self-managed practice: Client schedules own practice in real-world situations, records 5-minute samples, self-rates stuttering",
       "Weekly review sessions: Analyze recorded samples, provide feedback, troubleshoot barriers, adjust practice targets",
       "Performance-contingent stage progression: Advance when less than 2% syllables stuttered in beyond-clinic speaking situations"
-    ]
+    ],
+    "case_scenario_zh": "俊朗，22歲男士，口吃影響工作面試。治療師採用坎珀當方案，首先教導他以9分量表自評說話流利度，再學習用緩慢延長的說話模式減少口吃。密集練習階段每週多次，在不同場景（電話、面試模擬）練習目標說話模式，並以錄音自我評分。維持階段逐步提高語速，目標是在自然對話速度下維持可接受的流利度。"
   },
   {
     "id": "comprehensive-stuttering-program",
@@ -769,7 +792,8 @@
       "Assign real-world homework: Graded speaking hierarchy from low to high anxiety situations with strategy practice and recording",
       "Weekly review: Analyze homework recordings, measure percent syllables stuttered, assess naturalness, process emotional responses",
       "Track outcomes monthly using SSI-4 and OASES; plan maintenance phase when goals achieved across speaking situations"
-    ]
+    ],
+    "case_scenario_zh": "啟明，35歲男士，嚴重口吃多年，影響職業發展。治療師安排他參加密集式CSP課程，第一週在小組中學習流利塑造技術如輕柔起音和延長元音，第二週逐步在電話、商店、工作場合練習，第三週處理負面態度和逃避行為，最後一週制定個人維持計劃。課程結合認知、行為和言語技術，全面處理口吃的多個維度。"
   },
   {
     "id": "cbt-stuttering",
@@ -801,7 +825,8 @@
       "Develop graded exposure hierarchy: Rank feared speaking situations from 0-100 anxiety, systematically work through hierarchy",
       "Acceptance and commitment work: Practice mindful acceptance of stuttering moments, identify values, commit to valued speaking actions",
       "Relapse prevention: Identify early warning signs, develop coping plan, schedule booster sessions at 1, 3, and 6 months post-treatment"
-    ]
+    ],
+    "case_scenario_zh": "淑芬，28歲女士，口吃伴隨嚴重社交焦慮，迴避一切公開說話。治療師採用CBT框架，先協助她識別觸發焦慮的自動化想法如『大家一定覺得我很奇怪』，挑戰其認知扭曲，以行為實驗驗證這些想法是否屬實。暴露階段由低挑戰情境（向朋友說話）逐步提升至高挑戰（向陌生人問路），配合放鬆技巧，系統性減少迴避行為。"
   },
   {
     "id": "altered-auditory-feedback",
@@ -833,7 +858,8 @@
       "Pair device use with modified speech pattern (prolonged speech or easy onsets) to maximize fluency enhancement",
       "Conduct probes without device monthly to assess whether motor learning is occurring or if fluency is device-dependent",
       "Quarterly review: Reassess percent syllables stuttered with and without device, troubleshoot barriers to consistent use, adjust settings as needed"
-    ]
+    ],
+    "case_scenario_zh": "家輝，19歲男生，口吃在安靜環境下較輕但在嘈雜場合加劇。治療師為他評估SpeechEasy裝置的適合性，在診所內測試延遲聽覺反饋對流利度的即時效果，並記錄在不同環境下的反應。治療師清楚說明裝置是輔助工具而非根治方法，建議配合流利塑造訓練同步進行，並制定在公開場合使用裝置的情境計劃。"
   },
   {
     "id": "self-therapy-stutterer",
@@ -864,7 +890,8 @@
       "Teach preparatory set technique: Anticipate difficult word, plan easy onset and light contacts, prevent tension before it starts",
       "Stabilization phase: Practice techniques in everyday speaking, generalize across situations, develop self-monitoring skills",
       "Maintain speaking diary: Daily log of speaking situations, technique use, success rate, and emotional responses for accountability"
-    ]
+    ],
+    "case_scenario_zh": "偉強，42歲男士，居住偏遠地區難以定期就診。治療師為他介紹弗雷澤自我治療框架，指導他閱讀相關材料並建立自我練習日誌。每月視像跟進時，治療師審閱他的日誌，討論在放鬆態度、輕柔接觸和流暢滑動三個技術上的進展，調整自我練習計劃，培養他對自身口吃的自主管理能力。"
   },
   {
     "id": "prolonged-speech",
@@ -896,7 +923,8 @@
       "Transfer to conversation: Practice prolonged speech in monologue, then structured dialogue, maintaining fluency at current rate",
       "Record weekly speech samples at increasing rates in clinic and home environments, measure percent syllables stuttered and naturalness (1-9 scale)",
       "Develop real-world speaking hierarchy; practice prolonged speech in graded situations from low to high stuttering risk with self-monitoring"
-    ]
+    ],
+    "case_scenario_zh": "詩雅，17歲女生，口吃影響學校口頭報告。治療師採用延長言語法，教導她在每個音節上稍作延長，配合柔和起音和適度的音調變化。從每分鐘40個音節的慢速開始，逐步提升至接近自然語速的每分鐘180個音節。練習情境由讀文章擴展至對話，再到模擬課堂發言，目標是在不同場合都能運用流暢言語模式。"
   },
   {
     "id": "milieu-teaching",
@@ -931,7 +959,8 @@
       "Keep interactions brief (1–3 minutes) and embed them throughout daily routines.",
       "Data-collect the number of initiations and correct responses per session.",
       "Fade prompts gradually as the child's spontaneous communication increases."
-    ]
+    ],
+    "case_scenario_zh": "小寶，2歲男孩，語言發展遲緩，詞彙量少於10個。治療師在遊戲室設置玩具車、積木等吸引物，等待小寶表示興趣時才介入。當小寶伸手指向玩具車，治療師採用時間延宕法，期待地望著他等待開口。小寶說出『車』後立即給予玩具作自然強化。治療師同時示範稍高一級的語言如『紅色的車』，在日常情境中自然提升語言能力。"
   },
   {
     "id": "it-takes-two-to-talk",
@@ -966,7 +995,8 @@
       "Embed language facilitation into daily routines (bath, meals, play) — at least 3 opportunities daily.",
       "Track child's communication acts per 15-minute observation to monitor progress.",
       "Generalise strategies to new routines and settings; SLP provides coaching via video feedback."
-    ]
+    ],
+    "case_scenario_zh": "嘉嘉，2歲半女孩，語言發展遲緩，主要以手勢溝通。治療師採用漢能方案，培訓媽媽成為主要介入者。教導媽媽四個OWL策略：觀察（Observe）、等待（Wait）、聆聽（Listen）並跟隨嘉嘉的引導。媽媽學習在嘉嘉看圖書時暫停等待，給予她開口的空間，並以平行談話描述她的行動如『嘉嘉拿書』，每天在家進行20分鐘互動練習。"
   },
   {
     "id": "narrative-intervention",
@@ -1000,7 +1030,8 @@
       "Practise generating an original story using the same story-grammar framework.",
       "Repeat with new stories across 2–3 sessions per week; gradually fade visual supports.",
       "Measure macrostructure (story grammar completeness) and microstructure (sentence complexity) at each session."
-    ]
+    ],
+    "case_scenario_zh": "子朗，6歲男孩，有發展性語言障礙，說故事時缺乏開頭、中段和結尾結構。治療師採用敘事介入，使用故事語法圖示教導他故事六要素：角色、場景、問題、行動、結果和感受。以繪本《三隻小豬》為媒介，先共讀再填寫故事圖，然後讓子朗用自己的話重述，治療師以擴展和重鑄技術補充他遺漏的故事元素，逐步提升敘事複雜度。"
   },
   {
     "id": "enhanced-milieu-teaching",
@@ -1035,7 +1066,8 @@
       "Coach caregivers to use EMT strategies during daily routines — at least 2 coached sessions.",
       "Monitor percentage of correct target productions and spontaneous initiations weekly.",
       "Systematically fade prompts from full model → partial model → time delay → natural cue."
-    ]
+    ],
+    "case_scenario_zh": "俊希，3歲男孩，患有自閉症，較少主動溝通。治療師採用強化環境教學法，在遊戲情境中安排溝通機會：把最喜愛的玩具放在透明密封盒中，等待他以任何方式要求（眼神、手勢或語言）。當俊希伸手指向盒子，治療師用時間延宕等待，再以示範提示『打開』，俊希仿說後立即給予強化，同時自然擴展至『打開盒子』，逐步提升主動溝通頻率。"
   },
   {
     "id": "fast-forword",
@@ -1070,7 +1102,8 @@
       "Supplement with live SLP sessions (1×/week) to reinforce targets, troubleshoot, and maintain motivation.",
       "Re-administer standardised phonological and language assessments at programme completion.",
       "Plan transition to classroom-based or literacy support after programme completion."
-    ]
+    ],
+    "case_scenario_zh": "嘉駿，4歲男孩，語言發展遲緩，詞彙理解和表達均落後。治療師採用聚焦刺激介入，圍繞目標詞彙『動物名稱』設計主題活動。在30分鐘治療節中，目標詞如『大象、長頸鹿』被重複嵌入至少20次，透過動物農場遊戲、圖卡配對和故事朗讀多種活動呈現。治療師不要求嘉駿立即說出，而是大量輸入後自然等待他主動運用，配合家長在家延伸練習。"
   },
   {
     "id": "social-communication-intervention",
@@ -1105,7 +1138,8 @@
       "Team members (SLP, OT, teacher, parents) coordinate strategies using the Transactional Support log.",
       "Re-administer SAP every 3–6 months to measure progress and update goals.",
       "Fade adult supports as the child demonstrates increased independence and self-regulation."
-    ]
+    ],
+    "case_scenario_zh": "樂希，4歲男孩，患有自閉症，缺乏共同關注和社交溝通。治療師採用SCERTS模型，評估他在社交溝通、情緒調節和跨情境支援三個範疇的需求。在自然遊戲情境中，治療師與家長合作，在樂希感興趣的火車遊戲中建立共同關注，以誇張表情和聲調吸引他的眼神接觸，並在情緒高漲時引入調節策略如深呼吸，全面支援他的社交溝通發展。"
   },
   {
     "id": "morphosyntax-intervention",
@@ -1140,7 +1174,8 @@
       "Track frequency of target structure in spontaneous language samples (50–100 utterances) every 4 weeks.",
       "Increase complexity once accuracy exceeds 80% in spontaneous samples.",
       "Train parents to use contingent recasting during daily conversations at home."
-    ]
+    ],
+    "case_scenario_zh": "曉嵐，3歲半女孩，語法發展遲緩，句子結構簡單，缺乏動詞時態標記。治療師採用重鑄治療法，在自然對話中當曉嵐說出『貓跳』時，治療師以正確語法重鑄：『對，貓咪跳上去了』，不糾正只擴展，讓她在低壓力環境中接收正確語法輸入。每節課重鑄目標結構約30至40次，同時記錄她自發使用目標語法的頻率以追蹤進展。"
   },
   {
     "id": "vocabulary-intervention",
@@ -1174,7 +1209,8 @@
       "Encourage the child to use target words in original sentences and discuss their own experiences.",
       "Assess word knowledge weekly using a vocabulary knowledge scale (0 = no knowledge to 4 = can use it correctly).",
       "Generalise by encouraging use of words in class writing tasks and home conversations."
-    ]
+    ],
+    "case_scenario_zh": "文俊，6歲男孩，詞彙量偏低，學習新詞困難。治療師採用豐富詞彙教學，以深度學習法介紹目標詞如『巨大』：先解釋定義，再舉多個情境例子，討論詞語的特徵和用法，最後以詞彙網絡圖連結相關詞語如『龐大、細小』。每節課針對8至10個目標詞，配合繪本故事和角色扮演活動，讓詞彙學習在意義豐富的情境中發生。"
   },
   {
     "id": "lee-silverman-voice",
@@ -1207,7 +1243,8 @@
       "Provide biofeedback using a sound level meter every session; mark achieved loudness relative to the target.",
       "Deliver therapy in the standard LSVT LOUD protocol: 4 individual sessions per week for 4 consecutive weeks (16 sessions total).",
       "Conduct post-treatment assessment and coach the client to self-monitor loudness as a lifelong daily habit."
-    ]
+    ],
+    "case_scenario_zh": "李婆婆，72歲女士，患柏金遜症多年，聲音沙啞細弱，子女反映難以聽清她說話。治療師採用LSVT LOUD方案，每週四節共十六節密集訓練。每節課以持續發『啊』音熱身，再練習音調滑音，最後練習功能性句子如『我要飲水』。治療師強調『用力大聲說』的核心概念，以聲量計即時顯示音量，幫助李婆婆重新校正對正常音量的感知，並教導家人鼓勵她在家保持大聲說話習慣。"
   },
   {
     "id": "sovt-exercises",
@@ -1241,7 +1278,8 @@
       "Progress to semi-occluded speech: practise short phrases with initial resonant quality maintained.",
       "Assign home practice: 2 × 10-minute sessions per day using the straw or lip trill technique.",
       "Monitor vocal quality (perceptual ratings), client-reported ease of phonation, and acoustic measures (H1–H2, cepstral peak prominence) at each session."
-    ]
+    ],
+    "case_scenario_zh": "嘉文，15歲男生，聲帶小結導致聲音沙啞，說話費力。治療師採用半封閉聲道練習，以吹水泡和哼鳴練習開始，讓嘉文感受聲道半封閉時的振動感。再進行脣顫音練習，保持連貫氣流和音調變化。治療師解釋半封閉狀態能減低聲帶碰撞力度，有助小結消退。每節課練習15分鐘，配合聲音衛生教育，減少喊叫和清喉嚨等不良習慣。"
   },
   {
     "id": "resonant-voice-therapy",
@@ -1275,7 +1313,8 @@
       "Practise in structured conversation with the clinician, monitoring for any return of hyperfunction.",
       "Assign home practice: 3 × 5-minute sessions per day; use a mirror or hand on chest to monitor vibration locus.",
       "Re-assess using acoustic measures (CPP, shimmer), perceptual ratings (GRBAS), and patient self-report (VHI-10) every 4 weeks."
-    ]
+    ],
+    "case_scenario_zh": "詠恩，25歲女士，職業歌手，聲音使用過度導致聲音疲勞。治療師採用共鳴聲音治療，教導她以前置共鳴感覺發聲：先練習哼鳴感受鼻樑和臉部的振動，再將這種「面部振動感」帶入說話和演唱。透過『嗯…媽』的過渡練習，逐步在詞語、句子和長篇說話中建立共鳴發聲模式，令聲帶在高效率狀態下工作，減少聲音疲勞。"
   },
   {
     "id": "vocal-function-exercises",
@@ -1309,7 +1348,8 @@
       "Instruct the client to self-monitor for any strain, pain, or voice breaks — these indicate excessive effort.",
       "Record maximum phonation time for Exercise 1 and pitch range achieved in Exercises 2–3 at each clinical session.",
       "Re-administer VHI-10 and acoustic measures (jitter, shimmer, HNR) every 4 weeks to track progress."
-    ]
+    ],
+    "case_scenario_zh": "Sir陳，38歲男教師，長期聲音沙啞，喉嚨緊繃。治療師採用聲帶功能練習，每節課包含四個練習：持續發最高舒適音調的『i』音、滑音由低至高、滑音由高至低，以及在舒適音域持續發元音。每個練習重複若干次，治療師監察他的音質和呼吸支持。家庭練習每天早晚各一次，持續六至八週，目標是恢復聲帶肌肉的彈性和協調性。"
   },
   {
     "id": "accent-method",
@@ -1343,7 +1383,8 @@
       "Practise connected reading and conversation using the rhythmic patterns.",
       "Assign home practice: 2 × 10-minute sessions daily using the rhythms independently.",
       "Assess progress using acoustic measures (F0, intensity variability, CPP) and perceptual voice quality ratings every 4 weeks."
-    ]
+    ],
+    "case_scenario_zh": "美怡，30歲女士，功能性發聲障礙，說話時喉嚨緊張，聲音緊繃。治療師採用重音法，以節奏和身體動作引導放鬆發聲。先以腹式呼吸配合輕拍桌面的節奏哼唱，再加入元音，以輕重格律（如強-弱-弱）組織音節練習。治療師示範如何以身體律動帶動氣息流動，讓美怡體驗在放鬆狀態下發聲，逐步消除喉部緊張，建立輕鬆高效的發聲模式。"
   },
   {
     "id": "confidential-voice",
@@ -1377,7 +1418,8 @@
       "Schedule weekly follow-up appointments to monitor recovery and adjust voice demands accordingly.",
       "Transition gradually to normal loudness and voice effort as healing is confirmed by the laryngologist.",
       "Re-assess with laryngoscopy findings and acoustic/perceptual measures at each follow-up."
-    ]
+    ],
+    "case_scenario_zh": "雅君，22歲女士，聲帶出血後聲音極度沙啞，醫生建議聲帶休息。治療師採用低語式聲音治療，教導她以非常輕柔、氣息感強的嗓音說話，避免聲帶強力碰撞。同時進行嚴格聲音衛生教育：禁止喊叫和清喉嚨，多喝水保持聲帶濕潤，避免咖啡因。治療師定期監察聲音質素，待出血吸收後逐步恢復正常發聲訓練。"
   },
   {
     "id": "prelinguistic-milieu-teaching",
@@ -1412,7 +1454,8 @@
       "Use time delay (3–5 seconds) to increase opportunities for the child to initiate.",
       "Train caregivers to use PMT strategies during 3–4 daily routines (feeding, bath, play).",
       "Track rate of intentional communication acts (RIA) per 10-minute observation weekly."
-    ]
+    ],
+    "case_scenario_zh": "小恩，1歲2個月男嬰，發展遲緩，缺乏目光接觸和溝通意圖。治療師採用前語言期環境教學，在地板遊戲中跟隨小恩的視線注意力，模仿他的動作和聲音以建立互動循環。當他偶然發出聲音，治療師立即回應並等待他再次發聲，逐步建立輪流互動模式。同時教導家長在日常護理如換尿片時，以誇張面部表情和聲調吸引他的目光，培養基本溝通意圖。"
   },
   {
     "id": "reciprocal-scaffolding-treatment",
@@ -1447,7 +1490,8 @@
       "Rotate roles and topics across sessions to expose students to varied discourse demands.",
       "Gradually reduce SLP scaffolding as students develop more independent collaborative skills.",
       "Review session recordings with students to build metalinguistic awareness of their own communication."
-    ]
+    ],
+    "case_scenario_zh": "志豪，7歲男孩，有語言發展障礙，句子組織能力弱。治療師採用相互支架治療，安排他與一名語言能力稍強的同伴配對。在資訊差異活動中，兩人各有不同圖片，需要用語言互相描述和詢問。治療師從旁提供支架，在志豪表達困難時給予句型提示如『你可以說……在……旁邊』，逐步減少支架讓他獨立表達，同伴互動提供真實溝通動機。"
   },
   {
     "id": "recast-intervention",
@@ -1483,7 +1527,8 @@
       "Probe for spontaneous use of the target in a language sample (50 utterances) every 4 sessions.",
       "If no progress after 8 sessions, re-evaluate target selection or consider more explicit techniques.",
       "Fade recast frequency as accuracy in spontaneous speech reaches 80%."
-    ]
+    ],
+    "case_scenario_zh": "倩兒，2歲8個月女孩，語法發展遲緩，只說雙詞句如『媽媽去』。治療師採用重鑄介入，在積木遊戲中當倩兒說『積木跌』，治療師自然重鑄：『對呀，積木跌下來了』，不要求她重複，只提供正確語法示範。每節課針對特定語法結構如動詞短語，在自然互動中重鑄約40次。家長同樣接受培訓，在家中日常對話使用相同重鑄策略，加強語法輸入密度。"
   },
   {
     "id": "script-training",
@@ -1518,7 +1563,8 @@
       "Practise in a semi-naturalised setting (e.g., simulated café, phone call with a familiar person).",
       "Transfer to the real-world environment with the SLP present initially, then independently.",
       "Monitor script use and any spontaneous novel utterances beyond the script in probes."
-    ]
+    ],
+    "case_scenario_zh": "王先生，55歲男士，中風後患失語症，日常溝通困難。治療師採用腳本訓練法，與他選定三個重要生活場景：到茶餐廳點餐、致電給家人、看醫生。針對『點餐』腳本，治療師先示範整段對話，再讓王先生逐句練習，從有提示到無提示。每節課密集練習同一腳本直至熟練，再轉下一個場景，目標是讓他在真實情境中能獨立完成這些日常溝通任務。"
   },
   {
     "id": "treatment-underlying-forms",
@@ -1552,7 +1598,8 @@
       "Probe for generalisation to untreated exemplars and related structures weekly.",
       "Once the target structure is acquired, move to the next structure down the complexity hierarchy.",
       "Monitor sentence production accuracy in connected discourse samples every 4 weeks."
-    ]
+    ],
+    "case_scenario_zh": "張先生，62歲男士，患布洛卡失語症，說話電報式，複雜句子理解和表達均困難。治療師採用TUF，選取被動句和關係子句等複雜句法結構作訓練目標。以圖片描述任務引導張先生從簡單主動句逐步移動至被動句結構，治療師提供句法樹狀圖輔助理解句子成分的移動關係，觀察到訓練複雜結構後較簡單結構亦同時改善，體現語法系統的整體遷移效果。"
   },
   {
     "id": "semantic-feature-analysis",
@@ -1586,7 +1633,8 @@
       "Practice the same word set across 3 consecutive sessions before introducing new words.",
       "Probe naming accuracy for treated and untreated words at each session.",
       "Track naming accuracy scores over time and measure generalisation to discourse-level word retrieval."
-    ]
+    ],
+    "case_scenario_zh": "林女士，58歲女士，中風後患失語症，找詞困難，常說『那個……那個東西』。治療師採用語義特徵分析，以目標詞『雨傘』為例，引導林女士填寫語義特徵網格：它是什麼類別、外觀、用途、在哪裡找到、用來做什麼。透過啟動目標詞的語義網絡，提升詞彙提取效率。每節課練習8至10個目標詞，並追蹤未訓練詞的遷移效果。"
   },
   {
     "id": "constraint-induced-language-therapy",
@@ -1620,7 +1668,8 @@
       "Provide immediate positive reinforcement for all verbal attempts.",
       "Monitor verbal communication acts and accuracy daily using structured naming and conversation probes.",
       "Discuss a transfer package with the client: practise verbal communication in daily activities at home."
-    ]
+    ],
+    "case_scenario_zh": "陳先生，50歲男士，慢性失語症，習慣以手勢和點頭代替說話。治療師採用CILT，在小組治療中嚴格要求只能用口語溝通，禁止使用手勢或圖片板。透過高强度的配對溝通遊戲，每節課強迫他使用口語描述圖片、要求物件。治療師在他嘗試口語時立即給予鼓勵，口語失敗時提供最少提示，以密集口語練習促進語言功能重組。"
   },
   {
     "id": "computerised-language-intervention",
@@ -1655,7 +1704,8 @@
       "Supplement with live SLP sessions (1×/week) to reinforce targets, troubleshoot, and maintain motivation.",
       "Re-administer standardised phonological and language assessments at programme completion.",
       "Plan transition to classroom-based or literacy support after programme completion."
-    ]
+    ],
+    "case_scenario_zh": "俊傑，8歲男孩，有特殊語言障礙和聽覺處理困難，對快速語音反應慢。治療師採用電腦化語言介入，使用程式進行聽覺辨別訓練：先辨別頻率差異大的音對，再逐步縮小差異。每節30分鐘電腦練習，程式根據他的表現自動調整難度。治療師每週審閱進度數據，配合課室語言技能訓練，並與老師溝通在課堂提供適當支援。"
   },
   {
     "id": "vocal-function-exercises-stemple",
@@ -1690,7 +1740,8 @@
       "Clinician reviews self-monitoring log at each session; address any reports of discomfort or voice breaks.",
       "Measure maximum phonation time (Exercise 1) and report range (Exercises 2–3) at each clinical appointment.",
       "Reassess VHI-10 and acoustic measures (jitter, shimmer, NHR) at 4-week intervals to evaluate progress."
-    ]
+    ],
+    "case_scenario_zh": "周小姐，35歲女士，聲樂老師，聲音疲勞及音域縮窄。治療師採用史坦普聲帶功能練習方案，每天兩次練習四個步驟：以假聲持續發最高舒適音的『i』音，再做由低至高和由高至低的滑音，最後以胸聲持續發最低舒適音。治療師每兩週評估音域和聲音質素的變化，八週後周小姐的高音域明顯改善，聲音疲勞感減少。"
   },
   {
     "id": "resonant-voice-therapy-verdolini",
@@ -1725,7 +1776,8 @@
       "Practise in structured monologue (picture description, storytelling) maintaining resonant quality.",
       "Introduce the 'easy onset' technique: initiate vowel-initial words with a gentle /h/ or simultaneous onset to prevent hard attack.",
       "Re-assess with all baseline measures at 4-week intervals and discuss home practice log findings."
-    ]
+    ],
+    "case_scenario_zh": "曾小姐，29歲女士，聲帶小結，說話後聲音容易消失。治療師採用維朵里尼共鳴聲音治療，以哼鳴練習建立「前置振動感」，引導她感受上唇和鼻樑的振動而非喉嚨用力。從哼鳴過渡至『嗯媽』，再至詞語和句子層次，全程強調輕易、前置的振動感覺。治療師使用生物反饋輔助，讓她看到聲音波形，確認共鳴發聲模式正確，每週三節共八週。"
   },
   {
     "id": "accent-method-voice",
@@ -1760,7 +1812,8 @@
       "Practise connected reading and conversation using the rhythmic patterns.",
       "Assign home practice: 2 × 10-minute sessions daily using the rhythms independently.",
       "Assess progress using acoustic measures (F0, intensity variability, CPP) and perceptual voice quality ratings every 4 weeks."
-    ]
+    ],
+    "case_scenario_zh": "何小姐，32歲女士，肌肉緊張性發聲障礙，說話時頸部明顯緊繃。治療師採用音調法聲音治療，以節奏性身體動作配合腹式呼吸開始，讓她隨節拍輕拍大腿同時哼出元音。逐步加入輕重音節格律，如強-弱-弱的節奏模式練習詞語。治療師強調動作帶動氣息再帶動聲音的順序，讓何小姐體驗喉部放鬆的發聲感覺，每節課30分鐘，配合頸部放鬆伸展。"
   },
   {
     "id": "casper-stone-confidential-voice",
@@ -1794,7 +1847,8 @@
       "Educate the client on complementary vocal hygiene: hydration (8+ glasses water daily), no throat clearing, no shouting or whispering.",
       "Schedule weekly laryngoscopic follow-up with the medical team to monitor vocal fold healing progress.",
       "Gradually increase vocal intensity and effort as healing is confirmed, transitioning to normal conversational voice in a controlled, stepwise manner."
-    ]
+    ],
+    "case_scenario_zh": "鄭女士，45歲女士，聲帶息肉術後需要聲帶保護期康復。治療師採用保護性低語法，教導她以極輕柔、氣息感強但非耳語的方式說話，減低聲帶碰撞力度。同時制定嚴格的聲音使用時間表：每小時說話不超過10分鐘，其餘時間保持靜默。每週複診評估聲音恢復進度，並逐步指導她在聲帶癒合後如何安全地增加聲音使用量。"
   },
   {
     "id": "manual-circumlaryngeal-therapy",
@@ -1828,7 +1882,8 @@
       "Combine massage with humming: client hums while clinician continues gentle mobilisation until resonant, easy voice quality is achieved.",
       "Teach self-massage techniques for the client to practise at home between sessions.",
       "Reassess laryngeal palpation findings, voice quality (GRBAS, VHI-10), and acoustic measures after each block of 4 sessions."
-    ]
+    ],
+    "case_scenario_zh": "吳先生，40歲男士，功能性發聲障礙，說話聲音緊繃偏高，喉部外部可見肌肉緊張。治療師採用喉部手法治療，以手指輕柔地按摩喉骨周圍肌肉，逐步向下牽引喉骨位置。在手法操作同時要求吳先生持續發『嗯』音，觀察喉骨下降時音質是否改善。治療師記錄每次治療前後的音調和音質變化，配合聲音衛生教育，通常數節課後聲音緊張明顯改善。"
   },
   {
     "id": "transgender-voice-therapy",
@@ -1862,7 +1917,8 @@
       "Non-verbal communication coaching: facial expression, gesture patterns, and body language consistent with gender expression goals.",
       "Practise in real-world contexts: scripted phone calls, in-person interactions — with debriefing after each attempt.",
       "Review progress using acoustic measures (habitual F0, F1/F2 formants) and client self-report (TSQ, Transgender Voice Questionnaire) every 4–6 weeks."
-    ]
+    ],
+    "case_scenario_zh": "小雯，24歲跨性別女性，希望聲音更女性化。治療師首先評估她目前的音調範圍、共鳴位置和說話模式。介入分三個方向：音調訓練（目標speaking F0提升至165Hz以上）、共鳴訓練（從胸腔共鳴轉為頭腔前置共鳴）、以及語調模式調整（更豐富的音調變化）。每節課以音調滑音練習熱身，再練習目標音調說短句，配合錄音回饋，讓小雯逐步建立自然女性化的說話模式。"
   },
   {
     "id": "mcneill-dysphagia",
@@ -1893,7 +1949,8 @@
       "Practice sessions: 3 sets of 10 swallows per session, 3 times daily, minimum 5 days per week",
       "Monitor for signs of fatigue, aspiration, or decreased tolerance during exercises",
       "Re-assess swallowing function bi-weekly using instrumental assessment to track progress and adjust exercise parameters"
-    ]
+    ],
+    "case_scenario_zh": "余先生，58歲男士，頭頸癌放療後出現吞嚥障礙，固體食物難以吞下。治療師採用麥克尼爾吞嚥障礙治療方案，以漸進式抗阻吞嚥練習為核心：從吞嚥稀液體開始，逐步提升至濃稠液體和糊狀食物，每次嘗試後立即記錄成功率。同時進行喉部上提練習和舌根強化訓練，每節課設定明確的重複次數目標，追蹤每週進展，目標是在六至八週內恢復安全進食固體食物的能力。"
   },
   {
     "id": "shaker-exercise",
@@ -1925,7 +1982,8 @@
       "Complete exercise protocol three times daily (morning, afternoon, evening) for 6 weeks",
       "Monitor for neck strain, dizziness, or cardiovascular symptoms; discontinue if contraindications arise",
       "Re-assess UES opening and swallow function after 6-week protocol completion"
-    ]
+    ],
+    "case_scenario_zh": "方先生，65歲男士，中風後上食道括約肌開放不全，進食後有殘留感。治療師採用謝克抬頭練習，指導方先生平躺後抬頭看腳趾：先進行等長練習（抬起保持1分鐘，休息1分鐘，重複3次），再進行等張練習（連續抬頭30次）。每天兩組練習，持續六週。治療師定期以螢光透視吞嚥造影評估上食道括約肌開放程度的改善情況，並調整食物質感建議。"
   },
   {
     "id": "expiratory-muscle-strength-training",
@@ -1957,7 +2015,8 @@
       "Re-test MEP weekly and increase device threshold to maintain 75% intensity as strength improves",
       "Monitor for hyperventilation, dizziness, or excessive fatigue during training",
       "Assess swallowing outcomes (penetration-aspiration scale scores) at 4-week intervals"
-    ]
+    ],
+    "case_scenario_zh": "黃先生，70歲男士，患柏金遜症，咳嗽無力，進食時偶有嗆咳。治療師採用呼氣肌肉力量訓練，使用EMST裝置，設定在75%最大呼氣壓力的阻力水平。指導黃先生每天進行5組各5次的用力呼氣練習，每次呼氣需克服裝置阻力。每四週重新測量最大呼氣壓力並調高裝置阻力，持續八週。治療師同時評估咳嗽強度和吞嚥安全性的改善，並教導家人觀察嗆咳警號。"
   },
   {
     "id": "mendelsohn-maneuver",
@@ -1989,7 +2048,8 @@
       "Advance to varied textures: practice with purees, soft solids, ensuring consistent hold across textures",
       "Integrate into functional eating: cue patient to use technique during meals for specific difficult textures",
       "Monitor for fatigue and ensure adequate rest between practice trials"
-    ]
+    ],
+    "case_scenario_zh": "劉女士，60歲女士，食道癌手術後喉部上提減少，吞嚥後食物殘留。治療師教導門德爾松操作法：在吞嚥高峰時主動收縮喉部肌肉，用手指感受喉骨上升後主動維持在最高位置數秒再放鬆。先以空吞嚥練習動作，熟練後在進食稠液時應用。治療師以手放在劉女士喉部感受喉骨運動，提供即時觸覺反饋，每節課練習20次，配合螢光透視追蹤療效。"
   },
   {
     "id": "neuromuscular-electrical-stimulation",
@@ -2022,7 +2082,8 @@
       "Monitor skin for irritation, adjust electrode placement if needed",
       "Document patient tolerance, stimulation parameters, and swallowing performance during and after treatment",
       "Combine NMES with traditional swallowing therapy exercises for optimal outcomes"
-    ]
+    ],
+    "case_scenario_zh": "鄧先生，67歲男士，中風後吞嚥障礙，吞嚥時喉部上提不足。治療師採用神經肌肉電刺激治療，將電極片貼於頸部前方吞嚥相關肌肉，以低頻電流刺激同時配合主動吞嚥練習。每節治療60分鐘，電流強度由低逐步調高至患者可耐受水平。每週三節，連續三週，同步進行傳統吞嚥練習如用力吞嚥和門德爾松操作法，定期以臨床評估追蹤吞嚥安全性改善情況。"
   },
   {
     "id": "chin-tuck-against-resistance",
@@ -2055,7 +2116,8 @@
       "Complete protocol three times daily for 6-8 weeks",
       "Monitor for jaw discomfort, neck strain, or temporomandibular joint pain",
       "Progress resistance by using firmer ball or increasing hold duration as strength improves"
-    ]
+    ],
+    "case_scenario_zh": "梁女士，62歲女士，中風後吞嚥障礙，舌骨上肌群無力。治療師教導頸部前屈抗阻練習：將橡皮球置於下巴與胸骨之間，用力夾緊保持30秒，休息30秒，重複10次為一組，每天兩組。治療師確認姿勢正確，頸部保持中立位置，並指導梁女士在家獨立練習。每兩週複診評估肌力進展，六週後配合螢光透視評估吞嚥功能改善情況。"
   },
   {
     "id": "sequential-oral-sensory",
@@ -2090,7 +2152,8 @@
       "Progress through food textures: once tolerance improves, introduce actual food tastes and textures during therapy",
       "Monitor for gag reflex, adverse reactions, or oral hypersensitivity throughout session",
       "Educate caregivers in home sensory program for daily carryover between therapy sessions"
-    ]
+    ],
+    "case_scenario_zh": "樂樂，4歲女孩，只接受白飯和薯條兩種食物，拒絕所有其他食物。治療師採用SOS進食法，按食物接受層次由遠到近逐步推進：先讓樂樂容忍食物在桌上，再觸碰食物、聞氣味、親吻食物、舔食物，最後才嘗試小口咬。每次進展都給予大力稱讚，絕不強迫。治療師以薯條質感為橋梁，尋找相似口感的新食物作過渡，配合感覺脫敏活動減低口腔防禦。"
   },
   {
     "id": "get-permission-approach",
@@ -2123,7 +2186,8 @@
       "Model eating behavior: therapist or caregiver tastes food first, describes sensory properties enthusiastically",
       "Reinforce brave behavior: praise child's willingness to engage at any level, even if they don't eat the food",
       "End session positively: close with preferred activity or food to maintain positive association with mealtimes"
-    ]
+    ],
+    "case_scenario_zh": "小豆，18個月男嬰，進食困難，常將食物吐出，進食時間緊張。治療師採用查圖爾獲得許可進食法，教導家長完全跟隨嬰兒的飢餓和飽足信號，進食前詢問『你想食嗎？』並等待他表示就緒，不強迫餵食。治療師分析親子進食錄像，協助家長辨認小豆的飽足信號，逐步重建正向進食關係，減少進食時的抗拒和焦慮行為。"
   },
   {
     "id": "division-of-responsibility",
@@ -2158,7 +2222,8 @@
       "Close kitchen between meals: offer only water between scheduled eating times to build appetite",
       "Model healthy eating: parents eat same foods, demonstrating enjoyment without commenting on child's choices",
       "Monitor growth and development: track weight and height regularly to ensure adequate nutrition within child-led intake approach"
-    ]
+    ],
+    "case_scenario_zh": "曉曦，5歲女孩，偏食嚴重，家長擔心營養不足而強迫進食，導致每餐爭吵。治療師採用薩特進食分責模式，教導家長明確分工：家長負責提供什麼食物、在哪裡和何時進食，曉曦負責決定吃多少或是否進食。指導家長停止強迫、哄騙和獎勵策略，定時提供包含至少一種她接受的食物的膳食，在輕鬆環境下進食，逐步改善進食關係。"
   },
   {
     "id": "food-chaining",
@@ -2193,7 +2258,8 @@
       "Progress chain: once child accepts current link, introduce next small variation (e.g., change shape, brand, or cooking method slightly)",
       "Document chain pathway: track which modifications were accepted or rejected to inform future food introductions",
       "Celebrate wins: acknowledge child's bravery in trying foods at each chain step, reinforcing exploratory behavior"
-    ]
+    ],
+    "case_scenario_zh": "俊仔，3歲半男孩，只接受約10種食物，拒絕所有蔬菜。治療師採用食物鏈接法，從他已接受的薯片出發，找尋相似特性的新食物：相同質感但不同味道（蔬菜薯片）、相同形狀但不同原料（蔬菜條）、相似外觀的真實蔬菜（烤薯條形狀的紅蘿蔔）。每次只改變一個特性，讓俊仔逐步接受，配合遊戲式食物探索，每週嘗試一種新食物。"
   },
   {
     "id": "neonatal-oral-motor",
@@ -2225,7 +2291,8 @@
       "Provide chin and cheek support as needed: facilitate lip seal and effective suck pattern through gentle external support",
       "Progress to self-regulation: gradually reduce external support as infant demonstrates improved coordination and endurance",
       "Document intake, duration, and physiological tolerance: track volume consumed, feeding time, oxygen saturation, and adverse events each session"
-    ]
+    ],
+    "case_scenario_zh": "小希，孕32週出生早產兒，在NICU住院，口腔吸吮反射弱，難以完成瓶餵。治療師評估其口腔運動功能後，採用非營養性吸吮訓練：在餵食前提供安撫奶嘴讓她練習吸吮動作，每次5分鐘。同時指導護士和家長在餵食時支托小希的面頰和下巴以改善吸吮協調。密切監測吸吮-吞嚥-呼吸協調，逐步由管飼過渡至全口餵。"
   },
   {
     "id": "behavioral-feeding-intervention",
@@ -2260,7 +2327,8 @@
       "Generalize across settings: once skills emerge in therapy, train caregivers to implement protocol at home during family meals",
       "Monitor safety and ethics: ensure child is medically cleared for behavioral feeding; collaborate with medical team; stop if signs of aspiration or medical distress",
       "Track progress with data: graph daily intake, food variety, and refusal behaviors to evaluate treatment effectiveness and adjust protocol as needed"
-    ]
+    ],
+    "case_scenario_zh": "明仔，4歲男孩，嚴重食物拒絕，只靠補充奶維生，任何固體食物放近即哭鬧。治療師採用行為進食介入，以系統脫敏和正強化為核心：建立食物接受的行為層次，從容忍食物在桌上（給予貼紙獎勵），到觸碰食物，再到舔食物。每個步驟需達到連續三次無抗拒才進入下一步，配合忽視拒絕行為的策略，每週三節密集訓練並記錄數據。"
   },
   {
     "id": "thermal-tactile-application",
@@ -2295,7 +2363,8 @@
       "Document swallow latency (time from cue to swallow initiation) and any change in swallow trigger",
       "Perform bilateral stimulation (both sides of oral cavity) to maximize sensory input to swallowing centers",
       "Reassess swallow function with clinical or instrumental assessment after 2-3 weeks to evaluate efficacy"
-    ]
+    ],
+    "case_scenario_zh": "婆婆吳，78歲女士，中風後吞嚥反射延遲，口腔期食物積聚難以觸發吞嚥。治療師採用冷熱觸覺刺激法，以冰凍棉棒輕觸前咽弓四至五次，即時要求她嘗試空吞嚥。每節治療進行約十次刺激-吞嚥循環，觀察吞嚥反射潛伏期是否縮短。治療師同時記錄每次吞嚥的喉部上提幅度，配合稠液體進食練習，評估感覺刺激對吞嚥觸發的效果。"
   },
   {
     "id": "tongue-pressure-training-iowa",
@@ -2328,7 +2397,8 @@
       "Advance target pressure by 5-10% when patient achieves 30 consecutive successful repetitions at current level",
       "Reassess MITPr every 2 weeks to track strength gains and adjust training intensity accordingly",
       "Monitor for signs of muscle fatigue or discomfort; reduce intensity if patient unable to complete full protocol"
-    ]
+    ],
+    "case_scenario_zh": "李先生，55歲男士，中風後舌頭力量減弱，進食時食團控制困難，液體易溢出口腔。治療師採用舌壓訓練法，使用Iowa口腔操作儀器測量基線舌壓，設定80%最大舌壓為訓練目標。每節課進行舌頭上頂硬顎的抗阻練習，每組8次，重複3組。每兩週重新測量舌壓並調整阻力，持續八週。治療師同時評估食團控制和吞嚥安全性的進展，逐步調整食物質感建議。"
   },
   {
     "id": "iddsi-texture-modification",
@@ -2363,7 +2433,8 @@
       "Document recommended texture levels in care plan and communicate to all care team members and food service",
       "Reassess swallow function every 4-6 weeks or with clinical change to determine if texture upgrade is warranted",
       "Trial texture upgrade (move toward less restrictive level) when instrumental or clinical evidence supports improved safety"
-    ]
+    ],
+    "case_scenario_zh": "張婆婆，82歲女士，老年性吞嚥障礙，固體食物容易嗆咳，液體安全但固體需調整。治療師根據IDDSI框架評估後，建議採用第5級（細碎及濕潤）食物。與家人詳細討論如何將日常食物調整至目標質感：肉類切碎至0.4cm以下並加湯汁濕潤，蔬菜煮軟後切細。同時教導家人使用叉子壓力測試確認食物質感符合標準，並定期複診根據吞嚥功能變化調整質感級別。"
   },
   {
     "id": "supraglottic-swallow",
@@ -2395,7 +2466,8 @@
       "Monitor for signs of laryngeal penetration or aspiration (throat clearing, cough, wet vocal quality) during trials",
       "Complete 5-10 practice trials per session with rest breaks to prevent fatigue and maintain technique quality",
       "Schedule instrumental reassessment (FEES or VFSS) after 4-6 weeks of practice to document reduced aspiration"
-    ]
+    ],
+    "case_scenario_zh": "鄭先生，52歲男士，喉癌部分切除術後，吞嚥時有誤吸風險。治療師教導聲門上吞嚥法四步驟：深吸氣、閉氣屏住、吞嚥、吞嚥後立即咳嗽清喉。先以空吞嚥練習動作協調，熟練後在稀液體進食時應用。治療師以內視鏡確認聲門閉合時機，指導鄭先生感受閉氣的肌肉感覺，確保在正確時機完成閉合動作，有效防止吞嚥時誤吸。"
   },
   {
     "id": "effortful-swallow",
@@ -2427,7 +2499,8 @@
       "Gradually advance bolus size and texture as patient maintains effortful technique with smaller volumes",
       "Monitor for excessive tension or fatigue; cue patient to focus effort on pharyngeal squeeze not neck muscles",
       "Reassess pharyngeal residue using FEES or VFSS after 6-8 weeks to document improved clearance"
-    ]
+    ],
+    "case_scenario_zh": "吳女士，64歲女士，鼻咽癌放療後咽部收縮力減弱，吞嚥後食物殘留咽部。治療師教導用力吞嚥法：吞嚥時全力收縮所有口腔和咽部肌肉，如同『用盡全力擠壓』食物向下。先練習空吞嚥感受肌肉用力感，再在進食糊狀食物時應用。治療師以手觸碰吳女士的頸部感受咽部收縮力度，提供即時觸覺反饋，每節課練習20次，配合螢光透視追蹤咽部殘留改善情況。"
   },
   {
     "id": "masako-maneuver",
@@ -2459,7 +2532,8 @@
       "Monitor for tongue discomfort, soreness, or inability to maintain position; reduce repetitions if needed",
       "Emphasize this is exercise only, not a compensatory strategy - never use with food or liquid",
       "Reassess with FEES or VFSS after 6-8 weeks of strengthening to evaluate improved pharyngeal wall movement"
-    ]
+    ],
+    "case_scenario_zh": "黃先生，59歲男士，中風後咽後壁移動減少，吞嚥效率低。治療師教導正子吞嚥法：將舌尖輕輕咬住於門牙之間，保持舌頭前置的狀態下進行空吞嚥。此練習強化咽後壁向前收縮的力度。每節課練習10次空吞嚥，每週三節，持續六週。治療師提醒此為強化練習而非代償策略，實際進食時不應採用此姿勢，以免增加殘留。"
   },
   {
     "id": "pharyngeal-strengthening",
@@ -2491,7 +2565,8 @@
       "Monitor for muscle fatigue, soreness, or decreased performance; adjust intensity or repetitions as needed",
       "Schedule instrumental reassessment every 6-8 weeks to measure physiological change and guide programme progression",
       "Modify exercise programme based on reassessment findings: advance intensity, change exercises, or introduce functional practice"
-    ]
+    ],
+    "case_scenario_zh": "陳女士，56歲女士，頭頸癌放療後咽部肌肉纖維化，吞嚥費力且有殘留。治療師採用咽部強化訓練，包括：用力吞嚥練習、Masako練習、假聲發音練習（強化咽部閉合）及Shaker抬頭練習，每天兩組各10次。治療師以螢光透視評估基線咽部收縮幅度，每四週複評，根據進展調整練習強度。配合食物質感調整確保安全進食，目標是逐步恢復正常飲食。"
   },
   {
     "id": "tube-weaning-graz",
@@ -2524,7 +2599,8 @@
       "Gradually shift caloric balance from tube to oral: increase oral opportunities and decrease tube volumes systematically",
       "Monitor weight weekly with dietitian oversight; ensure weight remains stable or shows controlled growth during weaning",
       "Discharge tube feeding when child sustains full oral nutrition for 2 consecutive weeks with adequate growth trajectory"
-    ]
+    ],
+    "case_scenario_zh": "小恆，2歲男孩，因早產和手術長期靠鼻胃管餵食，對口腔進食毫無興趣。治療師採用格拉茨管飼脫離模型，與醫療團隊確認他已具備醫療穩定性，開始系統性減少管飼量以建立飢餓感。每天在固定時間安排輕鬆的口腔進食機會，不施壓，讓他自主探索食物。治療師密切監察體重，家長每天記錄口腔進食量，逐步增加口腔份量同時相應減少管飼，目標在八至十二週內完全脫離鼻胃管。"
   },
   {
     "id": "aba-feeding-intervention",
@@ -2557,7 +2633,8 @@
       "Advance through hierarchy when child accepts current step 3 consecutive times at 80% success rate",
       "Generalize skills across people (parents, siblings, teachers) and settings (home, school, restaurants) systematically",
       "Develop maintenance plan: fading reinforcement schedule, monitoring protocols, booster session schedule for setbacks"
-    ]
+    ],
+    "case_scenario_zh": "軒仔，4歲男孩，患自閉症，嚴重食物拒絕，只接受三種食物，任何新食物出現即大哭。治療師採用ABA進食介入，先進行偏好評估確認最強強化物，制定食物接受層次的行為目標。以系統脫敏配合正強化：容忍食物在盤中可獲最愛玩具30秒，達標後才進至觸碰食物。治療師以DTT格式進行，精確記錄每個嘗試的反應數據，每週分析進展並調整介入計劃。"
   },
   {
     "id": "beckman-oral-motor",
@@ -2590,7 +2667,8 @@
       "Lip closure work: facilitate lip rounding and closure using gentle touch cues and resistance at lip corners",
       "Complete 5-10 assisted repetitions per oral motor component with careful monitoring of infant tolerance",
       "Document infant responses, tolerance, and carryover to feeding; reassess monthly to track progress and adjust techniques"
-    ]
+    ],
+    "case_scenario_zh": "安安，2歲半女孩，唐氏綜合症，口腔低張力，流口水，咀嚼能力弱。治療師採用貝克曼口腔運動方案，以系統性被動輔助運動評估口腔各部位的抵抗力和運動範圍，再針對薄弱部位進行輔助主動運動：下頜上下運動、嘴唇閉合牽拉、臉頰内外推壓、舌頭前後側移。每節課15至20分鐘，每週兩節，教導家長在家每天進行一次，配合食物質感調整促進咀嚼發展。"
   },
   {
     "id": "responsive-feeding-therapy",
@@ -2624,7 +2702,8 @@
       "Provide in-session coaching during mealtimes with real-time feedback on responsive vs. non-responsive interactions",
       "Systematically reduce non-responsive feeding strategies: coaxing, forcing, bribing, distracting during spoon delivery",
       "Reassess feeding relationship and mealtime quality monthly using validated measures and caregiver report"
-    ]
+    ],
+    "case_scenario_zh": "小桃，3歲女孩，食慾差，進食量少，家長焦慮而強迫進食，每餐哭鬧。治療師採用回應式餵養治療，教導家長辨認並回應小桃的飢餓和飽足信號，停止強迫進食行為。建立規律進食時間表，每隔2.5至3小時提供餐食，零食時間固定。治療師與家長分析進食錄像，辨認互動中的緊張時刻，提供具體回應策略，逐步重建輕鬆正向的進食關係。"
   },
   {
     "id": "taste-exposure-therapy",
@@ -2657,7 +2736,8 @@
       "Introduce taste exposure: small lick or taste, spit out allowed, no pressure to swallow initially",
       "Advance through hierarchy with 3-5 neutral exposures per step before progressing to next level",
       "Set goal of 10-15 total exposures per target food before expecting acceptance; track exposure frequency and responses"
-    ]
+    ],
+    "case_scenario_zh": "俊生，5歲男孩，對新食物極度抗拒，食物種類少於15種。治療師採用味覺暴露治療，制定系統性接觸計劃：每週引入一種新食物，以遊戲方式反覆接觸，不強迫進食。活動包括：觀察食物顏色形狀、以工具觸碰、聞氣味、親吻食物、舔一下。治療師記錄每次接觸的反應，通常需要10至15次接觸後才建立接受，強調過程輕鬆無壓力，家長在家複製同樣活動。"
   },
   {
     "id": "sensory-based-feeding-intervention",
@@ -2691,6 +2771,7 @@
       "Structure mealtimes with predictable sensory routines: same place, utensils, presentation style to reduce sensory load",
       "Coach caregivers in sensory-informed feeding strategies: pacing, environmental modifications, sensory breaks during meals",
       "Reassess sensory patterns and feeding progress every 6-8 weeks; adjust intervention based on emerging tolerance patterns"
-    ]
+    ],
+    "case_scenario_zh": "嘉嘉，2歲女孩，感覺處理障礙，口腔觸覺防禦強，拒絕所有糊狀和濕滑質感的食物，只接受乾脆食物。治療師採用感覺為本進食介入，先進行全身感覺脫敏活動如深壓和關節本體感覺輸入，降低整體感覺防禦水平。再針對口腔進行系統性脫敏：從手部觸碰糊狀物料，到面部，再到嘴唇外，最後口腔內。配合職業治療師協作，制定家庭感覺飲食計劃，每天進行感覺準備活動後再嘗試進食。"
   }
 ]
