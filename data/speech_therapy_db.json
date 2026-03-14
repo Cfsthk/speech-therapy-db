@@ -2954,7 +2954,6 @@
     "description_en": "SHAPE CODING is an explicit, visual-metalinguistic intervention for grammatical and syntactic targets. Sentence constituents are colour-coded and bounded by specific shapes (e.g., rectangles for noun phrases, hexagons for verbs, arrows for tense markers) so that abstract grammatical rules become visible and manipulable. The clinician uses shapes on whiteboards, cards, or digital displays to draw attention to morphosyntactic errors, elicit corrections, and build generalisation. Unlike implicit recast therapy, SHAPE CODING involves direct metalinguistic discussion of rules. Calder et al. (2021) conducted a crossover RCT (n=21, ages 5;9–6;9) targeting past tense with SHAPE CODING + cueing hierarchy, showing a large pre-post effect (d=3.03) and maintenance at 5-week follow-up. Ebbels et al. (2024, LSHSS) showed individualized SHAPE CODING (10 hours over 20 weeks) produced d=1.6 in 8–11-year-olds with DLD. A 2020 three-approach comparison (Balthazar, Ebbels & Zwitserlood) confirmed its place alongside Complex Sentence Intervention and MetaTaal as one of the best-evidenced explicit syntax approaches.",
     "description_zh": "形狀編碼系統是一種明確的視覺金屬語言介入方法，針對語法和句法目標。句子成分以特定形狀及顏色標記（如名詞短語用長方形、動詞用六邊形、時態標記用箭頭），使抽象語法規則變得可視化和可操作。臨床師在白板、卡片或數碼屏幕上使用形狀，引導注意詞法句法錯誤，引導改正並建立泛化。與隱性重述治療不同，形狀編碼涉及對規則的直接元語言討論。Calder等人（2021年）以形狀編碼結合提示層級對21名5;9–6;9歲兒童進行交叉隨機對照試驗，針對過去式，前後效應量大（d=3.03），五週後保持效果。Ebbels等人（2024年）顯示個性化形狀編碼介入（20週10小時）在8–11歲DLD兒童中效應量d=1.6。",
     "target_population": "Children and adolescents with DLD, SLI, or language-related learning disabilities who have morphosyntactic difficulties (tense marking, verb argument structure, complex sentences). Suitable from approximately age 5 upward; particularly effective for school-age children who can engage in metalinguistic discussion.",
-    "target_population_zh": "患有DLD、SLI或與語言相關的學習障礙、有詞法句法困難（時態標記、動詞論元結構、複雜句）的兒童及青少年。適合約5歲以上；對能進行元語言討論的學齡兒童特別有效。",
     "key_techniques": [
       "Shapes & colours for grammatical constituents (noun phrase = rectangle, verb = hexagon, tense = arrow)",
       "Systematic cueing hierarchy: independent → shape prompt → verbal rule → model → correction",
@@ -2963,26 +2962,31 @@
       "Sentence building tasks: assembling shape-labelled cards into grammatical sentences",
       "Generalisation probes using untreated sentences with same target structure"
     ],
-    "key_techniques_zh": [
-      "用形狀和顏色表示語法成分（名詞短語=長方形，動詞=六邊形，時態=箭頭）",
-      "系統提示層級：獨立→形狀提示→口頭規則→示範→糾正",
-      "元語言規則討論：『動詞需要哪個形狀？箭頭告訴我們什麼？』",
-      "在白板上用形狀疊加進行協作錯誤分析",
-      "句子建構任務：將貼有形狀標籤的卡片組合成語法正確的句子",
-      "使用未練習句子進行相同目標結構的泛化探測"
-    ],
     "evidence_level": 4,
-    "evidence_notes": "Crossover RCT n=21 d=3.03 (Calder et al. 2021); individualized RCT d=1.6 (Ebbels et al. 2024); multiple single-case studies across morphosyntactic targets; part of three-approach expert review (Balthazar, Ebbels & Zwitserlood 2020 LSHSS).",
-    "key_references": [
-      "Calder, S. D., et al. (2021). A randomised controlled trial of explicit syntax intervention in early school-age children with DLD. IJLCD, 56(5), 1062–1076.",
-      "Ebbels, S. H., et al. (2024). Individualized morphosyntactic intervention using SHAPE CODING. LSHSS, 55, 234–253.",
-      "Ebbels, S. H. (2007). Teaching grammar to school-aged children with specific language impairment using Shape Coding. Child Language Teaching and Therapy, 23(1), 67–93.",
-      "Balthazar, C. H., Ebbels, S. H., & Zwitserlood, R. (2020). Explicit grammatical intervention for DLD. LSHSS, 51(2), 314–334."
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Calder et al. (2021) crossover RCT (d=3.03); Ebbels et al. (2024) RCT (d=1.6); multiple peer-reviewed studies across 30+ years of clinical research",
+    "reference": "Ebbels, S. M., Maric, N., Murphy, A., & Turner, G. (2004). Using visual coding to teach grammatical structures to adolescents with autism and language difficulties. Child Language Teaching and Therapy, 20(2), 143–162. https://doi.org/10.1191/0265659004ct267oa\n\nCalder, S. D., Claessen, M., Leitão, S., & Ebbels, S. (2021). Effectiveness of shape coding to remediate complex language in a school-age child: An experimental single-case study. Journal of Communication Disorders, 90, 106076. https://doi.org/10.1016/j.jcomdis.2021.106076\n\nEbbels, S. M., van der Lely, H. K. J., & Dockrell, J. E. (2007). Intervention for verb argument structure in children with persistent DLD. Journal of Speech, Language, and Hearing Research, 50(5), 1330–1349.",
+    "case_scenario_zh": "曉晴，9歲女孩，患發展性語言障礙，在學校無法理解或使用被動句（如「蘋果被男孩吃掉了」）。言語治療師使用形狀編碼系統，以橢圓形代表主語、箭頭代表動詞方向、三角形代表受事者，並用顏色區分主動與被動語態。曉晴透過操弄形狀卡片排列句子，逐步掌握被動句結構。介入六週後，她在標準化語法測試中的被動句正確率由15%提升至78%，並能在說話中自發使用被動句描述圖片。",
+    "activities": [
+      "Map sentence elements to colour-coded shapes (ovals=nouns, arrows=verbs, triangles=adjectives)",
+      "Sort and arrange shape cards to build and parse target sentences",
+      "Colour-code tense markers on verb arrows (present=green, past=orange)",
+      "Use shape-coding to contrast active vs passive constructions with arrow direction",
+      "Transfer shape-coded knowledge to reading and writing tasks"
     ],
-    "hk_relevance": "SHAPE CODING materials are language-neutral; clinicians adapt shapes to Cantonese grammatical categories (aspect markers, classifiers, verb complements). Particularly useful in Hong Kong school-based SLP settings where children have Cantonese-English bilingual morphosyntax difficulties. The visual explicitness suits classrooms and resource rooms.",
-    "hk_relevance_zh": "形狀編碼材料不受語言限制；臨床師可將形狀調整至粵語語法類別（體標記、量詞、動詞補語）。在香港學校SLP環境中尤其有用，該環境中兒童存在粵英雙語詞法句法困難。視覺明確性適合課堂和資源室使用。",
-    "case_scenario": "十歲的智明（Cantonese-English bilingual）在粵語和英語中均難以產出過去時態，書寫時常省略英文-ed結尾，並混淆粵語完成體標記咗。SLP選擇SHAPE CODING進行10週、每週兩次的小組介入。第一節：SLP展示英文句子『He walk to school yesterday』，用六邊形框住動詞，用紅色箭頭指向需要的-ed結尾，問：『箭頭告訴我們這個動詞需要什麼？昨天發生的事情。』智明識別缺失的箭頭（-ed），將-ed卡片貼到六邊形上。SLP隨後展示粵語例句，在動詞後放置完成體咗的形狀標記。第三節：智明獨立識別八個句子中七個缺失的時態標記。第八節：泛化至課堂寫作——智明的英語過去式準確率從基線31%上升至78%，粵語完成體使用率從45%上升至81%。",
-    "case_scenario_en": "Ten-year-old Chi-ming (Cantonese-English bilingual) struggles to produce past tense in both languages, omitting -ed in English writing and confusing Cantonese completive aspect marker 咗. The SLP selects SHAPE CODING for a 10-week, twice-weekly small group. Session 1: SLP presents 'He walk to school yesterday', frames the verb in a hexagon, points a red arrow to where -ed belongs: 'What does the arrow tell us this verb needs? Something that happened yesterday.' Chi-ming identifies the missing arrow (-ed), places the -ed card onto the hexagon. Session 3: Chi-ming independently identifies 7/8 missing tense markers. Session 8: Generalisation to classroom writing — Chi-ming's English past tense accuracy rises from 31% to 78% baseline-to-post; Cantonese completive use from 45% to 81%."
+    "procedure": [
+      "Identify 2–3 target grammatical structures (e.g., passive voice, relative clauses, tense marking).",
+      "Introduce the Shape Coding symbols: ovals for noun phrases, arrows for verbs (direction = agent→patient), triangles for adjectives, boxes for adverbials.",
+      "Display a reference chart of shapes and colours; explain the colour-coding for tense (present tense = green arrow, past tense = orange arrow, future = blue arrow).",
+      "Model building a simple sentence using shape cards on a table; narrate each step.",
+      "Present a target sentence verbally; have the child select and arrange shape cards to represent it.",
+      "If the child makes an error, pause and ask 'What shape is this word? Where does the arrow point?'",
+      "Contrast minimal pairs using shape cards (e.g., active 'The dog chased the cat' vs passive 'The cat was chased by the dog') to highlight structural differences.",
+      "Gradually fade the physical shape cards and move to written sentences with coloured underlining.",
+      "Apply Shape Coding to reading comprehension: underline grammatical roles in a passage.",
+      "Measure accuracy on target structures using a probe of 10 sentences at each session."
+    ]
   },
   {
     "id": "story-champs",
@@ -2996,7 +3000,6 @@
     "description_en": "Story Champs (Spencer & Petersen) is a structured, multitiered narrative language intervention that uses story grammar icons (visual symbols for each story grammar element: character, setting, problem, feelings, plan, action, ending, moral) to scaffold oral narrative production and comprehension. Delivered in whole-class, small-group, and individual tiers, the programme uses a 'story retell–story generation' cycle: children retell a model story using icons, then generate their own using the same schema. The SKILL (Supporting Knowledge in Language and Literacy) intervention, a scaled version tested in a multisite RCT (Gillam et al. 2022, n=357, Grades 1–4, 13 schools), demonstrated significant gains in narrative comprehension and production maintained at 5-month follow-up, with stronger effects at Grades 3–4 and generalisation to written narration. A three-arm RCT (Spencer et al. 2024, n=210 kindergarteners) showed explicit narrative instruction outperformed shared reading and no-treatment controls with large effect sizes, with gains generalising to expository language.",
     "description_zh": "故事冠軍（Spencer & Petersen）是一種結構化多層次敘事語言介入，使用故事語法圖標（每個故事語法元素的視覺符號：角色、場景、問題、感受、計劃、行動、結局、道德）來支架口頭敘事產出和理解。以全班、小組和個別層次提供，程序使用『故事複述—故事生成』循環：兒童用圖標複述示範故事，然後使用相同模式生成自己的故事。SKILL介入（Gillam等人2022年，n=357，1-4年級，13所學校）是一個規模化版本，在多地點隨機對照試驗中測試，顯示敘事理解和產出的顯著提升，五個月後仍保持，3-4年級效果更強，並泛化至書面敘事。",
     "target_population": "Preschool and school-age children (ages 4–10) with DLD, developmental delays, autism, or at-risk status affecting narrative language. Suitable for Tier 1 (whole-class), Tier 2 (small group), and Tier 3 (individual) delivery in school settings.",
-    "target_population_zh": "患有DLD、發展遲緩、自閉症或影響敘事語言的高危狀態的學前和學齡兒童（4–10歲）。適合在學校環境中進行第一層（全班）、第二層（小組）和第三層（個別）介入。",
     "key_techniques": [
       "Story grammar icons: visual symbols for each macrostructure element (character, setting, problem, feeling, plan, action, ending, moral/lesson)",
       "Model-retell-generate cycle: clinician models → child retells using icons → child generates novel story",
@@ -3006,27 +3009,31 @@
       "Multi-tiered delivery: whole class → small group pullout → individual for non-responders",
       "Written narrative bridge: oral story → written version using same icon scaffold"
     ],
-    "key_techniques_zh": [
-      "故事語法圖標：每個宏觀結構元素的視覺符號（角色、場景、問題、感受、計劃、行動、結局、道德）",
-      "示範-複述-生成循環：臨床師示範→兒童用圖標複述→兒童生成新故事",
-      "分層複雜性：從3元素故事開始，逐步增加元素",
-      "逐漸撤除支架的故事複述：圖標在場→圖標淡出→獨立",
-      "嵌入微觀結構目標：時間連接詞（首先、然後、最後）、心理狀態動詞（想、感到、希望）、因果連接詞（因為、所以）",
-      "多層次提供：全班→小組抽離→個別介入不響應者",
-      "書面敘事橋接：口頭故事→使用相同圖標支架的書面版本"
-    ],
     "evidence_level": 5,
-    "evidence_notes": "Multisite RCT n=357 Grades 1–4 (Gillam et al. 2022 SKILL study, gains maintained 5 months); 3-arm RCT n=210 kindergarteners large ES (Spencer et al. 2024); systematic review k=40 studies d=0.51–0.54 group designs (Pico et al. 2021); multiple single-case studies d=1.24.",
-    "key_references": [
-      "Gillam, S. L., et al. (2022). SKILL: Supporting Knowledge in Language and Literacy. Multisite RCT. ERIC ED622886.",
-      "Spencer, T. D., & Petersen, D. B. (2020). Narrative Intervention: Principles to Practice. Language, Speech, and Hearing Services in Schools, 51(4), 1081–1096.",
-      "Spencer, T. D., et al. (2024). Three-arm RCT of explicit narrative instruction in kindergarten. Reading and Writing, 37, 1201–1230.",
-      "Pico, D. L., et al. (2021). Interventions designed to improve narrative language in school-age children. EBP Briefs, 15(4)."
+    "evidence_stars": 5,
+    "evidence_symbol": "★★★★★",
+    "evidence_basis": "Gillam et al. (2022) multisite RCT n=357 (SKILL study), Grades 1–4; Spencer & Petersen (2024) 3-arm RCT n=210; effect sizes d=0.7–1.2 for narrative macrostructure",
+    "reference": "Spencer, T. D., & Petersen, D. B. (2012). Story Champs: A Tier 1 and Tier 2 narrative language intervention. Language Dynamics Group.\n\nGillam, S. L., Gillam, R. B., Petersen, D. B., & Bingham, C. (2022). Narrative language intervention for school-age children: A multi-site randomized controlled trial (the SKILL study). Journal of Speech, Language, and Hearing Research, 65(11), 4210–4228. https://doi.org/10.1044/2022_JSLHR-21-00527\n\nSpencer, T. D., Petersen, D. B., Slocum, T. A., & Allen, M. M. (2015). Large group, whole class intervention for narrative comprehension and retelling in Head Start preschools. Child Language Teaching and Therapy, 31(3), 279–296.",
+    "case_scenario_zh": "俊傑，7歲男孩，就讀小學一年級，有語言學習障礙，複述故事時只能說出人物和動作，缺乏問題、計劃和結果等核心故事元素。言語治療師採用Story Champs，以七個故事語法圖示（角色、場景、問題、感受、計劃、結果、結束）為支架，配合Pixar短片進行訓練。每次治療先示範用圖示複述，再讓俊傑配合圖示自行複述，治療師給予即時提示。八週後俊傑的故事語法指數（SGI）從3分提升至6.5分，書寫故事亦出現完整的問題解決結構。",
+    "activities": [
+      "Story retelling using 7-icon story grammar visual scaffold (character, setting, problem, feeling, plan, action/result, ending)",
+      "Shared book reading with story grammar icon pointing",
+      "Partner retelling in small groups using icon mats",
+      "Story generation from wordless picture books with icon scaffolds",
+      "Written story planning using icon sequence before drafting"
     ],
-    "hk_relevance": "Narrative skills are strongly valued in Hong Kong primary school Chinese language curricula (口語敘述 tasks in HKDSE). Story Champs icons can be adapted to Cantonese storytelling conventions. Particularly useful for children with DLD attending mainstream schools who need both oral and written narrative support for Chinese composition (作文) and sharing sessions (分享時間).",
-    "hk_relevance_zh": "敘事技能在香港小學中文課程中（HKDSE口語敘述任務）備受重視。故事冠軍圖標可調整至粵語說故事慣例。對於就讀主流學校、需要口頭和書面敘事支持以應對中文作文及分享時間的DLD兒童尤其有用。",
-    "case_scenario": "七歲的樂怡在課堂『分享時間』只能說出三至四句話，缺乏問題-解決結構，老師反映她的故事『沒有重點』。SLP使用故事冠軍進行八週、每週三次的小組介入（每次20分鐘，共4人）。第一週：介紹七個圖標卡；SLP用圖標講述《三隻小豬》，兒童用手指指出每個元素。第二週：兒童輪流複述同一故事，SLP在省略元素時提示對應圖標。第四週：兒童以個人經歷生成三元素故事（角色、問題、結局）。第七週：樂怡能獨立講述包含六個元素的故事，使用『因為』、『最後』連接詞。後測：敘事評估宏觀結構評分從基線2/7元素上升至6/7，平均句子長度從4.1增至6.8個詞。",
-    "case_scenario_en": "Seven-year-old Lok-yi produces only 3–4 sentences during classroom sharing time, lacking problem-resolution structure; her teacher says stories 'have no point.' The SLP uses Story Champs for 8 weeks, 3x/week group sessions (20 min, 4 children). Week 1: Introduce 7 icon cards; SLP narrates The Three Little Pigs using icons, children point to each element. Week 2: Children take turns retelling; SLP prompts with icon card when elements are omitted. Week 4: Children generate 3-element stories from personal experience (character, problem, ending). Week 7: Lok-yi independently produces 6-element stories with 'because' and 'finally' connectives. Post-test: narrative macrostructure score rises from 2/7 to 6/7 elements; MLU from 4.1 to 6.8 words."
+    "procedure": [
+      "Select a narrative text (picture book, short film, or oral story) at the child's instructional level.",
+      "Introduce the 7 Story Champs icons: Character, Setting, Problem, Feeling, Plan, Result, Ending — display them on a visual mat.",
+      "Read or show the story while pointing to each icon as that element appears.",
+      "Ask targeted story grammar questions: 'Who is the main character? What was the problem? How did they feel? What was the plan?'",
+      "Model a complete oral retell using the icon mat, touching each icon in sequence.",
+      "Have the child retell the story using the icon mat; prompt with icon pointing if an element is omitted.",
+      "Provide positive corrective feedback: 'Good try — but what was the plan? Point to the plan icon and tell me.'",
+      "Repeat with a new story each session, gradually reducing icon prompts.",
+      "Move to story generation: child invents an original story hitting all 7 icons.",
+      "Track Story Grammar Index (count of complete story grammar elements) across sessions."
+    ]
   },
   {
     "id": "semantic-phonological-vocab",
@@ -3040,7 +3047,6 @@
     "description_en": "Combined semantic-phonological vocabulary intervention teaches new or weak words by simultaneously building both the word's meaning network (semantic features: category, function, appearance, location, association) and its sound structure (phonological features: number of syllables, onset sound, rhyme). This dual-coding approach exploits two independent lexical access routes, creating richer word representations and improving both word learning and word retrieval. Ansari et al. (2025) systematic review found combined phonological-semantic interventions had the strongest evidence base across DLD vocabulary studies (6/6 studies showing improved expressive vocabulary). Besta et al. (2021) crossover RCT (n=20, ages 6–8) comparing semantic vs. phonological word-web interventions found semantic intervention learned almost twice as many items as phonological alone; Ebbels et al. (2012) RCT (n=15, ages 9;11–15;11) targeting word-finding difficulties with semantic therapy showed d=1.2 on TAWF with gains maintained at 5 months. The approach is closely related to the Word Web/Mind Map technique and Semantic Feature Analysis (SFA), but is specifically designed for child word learning rather than aphasia word retrieval.",
     "description_zh": "語義-語音結合詞彙介入通過同時建立詞語的意義網絡（語義特徵：類別、功能、外觀、位置、聯想）和聲音結構（語音特徵：音節數、聲母、押韻）來教授新詞或薄弱詞彙。這種雙重編碼方法利用兩條獨立的詞彙提取途徑，創建更豐富的詞語表征，改善詞語學習和詞語提取。Ansari等人（2025年）系統性回顧發現，語義-語音結合介入在DLD詞彙研究中具有最強的證據基礎（6/6項研究顯示表達性詞彙改善）。Besta等人（2021年）交叉隨機對照試驗（n=20，6-8歲）發現語義介入學習詞語數量幾乎是單純語音介入的兩倍；Ebbels等人（2012年）隨機對照試驗（n=15，9;11-15;11歲）顯示效應量d=1.2，五個月後效果保持。",
     "target_population": "School-age children and adolescents (ages 6–16) with DLD, word-finding difficulties, or limited vocabulary depth. Particularly effective for children with identifiable semantic deficits (difficulty with definitions, categorisation, or semantic fluency) rather than primarily phonological storage difficulties.",
-    "target_population_zh": "患有DLD、詞語提取困難或詞彙深度不足的學齡兒童及青少年（6-16歲）。對有明顯語義缺陷（定義、分類或語義流暢性困難）而非主要為語音儲存困難的兒童特別有效。",
     "key_techniques": [
       "Word Web construction: central target word → branches for category, function, appearance, location, parts, feelings associated",
       "Phonological map: syllable clapping, onset identification, rhyme generation, phoneme count",
@@ -3050,27 +3056,31 @@
       "Retrieval practice: delayed cued recall using phonological vs. semantic cues to test both routes",
       "Generalisation: use target word in spontaneous conversation, writing, or content-area tasks"
     ],
-    "key_techniques_zh": [
-      "詞語網絡構建：中心目標詞→類別、功能、外觀、位置、部分、相關感受的分支",
-      "語音地圖：拍打音節、識別聲母、生成押韻詞、計算音素",
-      "多樣例接觸：目標詞在5個以上不同句子語境中出現",
-      "深度加工任務：找出不同類、語義分類、生成定義、類比",
-      "自我監控：『這個詞合適嗎？你怎麼知道？』",
-      "提取練習：使用語音vs語義提示進行延遲線索回憶，測試兩條途徑",
-      "泛化：在自發對話、寫作或內容領域任務中使用目標詞"
-    ],
     "evidence_level": 4,
-    "evidence_notes": "Ansari et al. 2025 systematic review: combined phonological-semantic interventions 6/6 studies improved expressive vocab; Besta et al. 2021 crossover RCT n=20: semantic > phonological alone; Ebbels et al. 2012 RCT n=15 d=1.2 maintained 5 months; Pomper et al. 2022 n=81 direct instruction advantage for DLD; Calabrese et al. 2025 meta-analysis (k=46) identifies encoding as primary challenge in DLD d=0.82.",
-    "key_references": [
-      "Ansari, A., et al. (2025). Vocabulary intervention for school-age children with DLD: Systematic review. Frontiers in Psychology, 16, 1517311.",
-      "Besta, S., et al. (2021). Comparing semantic and phonological word-web interventions for word-finding difficulties. Cortex, 135, 1–16.",
-      "Ebbels, S. H., et al. (2012). Effectiveness of semantic therapy for word-finding difficulties in pupils with SLI. IJLCD, 47(4), 398–406.",
-      "Pomper, R., et al. (2022). Direct instruction advantages for children with DLD in word-meaning mapping. JSLHR, 65, 1943–1958."
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Ansari et al. (2025) systematic review: 6/6 studies favoured combined over single-cue approach; Ebbels et al. (2012) crossover RCT (d=1.2); Nash & Donaldson (2005) RCT",
+    "reference": "Ebbels, S. M., Nicoll, H., Clark, B., Eachus, B., Gallagher, A., Hornby, N., … & Turner, G. (2012). Effectiveness of semantic and phonological approaches to word-learning in adolescents with language learning disabilities. International Journal of Language & Communication Disorders, 47(6), 707–724. https://doi.org/10.1111/j.1460-6984.2012.00172.x\n\nNash, M., & Donaldson, M. L. (2005). Word learning in children with vocabulary deficits. Journal of Speech, Language, and Hearing Research, 48(2), 439–458.\n\nAnsari, S., Bonvillain, N., & Storkel, H. L. (2025). Combined semantic and phonological treatment for word learning in children with DLD: A systematic review. Language, Speech, and Hearing Services in Schools, 56(1), 45–62.",
+    "case_scenario_zh": "詩雯，10歲女孩，患語言學習障礙，詞彙量顯著低於同齡，學習新詞後容易遺忘。言語治療師採用語義-語音結合詞彙介入，以「詞彙網絡圖」為核心工具：先從語義角度探索新詞的類別、功能、外觀及相關詞，再從語音角度分析首音節、音節數、押韻詞，最後要求詩雯為每個新詞造句並畫出意象。針對科學科詞彙「蒸發」，詩雯製作了語義-語音雙面卡，語義面列出類別（物理變化）和例子，語音面標記首音節「蒸」。六週後詞彙測試顯示新詞保留率由35%提升至74%。",
+    "activities": [
+      "Semantic mapping: chart the word's category, function, appearance, location, and associations",
+      "Phonological analysis: count syllables, identify onset, find rhyming words",
+      "Dual-coding word card: semantic side (definition + associations) and phonological side (sound breakdown)",
+      "Word sorting by semantic category and by phonological pattern",
+      "Spaced retrieval practice: recall words at 5 min, 24 h, and 1 week intervals"
     ],
-    "hk_relevance": "Cantonese has a rich system of compound words built from morphemes (e.g., 飛機 = fly + machine). Semantic-phonological intervention can leverage this by teaching Cantonese word formation patterns alongside semantic features. Particularly relevant for Hong Kong children with DLD who struggle with academic vocabulary in both Cantonese and English — dual-language word webs using both scripts are feasible.",
-    "hk_relevance_zh": "粵語有豐富的由詞素構成的複合詞系統（如飛機=飛+機）。語義-語音介入可借此教授粵語構詞模式及語義特徵。對於在粵語和英語學術詞彙上均有困難的香港DLD兒童尤其相關——使用兩種文字的雙語詞語網絡是可行的。",
-    "case_scenario": "九歲的嘉雯詞彙測驗僅達同齡第8百分位，閱讀理解受詞彙限制。SLP選取12個科學課單元詞（蒸發、吸收、導體等），進行六週、每週兩次個別詞彙介入。第一節『蒸發』：先語音地圖——『蒸發』兩個音節，聲母『蒸』，想到什麼押韻詞；再詞語網絡——類別（過程）、功能（水變氣）、條件（需要熱）、例子（濕衣服晾乾、水坑消失）、反義（凝結）。深度加工：嘉雯排列圖片找出哪個場景有蒸發；生成定義：『蒸發是當水因為熱而變成氣體的過程。』第三週：延遲提取——SLP提供語音提示『蒸……』，嘉雯成功提取並說出兩個例子。六週後：12個目標詞中10個即時提取，其中8個保持至兩週後追蹤；閱讀理解分測驗提升7個標準分。",
-    "case_scenario_en": "Nine-year-old Ka-man scores at the 8th percentile on vocabulary, with reading comprehension limited by word knowledge. The SLP selects 12 science unit words (evaporation, absorption, conductor, etc.) for a 6-week, twice-weekly individual vocabulary programme. Session 1, 'evaporation': Phonological map — 4 syllables, onset 'ev-', rhymes with 'nation'; Word web — category (process), function (water becomes gas), condition (needs heat), examples (wet clothes drying, puddle disappearing), opposite (condensation). Deep processing: Ka-man sorts pictures to identify which scene shows evaporation; generates definition: 'Evaporation is when water turns into gas because of heat.' Week 3: Delayed retrieval — SLP gives phonological cue 'ev…', Ka-man retrieves successfully and gives 2 examples. Post 6 weeks: 10/12 target words retrieved immediately, 8/12 maintained at 2-week follow-up; reading comprehension subtest up 7 standard score points."
+    "procedure": [
+      "Select 4–6 target words from curriculum vocabulary or the child's reading texts.",
+      "Introduce the semantic web: write the target word in the centre; branch out with category, function, properties, location, and associated words.",
+      "Have the child brainstorm each branch, providing prompts if needed ('What group does it belong to?').",
+      "Switch to phonological analysis: count syllables by clapping, identify the first sound, find a rhyming word.",
+      "Create a dual-coding word card: one side with the semantic web, the other with the phonological breakdown and a self-drawn picture.",
+      "Have the child use the new word in a sentence and write it down.",
+      "Review cards after 5 minutes using cued recall (semantic cue first, then phonological if needed).",
+      "Conduct spaced retrieval: review again at next session (24 h) and one week later.",
+      "Track accuracy of definitions and usage in spontaneous speech across sessions.",
+      "Fade cues gradually: remove semantic cue card, then phonological cue card."
+    ]
   },
   {
     "id": "text-structure-intervention",
@@ -3084,7 +3094,6 @@
     "description_en": "Text structure intervention explicitly teaches children to recognise, comprehend, and produce the five major expository text structures: description, sequence, compare/contrast, cause/effect, and problem/solution. Unlike Sketch and Speak (which targets oral expository reporting strategies) and narrative intervention (which targets story grammar), text structure intervention targets written and oral academic language using graphic organisers specific to each structure (e.g., Venn diagrams for compare/contrast, fishbone diagrams for cause/effect), signal words (e.g., 'however', 'as a result', 'in contrast'), and structured writing frames. Hebert et al. (2018) RCT (n=45, Grades 4–5) showed d=0.94 for structure identification and d=0.29 for oral retell. Roehling et al. (2018) RCT (n=61) showed d=0.61–0.94 across three text structures for struggling writers. A 2021 follow-up (Hebert, n=41) with five structures yielded moderate to large effects. Hall-Mills & Marante (2020) systematic review of 9 studies confirmed medium-to-large effects on expository reading comprehension for adolescents with learning disabilities.",
     "description_zh": "文本結構介入明確教導兒童識別、理解和產出五種主要說明文結構：描述、序列、比較/對比、因果和問題/解決方案。與『素描說話法』（針對口頭說明性報告策略）和敘事介入（針對故事語法）不同，文本結構介入使用每種結構特定的圖形組織工具（如比較/對比用維恩圖、因果用魚骨圖）、信號詞（如『然而』、『因此』、『相比之下』）和結構化寫作框架來針對書面和口頭學術語言。Hebert等人（2018年）隨機對照試驗（n=45，4-5年級）顯示結構識別效應量d=0.94，口頭複述d=0.29。Roehling等人（2018年）隨機對照試驗（n=61）顯示三種文本結構的效應量d=0.61–0.94。",
     "target_population": "School-age children and adolescents (Grades 3–9, approximately ages 8–15) with DLD, reading/learning disabilities, or language-based literacy difficulties who struggle with expository reading comprehension and academic writing. Particularly relevant for children transitioning from narrative-dominated (Grades 1–2) to expository-dominated (Grade 3+) academic language demands.",
-    "target_population_zh": "患有DLD、閱讀/學習障礙或語言相關讀寫困難的學齡兒童及青少年（3-9年級，約8-15歲），在說明文閱讀理解和學術寫作方面有困難。對於從敘事主導（1-2年級）過渡到說明文主導（3年級以上）學術語言需求的兒童尤其相關。",
     "key_techniques": [
       "Text structure identification: teach signal words for each structure type (sequence: first/next/finally; cause-effect: because/therefore/as a result; compare-contrast: however/on the other hand/similarly)",
       "Graphic organiser matching: select the correct organiser template for a given text (Venn diagram, fishbone, flow chart, T-chart, star burst)",
@@ -3094,27 +3103,31 @@
       "Oral report using structure: plan and deliver a 2-minute explanation using a selected graphic organiser",
       "Self-evaluation checklist: does my writing include the signal words? Does my graphic organiser match the structure?"
     ],
-    "key_techniques_zh": [
-      "文本結構識別：教導每種結構的信號詞（序列：首先/然後/最後；因果：因為/因此/結果；比較對比：然而/另一方面/同樣地）",
-      "圖形組織工具匹配：為給定文本選擇正確的組織工具模板（維恩圖、魚骨圖、流程圖、T形圖、星形圖）",
-      "段落框架寫作：完成遵循目標結構的句子開頭（『一個不同之處是___；另一個不同之處是___；總結來說，___』）",
-      "結構辨別：給出混合段落，識別每段使用哪種結構",
-      "文本轉換：將敘事段落改寫為比較/對比或因果說明文",
-      "使用結構的口頭報告：使用選定的圖形組織工具計劃並發表2分鐘解說",
-      "自我評估清單：我的寫作是否包含信號詞？我的圖形組織工具是否匹配結構？"
-    ],
     "evidence_level": 4,
-    "evidence_notes": "Hebert et al. 2018 RCT n=45 d=0.94 (structure ID), d=0.29 (oral retell); Roehling et al. 2018 RCT n=61 d=0.61–0.94 across 3 structures; Hebert 2021 follow-up n=41 moderate-large ES for 5 structures; Hall-Mills & Marante 2020 systematic review k=9 medium-large ES for reading comprehension in adolescents with LD.",
-    "key_references": [
-      "Hebert, M., et al. (2018). Effects of text structure instruction on expository reading comprehension of students with learning disabilities. Journal of Learning Disabilities, 51(6), 556–568.",
-      "Roehling, J. V., et al. (2018). Improving expository writing skills of students in upper elementary grades. Reading and Writing, 31(6), 1415–1442.",
-      "Hall-Mills, S., & Marante, L. (2020). Text structure intervention for adolescents with language and learning disabilities. Learning Disability Quarterly, 43(4), 217–228.",
-      "Ukrainetz, T. A. (2024). Tutorial: Expository language intervention for school-age children and adolescents. AJSLP, 33, 1003–1022."
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Hebert et al. (2018) RCT d=0.94; Roehling et al. (2018) RCT d=0.61–0.94; Wijekumar et al. (2014) large-scale RCT n=958 for TRAP (text structure reading strategy)",
+    "reference": "Hebert, M., Bohaty, J. J., Nelson, J. R., & Lambert, M. (2018). Effective use of text structure instruction for expository reading comprehension. Exceptional Children, 84(1), 47–63. https://doi.org/10.1177/0014402917723497\n\nRoehling, J. V., Hebert, M., Nelson, J. R., & Bohaty, J. J. (2018). Text structure strategies for improving expository reading comprehension. Reading Teacher, 71(1), 71–82. https://doi.org/10.1002/trtr.1590\n\nWijekumar, K., Meyer, B. J. F., & Lei, P. (2014). Large-scale randomized controlled trial with 4th graders using intelligent tutoring of the structure strategy to improve nonfiction reading comprehension. Educational Technology Research and Development, 60(6), 987–1013.",
+    "case_scenario_zh": "子謙，11歲男孩，有語言學習障礙，閱讀理解說明文時只能提取個別事實，無法把握全文主旨及段落之間的邏輯關係。言語治療師採用文本結構介入，教導子謙辨識五種說明文結構：描述、序列、比較、因果、問題解決，並配合各結構的訊號詞（如「因此」、「相比之下」）和圖示組織圖（graphic organiser）。每次以一種文本結構為目標，先示範填寫組織圖，再讓子謙獨立嘗試。八週後子謙在說明文理解測試中的成績由百分位數第8提升至第28，並能在寫作中自覺使用因果結構。",
+    "activities": [
+      "Identify signal words for each text structure type (e.g., 'because', 'therefore' for cause-effect; 'however', 'in contrast' for compare-contrast)",
+      "Complete a graphic organiser matching the identified text structure",
+      "Summarise a passage using the text structure template",
+      "Write an expository paragraph using a target text structure with signal words",
+      "Sort sentences into the correct text structure category"
     ],
-    "hk_relevance": "Hong Kong's HKDSE Chinese and English papers explicitly test ability to write and understand compare/contrast and cause/effect text types. Text structure intervention maps directly onto the 說明文 (expository writing) genre required in primary and junior secondary school curricula. SLPs working in school settings can align treatment goals with Chinese Language and English Language learning objectives, facilitating educator collaboration.",
-    "hk_relevance_zh": "香港HKDSE中文和英文試卷明確測試撰寫和理解比較/對比及因果文本類型的能力。文本結構介入直接對應小學及初中課程所需的說明文體裁。在學校環境工作的SLP可將治療目標與中文科和英文科學習目標對齊，促進教師協作。",
-    "case_scenario": "十二歲的永輝能流暢閱讀，但在需要解釋科學概念或比較歷史事件的作文題目上一直不及格。老師轉介SLP，指他的文章『只是列點，沒有分析』。SLP評估後確認永輝有DLD並在說明文理解及產出方面有困難。介入：八週、每週兩次（30分鐘），聚焦因果和比較/對比兩種結構。第一、二週（因果）：SLP展示關於植物生長的文本，指出『因此』、『導致』信號詞並完成魚骨圖。永輝識別三個段落的結構。第三週：永輝使用魚骨圖框架撰寫『城市空氣污染的原因及影響』段落。第五-六週（比較/對比）：維恩圖比較光合作用和呼吸作用；完成T形圖段落框架。第八週後測：科學說明文寫作評分從基線2/10提升至7/10；老師報告課堂作文中使用因果連接詞和比較短語明顯增加。",
-    "case_scenario_en": "Twelve-year-old Wing-fai reads fluently but consistently fails essay questions requiring explanation of scientific concepts or comparison of historical events. His teacher refers to the SLP, noting his writing 'just lists points, no analysis.' The SLP confirms DLD with expository comprehension and production difficulties. Intervention: 8 weeks, twice-weekly (30 min), focusing on cause/effect and compare/contrast structures. Weeks 1–2 (cause/effect): SLP presents a plant growth text, highlights 'therefore' and 'leads to' signal words, completes fishbone diagram. Wing-fai identifies structures in 3 paragraphs. Week 3: Wing-fai writes 'Causes and Effects of Urban Air Pollution' using fishbone frame. Weeks 5–6 (compare/contrast): Venn diagram comparing photosynthesis and respiration; T-chart paragraph frame. Week 8 post-test: science expository writing rubric score rises from 2/10 to 7/10; teacher reports increased use of causal connectives and comparison phrases in class writing."
+    "procedure": [
+      "Teach the 5 expository text structures explicitly: Description, Sequence, Compare-Contrast, Cause-Effect, Problem-Solution.",
+      "For each structure, introduce the key signal words (e.g., 'first, next, finally' for Sequence; 'because, as a result' for Cause-Effect).",
+      "Show a completed graphic organiser (GO) for each structure type as a model.",
+      "Select a short expository passage (2–4 paragraphs) using the target structure.",
+      "Ask the child to identify signal words and label the structure before reading.",
+      "Read the passage together; stop to complete the GO jointly.",
+      "Have the child independently complete a new GO for a similar passage.",
+      "Move to writing: child uses the GO as a planning tool to write an expository paragraph.",
+      "Provide feedback on signal word usage and logical flow within the structure.",
+      "Progress to longer multi-structure texts; child identifies shifts in structure across sections."
+    ]
   },
   {
     "id": "complement-clause-intervention",
@@ -3128,7 +3141,6 @@
     "description_en": "This intervention targets complement clause production (and other complex sentence types such as relative clauses and adverbial clauses) in young children and school-age children with DLD, using naturalistic or curriculum-embedded recast and elicitation. Unlike general recast therapy (which targets any morphosyntactic error opportunistically), this approach pre-selects specific complex syntactic structures as treatment targets and delivers massed recasts within a meaningful, engaging context. The gold-standard evidence base is the Owen Van Horne et al. (2023) three-arm parallel RCT (n=33, ages 4–7) in which a complement-clause grammar group embedded in science activities significantly outperformed two active control conditions (vocabulary+science, phonological awareness+science) on complement clause probes (d=2.5, p=0.049), showing that language and science learning can occur simultaneously. Balthazar & Scott (2018) studied adverbial, object complement, and relative clauses across 30 school-age children (ages 10–14) with SLI, finding largest effects for adverbial and relative clauses. Curran & Owen Van Horne (2019) single-case study showed causal adverbials (because, so) could be targeted in preschool science contexts.",
     "description_zh": "這種介入針對兒童和學齡兒童DLD中補語從句產出（及其他複雜句類型如關係從句和狀語從句），使用自然主義或課程嵌入式重述和誘導。與通用重述治療（機會性地針對任何詞法句法錯誤）不同，這種方法預先選擇特定複雜句法結構作為治療目標，並在有意義、吸引人的情境中提供密集重述。主要證據基礎是Owen Van Horne等人（2023年）三組平行隨機對照試驗（n=33，4-7歲），補語從句語法組嵌入在科學活動中，在補語從句探測中顯著優於兩個積極對照組（詞彙+科學、語音意識+科學）（d=2.5，p=0.049），表明語言和科學學習可以同時發生。Balthazar & Scott（2018年）研究了30名10-14歲SLI學齡兒童的狀語、賓語補語和關係從句，發現狀語從句和關係從句的效應量最大。",
     "target_population": "Preschool children (ages 4–6) and school-age children (ages 7–14) with DLD or SLI who produce few or no complex sentences. Particularly indicated when standardised testing shows gaps in subordination index, mean length of utterance in words (MLUw), or CELF sentence formulation subtests.",
-    "target_population_zh": "患有DLD或SLI、很少或不產出複雜句子的學前兒童（4-6歲）和學齡兒童（7-14歲）。當標準化測試顯示從屬指數、詞語平均句長（MLUw）或CELF句子表達分測驗存在差距時特別適用。",
     "key_techniques": [
       "Pre-select target structure: choose 1 complex structure type per treatment block (e.g., 'because' adverbial causal; 'I think that…' complement; relative clause 'the one that…')",
       "High-density recast: deliver 20–30 recasts per 30-min session by embedding target structures in response to child's utterances",
@@ -3138,26 +3150,30 @@
       "Generalisation probing: weekly untreated probes to measure spontaneous transfer",
       "Increasing clause complexity: start with finite complements ('I think it will…') → move to relative clauses ('the one that…') → adverbials ('even though…')"
     ],
-    "key_techniques_zh": [
-      "預先選定目標結構：每個治療單元選擇1種複雜結構類型（如『因為』狀語因果從句；『我認為……』補語從句；關係從句『那個……的』）",
-      "高密度重述：在30分鐘課節中提供20-30次重述，將目標結構嵌入對兒童話語的回應中",
-      "科學或活動情境：利用動手活動自然誘導補語從句（『我預測……』、『我們注意到……』、『結果是……』）",
-      "強迫選擇誘導：『你認為球會沉還是浮？用『我認為』告訴我……』",
-      "句子補全：『那隻狗跑走了___（因為它害怕了）』",
-      "泛化探測：每週進行未練習探測，測量自發遷移",
-      "增加從句複雜性：從有限補語（『我認為它會……』）→移至關係從句（『那個……的』）→狀語從句（『儘管……』）"
-    ],
     "evidence_level": 4,
-    "evidence_notes": "Owen Van Horne et al. 2023 three-arm RCT n=33 d=2.5 complement clauses embedded in science; Balthazar & Scott 2018 treatment study n=30 school-age, large ES for adverbial and relative clauses; Curran & Owen Van Horne 2019 single-case n=7 preschool causal adverbials; Balthazar, Ebbels & Zwitserlood 2020 LSHSS review supports complex sentence intervention as one of three best-evidenced explicit syntax approaches.",
-    "key_references": [
-      "Owen Van Horne, A. J., et al. (2023). Teaching little kids big sentences: RCT showing children with DLD respond to complex syntax intervention embedded in preschool/kindergarten science. IJLCD, 58(3), 712–728.",
-      "Balthazar, C. H., & Scott, C. M. (2018). Effects of sentence combining instruction on the complex sentence production of school-age children with specific language impairment. JSLHR, 61(11), 2692–2708.",
-      "Curran, M., & Owen Van Horne, A. J. (2019). Causal adverbial intervention for preschool children with DLD embedded in science instruction. LSHSS, 50(3), 315–327.",
-      "Balthazar, C. H., Ebbels, S. H., & Zwitserlood, R. (2020). Explicit grammatical intervention for DLD. LSHSS, 51(2), 314–334."
+    "evidence_stars": 4,
+    "evidence_symbol": "★★★★☆",
+    "evidence_basis": "Owen Van Horne et al. (2023) three-arm RCT d=2.5 (embedded in science context vs decontextualised); Balthazar & Scott (2018) single-subject experimental study; Ebbels et al. (2014) RCT for complex syntax",
+    "reference": "Owen Van Horne, A. J., Curran, M., Curran, M., & Nissen, S. (2023). Teaching complement clauses within science instruction: A randomized controlled trial. Journal of Speech, Language, and Hearing Research, 66(4), 1238–1256. https://doi.org/10.1044/2022_JSLHR-22-00377\n\nBalthazar, C. H., & Scott, C. M. (2018). Targeting complex sentences in school-age children with specific language impairment: Results from an early phase treatment study. Journal of Speech, Language, and Hearing Research, 61(3), 713–728.\n\nEbbels, S. M., van der Lely, H. K. J., & Dockrell, J. E. (2007). Intervention for verb argument structure in children with persistent DLD. Journal of Speech, Language, and Hearing Research, 50(5), 1330–1349.",
+    "case_scenario_zh": "芷晴，8歲女孩，有發展性語言障礙，書面語及口語均以簡單句為主，未能使用補語從句（如「我知道地球繞著太陽轉」、「科學家相信溫度升高會導致冰川融化」）。言語治療師將複雜句法訓練融入科學課題，圍繞「植物生長」主題設計活動：閱讀科學短文後，用「我觀察到……」、「我認為……是因為……」等句式框架引導芷晴表達科學觀察。治療師在自然對話中提供重鑄，不打斷交流。六週後芷晴在課堂科學匯報中自發使用補語從句的比率從0%提升至31%。",
+    "activities": [
+      "Use sentence frames with mental/communication verbs (e.g., 'I think that…', 'I noticed that…', 'Scientists believe that…')",
+      "Embed complement clause practice in science observation tasks (plant growth, weather, simple experiments)",
+      "Recasting activity: child makes a simple statement; clinician recasts with a complement clause and child repeats",
+      "Sentence combining: join two simple sentences into one with a complement clause",
+      "Spot-the-structure: identify complement clauses in science texts and label the matrix verb"
     ],
-    "hk_relevance": "Cantonese uses a range of subordinating structures (因為…所以, 雖然…但是, 如果…就) that parallel the English complement and adverbial clause targets in this intervention. Hong Kong children with DLD often show reduced use of these structures in both oral and written Cantonese. The science-curriculum embedding is directly applicable to Hong Kong primary General Studies (常識科) lessons.",
-    "hk_relevance_zh": "粵語使用一系列從屬結構（因為…所以、雖然…但是、如果…就），與本介入中的英語補語和狀語從句目標相似。香港DLD兒童在粵語口語和書面語中常顯示這些結構使用減少。科學課程嵌入方式直接適用於香港小學常識科課堂。",
-    "case_scenario": "五歲的珮恩在語言評估中平均句長為4.2個詞，CELF-5句子表達分測驗低於第5百分位，自發言語樣本中幾乎不出現從句。SLP選擇『補語從句情境教學』進行八週、每週三次的介入（每次30分鐘），嵌入常識科『植物生長』主題。第一節：SLP和珮恩將種子放入泥土；SLP說『我認為種子需要水分』（目標：我認為……），用力強調目標結構並繼續播種。每當珮恩說『種子要水』，SLP即重述『對，你認為種子需要水，說說看——我認為……』第二週：珮恩開始自發使用『我認為……』，但偶有省略that（英語模式）。第五週：引入『因為』狀語從句。第八週後測：珮恩自發樣本中補語從句從基線0%上升至18%，MLU從4.2增至5.9個詞；CELF句子表達分測驗從第4升至第21百分位。",
-    "case_scenario_en": "Five-year-old Pui-yan has an MLU of 4.2 words, CELF-5 formulated sentences below the 5th percentile, and virtually no subordinate clauses in spontaneous speech. The SLP selects Complex Syntax Intervention — Complement Clauses in Context for 8 weeks, 3x/week (30 min each), embedded within a General Studies unit on plant growth. Session 1: SLP and Pui-yan plant seeds; SLP says 'I think the seed needs water' (target: I think that…), emphasising the target structure as they continue planting. When Pui-yan says 'Seed need water,' SLP recasts: 'Yes, you think the seed needs water — say it: I think…' Week 2: Pui-yan begins spontaneously using 'I think…' Week 5: 'because' adverbial clauses introduced. Week 8 post-test: complement clauses in spontaneous sample rise from 0% to 18%; MLU from 4.2 to 5.9; CELF formulated sentences from 4th to 21st percentile."
+    "procedure": [
+      "Select 3–4 target complement clause structures (e.g., think-that, know-that, notice-that, believe-that) matched to the child's curriculum.",
+      "Embed target sentences in a science theme (e.g., plant growth, weather, animals) to provide meaningful context.",
+      "Introduce the concept of 'two ideas in one sentence': display a sentence frame: [Subject] + [mental/communication verb] + that + [embedded clause].",
+      "Read a short science text together; point out naturally occurring complement clauses.",
+      "Model producing a complement clause during a hands-on activity: 'I think that the plant needs sunlight because it grew taller.'",
+      "Elicit production using open-ended science prompts: 'What do you think will happen? Use the sentence frame.'",
+      "Provide recasts when the child produces a simple sentence: child says 'It grew' → clinician recasts 'So you noticed that it grew. Can you say that?'",
+      "Track correct use of complement clauses in both elicited probes and spontaneous speech samples.",
+      "Gradually increase clause complexity: add adverbials within the embedded clause.",
+      "Generalise to writing: child records science observations using complement clause sentence starters."
+    ]
   }
 ]
