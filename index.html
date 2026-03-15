@@ -293,19 +293,19 @@
 
 
     function loadDatabase() {
+        try {
+            allEntries = DB_DATA;
 
-        allEntries = DB_DATA;
+            initFilters();
 
-        initFilters();
+            filterEntries();
 
-        filterEntries();
-
-        fixHeight();
-
-    } catch (err) {
+            fixHeight();
+        } catch (err) {
             document.getElementById('listPanel').innerHTML =
                 '<div class="error">Failed to load database: ' + err.message + '</div>';
         }
+    }
     }
 
     // ── Populate filter dropdowns ──────────────────────────────────────
